@@ -1,0 +1,649 @@
+{
+  "slug": "bari",
+  "name": "Bari",
+  "region": "Apulia",
+  "lat": 41.1253,
+  "lon": 16.8667,
+  "datosRapidos": [
+    {
+      "label": "Región",
+      "value": "Bari (Bari, Italia) es la capital de la región de Apulia (Puglia), en el sur de Italia, sobre la costa del mar Adriático. Tenía 315.831 habitantes al 31 de diciembre de 2024 según datos del ISTAT publicados por Tuttitalia, y su ciudad metropolitana supera el millón doscientos mil. Es una ciudad portuaria y universitaria, con un casco antiguo amurallado, Bari Vecchia, metido en una península entre dos puertos, y un barrio moderno en cuadrícula, el Murat, que arrancó a construirse a comienzos del siglo XIX bajo Joachim Murat, rey de Nápoles. Se la conoce sobre todo por la Basílica de San Nicolás, que guarda desde 1087 las reliquias del santo y recibe peregrinos católicos y ortodoxos, y por la vida de barrio de Bari Vecchia: las señoras que amasan orecchiette en la calle, la focaccia barese y el pescado crudo en el muelle. Además, es la base más práctica para recorrer Apulia sin auto: en tren llegás a Polignano a Mare, Monopoli y Alberobello, y con los trenes de Ferrovie Appulo Lucane a Matera, ya en la región vecina de Basilicata. Su aeropuerto, el Karol Wojtyła, queda a unos 15 minutos de tren del centro."
+    },
+    {
+      "label": "Moneda y pagos",
+      "value": "Euro (€). La tarjeta funciona en hoteles, museos estatales y la mayoría de los restaurantes, y en el tren del aeropuerto se puede pasar la tarjeta contactless. Igual conviene llevar efectivo para la comida callejera de Bari Vecchia (focaccia, sgagliozze) y para comprar orecchiette a las señoras del Arco Basso. Los boletos de colectivo AMTAB salen más baratos comprados antes que a bordo."
+    },
+    {
+      "label": "Ciudad de servicio",
+      "value": "La propia Bari concentra todo. El aeropuerto Karol Wojtyła está en Palese, al norte, conectado con la estación Bari Centrale por tren de Ferrotramviaria, por el micro de Autoservizi Tempesta y por la línea 16 de colectivos AMTAB. Desde Bari Centrale salen los Frecciarossa a Roma y Nápoles, los regionales hacia Polignano, Monopoli y Lecce, los trenes de Ferrovie del Sud Est a Alberobello y, desde su estación propia, los de Ferrovie Appulo Lucane a Matera. Del puerto salen ferris a Grecia, Albania, Montenegro y Croacia."
+    },
+    {
+      "label": "Visado",
+      "value": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos no necesitan visa para turismo en Italia: hasta 90 días dentro de cualquier período de 180 en el espacio Schengen. Desde el 10 de abril de 2026 funciona plenamente el EES (Entry/Exit System), que registra huellas y foto en la frontera en lugar de sellar el pasaporte (fuente: Comisión Europea). Sobre el ETIAS no encontramos fecha oficial confirmada: consultalo en la web de la Unión Europea antes de viajar."
+    }
+  ],
+  "intro": [
+    "Bari es la ciudad del sur de Italia donde la vida pasa en la calle. En Bari Vecchia las puertas de las casas se abren a callejones de piedra clara, las señoras amasan orecchiette sobre mesas de madera frente a la vereda y a la tarde el olor a fritura de las sgagliozze (polenta frita) llena las plazas. A pocos pasos están la Basílica de San Nicolás, a donde llegan peregrinos de Rusia y de todo el mundo ortodoxo, y un castillo que reconstruyó Federico II.",
+    "Lo que la hace práctica es que no hace falta gastar mucho. Pasear por el casco antiguo, entrar a la basílica y a la catedral, caminar el Lungomare (la costanera) o tirarse en la playa urbana de Pane e Pomodoro no cuesta nada. El castillo cobra € 10 y el Teatro Petruzzelli ofrece visitas guiadas de media hora por € 7. Una focaccia barese en un horno de Bari Vecchia se consigue desde € 1,50, según guías gastronómicas locales.",
+    "Y Bari es la puerta de Apulia. Con tren y en el día llegás a Polignano a Mare, colgada de un acantilado sobre el Adriático; a Monopoli, con su puerto viejo; a Alberobello, el pueblo de los trulli de techo cónico, y a Matera, la ciudad de las casas excavadas en la roca. Castel del Monte, el castillo octogonal de Federico II, queda tierra adentro. Dormir en Bari y moverse desde ahí suele salir más barato que alojarse en esos pueblos."
+  ],
+  "historia_corta": "Bari fue un puerto de los peucetios, un pueblo yápige, y en la Antigüedad se llamó Barium. Pasó a Roma en el siglo III a. C. y quedó en el cruce entre la ruta costera y la Via Traiana. En la Alta Edad Media la disputaron longobardos, bizantinos y sarracenos: entre 847 y 871 fue un emirato musulmán, hasta que el emperador Luis II la tomó con ayuda de una flota bizantina. Desde 885 fue sede del catapán, el gobernador bizantino del sur de Italia. En 1071 Roberto Guiscardo la conquistó tras tres años de asedio y terminó con el poder bizantino en la región. En 1087 marineros de Bari trajeron desde Mira, en Asia Menor, las reliquias de San Nicolás, y se levantó la basílica; en 1089 el papa Urbano II consagró su cripta y en 1098 presidió allí un concilio. En 1156 Guillermo I de Sicilia arrasó la ciudad y sus murallas; Federico II mandó reconstruir el castillo en 1233. En el siglo XVI la ciudad fue ducado de los Sforza: Bona Sforza, reina de Polonia, vivió en el castillo y murió allí en 1557. Desde 1813, con Joachim Murat, la ciudad salió de sus murallas con un trazado en cuadrícula. En 1925 se fundó la universidad. El 2 de diciembre de 1943 un bombardeo alemán hundió barcos aliados en el puerto, entre ellos uno con bombas de gas mostaza, y el 9 de abril de 1945 la explosión del carguero Charles Henderson mató a 360 personas. El Teatro Petruzzelli, abierto en 1903, se quemó en 1991 y reabrió en 2009. Hoy Bari es la capital de Apulia y uno de los grandes puertos del Adriático.",
+  "queVer": [
+    {
+      "nombre": "Bari Vecchia (casco antiguo)",
+      "desc": "El casco antiguo sobre una península entre dos puertos: callejones, patios, iglesias y vida de barrio a toda hora.",
+      "detalle": "Bari Vecchia es el núcleo medieval de la ciudad, un laberinto de callejones de piedra clara metido en una península entre el puerto viejo y el puerto nuevo. Acá están la Basílica de San Nicolás, la Catedral de San Sabino y el Castillo Normando-Suevo, todo a pocos minutos a pie.\n\nLo que más llama la atención es que sigue siendo un barrio habitado: ropa colgada, sillas en la vereda, chicos jugando a la pelota en las plazas. Las plazas Mercantile y Ferrarese son el punto de encuentro de la noche. Por las calles vas a ver hornos de focaccia, como el Panificio Fiore, y puestos de sgagliozze (cuadrados de polenta frita).\n\nNo tiene sentido seguir un recorrido fijo: conviene perderse un rato y usar la basílica y la catedral como referencias. Con medio día ves lo principal. Si querés contexto, hay un free tour en español que dura unas dos horas.\n\nCuidá la mochila y el celular cuando hay mucha gente, como en cualquier centro turístico.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Junto al Murat, a 10-15 minutos a pie de la estación Bari Centrale"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; a la tardecita, cuando las plazas se llenan"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Basílica de San Nicolás (Basilica di San Nicola)",
+      "desc": "Basílica románica que guarda desde 1087 las reliquias de San Nicolás; destino de peregrinos católicos y ortodoxos.",
+      "detalle": "La Basílica de San Nicolás es el gran símbolo de Bari. Se empezó a construir después de 1087, cuando marineros barenses trajeron las reliquias del santo desde Mira, en Asia Menor, y se terminó en 1197. Es un ejemplo del románico de Apulia: fachada sobria de piedra clara, flanqueada por dos torres.\n\nEn la cripta, consagrada en 1089 por el papa Urbano II, está la tumba del santo. Es un lugar de peregrinación para católicos y también para ortodoxos, sobre todo rusos, así que es común ver grupos rezando en distintas lenguas. El santo se celebra el 6 de diciembre, y en mayo se recuerda el traslado de las reliquias.\n\nLa basílica abre de lunes a sábado de 6:30 a 20:30 y los domingos de 6:30 a 22:00, según su web oficial. Entrar es gratis. Como es un templo en uso, vestite con hombros y rodillas cubiertas y respetá las misas.\n\nCon media hora a una hora alcanza para la nave y la cripta.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En el corazón de Bari Vecchia, a unos 15-20 minutos a pie de Bari Centrale"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; temprano para evitar grupos"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: basilicasannicola.it, horarios verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Strada dell'Arco Basso (las señoras de las orecchiette)",
+      "desc": "La calle de Bari Vecchia donde un grupo de mujeres amasa a mano orecchiette en la vereda y las vende al paso.",
+      "detalle": "La Strada dell'Arco Basso, que muchos llaman 'la calle de las orecchiette', queda en Bari Vecchia, cerca del castillo. Ahí un grupo de mujeres amasa la pasta típica de Apulia sobre mesas puestas en la puerta de sus casas: orecchiette ('orejitas') de sémola y agua, que van arrastrando con un cuchillo y moldeando con el pulgar.\n\nEs una de las escenas más fotografiadas de la ciudad. Se puede mirar, sacar fotos con respeto y comprar pasta seca en bolsitas para llevar. Según guías locales, la calle tiene más movimiento a la mañana y hasta el mediodía, y está más tranquila los domingos.\n\nOjo con dos cosas. En 2019 la prensa italiana (Gambero Rosso) publicó denuncias de que parte de la pasta vendida no era casera y de ventas sin factura, y las señoras respondieron que la pasta es hecha a mano pero se vende seca para que se pueda transportar. Además, algunas guías advierten de 'restaurantes' informales en casas que cobraron de más: preguntá siempre el precio antes.\n\nCon 20 o 30 minutos te alcanza, aunque se combina con el castillo, que está al lado.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Bari Vecchia, a pasos del Castillo Normando-Suevo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana, de lunes a sábado"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis para mirar; la pasta se paga aparte (preguntá el precio antes)"
+        },
+        {
+          "label": "Duración",
+          "value": "20 a 30 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Castillo Normando-Suevo (Castello Normanno-Svevo)",
+      "desc": "Fortaleza levantada en 1132, reconstruida por Federico II en 1233 y ampliada en el siglo XVI; hoy museo estatal.",
+      "detalle": "El castillo cierra Bari Vecchia por el lado de tierra. Una primera fortificación se construyó en 1132 para el rey Roger II de Sicilia. En 1156 Guillermo I la destruyó junto con la ciudad, y en 1233 el emperador Federico II ordenó reconstruirla y reforzarla. En el siglo XVI Isabel de Aragón le sumó una muralla exterior rodeada en tres lados por el foso antiguo, y su hija Bona Sforza, reina de Polonia, vivió y murió allí en 1557.\n\nHoy lo gestiona el Ministerio de Cultura y está abierto a las visitas de forma estable desde octubre de 2017. Adentro hay una gipsoteca con calcos de yeso de monumentos de la Tierra de Bari, hechos en 1911, salas de exposiciones temporales y una instalación multimedia en la Sala Sveva.\n\nHorario según la Dirección Regional de Museos: del 1 de octubre al 31 de marzo, de martes a sábado y el primer domingo de cada mes de 9:00 a 19:00, y los demás domingos de 9:00 a 13:30; del 1 de abril al 30 de septiembre, de martes a domingo de 9:00 a 19:00. Último ingreso una hora antes del cierre. Los lunes está cerrado.\n\nCon una hora y media alcanza.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Borde sur de Bari Vecchia, a unos 15 minutos a pie de Bari Centrale"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; cerrado los lunes"
+        },
+        {
+          "label": "Entrada",
+          "value": "Entero € 10; reducido € 2 para quienes tienen derecho (fuente: museipuglia.cultura.gov.it, verificado octubre 2026). Comprar online o en la boletería"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Catedral de San Sabino (Cattedrale di San Sabino)",
+      "desc": "Catedral románica consagrada en 1292, con cripta del santo y restos de la iglesia anterior en el subsuelo.",
+      "detalle": "La Catedral de San Sabino es la sede del arzobispo de Bari-Bitonto y está a pocas cuadras de la basílica. Se levantó entre fines del siglo XII y fines del XIII, sobre una catedral bizantina que Guillermo I había destruido en 1156, y se consagró el 4 de octubre de 1292. En el siglo XVIII se le hizo una reforma barroca que luego, en la década de 1950, se quitó para devolverle el aspecto románico.\n\nAdentro, la nave de tres naves es sobria y luminosa. En la cripta están las reliquias de San Sabino, obispo de Canosa, y un ícono de la Virgen Odigitria muy venerado en la ciudad.\n\nBajo el templo está el Succorpo, el área arqueológica con restos de la catedral anterior: pisos de mosaico, recintos funerarios y un tramo de calle de época romana. Se visita aparte y con entrada.\n\nEl templo se visita gratis fuera de las misas y ceremonias. Con media hora alcanza; sumá otra media hora si bajás al Succorpo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Bari Vecchia, entre el castillo y la basílica"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año, fuera de los horarios de misa"
+        },
+        {
+          "label": "Entrada",
+          "value": "Catedral: gratis. Succorpo: € 3 entero, € 2 reducido (fuente: museionline.info, agregador, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Lungomare de Bari (costanera)",
+      "desc": "Paseo costero de varios kilómetros entre el casco antiguo y los barrios del sur, con edificios de los años veinte y treinta.",
+      "detalle": "El Lungomare es la costanera de Bari y el lugar donde la ciudad sale a caminar. El tramo más fotogénico es el que bordea Bari Vecchia por el norte (Lungomare Imperatore Augusto), pegado a las murallas, con el mar abajo. Hacia el sur sigue el Lungomare Nazario Sauro, con edificios monumentales y el Teatro Margherita sobre el agua.\n\nSegún Wikipedia, el frente marítimo moderno se desarrolló en los años treinta, bajo el alcalde Araldo di Crollalanza. Hoy es un paseo para caminar, correr, andar en bici o sentarse en el murallón a ver el atardecer.\n\nCerca del Molo San Nicola hay pescadores que venden pescado y mariscos crudos ('crudo di mare') para comer de pie; una guía gastronómica local habla de € 5 a € 15 por porción, pero preguntá antes y tené en cuenta que comer marisco crudo tiene riesgos.\n\nNo hay que pagar nada. Con una a dos horas recorrés el tramo principal a pie, o podés seguir hasta la playa de Pane e Pomodoro.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Rodea Bari Vecchia y sigue hacia el sur por la costa"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Atardecer; primavera y otoño"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Teatro Petruzzelli",
+      "desc": "El teatro de ópera de Bari, abierto en 1903, destruido por un incendio en 1991 y reabierto en 2009.",
+      "detalle": "El Teatro Petruzzelli es el gran teatro de ópera de Bari y, según Wikipedia, el cuarto de Italia por tamaño. Se inauguró el 14 de febrero de 1903 con Los hugonotes de Meyerbeer. En la noche del 26 al 27 de octubre de 1991 un incendio intencional lo destruyó por completo, y reabrió el 4 de octubre de 2009, casi 18 años después.\n\nEstá sobre el Corso Cavour, en el barrio Murat, y su fachada rosada es parte del paisaje del centro. Si no vas a una función, la Fundación Petruzzelli organiza visitas guiadas de unos 30 minutos por el foyer y la platea. Cuando hay visitantes extranjeros se hacen en italiano e inglés a la vez.\n\nLas visitas tienen fechas y horarios puntuales que se publican en el calendario oficial: en octubre de 2026 hay salidas en varios días a las 10:00, 11:30 y 16:00, entre otras. La boletería abre 30 minutos antes y vende hasta agotar los lugares.\n\nSi te interesa la ópera, mirá la cartelera: ver una función en este teatro es otra experiencia.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Corso Cavour, barrio Murat, a 10 minutos a pie de Bari Centrale"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Según el calendario de visitas de la fundación"
+        },
+        {
+          "label": "Entrada",
+          "value": "€ 7 entero; € 2 reducido para estudiantes, chicos y personas con discapacidad (fuente: fondazionepetruzzelli.it, verificado octubre 2026). Se compra en la boletería del teatro"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Barrio Murat (Murattiano)",
+      "desc": "El centro moderno en cuadrícula, iniciado bajo Joachim Murat a principios del siglo XIX, con la peatonal comercial Via Sparano.",
+      "detalle": "El Murat, o barrio Murattiano, es el centro moderno de Bari. Toma el nombre de Joachim Murat, rey de Nápoles, durante cuyo gobierno se empezó a construir fuera de las murallas medievales con un trazado de calles en ángulo recto. Según Wikipedia, la primera casa se levantó en 1816.\n\nEs la zona de comercios, oficinas y paseo. La Via Sparano, peatonal, es una de las arterias comerciales de la ciudad y une la zona de la estación con Bari Vecchia. El Corso Vittorio Emanuele II marca el límite con el casco antiguo, y sobre el Corso Cavour está el Teatro Petruzzelli.\n\nPara el viajero, el Murat es útil como base: muchos hoteles y alojamientos están acá, entre la estación Bari Centrale y el casco antiguo, y todo se recorre a pie. A la tarde, las calles se llenan de gente que sale de compras o a tomar algo antes de cenar.\n\nNo hace falta dedicarle un tiempo aparte: lo vas a cruzar varias veces caminando entre la estación, el teatro y Bari Vecchia.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Entre la estación Bari Centrale y Bari Vecchia"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; a la tarde"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora de paseo"
+        }
+      ]
+    },
+    {
+      "nombre": "Pinacoteca Metropolitana Corrado Giaquinto",
+      "desc": "Museo de arte medieval y moderno de la Ciudad Metropolitana, en un palacio sobre la costanera.",
+      "detalle": "La Pinacoteca Metropolitana de Bari, dedicada al pintor Corrado Giaquinto, reúne arte de Apulia y del sur de Italia desde la Edad Media hasta la época moderna. Está en la Via Spalato 19, en un edificio sobre el Lungomare, a pocos minutos a pie del Murat.\n\nEs un museo tranquilo, con poca gente, y sirve como complemento si te interesa el arte o si llueve. Conviene combinarlo con la caminata por la costanera.\n\nSegún la ficha oficial del Ministerio de Cultura, abre de martes a sábado de 9:00 a 19:00 y los domingos de 9:00 a 13:00; los lunes cierra. La reserva es opcional pero recomendada. Esa misma ficha indica una entrada de € 3 y ninguna tarifa reducida, mientras que un directorio de museos con datos de 2023 publicaba € 5 entero y € 2 reducido: confirmá el precio en la boletería o por teléfono antes de ir.\n\nCon una hora a una hora y media alcanza para una visita completa.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Via Spalato 19, sobre el Lungomare, a unos 15 minutos a pie de Bari Centrale"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; cerrado los lunes"
+        },
+        {
+          "label": "Entrada",
+          "value": "€ 3 entero, sin reducido (fuente: cultura.gov.it, ficha oficial, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa de Pane e Pomodoro",
+      "desc": "La playa urbana de arena de Bari, sobre el Lungomare sur, libre y concurrida en verano.",
+      "detalle": "Pane e Pomodoro ('pan y tomate') es la playa urbana más conocida de Bari, sobre el Lungomare hacia el sur del centro. El nombre viene, según la tradición local, de la merienda sencilla que llevaban las familias que iban a pasar el día.\n\nEs una playa pública de arena, con acceso libre, donde los barenses van a nadar, tomar sol o jugar a la pelota. En verano se llena, sobre todo los fines de semana; fuera de temporada es un buen lugar para caminar.\n\nNo esperes una playa de postal como las de Polignano o Monopoli: es una playa de ciudad, práctica para un chapuzón sin salir de Bari. Llevá agua y protector solar, y cuidá tus cosas cuando te metas al mar.\n\nSe llega caminando por la costanera desde el centro o en colectivo AMTAB. Si querés seguir, más al sur hay otras calas urbanas sobre la misma costa.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Lungomare sur, al sureste del centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre para nadar"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Polignano a Mare",
+      "desc": "Pueblo sobre acantilados a media hora de tren, con la cala de Lama Monachile entre paredes de roca.",
+      "detalle": "Polignano a Mare es un pueblo de la ciudad metropolitana de Bari construido sobre acantilados que caen al Adriático. Tenía 17.491 habitantes en 2021 según el ISTAT. Su casco antiguo, de calles blancas, termina en miradores sobre el mar.\n\nLa imagen más conocida es Lama Monachile, una pequeña cala de piedras encajada entre dos paredes de roca, con un puente por encima. En verano se llena de gente, así que conviene llegar temprano. El resto del pueblo se recorre caminando en un par de horas, saltando de mirador en mirador.\n\nCómo llegar: hay trenes regionales directos desde Bari Centrale que tardan entre 30 y 45 minutos. El boleto cuesta € 3,10 (consulta en lefrecce.it de Trenitalia, verificado octubre 2026). Desde la estación al centro histórico se va caminando.\n\nSi preferís ir en grupo, Civitatis ofrece una excursión desde Bari con paseo en barco frente a los acantilados. Se combina bien con Monopoli en el mismo día.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 30-45 minutos en tren regional desde Bari Centrale"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mayo, junio y septiembre; julio y agosto, temprano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (pueblo y cala de acceso libre)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Alberobello (trulli)",
+      "desc": "El pueblo de los trulli, casas de piedra con techo cónico, Patrimonio Mundial de la Unesco desde 1996.",
+      "detalle": "Alberobello es el pueblo de los trulli: construcciones de piedra seca, con paredes encaladas y techos cónicos de lajas grises, muchas con símbolos pintados en blanco. Los trulli de Alberobello son Patrimonio Mundial de la Unesco desde 1996, y el pueblo, de unos 10.000 habitantes, es el único con un barrio entero de ellos.\n\nEl barrio más visitado es el Rione Monti, en una ladera llena de trulli, muchos convertidos en negocios de recuerdos. Conviene subir a los miradores y meterse en las calles laterales para escapar de las tiendas. El Trullo Sovrano, el único de dos plantas, funciona como museo desde 1994 y tiene muebles de época y carteles en inglés.\n\nCómo llegar: con los trenes de Ferrovie del Sud Est desde Bari Centrale. El viaje directo dura cerca de 1 h 50 min, algunas combinaciones usan micro, y el boleto cuesta € 6,30 (consulta en lefrecce.it, verificado octubre 2026). Revisá bien el último regreso.\n\nPara verlo con calma, dedicale medio día largo. Se puede combinar con Locorotondo o Martina Franca en excursiones organizadas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 50 km al sureste de Bari; cerca de 1 h 50 min en tren"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño; temprano o al atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Pueblo gratis. Trullo Sovrano: € 2 entero, € 1,50 reducido (fuente: museionline.info, agregador con datos de 2024, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día a día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Matera (Sassi)",
+      "desc": "La ciudad de las casas excavadas en la roca, en Basilicata, Patrimonio Mundial de la Unesco desde 1993.",
+      "detalle": "Matera queda en la región vecina de Basilicata, pero se visita desde Bari. Sus Sassi, los barrios Sasso Barisano y Sasso Caveoso, son casas, iglesias y cisternas excavadas en la roca sobre un barranco. Fueron declarados Patrimonio Mundial de la Unesco en 1993, junto con el Parque de las Iglesias Rupestres.\n\nEn la década de 1950 el gobierno italiano trasladó a la mayoría de sus habitantes a barrios nuevos, por la pobreza y la malaria. Hoy muchas cuevas son hoteles, restaurantes y museos. Por su parecido con Jerusalén, los Sassi fueron escenario de películas como El Evangelio según San Mateo (1964), La Pasión de Cristo (2004) y Sin tiempo para morir (2021).\n\nRecorrer los Sassi por la calle no cuesta nada; las iglesias rupestres y las casas-museo cobran aparte. Hay mucha subida y bajada: llevá calzado cómodo.\n\nCómo llegar: con Ferrovie Appulo Lucane desde su estación de Bari Centrale. Según la Carta de Servicios de FAL, la mayoría de los servicios a Matera combinan en Altamura. Otra opción es una excursión organizada desde Bari.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 60 km al suroeste, en Basilicata; tren FAL con combinación en Altamura"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis recorrer los Sassi a pie (espacio público); museos e iglesias se pagan aparte"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Monopoli",
+      "desc": "Ciudad costera con puerto viejo, murallas sobre el mar y castillo de Carlos V, a menos de media hora de tren.",
+      "detalle": "Monopoli está sobre la costa, entre 40 y 44 km al sureste de Bari según Wikipedia. Su casco antiguo amurallado da al mar y gira alrededor de un puerto viejo con barcas de pescadores de colores.\n\nPara ver: el Castillo de Carlos V, terminado en 1525, de planta pentagonal sobre un promontorio; funcionó como cárcel hasta 1969 y hoy alberga exposiciones. La catedral, del siglo XVIII, está dedicada a la Madonna della Madia, patrona de la ciudad. En el centro hay pequeñas calas urbanas, como Cala Porta Vecchia, para darse un chapuzón en verano.\n\nEs más tranquila que Polignano y se recorre a pie en dos o tres horas. Muchos viajeros combinan las dos en el mismo día: están en la misma línea de tren.\n\nCómo llegar: trenes regionales y regionales veloces desde Bari Centrale, de 26 a 49 minutos según el servicio, por € 4 (consulta en lefrecce.it, verificado octubre 2026).",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 40 km al sureste; 26-49 minutos en tren"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mayo a octubre"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (casco antiguo y puerto de acceso libre)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Castel del Monte",
+      "desc": "Castillo octogonal de Federico II construido en la década de 1240, Patrimonio Mundial de la Unesco desde 1996.",
+      "detalle": "Castel del Monte es una de las construcciones más estudiadas del sur de Italia. Lo mandó levantar el emperador Federico II en la década de 1240, sobre una colina de unos 540 metros en el municipio de Andria. Tiene planta octogonal, con una torre también octogonal en cada esquina y un patio de ocho lados. Es Patrimonio Mundial de la Unesco desde 1996 y aparece en la moneda italiana de 1 centavo de euro.\n\nAdentro las salas están vacías: lo que se visita es la arquitectura, la geometría y la vista sobre la campiña de la Murgia. La Dirección Regional de Museos lo describe como una mezcla de elementos del norte de Europa, del mundo musulmán y de la Antigüedad clásica.\n\nHorario oficial: del 1 de abril al 30 de septiembre, todos los días de 10:00 a 18:45; del 1 de octubre al 31 de marzo, todos los días de 9:00 a 17:45. Último ingreso 45 minutos antes del cierre. Hay entrada combinada con el castillo de Trani.\n\nEl transporte público es complicado; lo más práctico es ir en auto o en excursión.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Municipio de Andria, tierra adentro al oeste de Bari"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño"
+        },
+        {
+          "label": "Entrada",
+          "value": "Entero € 10; reducido € 2. Combinado con el Castillo de Trani: € 15 entero, € 4 reducido (fuente: museipuglia.cultura.gov.it, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora de visita, más el viaje"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Castillo Normando-Suevo de Bari",
+      "precio": "Entero € 10; reducido € 2 para quienes tienen derecho (fuente: museipuglia.cultura.gov.it, verificado octubre 2026). Comprar en museiitaliani.it o en la boletería. Cerrado los lunes"
+    },
+    {
+      "tipo": "Castel del Monte (Andria)",
+      "precio": "Entero € 10; reducido € 2 (fuente: museipuglia.cultura.gov.it, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Combinado Castel del Monte + Castillo de Trani",
+      "precio": "€ 15 entero; € 4 reducido (fuente: museipuglia.cultura.gov.it, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Teatro Petruzzelli (visita guiada de 30 minutos)",
+      "precio": "€ 7 entero; € 2 reducido para estudiantes, chicos y personas con discapacidad; acompañante de persona con discapacidad gratis (fuente: fondazionepetruzzelli.it, verificado octubre 2026). Se compra en la boletería del teatro, 30 minutos antes"
+    },
+    {
+      "tipo": "Pinacoteca Metropolitana Corrado Giaquinto",
+      "precio": "€ 3 entero, sin tarifa reducida (fuente: ficha oficial en cultura.gov.it, verificado octubre 2026). Un directorio con datos de 2023 publicaba € 5/€ 2: confirmá en boletería"
+    },
+    {
+      "tipo": "Succorpo de la Catedral de San Sabino (área arqueológica)",
+      "precio": "€ 3 entero; € 2 reducido (fuente: museionline.info, agregador, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Trullo Sovrano (Alberobello)",
+      "precio": "€ 2 entero; € 1,50 reducido (fuente: museionline.info, agregador con datos de 2024, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Basílica de San Nicolás",
+      "precio": "Gratis (abre lunes a sábado 6:30-20:30 y domingos 6:30-22:00 según basilicasannicola.it, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Catedral de San Sabino (templo)",
+      "precio": "Gratis (fuera de misas y ceremonias)"
+    },
+    {
+      "tipo": "Bari Vecchia, Lungomare, playa Pane e Pomodoro, Sassi de Matera, Polignano y Monopoli",
+      "precio": "Gratis (espacios públicos)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Free tour por Bari en español",
+      "precio": "Gratis, a voluntad (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Civitatis"
+    },
+    {
+      "actividad": "Visita guiada por Bari (catedral, castillo, ópera)",
+      "precio": "€ 25 por persona (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Civitatis"
+    },
+    {
+      "actividad": "Tour gastronómico por Bari (focaccia, embutidos, panzerotti, helado)",
+      "precio": "€ 45 por persona (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "3 horas",
+      "operador": "Civitatis"
+    },
+    {
+      "actividad": "Demostración de elaboración de orecchiette con degustación",
+      "precio": "€ 57 por persona (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "2 h 30 min",
+      "operador": "Civitatis"
+    },
+    {
+      "actividad": "Excursión a Polignano a Mare con paseo en barco",
+      "precio": "€ 80 por persona (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "6 horas",
+      "operador": "Civitatis"
+    },
+    {
+      "actividad": "Excursión a Alberobello y Matera por libre (transporte)",
+      "precio": "Desde € 59 por persona (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "10 a 11 horas",
+      "operador": "Civitatis"
+    },
+    {
+      "actividad": "Excursión guiada a Matera",
+      "precio": "Desde € 145 por persona (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "6 horas",
+      "operador": "Civitatis"
+    },
+    {
+      "actividad": "Paseo en velero por la costa de Bari con aperitivo",
+      "precio": "€ 110 por persona (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "3 horas",
+      "operador": "Civitatis"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Colectivos AMTAB: boleto simple y de 90 minutos",
+      "precio": "€ 1 un viaje; € 1,20 el boleto horario de 90 minutos; € 1,50 si lo comprás a bordo al chofer (fuente: amtab.it, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Hay que validar el boleto al subir y guardarlo durante el viaje. Comprá antes en kioscos y tabaquerías o en la app MUVT para pagar menos. El centro histórico y el Murat se recorren a pie, así que el colectivo sirve sobre todo para la costa sur y el aeropuerto."
+    },
+    {
+      "medio": "Colectivos AMTAB: pase diario y carnet",
+      "precio": "Diario € 2,50 (hasta el fin del servicio); carnet de 10 viajes € 9 (fuente: amtab.it, verificado octubre 2026)",
+      "duracion": "Todo el día",
+      "notas": "El diario conviene si vas a tomar tres o más colectivos en el día. El carnet sale € 0,90 por viaje."
+    },
+    {
+      "medio": "Park & Ride AMTAB (lanzaderas A, B y C)",
+      "precio": "€ 0,30 boleto diario por pasajero que no es el conductor (fuente: amtab.it, verificado octubre 2026)",
+      "duracion": "Todo el día",
+      "notas": "Útil si llegás en auto: dejás el auto en los estacionamientos de intercambio y entrás al centro en lanzadera. El boleto se vende sólo dentro de las áreas Park & Ride."
+    },
+    {
+      "medio": "A pie",
+      "precio": "Gratis",
+      "duracion": "10 a 20 minutos entre los puntos principales",
+      "notas": "Bari Centrale, el Murat, Bari Vecchia y el Lungomare quedan cerca entre sí. Es la forma más práctica de moverse por el centro."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto Karol Wojtyła (BRI) → Bari Centrale en tren",
+      "empresas": "Ferrotramviaria (boleto integrado vendido también por Trenitalia)",
+      "precio": "€ 5,30 (fuente: trenitalia.com, verificado octubre 2026). Sin descuentos sobre el tramo de Ferrotramviaria",
+      "duracion": "Unos 15 minutos; 34 conexiones diarias"
+    },
+    {
+      "ruta": "Aeropuerto → estación Bari Centrale en micro lanzadera",
+      "empresas": "Autoservizi Tempesta",
+      "precio": "€ 5 por viaje, a bordo u online en la app Cotrap (fuente: autoservizitempesta.it, verificado octubre 2026)",
+      "duracion": "Unos 30 minutos"
+    },
+    {
+      "ruta": "Aeropuerto → centro en colectivo urbano (línea 16)",
+      "empresas": "AMTAB",
+      "precio": "Tarifa urbana: € 1 comprado antes, € 1,50 a bordo (fuente: amtab.it, verificado octubre 2026)",
+      "duracion": "Más lento que el tren; frecuencia baja, revisá horarios"
+    },
+    {
+      "ruta": "Roma Termini / Nápoles → Bari Centrale en tren",
+      "empresas": "Trenitalia (Frecciarossa e Intercity)",
+      "precio": "Roma–Bari en Frecciarossa directo desde € 37,90; Nápoles–Bari con combinación desde € 27,10 (consulta en lefrecce.it para el 20 de octubre de 2026, verificado octubre 2026; varía por fecha)",
+      "duracion": "Roma: 4 h 22 min a 4 h 41 min directo; Nápoles: unas 4 h 30 min"
+    },
+    {
+      "ruta": "Lecce → Bari Centrale en tren regional",
+      "empresas": "Trenitalia (Regionale Veloce)",
+      "precio": "€ 13,20 (consulta en lefrecce.it, verificado octubre 2026)",
+      "duracion": "1 h 41 min"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Hostels y alojamiento económico",
+      "nivel": 2,
+      "opciones": "Cconforthotels Host Dolci Risvegli desde € 37, Cconforthotels Host Bari Centrale desde € 56 y Hotel Pensione Romeo desde € 79 la noche (fuente: Kayak, precios 'desde', verificado octubre 2026). Habari We Dorm y Blablabla' Bari ofrecen camas en dormitorio (ver precios en Hostelworld). Sumá la tasa de estadía de € 2 por persona y noche en hostels."
+    },
+    {
+      "categoria": "Hoteles 3 estrellas y B&B cerca de la estación y el Murat",
+      "nivel": 3,
+      "opciones": "Hotel Adria, a 200 metros de la estación (3 estrellas según Booking), desde € 125; Hotel Cristal desde € 99; Hotel Costa desde € 116 la noche (fuente: Kayak, precios 'desde', verificado octubre 2026). Kayak indica enero como el mes más barato (media € 101) y mayo como el más caro (media € 243)."
+    },
+    {
+      "categoria": "Hoteles 4 estrellas en el centro",
+      "nivel": 4,
+      "opciones": "JR Hotels Oriente Bari, en Corso Cavour 32 (4 estrellas), desde € 226; Hotel Excelsior Bari desde € 176; Mercure Villa Romanazzi Carducci desde € 209; Palazzo Calò, en Bari Vecchia, desde € 241 la noche (fuente: Kayak, precios 'desde', verificado octubre 2026)."
+    },
+    {
+      "categoria": "Alta gama sobre el Lungomare",
+      "nivel": 5,
+      "opciones": "JR Hotels Bari Grande Albergo delle Nazioni, en Lungomare Nazario Sauro 7, desde € 321 la noche (fuente: Kayak, precios 'desde', verificado octubre 2026); Logitravel mostraba € 206 la noche en agosto de 2026 y € 337 en septiembre de 2026 (fuente: logitravel, agregador, verificado octubre 2026). La tasa de estadía (€ 4 en 5 estrellas) no suele estar incluida."
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Focaccia barese y comida callejera de Bari Vecchia",
+      "nivel": 1,
+      "opciones": "Focaccia con tomate y aceitunas en el Panificio Fiore, en Bari Vecchia: € 1,50 a € 3. Sgagliozze (polenta frita) y popizze (bolitas de masa frita) donde Maria delle Sgagliozze, Strada delle Crociate 13, a la tarde: € 1 a € 3 (fuente: Do Eat Better Experience, blog, verificado octubre 2026). Panificio Santa Rita es otra referencia para la focaccia."
+    },
+    {
+      "tipo": "Crudo di mare en el muelle",
+      "nivel": 2,
+      "opciones": "En N'dèrr'a la Lanz, sobre el Molo San Nicola, los pescadores venden pulpo, erizos y mariscos crudos para comer al paso: € 5 a € 15 (fuente: Do Eat Better Experience, blog, verificado octubre 2026). Abre de mañana. Comer marisco crudo tiene riesgos: decidí con cuidado y preguntá el precio antes."
+    },
+    {
+      "tipo": "Trattoria: orecchiette con cime di rapa y riso, patate e cozze",
+      "nivel": 3,
+      "opciones": "Los dos platos emblema de Bari: orecchiette con grelos (cime di rapa) y el arroz al horno con papas y mejillones. Terranima (Via Putignani 213/215) está en la franja de € 20 a € 40 por persona según Sluurpy, agregador, verificado octubre 2026. Antò Cucina e Sapori Tipici, en Bari Vecchia, figura en una guía de Gambero Rosso de marzo de 2026."
+    },
+    {
+      "tipo": "Orecchiette para llevar",
+      "nivel": 1,
+      "opciones": "Las señoras de la Strada dell'Arco Basso venden orecchiette secas en bolsitas. No encontramos una tarifa publicada en una fuente confiable (verificado octubre 2026): preguntá el precio antes de comprar y desconfiá de ofertas de comer en casas particulares sin precio claro."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa? ¿Qué son el EES y el ETIAS?",
+      "a": "Con pasaporte de Argentina, Uruguay, Chile, México, Colombia o Perú no necesitás visa para turismo: podés estar hasta 90 días dentro de cualquier período de 180 en todo el espacio Schengen, Italia incluida. Según la Comisión Europea, el EES (Entry/Exit System) arrancó de forma progresiva el 12 de octubre de 2025 y funciona plenamente desde el 10 de abril de 2026: en tu primera entrada te toman huellas y foto, y ya no te sellan el pasaporte. Sobre el ETIAS, la autorización previa online, no pudimos confirmar una fecha de inicio en una fuente oficial: revisalo en la web de la Unión Europea antes de viajar y no pagues trámites en páginas no oficiales. Si tenés otro pasaporte, consultá en el consulado italiano."
+    },
+    {
+      "q": "¿Cuánto es la tasa de estadía en Bari?",
+      "a": "Bari cobra la imposta di soggiorno por persona y por noche, hasta un máximo de 4 noches consecutivas en el año. Según la tabla publicada en el portal oficial del Comune di Bari (PayTourist), son € 4 en hoteles de 5 estrellas, € 3 en 4 estrellas, € 2 en 3 estrellas, € 1,50 en 2 y 1 estrella, y € 2 en B&B, albergues, casas de vacaciones y alquileres cortos. Están exentos los residentes en Bari y los menores de hasta 14 años, entre otros casos. Se paga en el alojamiento y casi nunca está incluida en el precio de Booking o Airbnb. La tabla del portal es de 2023: confirmá el monto con tu alojamiento."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse?",
+      "a": "Para Bari en sí alcanza con un día y medio: medio día para Bari Vecchia, la basílica, la catedral y el castillo, y otro rato para el Murat, el Lungomare y el Petruzzelli. Pero Bari rinde más como base. Con cuatro o cinco días podés sumar excursiones en el día: Polignano a Mare y Monopoli juntas (están en la misma línea de tren), Alberobello, y Matera, que pide un día completo. Castel del Monte es más fácil en auto o en excursión. Ojo: el castillo de Bari cierra los lunes."
+    },
+    {
+      "q": "¿Cómo llego del aeropuerto al centro?",
+      "a": "Tenés tres opciones. El tren de Ferrotramviaria une el aeropuerto Karol Wojtyła con Bari Centrale en unos 15 minutos y cuesta € 5,30, según Trenitalia; hay 34 conexiones por día. El micro lanzadera de Autoservizi Tempesta tarda unos 30 minutos y cuesta € 5, pagando a bordo o en la app Cotrap. La más barata es la línea 16 de colectivos AMTAB, con la tarifa urbana de € 1 si comprás el boleto antes o € 1,50 a bordo, pero es más lenta y pasa con menos frecuencia. Si llegás tarde a la noche, revisá el horario del último tren o micro."
+    },
+    {
+      "q": "¿Conviene alquilar auto?",
+      "a": "Para Bari, no: el centro se recorre a pie y estacionar es complicado. Para las excursiones depende. Polignano, Monopoli y Lecce tienen trenes directos y baratos, y a Alberobello llegás con Ferrovie del Sud Est. Matera tiene tren de Ferrovie Appulo Lucane, en general con combinación en Altamura. El auto sí ayuda para Castel del Monte, que está aislado en el campo, y para recorrer el Valle d'Itria con calma. Si alquilás, retiralo en el aeropuerto y usá los Park & Ride de AMTAB para entrar al centro. Necesitás tu licencia de conducir y, según el caso, el permiso internacional."
+    },
+    {
+      "q": "¿Es seguro Bari?",
+      "a": "Bari es una ciudad grande con un centro muy vivo, y el viajero que toma precauciones básicas no suele tener problemas. Cuidá la mochila y el celular en los lugares con mucha gente, como la plaza de la basílica, el Lungomare en verano o los trenes llenos a la costa. De noche, Bari Vecchia está llena de gente en las plazas Mercantile y Ferrarese; evitá los callejones vacíos y usá calles iluminadas. Con las señoras de las orecchiette y los puestos del muelle, preguntá siempre el precio antes de pedir para evitar sorpresas."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Bari»: https://es.wikipedia.org/wiki/Bari",
+      "Wikipedia (EN) — «Bari»: https://en.wikipedia.org/wiki/Bari",
+      "Wikipedia (EN) — «Basilica of Saint Nicholas, Bari»: https://en.wikipedia.org/wiki/Basilica_of_Saint_Nicholas,_Bari",
+      "Wikipedia (EN) — «Bari Cathedral»: https://en.wikipedia.org/wiki/Bari_Cathedral",
+      "Wikipedia (IT) — «Castello normanno-svevo (Bari)»: https://it.wikipedia.org/wiki/Castello_normanno-svevo_(Bari)",
+      "Wikipedia (IT) — «Murat (Bari)»: https://it.wikipedia.org/wiki/Murat_(Bari)",
+      "Wikipedia (EN) — «Teatro Petruzzelli»: https://en.wikipedia.org/wiki/Teatro_Petruzzelli",
+      "Tuttitalia (datos ISTAT) — «Popolazione Bari 2001-2024»: https://www.tuttitalia.it/puglia/95-bari/statistiche/popolazione-andamento-demografico/"
+    ],
+    "que_ver_atracciones": [
+      "Direzione regionale Musei Puglia — «Castello Svevo di Bari»: https://museipuglia.cultura.gov.it/musei/castello-svevo-di-bari/",
+      "Direzione regionale Musei Puglia — «Castel del Monte»: https://museipuglia.cultura.gov.it/musei/castel-del-monte/",
+      "Basilica di San Nicola — «Orari»: https://www.basilicasannicola.it/sez/9/232/orari",
+      "Fondazione Petruzzelli — «Visite guidate»: https://www.fondazionepetruzzelli.it/visiteguidate/",
+      "Ministero della Cultura — «Museo e Pinacoteca della Città Metropolitana di Bari Corrado Giaquinto»: https://cultura.gov.it/luogo/museo-e-pinacoteca-d-arte-medievale-e-moderna-della-citta-metropolitana-di-bari-corrado-giaquinto",
+      "Wikipedia (EN) — «Sassi di Matera»: https://en.wikipedia.org/wiki/Sassi_di_Matera",
+      "Wikipedia (EN) — «Alberobello»: https://en.wikipedia.org/wiki/Alberobello",
+      "Wikipedia (EN) — «Polignano a Mare»: https://en.wikipedia.org/wiki/Polignano_a_Mare",
+      "Wikipedia (EN) — «Monopoli»: https://en.wikipedia.org/wiki/Monopoli",
+      "Wikipedia (EN) — «Castel del Monte, Apulia»: https://en.wikipedia.org/wiki/Castel_del_Monte,_Apulia",
+      "Gambero Rosso — «Indagine orecchiette Bari»: https://www.gamberorosso.it/notizie/indagine-orecchiette-bari/"
+    ],
+    "precios_2026": [
+      "Direzione regionale Musei Puglia — «Acquista Biglietti»: https://museipuglia.cultura.gov.it/biglietti/",
+      "Museionline (agregador) — «Museo del Succorpo della Cattedrale di Bari»: https://www.museionline.info/puglia-musei-monumenti/museo-del-succorpo-della-cattedrale-di-bari",
+      "Museionline (agregador) — «Trullo Sovrano»: https://www.museionline.info/puglia-musei-monumenti/trullo-sovrano",
+      "Comune di Bari / PayTourist — «Tariffe imposta di soggiorno»: https://static.paytourist.com/media/bari/documents/2/default/36/Tariffe-Bari-2023.pdf-64fb049547863.pdf",
+      "Comune di Bari / PayTourist — «Regolamento imposta di soggiorno»: https://static.paytourist.com/media/bari/documents/1/default/30/Regolamento_IDS_PT.pdf-64faed93ee948.pdf",
+      "Civitatis — «Excursiones y visitas guiadas en Bari»: https://www.civitatis.com/es/bari/"
+    ],
+    "como_llegar_transporte": [
+      "AMTAB — «Biglietti»: https://www.amtab.it/it/117-prova/servizi-di-trasporti/1038-biglietti01",
+      "Trenitalia — «Aeroporto Internazionale di Bari Palese Karol Wojtyla»: https://www.trenitalia.com/it/regionale/collegamenti-regionale/aeroporto-internazionale-di-bari-palese-karol-wojtyla.html",
+      "Autoservizi Tempesta — «Servizi orari bus navetta»: https://www.autoservizitempesta.it/servizi-orari-bus-navetta/",
+      "Trenitalia — «Lefrecce, ricerca soluzioni di viaggio»: https://www.lefrecce.it/",
+      "Ferrovie Appulo Lucane — «Carta dei Servizi 2024-2025»: https://ferrovieappulolucane.it/wp-content/uploads/2025/06/CARTA-DEI-SERVIZI-FAL-2024_2025.pdf",
+      "Siviaggia — «Come arrivare all'aeroporto di Bari»: https://siviaggia.it/informazioni-utili/come-arrivare-allaeroporto-di-bari/145601/"
+    ],
+    "alojamiento_gastronomia": [
+      "Kayak — «Hotel a Bari»: https://www.kayak.it/Hotel-a-Bari.18302.hotel.ksp",
+      "Hostelworld — «Hostels in Bari»: https://www.hostelworld.com/hostels/europe/italy/bari/",
+      "Logitravel (agregador) — «Jr Hotels Bari Grande Albergo delle Nazioni»: https://www.logitravel.it/hotel-mare/italia/puglia/bari/jr-hotels-bari-grande-albergo-delle-nazioni--hotel-1804735",
+      "Do Eat Better Experience (blog) — «Guida allo street food di Bari Vecchia»: https://doeatbetterexperience.com/it/blog/guida-street-food-bari-vecchia/",
+      "Sluurpy (agregador) — «Terranima»: https://www.sluurpy.it/bari/ristorante/102417/terranima"
+    ],
+    "visados_entrada": [
+      "Comisión Europea – Migration and Home Affairs — «Entry/Exit System (EES)»: https://home-affairs.ec.europa.eu/policies/schengen/smart-borders/entry-exit-system_en"
+    ]
+  }
+}
