@@ -1,0 +1,651 @@
+{
+  "slug": "santa-cruz-de-tenerife",
+  "name": "Santa Cruz de Tenerife",
+  "region": "Tenerife, Canarias",
+  "lat": 28.4667,
+  "lon": -16.25,
+  "datosRapidos": [
+    {
+      "label": "Isla y provincia",
+      "value": "Santa Cruz de Tenerife es la capital de la isla de Tenerife y de la provincia del mismo nombre, en la comunidad autónoma de Canarias (España). Comparte con Las Palmas de Gran Canaria la capitalidad de Canarias y es sede del Parlamento canario. Queda en el noreste de la isla, sobre el Atlántico, con el macizo de Anaga a sus espaldas. Tiene 211.957 habitantes (INE 2025) y es la segunda ciudad más poblada del archipiélago. Nació el 3 de mayo de 1494 como campamento de la conquista castellana de Alonso Fernández de Lugo, y de ahí viene el nombre. Pegada a ella, casi sin corte urbano, está San Cristóbal de La Laguna, Patrimonio Mundial de la Unesco desde 1999. A diferencia del sur turístico, acá vas a ver una ciudad que trabaja: puerto, oficinas, mercado, terrazas con gente local. Se la conoce por el Auditorio de Santiago Calatrava, por su Carnaval, declarado Fiesta de Interés Turístico Internacional en 1980, y por tener justo detrás el Parque Rural de Anaga, reserva de la biosfera de la Unesco desde 2015, con bosque de laurisilva, pueblos colgados y playas de arena negra. También es la puerta de entrada en barco: de su puerto salen los ferris a Gran Canaria."
+    },
+    {
+      "label": "Moneda e idioma",
+      "value": "Se paga en euros y se acepta tarjeta casi en todos lados. El idioma es el castellano con acento canario, muy cercano al nuestro: a los colectivos les dicen 'guaguas' y a las papas, 'papas'. Ojo en los guachinches (casas de comida familiares del norte): según guías de viaje casi siempre se paga en efectivo. En las guaguas de TITSA conviene pagar con tarjeta bancaria, con la tarjeta ten+ o con la app ten+ móvil."
+    },
+    {
+      "label": "Mejor época",
+      "value": "Se puede ir todo el año: el clima es templado y en el Palmetum, junto al mar, la media anual ronda los 21,7 °C según Wikipedia. Febrero es el mes del Carnaval: en 2027 la fiesta en la calle va del 19 al 28 de febrero, dos semanas más tarde que lo habitual, y ahí los hoteles se llenan. En Anaga el tiempo cambia rápido: niebla y humedad aun en verano, así que llevá abrigo liviano. Según Kayak, diciembre es el mes más caro para dormir."
+    },
+    {
+      "label": "Visado y entrada",
+      "value": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos no necesitan visa para turismo de hasta 90 días en un período de 180 en el espacio Schengen, del que Canarias forma parte. Desde el 10 de abril de 2026 funciona a pleno el EES (Sistema de Entradas y Salidas): en el primer control Schengen te toman huellas y foto en vez de sellar el pasaporte. Si llegás con escala en Madrid, ese control lo hacés en Madrid. El ETIAS, el permiso previo online, todavía no se pide: la UE lo postergó y se espera para 2027."
+    }
+  ],
+  "intro": [
+    "Santa Cruz es la Tenerife que no sale en los folletos de playa. Es una capital de verdad, con oficinas, mercado, rambla arbolada y bares donde se toma el barraquito de media mañana. Para quien viene del sur de hoteles, es un cambio de ritmo: acá la vida pasa en la calle y los precios de la comida son los de la gente local. Y en un día podés ir del Auditorio de Calatrava a la plaza de España, comer en la Recova y terminar en una playa de arena dorada a una sola guagua de distancia.",
+    "La ciudad tiene además dos vecinos que justifican el viaje solos. Al lado, unida por el tranvía, está San Cristóbal de La Laguna, la antigua capital, con su casco Patrimonio de la Unesco, sus casas con balcones de madera y su vida universitaria. Detrás, el macizo de Anaga: montañas filosas cubiertas de laurisilva, caseríos a los que se llega por rutas de curvas y playas negras como Benijo, frente a los roques. Todo eso se hace en transporte público y en salidas de medio día.",
+    "Es también una buena base para quien viaja con poca plata. Hay hostels en el centro y en La Laguna, el abono turístico de guaguas y tranvía cuesta 10 € por día, y muchos de los mejores planes son gratis: los parques, las playas, la entrada al TEA, el MUNA los viernes y sábados a la tarde. Si además coincidís con el Carnaval de febrero, vas a ver una de las fiestas callejeras más grandes de España, con la ciudad entera disfrazada durante días."
+  ],
+  "historia_corta": "Antes de la conquista, esta costa era parte del menceyato de Anaga, uno de los reinos guanches de Tenerife, y la bahía se llamaba Añazo. El 3 de mayo de 1494 desembarcó Alonso Fernández de Lugo y levantó un campamento con una cruz: de ahí viene el nombre de Santa Cruz. Dos años después, en 1496, se fundó tierra adentro San Cristóbal de La Laguna, que fue durante siglos la capital de la isla, mientras Santa Cruz quedaba como su puerto. En 1499 empezaron las obras de la primera iglesia, hoy Iglesia de la Concepción. Durante los siglos XVII y XVIII el puerto creció con el comercio con América y se fortificó con castillos como el de San Juan, terminado en 1643. El 25 de julio de 1797 la ciudad rechazó el ataque de la escuadra británica del almirante Horatio Nelson, que perdió el brazo derecho en el combate: es el hecho militar más recordado de su historia y se recrea cada julio. En 1833 Santa Cruz pasó a ser la capital de toda Canarias, hasta que en 1927 se dividió el archipiélago en dos provincias y la capitalidad se compartió con Las Palmas de Gran Canaria. En el siglo XX llegaron el parque García Sanabria (1926), el primer tranvía a La Laguna, que funcionó de 1901 a 1956, y el Carnaval moderno, declarado de Interés Turístico Internacional en 1980. El cambio de siglo trajo arquitectura nueva: el Auditorio de Calatrava en 2003, el nuevo tranvía en 2007 y el TEA en 2008. En 2015 la Unesco declaró a Anaga reserva de la biosfera. Hoy la ciudad tiene casi 212.000 habitantes y es sede del Parlamento de Canarias.",
+  "queVer": [
+    {
+      "nombre": "Auditorio de Tenerife (Auditorio de Tenerife Adán Martín)",
+      "desc": "La obra de Santiago Calatrava que se volvió el símbolo de la ciudad: una ola de hormigón blanco frente al Atlántico, con visitas guiadas por dentro.",
+      "detalle": "El Auditorio es la postal moderna de Santa Cruz. Lo diseñó el arquitecto valenciano Santiago Calatrava, las obras empezaron en 1997 y lo inauguró el 26 de septiembre de 2003 el entonces príncipe Felipe. Su techo, una gran vela curva de hormigón revestida de trencadís blanco (mosaico de cerámica partida), se ve desde buena parte de la costa. Es la sede de la Orquesta Sinfónica de Tenerife.\n\nMirarlo por fuera es gratis y conviene rodearlo entero: el mejor ángulo está del lado del mar, junto al Castillo de San Juan y al Parque Marítimo César Manrique. Al lado se levantan las Torres de Santa Cruz, de 120 metros.\n\nPor dentro se entra con visita guiada, de lunes a viernes de 10 a 17 y los sábados de 10 a 14, salvo feriados. El Auditorio recomienda reservar por teléfono (922 568 600, extensión 201) o por mail a visitas@auditoriodetenerife.com, y avisa que, por la actividad del edificio, los horarios pueden variar y algunas salas pueden estar cerradas. Se pueden sacar fotos, pero no grabar sonido. Otra forma de conocerlo es ir a un concierto: los menores de 30 años tienen tarifa de 5 € en espectáculos.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Avenida de la Constitución, junto al puerto; a pocos minutos a pie del Intercambiador y del tranvía"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; al atardecer para las fotos desde el lado del mar"
+        },
+        {
+          "label": "Entrada",
+          "value": "Exterior gratis. Visita guiada: 5 € general; menores de 12 gratis; mayores de 65 3,50 €; estudiantes y desempleados 3 € con acreditación (fuente: auditoriodetenerife.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos por fuera; la visita guiada se reserva aparte"
+        }
+      ]
+    },
+    {
+      "nombre": "Parque Rural de Anaga: Cruz del Carmen y el Sendero de los Sentidos",
+      "desc": "Bosque de laurisilva, miradores y caminos antiguos en las montañas detrás de la ciudad, reserva de la biosfera de la Unesco desde 2015.",
+      "detalle": "El macizo de Anaga ocupa el extremo noreste de Tenerife. Es parque rural desde 1994 y reserva de la biosfera de la Unesco desde el 9 de junio de 2015, con 48.727 hectáreas. Según Wikipedia, es el lugar con más endemismos de Europa. Lo que vas a ver: crestas filosas, barrancos profundos y un bosque húmedo de laurisilva, cubierto de musgo, que vive de la niebla de los alisios.\n\nLa puerta de entrada más cómoda es Cruz del Carmen, a unos 920 metros de altura, en el municipio de La Laguna. Tiene un mirador de 1934 con vista a La Laguna y al Teide, una ermita y el Centro de Visitantes de Anaga. De ahí sale el Sendero de los Sentidos: un circuito de 2,15 km, de dificultad baja, con paneles que te invitan a oler, tocar y mirar el bosque. El tramo más corto tiene pasarela de madera apta para carritos y personas con movilidad reducida.\n\nReglas de acceso: el Sendero de los Sentidos y el Bosque de los Enigmas no requieren autorización. Sí la requiere la Reserva Natural Integral de El Pijaral (sendero La Ensillada-Cabezo del Tejo, el llamado Bosque Encantado), con reserva previa en la web Tenerife ON del Cabildo. Antes de ir, revisá en Tenerife ON el estado del sendero. Los estacionamientos son chicos y se llenan los fines de semana. Otro clásico de la zona es el Roque de Taborno, un pilar basáltico de 706 metros junto al caserío del mismo nombre.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Cruz del Carmen está en el municipio de La Laguna, a 920 m de altura; guaguas desde el Intercambiador de La Laguna"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; temprano a la mañana, antes de que suba la niebla y se llene el estacionamiento"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis. El Sendero de los Sentidos no requiere autorización; El Pijaral sí, con reserva en Tenerife ON (fuente: blog de Fred. Olsen y Tenerife ON, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas para el Sendero de los Sentidos y el mirador; medio día si sumás otros caminos"
+        }
+      ]
+    },
+    {
+      "nombre": "San Cristóbal de La Laguna",
+      "desc": "La antigua capital de la isla, con su casco histórico Patrimonio de la Unesco, a la que se llega desde Santa Cruz en tranvía.",
+      "detalle": "La Laguna fue fundada entre 1496 y 1497 por Alonso Fernández de Lugo y fue la capital de Tenerife durante siglos. En 1999 la Unesco la declaró Patrimonio de la Humanidad como ejemplo único de ciudad colonial no amurallada. Tiene 161.108 habitantes (INE 2025), está a unos 545 metros de altura y es sede de la Universidad de La Laguna, la primera de Canarias.\n\nEl plan es caminar. Las calles peatonales del centro están llenas de casonas con patios de madera y balcones canarios. La Catedral de Nuestra Señora de los Remedios tiene fachada neoclásica y cúpula; se visita de lunes a viernes de 9 a 18 y los sábados de 9:30 a 12:30, con audioguía incluida. Los domingos está cerrada a la visita cultural. Hay también una visita con subida a una de las torres, para ver el mecanismo del reloj y la ciudad desde arriba, con cupo de 10 personas.\n\nCómo llegar: el tranvía línea 1 une el Intercambiador de Santa Cruz con la parada La Trinidad, en La Laguna. Hay free tours en español por el centro, sin costo fijo. Llevá abrigo: por la altura hace más fresco que en Santa Cruz.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unida a Santa Cruz; el tranvía línea 1 va del Intercambiador a La Trinidad"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; entre semana para encontrar abierta la Catedral"
+        },
+        {
+          "label": "Entrada",
+          "value": "Casco histórico gratis. Catedral: 7 € general; mayores de 65 6 €; jóvenes de 13 a 18, universitarios hasta 25 y desempleados 5,50 €; menores de 13 gratis; con torre 10 € (fuente: lalagunacatedral.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día; un día entero si sumás Anaga"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa de Las Teresitas",
+      "desc": "La playa de la ciudad: 1,3 km de arena dorada traída del Sahara, con escollera y aguas tranquilas, al pie de las montañas de Anaga.",
+      "detalle": "Las Teresitas está en el pueblo pesquero de San Andrés, al noreste del centro. Es una playa artificial: en los años setenta se cubrió la antigua playa de arena negra con arena traída del desierto del Sahara, y se construyó una escollera de piedra de alrededor de 1 km, a unos 150 metros de la orilla, que frena las olas. El resultado es una playa de unos 1.300 metros de largo y 80 de ancho, con agua calma, muy usada por familias.\n\nTiene socorristas, kioscos de comida y accesos señalizados. Detrás, las laderas de Anaga y las palmeras le dan su postal. Ojo con un tema que todavía se ve: un edificio sin terminar en el estacionamiento, resto de un proyecto de remodelación que quedó a medias y terminó en el 'caso Las Teresitas', una causa por corrupción con condenas en 2017.\n\nCómo llegar: la guagua 910 de TITSA sale del Intercambiador de Santa Cruz; en verano 2026 tuvo salidas cada 10 minutos. Los fines de semana y feriados de buen tiempo el Ayuntamiento activa un carril exclusivo para guaguas en la autovía de San Andrés, así que la guagua suele ganarle al auto. Llevá sombrilla: la sombra natural es poca. Si te gusta más lo salvaje, desde San Andrés la ruta sigue hacia Anaga y las playas negras del norte.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En San Andrés, al noreste del centro; guagua 910 desde el Intercambiador"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; entre semana o temprano los fines de semana de verano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Carnaval de Santa Cruz de Tenerife",
+      "desc": "Una de las fiestas callejeras más grandes de España: concursos, murgas, la gala de la Reina y días enteros de baile en la calle, en febrero.",
+      "detalle": "El Carnaval es la gran fiesta de la ciudad. Fue declarado Fiesta de Interés Turístico Internacional el 18 de enero de 1980, junto con el de Cádiz, los primeros de España en lograrlo. Tiene dos partes. Primero, los concursos de murgas, comparsas y rondallas y la gala de elección de la Reina, con trajes enormes. Después, la fiesta en la calle, gratis, con escenarios en el centro y miles de personas disfrazadas.\n\nEl récord más citado es de 1987: según Wikipedia, una actuación de Celia Cruz con la Billo's Caracas Boys reunió a unas 250.000 personas en la plaza de España y entró en el Libro Guinness como la mayor concentración en una plaza al aire libre.\n\nFechas 2027: el Ayuntamiento retrasó dos semanas el calendario por obras de montaje en el Recinto Ferial. La gala de la Reina sería el 17 de febrero y la fiesta en la calle iría del viernes 19 al domingo 28 de febrero, con el martes de Carnaval (23 de febrero) como feriado local. Confirmá el programa en la web oficial del Carnaval cerca de la fecha. Si vas, reservá alojamiento con mucha anticipación, llevá disfraz (acá nadie sale de civil) y cuidá tus cosas en las aglomeraciones. Si no coincidís, hay un free tour del Carnaval que cuenta su historia todo el año.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Santa Cruz: plaza de España, plaza de la Candelaria y calles del centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Febrero; en 2027, calle del 19 al 28 de febrero según Diario de Avisos"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis la fiesta en la calle; las galas y concursos tienen entrada aparte"
+        },
+        {
+          "label": "Duración",
+          "value": "Una semana larga de fiesta en la calle; con una noche ya te hacés una idea"
+        }
+      ]
+    },
+    {
+      "nombre": "Taganana, Almáciga y la playa de Benijo",
+      "desc": "Del otro lado de Anaga: un pueblo de casas blancas entre montañas y una playa de arena negra frente a los Roques de Anaga.",
+      "detalle": "Taganana es el pueblo más importante del interior de Anaga y uno de los más antiguos de la isla: fue fundado en 1501 y fue municipio independiente en el siglo XIX. Hoy pertenece a Santa Cruz y queda a 24 km del centro, en un valle de la vertiente norte rodeado de roques. Tiene la iglesia de Nuestra Señora de las Nieves, con un patrimonio artístico importante, casas tradicionales y antiguos lagares de piedra. Hay una ruta autoguiada por el pueblo y caminos que lo unen con Afur y Almáciga.\n\nAbajo, en la costa, están Roque de las Bodegas, con su embarcadero, y más allá Almáciga y Benijo. La playa de Benijo tiene unos 300 metros de arena volcánica negra y grava, sin ningún servicio, y desde ella se ven los Roques de Anaga, muy fotografiados al atardecer. Es también una de las playas nudistas del municipio.\n\nCuidado con el mar: el Cabildo recomienda no alejarse de la orilla, sobre todo con mar movido. Cómo llegar: la guagua 946 de TITSA une el Intercambiador de Santa Cruz con Taganana y Almáciga; a Benijo se llega caminando desde Almáciga por la costa o, en temporada, con la línea 948. Revisá los horarios en titsa.com, porque cambian entre verano e invierno. En auto, la carretera es angosta y con muchas curvas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Taganana a 24 km del centro de Santa Cruz; guagua 946 desde el Intercambiador"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; la tarde para el atardecer en Benijo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (pueblos y playas públicas)"
+        },
+        {
+          "label": "Duración",
+          "value": "Un día entero en transporte público; medio día en auto"
+        }
+      ]
+    },
+    {
+      "nombre": "Plaza de España",
+      "desc": "La gran plaza frente al puerto, con un lago de agua de mar, el Cabildo y los restos del viejo castillo bajo el suelo.",
+      "detalle": "La plaza de España es el punto de partida natural para recorrer el centro. Se construyó en 1929 sobre el antiguo Castillo de San Cristóbal, la fortaleza principal de la ciudad. De ese castillo quedan tramos de muralla que se pueden ver en una galería subterránea bajo la plaza.\n\nLa remodelaron los arquitectos suizos Herzog & de Meuron, los mismos del TEA, dentro de un proyecto para unir la ciudad con el puerto. Su centro es un lago artificial de agua de mar, con un géiser, que se puede llenar o vaciar según el uso. En Carnaval es uno de los escenarios principales: acá cantó Celia Cruz en 1987. Domina el conjunto el Monumento a los Caídos, una torre en forma de cruz construida después de la Guerra Civil. A un lado está el Palacio Insular, sede del Cabildo de Tenerife.\n\nDesde acá conviene seguir a pie hacia la plaza de la Candelaria y la calle del Castillo, la peatonal comercial, y hacia la plaza del 25 de Julio. Es zona de terrazas para un café o un barraquito, el café con leche condensada y licor típico de Tenerife. El free tour de la ciudad suele arrancar por esta zona.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Frente al puerto, en el centro; a pocos minutos a pie del Intercambiador"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; de noche se ilumina el lago"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos; más si entrás a la galería del castillo"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo de Naturaleza y Arqueología (MUNA)",
+      "desc": "El gran museo de la isla: volcanes, fauna canaria y la historia de los guanches, en el antiguo Hospital Civil. Gratis viernes y sábados de tarde.",
+      "detalle": "El MUNA reúne en un mismo edificio el Museo de Ciencias Naturales y el Museo Arqueológico de Tenerife, que se mudaron al antiguo Hospital Civil en 1974 y 1994. Es el lugar para entender la isla antes de recorrerla: cómo se formaron los volcanes, qué especies viven solo en Canarias y cómo vivían los guanches, el pueblo que habitaba Tenerife antes de la conquista castellana. La sección de arqueología muestra su vida cotidiana y sus prácticas funerarias, y el museo es sede del Instituto Canario de Bioantropología.\n\nEl museo abre todos los días: de lunes a sábado de 9 a 19, y domingos y feriados de 10 a 17. Cierra el 24, 25 y 31 de diciembre, el 1 y el 6 de enero y el martes de Carnaval. Se entra hasta 30 minutos antes del cierre.\n\nDato para ahorrar: la entrada es gratis los viernes y sábados desde las 16 hasta el cierre (desde las 14 si cae feriado). La audioguía es gratuita y se escucha desde tu celular, en seis idiomas, incluido el español. Queda en la calle Fuente Morales, al lado del TEA, así que podés combinar los dos en una tarde.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Calle Fuente Morales s/n, junto al barranco de Santos y al TEA, en el centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; viernes o sábado desde las 16 para entrar gratis"
+        },
+        {
+          "label": "Entrada",
+          "value": "5 € adulto; 3 € residentes canarios; 3,50 € estudiantes, jubilados y mayores de 65; gratis menores de 8 y viernes y sábados desde las 16 (fuente: museosdetenerife.org, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Iglesia de la Concepción (Iglesia matriz de Nuestra Señora de la Concepción)",
+      "desc": "La iglesia madre de la ciudad, levantada donde se celebró la primera misa tras la conquista, con la única planta de cinco naves de Canarias.",
+      "detalle": "Los santacruceros la llaman 'la Catedral de Santa Cruz', aunque la catedral de la diócesis está en La Laguna. Se levantó sobre la primera ermita de los conquistadores, junto al lugar de la primera misa en la isla tras la fundación de la ciudad. Las obras empezaron en 1499, con el nombre de Santa Cruz; hacia 1638 pasó a llamarse de Nuestra Señora de la Concepción. Un incendio la arrasó en 1652 y se reconstruyó al año siguiente. La torre, la más alta de un templo en la capital, es de 1786.\n\nEs un ejemplo de barroco canario y la única iglesia de Canarias con cinco naves. Mirá la fachada con balcones canarios de madera y las esquinas de piedra basáltica oscura. Adentro se guarda la Santa Cruz de la Conquista, de plata, que según la tradición es la cruz fundacional de la ciudad. Es Bien de Interés Cultural desde 1983 y se reabrió en 1996, tras una larga restauración.\n\nEs una parroquia activa, no un museo: respetá las misas. No encontramos un horario oficial publicado; una guía de viaje indica que abre todos los días de 8:30 a 13 y de 17:30 a 20 (fuente: Nomado, agregador, verificado octubre 2026). Queda a metros del TEA, del MUNA y del Mercado de África.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Plaza de la Iglesia, a orillas del barranco de Santos, en el centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; a la mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis según guías de viaje; no hay tarifa oficial publicada"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Mercado de Nuestra Señora de África (La Recova)",
+      "desc": "El mercado municipal de la ciudad, con patio de aire colonial, puestos de fruta tropical, pescado y quesos canarios.",
+      "detalle": "La Recova, como le dicen en Santa Cruz, es el mercado municipal y uno de los lugares donde más se nota la vida local. El edificio se recorre en un rato, pero lo que vale es mirar y probar: frutas tropicales que se cultivan en las islas, como plátanos canarios, mangos y papayas; papas de variedades locales; mojos (las salsas canarias, rojo picante y verde de cilantro), quesos de cabra y puestos de pescado del día.\n\nTambién hay barras y kioscos para desayunar o picar algo, y es buen lugar para comprar recuerdos comestibles a precio de vecino, como mojo envasado o quesos. Los puestos se pagan con tarjeta en su mayoría, pero conviene tener algo de efectivo para compras chicas.\n\nHorario: el mercado abre por la mañana. Una guía de viaje indica que funciona todos los días de 6 a 14 (fuente: Cestee, agregador, verificado octubre 2026); no encontramos el horario oficial publicado, así que confirmalo antes, sobre todo los domingos y los lunes, cuando hay menos puestos abiertos. El Rastro (mercado de pulgas) de los domingos ya no está junto al mercado: desde marzo de 2025 se instala en la Avenida Marítima. Queda cruzando el barranco de Santos desde la Iglesia de la Concepción.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Avenida de San Sebastián, en el centro, junto al barranco de Santos"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Sábado a la mañana, cuando está más animado"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Parque García Sanabria",
+      "desc": "El gran parque urbano de la ciudad, de 1926, con un reloj de flores, fuentes y trece esculturas al aire libre.",
+      "detalle": "El García Sanabria es el pulmón verde del centro y, según Wikipedia, el mayor parque urbano de Tenerife: 67.230 metros cuadrados. Se construyó en 1926 bajo el mandato del alcalde Santiago García Sanabria, que le dio nombre, con planos de una casa granadina. Se remodeló entre 2004 y 2006 y en 2016 se lo declaró Bien de Interés Cultural de Canarias.\n\nQué ver: el reloj de flores de la entrada de la calle del Pilar, fabricado en Suiza y donado en 1958, que siempre está cubierto de flores frescas y es punto de encuentro clásico. En el centro, la fuente con el Monumento a García Sanabria, de 1938. Y repartidas por los senderos, trece esculturas que quedaron de la I Exposición Internacional de Escultura en la Calle, de 1973. Hay árboles y plantas de varios continentes, sombra y bancos.\n\nEs un buen lugar para descansar entre visitas o para ir con chicos. Queda junto a la Rambla de Santa Cruz, un paseo arbolado que también vale la pena recorrer a pie. Podés combinarlo con un café en las terrazas de la zona y seguir hacia el centro bajando por la calle del Pilar.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Entre la Rambla de Santa Cruz y las calles Numancia, Méndez Núñez y Dr. José Naveiras, en el centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañana o tarde"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (parque público)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Palmetum de Santa Cruz de Tenerife",
+      "desc": "Un jardín botánico de palmeras de 12 hectáreas, levantado sobre un viejo basural junto al mar, con vistas al puerto y al Auditorio.",
+      "detalle": "El Palmetum es una historia de reconversión. Ocupa una colina artificial que fue el basural de la ciudad hasta 1983. En 1995 se empezó a transformar en jardín botánico, las obras se frenaron varias veces por falta de fondos y recién se inauguró el 28 de enero de 2014. Hoy tiene 12 hectáreas y es el espacio verde más grande de la ciudad.\n\nSe especializa en palmeras: según Wikipedia, su colección de cerca de 600 especies es la mayor de la Unión Europea, con foco en las palmeras de islas de todo el mundo. Está organizado en secciones biogeográficas (por ejemplo Nueva Guinea y Borneo-Filipinas), con cascadas, arroyos y lagos, un museo dedicado a las palmeras y un gran umbráculo. Se mantiene sin pesticidas ni fertilizantes y hay muchas aves.\n\nAbre todos los días, feriados incluidos, de 10 a 18, con última entrada a las 17. Desde arriba se ve el Auditorio, el puerto y el mar. Hay poca sombra en algunos tramos: llevá gorro y agua. Queda al lado del Parque Marítimo César Manrique, en la zona de Cabo Llanos, a un paseo del Auditorio. Para grupos se puede contratar un guía con 15 días de anticipación.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Zona de Cabo Llanos, junto al Parque Marítimo, unos minutos más allá del Auditorio"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; a primera hora, antes del calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "Adulto no residente 6 €; niño no residente 2,80 €; adulto residente 3 €; menores de 3 gratis (fuente: palmetumtenerife.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "TEA Tenerife Espacio de las Artes",
+      "desc": "El centro de arte contemporáneo de la isla, obra de Herzog & de Meuron, con la colección de Óscar Domínguez. Entrada gratuita.",
+      "detalle": "El TEA abrió el 31 de octubre de 2008 a orillas del barranco de Santos, entre el Mercado de África y la Iglesia de la Concepción. Lo diseñó el estudio suizo Herzog & de Meuron, con dirección del arquitecto canario Virgilio Gutiérrez. El edificio, de unos 20.600 metros cuadrados, es en sí mismo parte de la visita: una calle pública lo cruza en diagonal y une la parte alta de la ciudad con la orilla del barranco.\n\nAdentro hay un museo y centro de arte contemporáneo, el Centro de Fotografía Isla de Tenerife y la Biblioteca Municipal Central, con sala de estudio abierta de 6 a 23. La colección permanente gira en torno a Óscar Domínguez, el pintor surrealista nacido en Tenerife, y se suman exposiciones temporales de artistas canarios e internacionales.\n\nAbre de martes a domingo de 10 a 20; los lunes cierra, salvo feriados. La entrada a las exposiciones es gratuita para todos, igual que las visitas guiadas. El cine del TEA proyecta cine de autor, independiente y documental en versión original, de viernes a domingo a las 19, por 4 €. Si viajás con poca plata, es uno de los mejores planes bajo techo de la ciudad. Combinalo con el MUNA, que está al lado.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Avenida de San Sebastián 10, en el centro, junto al MUNA"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; ideal para un día nublado"
+        },
+        {
+          "label": "Entrada",
+          "value": "Exposiciones y visitas guiadas gratis; cine 4 € (fuente: teatenerife.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Castillo de San Juan (Castillo Negro) y la costa del Auditorio",
+      "desc": "Una torre defensiva del siglo XVII junto al Auditorio, testigo de los ataques al puerto, que hoy se mira desde afuera.",
+      "detalle": "La torre costera de San Juan Bautista, conocida como Castillo de San Juan o Castillo Negro, fue la segunda fortaleza más importante en la defensa de Santa Cruz. Se construyó entre 1641 y 1643, cerca de la antigua Caleta de los Negros, con dinero que el capitán general exigió a los vecinos cuando la isla se sentía amenazada tras la sublevación de Portugal. Es una torre circular frente al mar, con explanada y troneras para cinco cañones, y muros de mampostería de 1,5 metros. Es Bien de Interés Cultural desde 1993.\n\nHoy queda detrás del Auditorio y al lado del Parque Marítimo César Manrique, así que el contraste entre la piedra oscura del siglo XVII y el hormigón blanco de Calatrava es parte del atractivo. Por dentro no suele abrirse al público: según guías de viaje se ve desde afuera, y es lo bastante chico para verlo entero desde el entorno.\n\nCada julio, alrededor del 25, en sus alrededores se recrea la Gesta del 25 de Julio, el rechazo al ataque de Nelson en 1797. Si te toca esa fecha, es un buen momento para venir. El resto del año, sumalo al paseo entre el Auditorio y el Palmetum.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Avenida de la Constitución, detrás del Auditorio"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; fines de julio por la recreación de la Gesta del 25 de Julio"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis por fuera; el interior no suele abrirse"
+        },
+        {
+          "label": "Duración",
+          "value": "15 a 20 minutos"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Auditorio de Tenerife (visita guiada)",
+      "precio": "General 5 €; menores de 12 gratis; grupos de 10 o más 4,50 €; mayores de 65 3,50 €; estudiantes y desempleados 3 €, con acreditación (fuente: auditoriodetenerife.com, verificado octubre 2026). Reservá por teléfono (922 568 600, ext. 201) o por mail a visitas@auditoriodetenerife.com"
+    },
+    {
+      "tipo": "MUNA, Museo de Naturaleza y Arqueología",
+      "precio": "Adulto 5 € (residente canario 3 €); estudiantes, jubilados, mayores de 65, familias numerosas y grupos de más de 8: 3,50 € (residentes 2 €); menores de 8 gratis; gratis para todos viernes y sábados desde las 16 (fuente: museosdetenerife.org, verificado octubre 2026). Se compra en la taquilla del museo"
+    },
+    {
+      "tipo": "Palmetum",
+      "precio": "Adulto no residente 6 €; niño no residente 2,80 €; adulto residente 3 €; residentes mayores de 65, menores de 12 y bonificados 1,50 €; menores de 3 gratis (fuente: palmetumtenerife.es, verificado octubre 2026). También lo vende Civitatis a 6 €"
+    },
+    {
+      "tipo": "Catedral de La Laguna (visita cultural)",
+      "precio": "General 7 €; mayores de 65 6 €; jóvenes de 13 a 18, universitarios hasta 25 y desempleados 5,50 €; menores de 13 y vecinos de la provincia de Santa Cruz de Tenerife gratis. Con subida a la torre: 10 € general (fuente: lalagunacatedral.com, verificado octubre 2026). Comprar en lalagunacatedral.com"
+    },
+    {
+      "tipo": "TEA Tenerife Espacio de las Artes",
+      "precio": "Exposiciones y visitas guiadas gratis; cine en versión original 4 € (fuente: teatenerife.es, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Parque Rural de Anaga (Sendero de los Sentidos, miradores, Cruz del Carmen)",
+      "precio": "Gratis y sin autorización; la Reserva Natural Integral de El Pijaral requiere reserva previa en Tenerife ON (fuente: blog de Fred. Olsen sobre Anaga, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Carnaval de Santa Cruz (fiesta en la calle)",
+      "precio": "Gratis. En 2027 la fiesta en la calle va del 19 al 28 de febrero (fuente: Diario de Avisos, marzo 2026, verificado octubre 2026). Galas y concursos se pagan aparte"
+    },
+    {
+      "tipo": "Playas de Las Teresitas y Benijo",
+      "precio": "Gratis (playas públicas)"
+    },
+    {
+      "tipo": "Parque García Sanabria, plaza de España, Iglesia de la Concepción y Mercado de África",
+      "precio": "Gratis (espacios públicos y templo en uso)"
+    },
+    {
+      "tipo": "MUNA + audioguía del Teide (combo)",
+      "precio": "Desde 11 € (fuente: Civitatis, verificado octubre 2026)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Free tour por el centro histórico de Santa Cruz",
+      "precio": "Sin precio fijo: se paga a voluntad al guía (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Guías locales que publican en Civitatis"
+    },
+    {
+      "actividad": "Senderismo guiado por el Parque Rural de Anaga (laurisilva)",
+      "precio": "Desde 24 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "3 horas",
+      "operador": "Empresas de turismo activo con salida desde La Laguna"
+    },
+    {
+      "actividad": "Senderismo a la playa de Antequera (Anaga) con regreso en barco",
+      "precio": "67 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "7 horas",
+      "operador": "Empresas de turismo activo de Santa Cruz"
+    },
+    {
+      "actividad": "Autobús turístico de Santa Cruz (sube y baja)",
+      "precio": "Desde 20 € (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "Ticket de 1 o 2 días",
+      "operador": "Bus turístico de Santa Cruz de Tenerife"
+    },
+    {
+      "actividad": "Excursión al Teide con teleférico y recogida en el norte",
+      "precio": "Desde 92 € (fuente: Civitatis, verificado octubre 2026). El Teide lo contamos en detalle en nuestras fichas de Costa Adeje y Puerto de la Cruz",
+      "duracion": "7 a 9 horas",
+      "operador": "Agencias de excursiones del norte de Tenerife"
+    },
+    {
+      "actividad": "Tour del vino por la comarca de Tacoronte-Acentejo",
+      "precio": "85 € (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "10 horas",
+      "operador": "Operadores de enoturismo del norte"
+    },
+    {
+      "actividad": "Excursión de un día a Gran Canaria (Las Palmas, Vegueta y acuario)",
+      "precio": "Desde 123 € (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "12 horas",
+      "operador": "Agencias de excursiones; incluye Vegueta, el acuario Poema del Mar y la destilería Arehucas"
+    },
+    {
+      "actividad": "Free tour de misterios y leyendas de La Laguna",
+      "precio": "Sin precio fijo (fuente: Civitatis, verificado octubre 2026); la versión con precio cerrado cuesta 13 €",
+      "duracion": "2 horas",
+      "operador": "Guías locales de La Laguna"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Tranvía de Tenerife (Metrotenerife): billete sencillo",
+      "precio": "1,35 € con tarjeta; 1,10 € con la app ten+ móvil (fuente: metrotenerife.com, verificado octubre 2026)",
+      "duracion": "Un viaje; la línea 1 va del Intercambiador de Santa Cruz a La Trinidad (La Laguna)",
+      "notas": "Sirve para un solo viaje en tranvía y no permite trasbordo. Se compra en la app ten+ móvil o en las expendedoras de las paradas. La línea 1 es la que usa el visitante: une el centro de Santa Cruz con La Laguna. Funciona desde 2007 y es el único transporte sobre rieles de Canarias."
+    },
+    {
+      "medio": "Abono turístico de 1 día o 7 días (tranvía + guaguas TITSA)",
+      "precio": "10 € el diario y 50 € el semanal (fuente: metrotenerife.com, verificado octubre 2026); la tarjeta ten+ rígida cuesta 2 €",
+      "duracion": "24 horas o 7 días desde la primera validación",
+      "notas": "Viajes ilimitados en el tranvía y en todas las líneas de TITSA. Se compra en la app ten+ móvil, en las expendedoras del tranvía, en las máquinas de los aeropuertos y en oficinas de TITSA y del tranvía. Conviene el día que vas a Anaga, Las Teresitas y La Laguna en el mismo día, o si vas al aeropuerto Sur."
+    },
+    {
+      "medio": "Bono 5 viajes y Bono 15 € (app ten+ móvil)",
+      "precio": "Bono 5 viajes 2,50 € (0,50 € el viaje en tranvía); Bono 15 € con viaje en tranvía a 0,85 € (fuente: metrotenerife.com, verificado octubre 2026)",
+      "duracion": "Según uso",
+      "notas": "Sólo en la app ten+ móvil. Valen para el tranvía y las líneas metropolitanas y urbanas de TITSA, con trasbordos bonificados bajo ciertas condiciones. Si vas a moverte poco entre Santa Cruz y La Laguna, sale más barato que el abono diario."
+    },
+    {
+      "medio": "Guaguas TITSA a playas y Anaga (910, 946, 948)",
+      "precio": "Se pagan con tarjeta bancaria, ten+ o los abonos de arriba; TITSA cobra por tarifa kilométrica y no publica el precio de cada trayecto en su web (fuente: titsa.com, verificado octubre 2026)",
+      "duracion": "Variable según línea",
+      "notas": "La 910 va del Intercambiador a Las Teresitas, con salidas cada 10 minutos en verano 2026 según TITSA. La 946 llega a Taganana y Almáciga. La 948 es estacional hacia Benijo. Para Cruz del Carmen hay que ir hasta el Intercambiador de La Laguna. Revisá horarios en titsa.com: cambian entre verano e invierno."
+    },
+    {
+      "medio": "A pie",
+      "precio": "Gratis",
+      "duracion": "El centro se recorre en un día",
+      "notas": "Plaza de España, calle del Castillo, la Concepción, el TEA, el MUNA, el Mercado de África y el García Sanabria quedan a distancia de caminata. El Auditorio y el Palmetum, un poco más lejos pero por la costa."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto Tenerife Norte (TFN) → La Laguna → Santa Cruz",
+      "empresas": "TITSA línea 20 Santa Cruz - La Laguna - Aeropuerto Norte",
+      "precio": "2,65 € el trayecto (fuente: Teneriffa News, nota sobre líneas aeroexprés 2026, verificado octubre 2026); también vale el abono turístico de 10 € el día (fuente: metrotenerife.com, verificado octubre 2026)",
+      "duracion": "Variable; según la misma nota, sale cada 15 a 25 minutos entre semana"
+    },
+    {
+      "ruta": "Aeropuerto Tenerife Sur (TFS) → Santa Cruz",
+      "empresas": "TITSA línea 10 Santa Cruz - Aeropuerto Sur; de noche, línea 711 (Santa Cruz - Aeropuerto Sur - Los Cristianos - Costa Adeje)",
+      "precio": "Tarifa kilométrica no publicada por trayecto en la web de TITSA; con abono turístico, 10 € el día más 2 € la tarjeta (fuente: titsa.com y metrotenerife.com, verificado octubre 2026)",
+      "duracion": "Cruza media isla por autopista; consultá el tiempo de viaje en titsa.com"
+    },
+    {
+      "ruta": "Ferry Gran Canaria (Agaete) → Santa Cruz",
+      "empresas": "Fred. Olsen Express (barcos Bajamar Express, Bencomo Express y otros)",
+      "precio": "Pasajero a pie de 45,98 € a 62,06 € por trayecto (fuente: Ferryscanner, agregador, verificado octubre 2026). Fred. Olsen anuncia 'desde 12 €', pero es precio para residentes canarios (fuente: fredolsen.es, verificado octubre 2026)",
+      "duracion": "80 minutos según Fred. Olsen"
+    },
+    {
+      "ruta": "Ferry Las Palmas de Gran Canaria → Santa Cruz",
+      "empresas": "Naviera Armas",
+      "precio": "Pasajero a pie de 57,23 € a 102,41 € por trayecto (fuente: Ferryscanner, agregador, actualizado mayo 2026, verificado octubre 2026)",
+      "duracion": "Alrededor de 1 h 40 min; en temporada baja hay menos salidas por semana"
+    },
+    {
+      "ruta": "Desde Costa Adeje, Los Cristianos o Puerto de la Cruz",
+      "empresas": "Guaguas TITSA por autopista (consultá la línea en titsa.com); de noche, la 711 une Costa Adeje y Los Cristianos con Santa Cruz",
+      "precio": "Con abono turístico 10 € el día o tarifa kilométrica (fuente: titsa.com y metrotenerife.com, verificado octubre 2026)",
+      "duracion": "Variable; por autopista"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Hostels en el centro y en La Laguna",
+      "nivel": 2,
+      "opciones": "Wanderlust Hostel (centro de Santa Cruz) desde 31-47 € la noche; Tenerife Experience Hostel 72 €; Tenerife Art Hostel 79 €; en La Laguna, Patio Hostel (sólo adultos) 26 € y La Terrera Youth Hostel 48 € (fuente: Kayak, búsqueda para el 10-11 de octubre, verificado octubre 2026). Según Kayak, el jueves es el día más barato y el viernes el más caro. Para Anaga, el Albergue Montes de Anaga, en Taganana, sale desde 41 €"
+    },
+    {
+      "categoria": "Hoteles de tres estrellas en el centro",
+      "nivel": 3,
+      "opciones": "Hotel Adonis Plaza desde US$ 84 la noche; NH Tenerife US$ 89 (fuente: Kayak, precios en dólares tal como los muestra el buscador, verificado octubre 2026). Diciembre es el mes más caro según Kayak; en Carnaval los precios suben y conviene reservar con meses de anticipación"
+    },
+    {
+      "categoria": "Hoteles de cuatro estrellas",
+      "nivel": 4,
+      "opciones": "Hotel Taburiente desde US$ 102 la noche; Hotel Escuela Santa Cruz US$ 89; Canary Lofts Palace US$ 80 (fuente: Kayak, verificado octubre 2026). Kayak indica que lo habitual para un cuatro estrellas en Santa Cruz es unos US$ 162 la noche"
+    },
+    {
+      "categoria": "Lujo clásico: Iberostar Heritage Grand Mencey",
+      "nivel": 5,
+      "opciones": "El gran hotel clásico de cinco estrellas de la ciudad: desde US$ 142 la noche en Kayak (fuente: Kayak, verificado octubre 2026); 128 € la noche para dos adultos entre el 24 y el 26 de julio de 2026, más un suplemento turístico por persona y noche que se paga en el hotel (fuente: Logitravel, verificado octubre 2026). En Carnaval y diciembre sube"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Barraquito y desayuno de mercado",
+      "nivel": 1,
+      "opciones": "El barraquito es el café de Tenerife: café con leche condensada, leche, licor y canela, en vaso de capas. En la capital también lo piden como 'zaperoco'. En el Planet Café de Santa Cruz un cliente pagó 4,70 € por un bocado de pollo más un barraquito (fuente: opinión publicada en Gastroranking, agregador, verificado octubre 2026). Para picar algo barato, las barras del Mercado de Nuestra Señora de África"
+    },
+    {
+      "tipo": "Guachinches (casas de comida familiares del norte)",
+      "nivel": 2,
+      "opciones": "Locales sencillos, muchos en las afueras de La Laguna, que sirven papas arrugadas con mojo, carne a la brasa, carne fiesta (cerdo adobado) y vino de la casa: unos 12-18 € por persona (fuente: Teneriffa News, guía de viaje, julio 2026, verificado octubre 2026). Casi siempre se paga en efectivo y la cocina puede cerrar a las 15:30"
+    },
+    {
+      "tipo": "Cocina canaria clásica en el centro: La Hierbita",
+      "nivel": 3,
+      "opciones": "Restaurante histórico de la calle Clavel, abierto en 1893 según guías locales. Papas arrugadas, queso, almogrote (paté de queso curado con ají y ajo), gambas al ajillo y postres como quesillo o leche frita. Un grupo de cuatro pagó 21,90 € por persona en abril de 2026 (fuente: opinión publicada en Gastroranking, agregador, verificado octubre 2026). Reservá los fines de semana"
+    },
+    {
+      "tipo": "Cocina actual con reconocimiento Michelin",
+      "nivel": 4,
+      "opciones": "San Sebastián 57, a pasos del Mercado de África, y El Aguarde, cerca de la Rambla, tienen Bib Gourmand, la distinción de la Guía Michelin para buena relación calidad-precio; la guía los ubica en su franja de precio €€ (fuente: Guía Michelin, verificado octubre 2026). San Sebastián 57 suele estar lleno: reservá. No publican precios en la guía, así que mirá la carta en su web antes de ir"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa para ir a Santa Cruz de Tenerife?",
+      "a": "No, si tenés pasaporte de Argentina, Uruguay, Chile, México, Colombia o Perú y viajás como turista por hasta 90 días dentro de cualquier período de 180 en el espacio Schengen. Canarias es España y forma parte de Schengen. Desde el 10 de abril de 2026 el EES está operativo a pleno: en el primer control de frontera Schengen te registran huellas y foto en lugar del sello. Si llegás con escala en Madrid u otra ciudad Schengen, ese control lo hacés ahí y no en Tenerife. El ETIAS, la autorización online previa, todavía no se pide: se postergó y se espera para 2027. Llevá pasaje de vuelta, reserva de alojamiento y seguro de viaje por si te los piden."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse en Santa Cruz?",
+      "a": "Con tres días hacés lo principal sin correr. Un día para el centro: plaza de España, Iglesia de la Concepción, Mercado de África, TEA y MUNA, y el Auditorio al atardecer. Otro para La Laguna en tranvía a la mañana y Anaga (Cruz del Carmen y el Sendero de los Sentidos) a la tarde. Un tercero para Taganana, Benijo y Las Teresitas. Con cinco o más días podés sumar una excursión al Teide o a La Orotava y Puerto de la Cruz, que contamos en sus propias fichas, o cruzar en ferry a Gran Canaria, a 80 minutos en el barco rápido de Fred. Olsen."
+    },
+    {
+      "q": "¿Me conviene alquilar auto?",
+      "a": "Para la ciudad no. El centro se camina, el tranvía te lleva a La Laguna y las guaguas de TITSA llegan a Las Teresitas, Taganana y Almáciga. El abono turístico cuesta 10 € por día o 50 € por semana (más 2 € la tarjeta) y sirve en guaguas y tranvía. El auto suma si querés recorrer Anaga con libertad o ir al Teide a tu ritmo, pero tené en cuenta que las rutas de Anaga son angostas y con muchas curvas, y que los estacionamientos de Cruz del Carmen se llenan los fines de semana. En la ciudad, el parking del Auditorio cobra 0,80 € la hora (fuente: auditoriodetenerife.com, verificado octubre 2026)."
+    },
+    {
+      "q": "¿Es seguro Santa Cruz de Tenerife?",
+      "a": "Es una capital tranquila para los estándares de una ciudad de más de 200.000 habitantes. Lo que conviene cuidar es lo de siempre: no dejar cosas a la vista en el auto ni sueltas en la playa, y estar atento en las aglomeraciones del Carnaval, cuando hay cientos de miles de personas en la calle. En la naturaleza los riesgos son otros: en Benijo y las playas del norte de Anaga el Cabildo recomienda no alejarse de la orilla, sobre todo con mar movido. En los senderos de Anaga la niebla y la humedad hacen resbaladizas las raíces y escalones: llevá calzado con suela firme y agua. Emergencias: 112."
+    },
+    {
+      "q": "¿Cuándo es el Carnaval y vale la pena ir?",
+      "a": "Si te gustan las fiestas populares, sí. Es uno de los carnavales más grandes de España y fue declarado de Interés Turístico Internacional en 1980. En 2027 se corre: según Diario de Avisos, la gala de elección de la Reina será el 17 de febrero y la fiesta en la calle irá del 19 al 28 de febrero, con el martes 23 como feriado local. La fiesta en la calle es gratis y la gente sale disfrazada. El costo está en el alojamiento: los hoteles del centro se llenan, así que reservá con meses de anticipación o dormí en La Laguna y movete en tranvía. Confirmá el programa en la web oficial del Carnaval antes de comprar pasajes."
+    },
+    {
+      "q": "¿Puedo pagar con tarjeta o necesito efectivo?",
+      "a": "La tarjeta funciona en casi todos lados: hoteles, restaurantes, museos, tranvía y guaguas. En las guaguas de TITSA conviene pagar con tarjeta bancaria, con la tarjeta ten+ o con la app ten+ móvil, donde además están los bonos más baratos. Llevá algo de efectivo para los guachinches, que según guías de viaje casi siempre cobran sólo en efectivo, y para compras chicas en los puestos del Mercado de África. Avisale a tu banco que vas a usar la tarjeta en España y revisá la comisión por uso en el exterior."
+    },
+    {
+      "q": "¿Qué conviene hacer gratis o barato?",
+      "a": "Bastante. El TEA es gratis todos los días que abre. El MUNA es gratis los viernes y sábados desde las 16. Las playas de Las Teresitas y Benijo, el parque García Sanabria, la plaza de España, la Rambla y el exterior del Auditorio no cuestan nada. En Anaga, el Sendero de los Sentidos y los miradores de Cruz del Carmen son gratis y sin autorización. Hay free tours en español por Santa Cruz y por La Laguna, donde pagás a voluntad. Y para moverte, el Bono 5 viajes de la app ten+ móvil cuesta 2,50 €, con viajes en tranvía a 0,50 €."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Santa Cruz de Tenerife»: https://es.wikipedia.org/wiki/Santa_Cruz_de_Tenerife",
+      "Wikipedia (ES) — «San Cristóbal de La Laguna»: https://es.wikipedia.org/wiki/San_Crist%C3%B3bal_de_La_Laguna",
+      "Wikipedia (ES) — «Carnaval de Santa Cruz de Tenerife»: https://es.wikipedia.org/wiki/Carnaval_de_Santa_Cruz_de_Tenerife",
+      "Wikipedia (ES) — «Macizo de Anaga»: https://es.wikipedia.org/wiki/Macizo_de_Anaga",
+      "Wikipedia (ES) — «Tranvía de Tenerife»: https://es.wikipedia.org/wiki/Tranv%C3%ADa_de_Tenerife",
+      "Museos de Tenerife — «Historia del MUNA»: https://www.museosdetenerife.org/muna-museo-de-naturaleza-y-arqueologia/historia/"
+    ],
+    "que_ver_atracciones": [
+      "Auditorio de Tenerife — «Información (visitas guiadas y tarifas)»: https://auditoriodetenerife.com/es/informacion",
+      "Museos de Tenerife — «MUNA: visitas, horarios y tarifas»: https://www.museosdetenerife.org/muna-museo-de-naturaleza-y-arqueologia/visitas/",
+      "TEA Tenerife Espacio de las Artes — «Visitas»: https://teatenerife.es/visitas",
+      "Palmetum Tenerife — «Tarifas»: https://palmetumtenerife.es/tarifas/",
+      "Palmetum Tenerife — «Horarios»: https://palmetumtenerife.es/horarios",
+      "Catedral de La Laguna — «Visita cultural»: https://lalagunacatedral.com/visita-cultural/",
+      "Wikipedia (ES) — «Auditorio de Tenerife»: https://es.wikipedia.org/wiki/Auditorio_de_Tenerife",
+      "Wikipedia (ES) — «Parque García Sanabria»: https://es.wikipedia.org/wiki/Parque_Garc%C3%ADa_Sanabria",
+      "Wikipedia (ES) — «Iglesia matriz de la Concepción (Santa Cruz de Tenerife)»: https://es.wikipedia.org/wiki/Iglesia_matriz_de_la_Concepci%C3%B3n_(Santa_Cruz_de_Tenerife)",
+      "Wikipedia (ES) — «Palmetum de Santa Cruz de Tenerife»: https://es.wikipedia.org/wiki/Palmetum_de_Santa_Cruz_de_Tenerife",
+      "Wikipedia (ES) — «Tenerife Espacio de las Artes»: https://es.wikipedia.org/wiki/Tenerife_Espacio_de_las_Artes",
+      "Wikipedia (ES) — «Castillo de San Juan (Santa Cruz de Tenerife)»: https://es.wikipedia.org/wiki/Castillo_de_San_Juan_(Santa_Cruz_de_Tenerife)",
+      "Wikipedia (ES) — «Plaza de España (Santa Cruz de Tenerife)»: https://es.wikipedia.org/wiki/Plaza_de_Espa%C3%B1a_(Santa_Cruz_de_Tenerife)",
+      "Wikipedia (ES) — «Playa de Las Teresitas»: https://es.wikipedia.org/wiki/Playa_de_Las_Teresitas",
+      "Wikipedia (ES) — «Playa de Benijo»: https://es.wikipedia.org/wiki/Playa_de_Benijo",
+      "Wikipedia (ES) — «Taganana»: https://es.wikipedia.org/wiki/Taganana",
+      "Wikipedia (ES) — «Roque de Taborno»: https://es.wikipedia.org/wiki/Roque_de_Taborno",
+      "Wikipedia (ES) — «Cruz del Carmen»: https://es.wikipedia.org/wiki/Cruz_del_Carmen",
+      "Fred. Olsen (blog) — «Los mejores senderos de Anaga: rutas, itinerarios y permisos»: https://www.fredolsen.es/blog/rutas/guia-de-rutas-y-senderos-por-el-parque-rural-de-anaga/",
+      "Hola Islas Canarias (turismo oficial de Canarias) — «Sendero de los Sentidos»: https://www.holaislascanarias.com/senderismo/tenerife/sendero-de-los-sentidos/",
+      "Diario de Avisos — «Oficial: Santa Cruz retrasa dos semanas el Carnaval 2027»: https://diariodeavisos.elespanol.com/2026/03/oficial-santa-cruz-retrasa-dos-semanas-carnaval-2027/",
+      "Cestee (guía, agregador) — «Mercado Nuestra Señora de África»: https://www.cestee.es/destino/espana/santa-cruz-de-tenerife/mercado-nuestra-senora-de-africa",
+      "RTVC — «El Rastro de Santa Cruz de Tenerife vuelve a su ubicación original»: https://rtvc.es/rastro-sc-de-tenerife-vuelve-a-su-ubicacion-original/",
+      "Nomado (guía, agregador) — «Iglesia de la Concepción Santa Cruz»: https://www.nomadotravel.app/es/attractions/iglesia-de-la-concepcion-santa-cruz"
+    ],
+    "como_llegar_transporte": [
+      "Metrotenerife — «Billetes y tarifas»: https://metrotenerife.com/billetes-y-tarifas/",
+      "TITSA — «Aeropuerto Tenerife Norte»: https://titsa.com/index.php/tenerife-en-guagua/lineas-de-aeropuertos/aeropuerto-tenerife-norte",
+      "TITSA — «Aeropuerto Tenerife Sur»: https://titsa.com/index.php/tenerife-en-guagua/lineas-de-aeropuertos/aeropuerto-tenerife-sur",
+      "TITSA — «Tarifas vigentes»: https://titsa.com/index.php/tus-guaguas/billetes-y-tarifas/tarifas-vigentes",
+      "Teneriffa News — «Tenerife airport bus: new routes»: https://www.teneriffa-news.com/en/news/tenerife-airport-bus-new-routes_1464775.html",
+      "RTVC — «Un carril guagua para la playa de Las Teresitas»: https://rtvc.es/carril-guagua-playa-de-las-teresitas/",
+      "Fred. Olsen Express — «Tenerife - Gran Canaria»: https://www.fredolsen.es/es/rutas/tenerife-gran-canaria",
+      "Ferryscanner (agregador) — «Ferry Agaete - Santa Cruz de Tenerife»: https://ferryscanner.com/en/ferry-routes/ferry-agaete-gran-canaria-santa-cruz-tenerife",
+      "Ferryscanner (agregador) — «Ferry Las Palmas - Santa Cruz de Tenerife»: https://www.ferryscanner.com/es/rutas-ferry/ferry-las-palmas-gran-canaria-santa-cruz-tenerife"
+    ],
+    "precios_2026": [
+      "Civitatis — «Excursiones y actividades en Santa Cruz de Tenerife»: https://www.civitatis.com/es/santa-cruz-de-tenerife/",
+      "Civitatis — «Excursiones y actividades en San Cristóbal de La Laguna»: https://www.civitatis.com/es/san-cristobal-de-la-laguna/",
+      "Civitatis — «Excursiones y actividades en Tenerife»: https://www.civitatis.com/es/tenerife/"
+    ],
+    "visados_entrada": [
+      "InsideFlyer — «ETIAS launch delayed again, now expected in 2027»: https://www.insideflyer.com/posts/etias-launch-delayed-again-now-expected-in-2027/",
+      "Newland Chase — «Schengen: EES flexibility lapses as ETIAS launch appears likely to move to 2027»: https://newlandchase.com/schengen-ees-flexibility-lapses-as-etias-launch-appears-likely-to-move-to-2027/"
+    ],
+    "alojamiento_gastronomia": [
+      "Kayak — «Hoteles en Santa Cruz de Tenerife»: https://www.es.kayak.com/Hoteles-en-Santa-Cruz-de-Tenerife.49338.hotel.ksp",
+      "Kayak — «Albergues en Santa Cruz de Tenerife»: https://www.kayak.es/Hoteles-en-Santa-Cruz-de-Tenerife_Albergue.Thostel.49338.hotel.ksp",
+      "Logitravel — «Iberostar Heritage Grand Mencey»: https://www.logitravel.com/hoteles-playa/espana/islas-canarias/santa-cruz-de-tenerife/iberostar-heritage-grand-mencey--hotel-2264?hotel=2264",
+      "Gastroranking (agregador) — «La Hierbita en Santa Cruz de Tenerife»: https://gastroranking.es/r/la-hierbita_11423/",
+      "Gastroranking (agregador) — «Planet cafe en Santa Cruz de Tenerife»: https://gastroranking.es/r/planet-cafe-2_191862/",
+      "Teneriffa News — «Guachinches in La Laguna»: https://www.teneriffa-news.com/en/restaurant-en/tenerife/la-laguna/guachinches",
+      "Guía Michelin — «San Sebastián 57»: https://guide.michelin.com/es/es/canarias/santa-cruz-de-tenerife/restaurante/san-sebastian-57",
+      "Guía Michelin — «El Aguarde»: https://guide.michelin.com/es/es/canarias/santa-cruz-de-tenerife/restaurante/el-aguarde"
+    ]
+  }
+}
