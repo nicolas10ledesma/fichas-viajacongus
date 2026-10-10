@@ -1,0 +1,607 @@
+{
+  "slug": "albufeira",
+  "name": "Albufeira",
+  "region": "Algarve (distrito de Faro)",
+  "lat": 37.0891,
+  "lon": -8.2479,
+  "datosRapidos": [
+    {
+      "label": "Región",
+      "value": "Albufeira es una ciudad de la costa sur de Portugal, en el Algarve, la región que mira al Atlántico en el extremo sur del país. Es cabecera de un municipio de 140,66 km² dividido en cuatro freguesías (parroquias): Albufeira e Olhos de Água, Ferreiras, Guia y Paderne. Según el censo de 2021 del INE, el municipio tenía 44.164 habitantes. En verano y en las fiestas de fin de año la población flotante se dispara: se habla de unas 300.000 personas. Se la conoce por dos cosas. La primera, un casco antiguo de casas blancas colgado sobre acantilados de roca ocre, con playas que empiezan literalmente debajo de la plaza. La segunda, que es uno de los grandes centros de turismo de playa del país: en 2025 fue el segundo destino de Portugal en número de pernoctaciones y el primero del Algarve. Fue romana (Baltum), después musulmana durante más de cinco siglos con el nombre de al-Buhayra, y cristiana desde 1249. El terremoto de 1755 la dejó casi en ruinas y el turismo la reinventó desde los años sesenta. Fue elevada a ciudad el 23 de agosto de 1986. Hoy es base cómoda para recorrer la costa de acantilados entre Lagos y Faro."
+    },
+    {
+      "label": "Moneda e idioma",
+      "value": "Se paga en euros y la tarjeta funciona casi en todos lados, aunque algunos hostels y bares chicos piden efectivo o sólo tarjeta, así que tené las dos cosas. El idioma es el portugués. En la zona turística casi todo el mundo habla inglés y mucha gente entiende español si hablás despacio. Ojo con la tasa turística municipal: 2 € por persona y por noche, de abril a octubre, para mayores de 13 años y hasta 7 noches seguidas. Se paga en el alojamiento."
+    },
+    {
+      "label": "Mejor época",
+      "value": "El clima es mediterráneo y seco. La máxima media va de 16,2 °C en enero a 29,1 °C en julio, y llueve sobre todo de octubre a marzo (485 mm al año, datos del Met Office). Julio y agosto son caros y están llenos. Mayo, junio y septiembre tienen mar templado, precios más bajos y menos gente. En invierno el pueblo baja el ritmo: muchos negocios cierran, el Aerobus pasa a 2 viajes por día y no se cobra la tasa turística."
+    },
+    {
+      "label": "Ciudad de servicio",
+      "value": "El aeropuerto más cercano es el de Faro (FAO), conectado con Albufeira por el Aerobus línea 56 de Vamus, que para en la terminal de colectivos de Caliços, a 1,6 km del casco antiguo. La estación de tren se llama Albufeira-Ferreiras y queda fuera del centro, en la freguesía de Ferreiras: ahí paran los Intercidades y Alfa Pendular desde Lisboa y los regionales de la Línea del Algarve. Desde Albufeira se recorre fácil Carvoeiro, Benagil, Silves, Faro y Lagos."
+    }
+  ],
+  "intro": [
+    "Albufeira es el lugar donde bajás de la plaza principal por un túnel en la roca y salís a la arena. El casco antiguo, blanco y en pendiente, termina en la Praia do Peneco y la Praia dos Pescadores, donde todavía hay barcos de pesca de colores sobre la arena. A pocos minutos tenés acantilados rojos, calas escondidas y una costa que se entiende mejor desde el agua. Es un destino de playa sin vueltas, con mucha oferta y precios que, fuera de julio y agosto, todavía son razonables para Europa occidental.",
+    "No todo es fiesta. Es cierto que la zona de Oura y la calle conocida como The Strip viven de la noche, pero el resto del municipio es otra cosa: la Praia da Falésia con más de 3 km de arena bajo acantilados con pinos, las rocas talladas de São Rafael, la laguna de los Salgados con aves, y tierra adentro un castillo almohade de tapia en Paderne. Y en Guia, a pocos kilómetros, nació el pollo al piri-piri que hoy se come en todo Portugal.",
+    "Para quien viaja con poca plata, Albufeira tiene ventajas concretas: las playas son públicas y gratis, el tren regional te lleva a Faro por 3,80 € y a Lagos por 5,45 €, y el pase turístico de colectivos Vamus cubre toda la región. Desde la Marina salen los barcos a las cuevas de Benagil, la excursión más pedida del Algarve. Con tres o cuatro días alcanza para la ciudad, dos o tres playas distintas y una salida a la costa de Lagoa."
+  ],
+  "historia_corta": "El lugar estuvo habitado desde la prehistoria y los romanos tuvieron acá un asentamiento llamado Baltum; en el municipio se excavó la villa romana de la Retorta. En 716 llegaron los musulmanes, que la llamaron al-Buhayra, palabra árabe que suele traducirse como 'la laguna' o 'junto al mar' y de la que sale el nombre actual. Fue una plaza fortificada, y tierra adentro, sobre la ribera de Quarteira, se levantó en los siglos XI o XII el castillo de Paderne, hecho de tapia (tierra apisonada). Sancho I tomó Paderne en 1189, pero los musulmanes lo recuperaron. La reconquista definitiva llegó en 1248 y 1249: los caballeros de la Orden de Santiago, con Paio Peres Correia, tomaron Paderne, y Afonso III conquistó Albufeira en 1249, uno de los últimos bastiones musulmanes del Algarve. En 1250 pasó a la Orden de Avis y en 1504 Manuel I le dio un nuevo fuero. El 1 de noviembre de 1755 el gran terremoto y el maremoto inundaron la parte baja y destruyeron casi todo; unas 227 personas murieron al caer la nave de la iglesia donde se habían refugiado. La Igreja Matriz actual se empezó en 1782 y se consagró en 1800. El 27 de julio de 1833, en plena guerra civil entre liberales y miguelistas, la guerrilla de Remexido sitió la villa y un incendio dejó 174 muertos. Durante el siglo XIX y buena parte del XX vivió de la pesca y del campo. Desde los años sesenta llegó el turismo, primero británico, y el pueblo creció hacia Oura, Olhos de Água y la Galé. Fue elevada a ciudad el 23 de agosto de 1986 y hoy es uno de los municipios con más pernoctaciones turísticas de Portugal.",
+  "queVer": [
+    {
+      "nombre": "Casco antiguo de Albufeira (Cidade Velha)",
+      "desc": "Calles empedradas, casas blancas e iglesias reconstruidas tras 1755, colgadas sobre el mar y a un paso de las playas del centro.",
+      "detalle": "El casco antiguo es el corazón del viaje y se recorre a pie en una mañana. Arranca en el Largo Engenheiro Duarte Pacheco, la plaza con bares y terrazas, y sube por calles angostas de casas blancas con detalles en azul hacia la parte alta.\n\nLo que conviene buscar: la Torre do Relógio, en la Rua Bernardino de Sousa, una torre del siglo XIX que el municipio considera su símbolo y que todavía funciona como campanario; la Igreja Matriz de Nossa Senhora da Conceição, empezada en 1782 y consagrada en 1800 para reemplazar la iglesia destruida por el terremoto de 1755; y la Ermida de São Sebastião, de los siglos XVI-XVII, dañada en 1755 y restaurada en tres meses. En la Praça da República está el Museo Municipal de Arqueología, sobre el acantilado.\n\nDesde los miradores sobre la Praia do Peneco se ve toda la bahía, con la Marina al oeste y los acantilados hacia Oura al este. Al caer el sol las calles se llenan de restaurantes con mesas afuera: mirá bien la carta antes de sentarte, porque en las calles más turísticas los precios suben. Llevá calzado cómodo: hay escaleras y mucha pendiente.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de la ciudad; 1,6 km desde la terminal de colectivos de Caliços"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano o al atardecer; todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas caminando"
+        }
+      ]
+    },
+    {
+      "nombre": "Praia do Peneco y Praia dos Pescadores",
+      "desc": "Las dos playas urbanas del centro: se baja por un túnel en la roca o en ascensor, y en Pescadores todavía hay barcos sobre la arena.",
+      "detalle": "Son las playas que aparecen en todas las postales de Albufeira, una al lado de la otra, debajo del casco antiguo. Según el municipio, el Peneco debe su nombre a un enorme peñasco suelto en la arena (en el habla local, a esas rocas se les dice 'penecos'). Es la primera playa al este de la Marina y está en plena trama urbana.\n\nSe baja de tres maneras: por un túnel cavado en el acantilado que sale a una gran terraza sobre la playa, por la escalera del lado oeste, o por un ascensor público en la zona del Rossio. Seguís caminando hacia el este y entrás en la Praia dos Pescadores, donde el acantilado se corta. Gran parte de la arena está reservada a los barcos de pesca artesanal, pintados y decorados; el nombre viene de cuando toda la flota paraba acá, antes de mudarse al puerto pesquero moderno.\n\nSon playas de arena dorada, con servicios y uso intensivo: en julio y agosto conseguir lugar al mediodía cuesta. Si querés foto sin gente, andá a primera hora. Al atardecer la terraza del túnel es buen lugar para un café. El agua del Atlántico acá es más fresca que la del Mediterráneo, incluso en verano.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al pie del casco antiguo; acceso por túnel, escalera o ascensor del Rossio"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre para nadar; temprano para fotos"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playas públicas)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o lo que quieras"
+        }
+      ]
+    },
+    {
+      "nombre": "Cuevas de Benagil en barco desde la Marina (Gruta de Benagil)",
+      "desc": "La cueva marina con una abertura en el techo, en la costa de Lagoa. Se visita en barco o kayak guiado: nadar o desembarcar está prohibido.",
+      "detalle": "La Gruta de Benagil es una cueva marina enorme, con una abertura redonda en el techo por donde entra la luz sobre una pequeña playa interior. Está en el municipio de Lagoa, al oeste de Albufeira, dentro del Parque Natural Marino del Algarve, y es la excursión más vendida de toda la región.\n\nLas reglas cambiaron en agosto de 2024 y siguen vigentes. La Autoridad Marítima Nacional (Capitanía de Portimão) prohibió desembarcar o usar la arena dentro de la cueva, entrar nadando o con flotadores y alquilar kayaks sin guía. También fijó un máximo de barcos y kayaks adentro al mismo tiempo, tiempos máximos de visita y un guía cada seis kayaks. Las multas a operadores llegan a 216.000 €. Traducido: la foto clásica parado en la arena ya no se puede hacer.\n\nDesde la Marina de Albufeira salen barcos que combinan cuevas y delfines. Dream Wave, por ejemplo, avisa que por la normativa el barco sólo puede quedarse unos minutos dentro de la cueva, que en temporada alta puede haber espera en la entrada y que si el mar está bravo las autoridades cierran el acceso y se ve de lejos. Se navega frente a la costa de acantilados, arcos y otras grutas. No es apto para embarazadas ni para bebés de menos de un año. Llevá campera en temporada fresca: en lancha rápida el viento enfría.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Salida desde la Marina de Albufeira; la cueva está en la costa de Lagoa"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mayo a octubre, por la mañana con mar calmo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Cuevas + delfines con Dream Wave: 37,10 € mayores de 11; 26,50 € niños de 1 a 10 (fuente: dreamwavealgarve.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Hasta 2 h 30 min"
+        }
+      ]
+    },
+    {
+      "nombre": "Praia da Falésia",
+      "desc": "Más de 3 km de arena bajo acantilados rojos y ocres coronados de pinos, al este de Olhos de Água. La playa larga del municipio.",
+      "detalle": "Si de Albufeira te queda una sola imagen, probablemente sea esta: una franja de arena enorme y recta, con un acantilado continuo de tonos rojos, naranjas y blancos y, arriba, manchas verdes de pino piñonero. Según el municipio, la arena se extiende por más de 3 km hacia el este. El municipio la divide en tramos con nombre propio, como Falésia-Açoteias y Falésia-Alfamar.\n\nAl tramo de Açoteias se llega por camino asfaltado a través de la Aldeia das Açoteias, y a la arena se baja por escaleras de madera. Como es tan larga, nunca se siente tan llena como las playas del centro: caminando un rato encontrás espacio incluso en agosto.\n\nLo mejor es caminar por la orilla con la marea baja y ver los colores del acantilado cambiar con la luz de la tarde. El municipio organiza paseos de geología sobre las 'historias de la Tierra grabadas' en esta playa. No te pongas debajo del acantilado: los derrumbes son frecuentes en toda la costa del Algarve y hay carteles de aviso. Llevá agua y sombrilla si vas a un tramo sin servicios.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al este de la ciudad; acceso en auto por la Aldeia das Açoteias"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre; atardecer para fotos"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Zoomarine (Guia)",
+      "desc": "Parque temático marino con delfines, lobos marinos, aves, piletas y juegos, en Guia. Uno de los paseos de familia más conocidos del Algarve.",
+      "detalle": "Zoomarine es un parque que mezcla zoológico marino, espectáculos y parque acuático. Está en Guia, dentro del municipio de Albufeira, sobre la ruta nacional 125. Tiene presentaciones con delfines y otros animales, atracciones zoológicas, juegos mecánicos y una zona de piletas. Para otoño programa actividades de Halloween.\n\nAbre por temporada. En la web oficial la temporada baja va del 12 de marzo al 31 de mayo y del 1 de octubre al 28 de noviembre; la alta, del 1 de junio al 30 de septiembre. El calendario y los horarios cambian por día, así que miralo antes de ir. Los chicos de menos de 1 metro entran gratis, pero igual hay que incluirlos en la reserva; los miden con zapatos en la entrada. La categoría Júnior va de 1 metro a 10 años, y Sénior es 65 años o más.\n\nConviene comprar online: la diferencia con la boletería es de 3 a 6 € por persona. Las entradas no se reembolsan. Si te interesa el bienestar animal, sabé que los parques con delfines en cautiverio generan debate: decidilo vos. Calculá el día entero.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En Guia, municipio de Albufeira, sobre la EN125"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre para las piletas; temporada hasta el 28 de noviembre"
+        },
+        {
+          "label": "Entrada",
+          "value": "1 día fecha fija, temporada alta: 34,90 € online / 41 € boletería (11-64 años); Júnior/Sénior 26,90 € / 31 €. Temporada baja: 28,90 € / 32 € y 18,90 € / 22 € (fuente: zoomarine.pt, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Carvoeiro y el Algar Seco",
+      "desc": "Pueblo de pescadores en la costa de Lagoa con una pasarela sobre el acantilado que termina en un laberinto de roca tallada por el mar.",
+      "detalle": "Carvoeiro es un pueblo blanco en una cala, en el municipio de Lagoa, al oeste de Albufeira. Su playa está metida entre dos paredes de roca y las casas suben por las laderas. Es más chico y tranquilo que Albufeira y se recorre en un rato.\n\nDesde el pueblo sale una pasarela de madera (los 'passadiços' de Carvoeiro) que bordea el acantilado. Las guías locales le dan unos 600 metros, desde la capilla de Nossa Senhora da Encarnação y el pequeño fuerte hasta el Algar Seco. El Algar Seco es un conjunto de formaciones de roca caliza erosionada, con arcos, pozos y piletas naturales. La más conocida es la gruta de A Boneca, con dos 'ventanas' que dan al mar.\n\nPara bajar a las rocas hay unos 70 escalones y superficies irregulares: llevá zapatillas, no ojotas. Desde el centro de Carvoeiro son unos 750 metros a pie; el estacionamiento de arriba es chico y en verano se llena. Combinalo con Benagil y la Praia da Marinha en el mismo día si tenés auto. Al atardecer la luz sobre la roca naranja vale la espera.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En Carvoeiro, municipio de Lagoa; 750 m a pie desde el centro del pueblo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (pasarela y rocas de acceso público)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Sendero de los Siete Valles Colgantes (Percurso dos Sete Vales Suspensos)",
+      "desc": "Caminata por el borde del acantilado entre la Praia da Marinha y Vale Centeanes, pasando por arriba de Benagil y su cueva.",
+      "detalle": "Es la caminata costera más famosa del Algarve y la mejor alternativa gratuita para ver la zona de Benagil. Es un sendero lineal de 5,7 km, señalizado, entre la Praia da Marinha y la Praia de Vale Centeanes, en el municipio de Lagoa. Ida y vuelta suma unos 11,5 km.\n\nEl nombre viene de los valles que cortan el acantilado y desembocan 'colgados' sobre el mar. En el camino pasás por el arco de la Marinha, la playa de Benagil, la Praia do Carvalho y el faro de Alfanzina. Desde arriba podés asomarte al agujero del techo de la gruta de Benagil, con mucho cuidado y sin pasar las vallas.\n\nLa dificultad es media: hay piedras sueltas, raíces y tramos sin sombra. Llevá agua, gorra y protector; en verano andá temprano. No intentes bajar a nado a la cueva desde las playas cercanas: es peligroso y además está prohibido desde 2024. Sin auto es más complicado llegar; muchos lo combinan con una excursión o comparten taxi. Hacelo en un solo sentido y volvé en taxi si no querés repetir el camino.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Costa de Lagoa, entre la Praia da Marinha y Vale Centeanes"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño; en verano, temprano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (sendero público)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas un sentido; 5 a 6 horas ida y vuelta"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo Municipal de Arqueología (Museu Municipal de Arqueologia)",
+      "desc": "Museo chico en el viejo edificio municipal sobre el mar, con piezas desde la prehistoria hasta el siglo XVII, incluido el período islámico.",
+      "detalle": "Está en la Praça da República, en pleno casco antiguo, en el edificio donde funcionó la municipalidad hasta fines de los años ochenta: dos pisos con arquitectura urbana del sur de Portugal, asomados al mar. Es un museo acreditado de la Red Portuguesa de Museos desde 2003.\n\nLa colección cuenta la historia del lugar hasta el siglo XVII en cuatro núcleos: Prehistoria, Período Romano, Período Islámico y Edad Moderna. La reunió el padre José Manuel Semedo de Azevedo e incluye un vaso neolítico, piezas de la villa romana de la Retorta, de la necrópolis del Morgado da Lameira y elementos de la antigua Igreja Matriz destruida en 1755.\n\nEs una visita corta, ideal para una hora de calor o un día nublado, y sirve para entender que Albufeira tiene más historia que hoteles. Entran gratis los menores de 14 años, jubilados, estudiantes y docentes, y titulares del Cartão Jovem; si sos estudiante, llevá la credencial. Cierra los lunes. Entre semana (miércoles a viernes) abre de corrido; martes, sábados, domingos y feriados cierra al mediodía de 12:30 a 13:30.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Praça da República 1, casco antiguo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mediodía de calor o día de lluvia"
+        },
+        {
+          "label": "Entrada",
+          "value": "3,13 € entrada normal; gratis menores de 14, jubilados, estudiantes y docentes (fuente: cm-albufeira.pt, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Marina de Albufeira",
+      "desc": "Puerto deportivo al oeste del centro, con edificios pintados de colores, restaurantes y la salida de casi todos los barcos turísticos.",
+      "detalle": "La Marina queda al oeste del casco antiguo y es otro mundo comparado con las calles blancas del centro: edificios de departamentos pintados de colores fuertes, muelles con veleros y lanchas, y un paseo con restaurantes, heladerías y kioscos de excursiones.\n\nPara el viajero, su función principal es práctica: de acá salen la mayoría de los barcos a las cuevas de Benagil, los paseos para ver delfines, el parasailing y las motos de agua. Los operadores tienen oficina en el Passeio dos Oceanos, y conviene hacer el check-in con tiempo (Dream Wave pide llegar 40 minutos antes con la tarjeta usada para pagar y el documento de quien reservó).\n\nDel lado del mar hay un mirador sobre la boca del puerto con vista a la costa de acantilados hacia el oeste. Para comer, la Marina suele ser más cara que el centro; mirá las cartas antes. Si vas a salir en barco, reservá online: en julio y agosto los horarios de la mañana se agotan.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Oeste del casco antiguo; Passeio dos Oceanos"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; tarde y atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora (más si salís en barco)"
+        }
+      ]
+    },
+    {
+      "nombre": "Praias de São Rafael y da Coelha",
+      "desc": "Dos calas al oeste de la ciudad con arcos, columnas de roca y fósiles en el acantilado. Más tranquilas que las playas del centro.",
+      "detalle": "Al oeste de Albufeira, sobre la ruta que une Guia con la Galé, hay una serie de calas chicas que muestran la costa del Algarve en su versión más esculpida. Dos de las mejores son São Rafael y Coelha.\n\nSão Rafael tiene arena amplia encuadrada por acantilados calizos muy fracturados. El municipio destaca formas con nombre propio, como la Ponte Pequena y el Ninho das Andorinhas: arcos, cuevas, pozos y peñascos sueltos que el mar y la lluvia fueron disolviendo. Sobre la arena crecen las 'salgadeiras', plantas que transpiran sal: a la mañana o al final de la tarde se ven cristales brillando en sus hojas. Se baja por escaleras y rampa.\n\nLa Coelha es una cala más chica, protegida por paredes altas de roca, con fósiles marinos visibles en el acantilado y grandes cavidades de erosión. Se baja por escaleras de madera y conserva vegetación original.\n\nLas dos son más tranquilas que Peneco y Pescadores. Sin auto llegar es más lento, porque dependés de pocos colectivos; entre varios, un taxi compartido es una opción.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Oeste de la ciudad, por la ruta Guia–Galé"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre; mañana temprano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playas públicas)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Praia de Olhos de Água",
+      "desc": "Ex aldea de pescadores al este de Albufeira, con manantiales de agua dulce que brotan en la arena con la marea baja.",
+      "detalle": "Olhos de Água ('ojos de agua') es un pequeño pueblo costero al este de la ciudad, hoy rodeado de alojamientos, que conserva una playa con personalidad. El nombre viene de los manantiales de agua dulce que salen de la arena junto al mar y que se ven cuando baja la marea.\n\nSegún el municipio, es una playa de arena dorada con acantilados calizos y rocas muy recortadas que forman peñascos, arcos y pequeñas ensenadas protegidas, sobre todo en el tramo oeste. En la franja entre mareas se ven lapas, cracas, anémonas y algas de colores: buena para ir con chicos a mirar piletones.\n\nSe llega por camino asfaltado desde Albufeira y la EN125, y a la arena se baja por rampa y escaleras. Mirá la tabla de mareas antes de ir para ver los 'ojos'. Desde acá, caminando por la orilla hacia el este con marea baja, empieza la Praia da Falésia.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Este de la ciudad, por la EN125 y la aldea de Olhos de Água"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Con marea baja; junio a septiembre para nadar"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 4 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Laguna y Praia dos Salgados (Lagoa dos Salgados)",
+      "desc": "Playa larga y tranquila junto a una laguna costera con aves, en el extremo oeste del municipio. Buena para caminar y mirar pájaros.",
+      "detalle": "En el extremo oeste del municipio, la ribera de Espiche se frena antes del mar y forma la Lagoa dos Salgados, una laguna costera rodeada de vegetación. El municipio la usa para salidas de observación de aves, y es de los pocos tramos de esta costa que siguen en estado natural.\n\nLa Praia dos Salgados, al este de la laguna, tiene un arenal muy largo con tramos muy tranquilos. Se llega por camino asfaltado desde la ruta que une Albufeira con Pêra (EM 526): en Vale de Parra seguís los carteles y son unos 2 km más, atravesando un complejo turístico con campo de golf y una avenida de palmeras.\n\nSi te gustan los pájaros, llevá binoculares y mirá desde la orilla sin meterte en la vegetación. Para nadar, es una playa abierta al Atlántico, sin el abrigo de las calas: respetá las banderas de los guardavidas. Al atardecer, pocas playas del municipio están tan vacías.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Extremo oeste del municipio; 2 km desde Vale de Parra (EM 526)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño para aves; verano para playa"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa y laguna de acceso público)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Castillo de Paderne (Castelo de Paderne)",
+      "desc": "Ruinas de un castillo almohade de tierra apisonada sobre la ribera de Quarteira, con puente medieval. Lo más antiguo del municipio.",
+      "detalle": "Tierra adentro, a unos 2 km al sur del pueblo de Paderne, sobre una colina en una península que forma la ribera de Quarteira, están las ruinas del castillo de Paderne. Se construyó en los siglos XI o XII, probablemente en época almohade, como 'hisn': un pequeño núcleo fortificado rural. Sus muros, de 1,9 a 2,1 metros de espesor, son de tapia militar (tierra apisonada con cal) sobre bases de piedra caliza.\n\nSancho I lo tomó en 1189 con un asalto nocturno, pero se perdió enseguida. La conquista definitiva fue en 1248, por los caballeros de Santiago de Paio Peres Correia. Adentro quedan los muros de la ermita de Nossa Senhora da Assunção y afuera una torre albarrana de unos 9 metros. Al suroeste hay un puente medieval sobre la ribera, en el paso de la antigua vía romana. Es Inmueble de Interés Público desde 1971.\n\nOjo con los horarios: el interior no siempre está abierto. En septiembre de 2025 el municipio lo abrió gratis los miércoles de 10 a 16 con su programa 'Castelo de Portas Abertas'. Aunque el portón esté cerrado, podés rodear las murallas por fuera y caminar hasta el puente. Necesitás auto y calzado de campo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "2 km al sur del pueblo de Paderne, interior del municipio"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño; consultá días de apertura en turismo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis cuando abre; exterior de libre acceso"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas con el puente"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Tasa turística municipal de Albufeira (Taxa Municipal Turística)",
+      "precio": "2 € por persona y por noche, del 1 de abril al 31 de octubre, hasta 7 noches seguidas; exentos menores de 13 años y quienes viajan por tratamiento médico (+1 acompañante). Se paga en hoteles, alojamiento local y campings (fuente: Reglamento 488/2024, cm-albufeira.pt, en vigor desde mayo 2024, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Zoomarine (entrada 1 día, fecha fija)",
+      "precio": "Temporada alta (1/6–30/9): 34,90 € online / 41 € boletería (11-64 años); Júnior (1 m a 10 años) y Sénior (65+) 26,90 € / 31 €. Temporada baja: 28,90 € / 32 € y 18,90 € / 22 €. Menores de 1 m gratis. Comprar en zoomarine.pt (fuente: zoomarine.pt, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Zoomarine (entrada 2 días, fecha fija)",
+      "precio": "Temporada alta: 45,90 € online / 53 € boletería (11-64); Júnior/Sénior 37,90 € / 43 €. Temporada baja: 39,90 € / 44 € y 29,90 € / 34 €. El segundo día vale hasta 10 días después del primero (fuente: zoomarine.pt, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Barco a las cuevas de Benagil + delfines (Dream Wave, desde la Marina)",
+      "precio": "37,10 € mayores de 11 años; 26,50 € niños de 1 a 10 años; hasta 2 h 30 min. Reserva online en dreamwavealgarve.com u oficina en la Marina (fuente: dreamwavealgarve.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Museo Municipal de Arqueología",
+      "precio": "3,13 € entrada normal; gratis menores de 14, jubilados, estudiantes y docentes, Cartão Jovem y el Día Internacional de los Museos. Se paga en el museo (fuente: cm-albufeira.pt, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Playas de Albufeira (Peneco, Pescadores, Falésia, São Rafael, Coelha, Olhos de Água, Salgados)",
+      "precio": "Gratis (playas públicas; las reposeras y sombrillas de los balnearios se pagan aparte)"
+    },
+    {
+      "tipo": "Casco antiguo, Marina y miradores",
+      "precio": "Gratis (espacio público)"
+    },
+    {
+      "tipo": "Carvoeiro, Algar Seco y Sendero de los Siete Valles Colgantes",
+      "precio": "Gratis (pasarela y sendero de acceso público)"
+    },
+    {
+      "tipo": "Castillo de Paderne",
+      "precio": "Gratis cuando abre (en septiembre de 2025 abrió los miércoles de 10 a 16, según Tomorrow Algarve); el exterior se recorre libremente"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Barco a las cuevas del Algarve y Benagil + avistaje de delfines",
+      "precio": "37,10 € adulto (11+); 26,50 € niño de 1 a 10 (fuente: dreamwavealgarve.com, verificado octubre 2026)",
+      "duracion": "Hasta 2 h 30 min",
+      "operador": "Dream Wave Algarve (Marina de Albufeira)"
+    },
+    {
+      "actividad": "Paseo en barco por las cuevas del Algarve",
+      "precio": "Desde 35 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "2 h 30 min",
+      "operador": "Operadores de la Marina, vía Civitatis"
+    },
+    {
+      "actividad": "Tour guiado en kayak por las cuevas de Benagil",
+      "precio": "Desde 50 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "3 h 30 min",
+      "operador": "Operadores locales con guía (obligatorio por normativa desde 2024)"
+    },
+    {
+      "actividad": "Excursión terrestre: Benagil, Siete Valles Colgantes, Algar Seco y Praia da Marinha",
+      "precio": "45 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "5 a 5 h 30 min",
+      "operador": "Operadores locales, vía Civitatis"
+    },
+    {
+      "actividad": "Avistaje de delfines desde Albufeira",
+      "precio": "Desde 30 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "2 h 30 min",
+      "operador": "Operadores de la Marina, vía Civitatis"
+    },
+    {
+      "actividad": "Jeep safari por el interior de Albufeira",
+      "precio": "40 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "4 a 7 horas",
+      "operador": "Operadores de jeep tours, vía Civitatis"
+    },
+    {
+      "actividad": "Excursión a Sagres, Cabo San Vicente y Silves",
+      "precio": "99 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "9 horas",
+      "operador": "Operadores locales, vía Civitatis"
+    },
+    {
+      "actividad": "Clase de surf en la Praia da Galé",
+      "precio": "40 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Escuelas de surf de la Galé, vía Civitatis"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Colectivo urbano GIRO (11 líneas eléctricas)",
+      "precio": "1,90 € el boleto a bordo; 1,45 € el viaje prepago (fuente: tarifario GIRO en el informe de actividades 2022 de la AMT; no encontramos tabla más nueva, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Red municipal de la ciudad, con flota 100 % eléctrica desde la renovación de la concesión. La línea 10 conecta la terminal de Caliços (donde para el Aerobus) con el centro. Confirmá el precio vigente a bordo o en la app de Vamus."
+    },
+    {
+      "medio": "Colectivos interurbanos Vamus Algarve (boleto simple)",
+      "precio": "Por distancia: 1,15 € hasta 2 km; 3,05 € a 17-18 km; 4,75 € a 37-40 km (tarifario oficial publicado en vamus.pt, vigente desde 1/1/2023, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "La red pública regional. Sirve para Guia, Paderne, Carvoeiro, Portimão o Loulé. Con la app Vamus Algarve o tarjeta prepaga hay descuentos frente al boleto a bordo. Los horarios bajan mucho en invierno y después de las 19."
+    },
+    {
+      "medio": "Pase turístico Vamus (3 o 7 días)",
+      "precio": "35 € los 3 días; 46 € los 7 días; incluye el Aerobus línea 56 (fuente: tarifario oficial vamus.pt y Portugal Expert 2026, verificado octubre 2026)",
+      "duracion": "3 o 7 días",
+      "notas": "Viajes ilimitados en todas las líneas Vamus del Algarve. Conviene si vas a moverte varios días seguidos en colectivo o si sumás el viaje desde el aeropuerto."
+    },
+    {
+      "medio": "Passe Algarve mensual (para estadías largas o Working Holiday)",
+      "precio": "40 € por mes, todas las líneas interurbanas Vamus sin importar distancia ni transbordos; no incluye el Aerobus (fuente: AMAL, desde agosto/septiembre 2025, verificado octubre 2026)",
+      "duracion": "30 días",
+      "notas": "Pensado para residentes y trabajadores. Si vas a quedarte un mes o más trabajando en temporada, sale mucho más barato que los boletos sueltos."
+    },
+    {
+      "medio": "Tren regional CP (Línea del Algarve)",
+      "precio": "Desde Albufeira-Ferreiras: Faro 3,80 €, Loulé 2,30 €, Silves 2,80 €, Portimão 3,85 €, Lagos 5,45 €, Tavira 6,60 € (regional, ida; fuente: CP, precios válidos desde 19/07/2026, verificado octubre 2026)",
+      "duracion": "Faro, unos 22 minutos",
+      "notas": "Desde julio de 2026 hay trenes directos Lagos–Vila Real de Santo António sin cambiar en Faro. La estación queda fuera del centro, en Ferreiras: sumá colectivo o taxi. Hay tarifas con 50 % de descuento para quienes califican: consultá en la boletería."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto de Faro (FAO) → Albufeira (terminal de Caliços)",
+      "empresas": "Vamus Algarve, Aerobus línea 56",
+      "precio": "11 € el boleto simple (Portugal Expert, guía 2026); la última tabla oficial publicada en vamus.pt (vigente desde 1/1/2023) todavía dice 10 €; vale el pase turístico (verificado octubre 2026)",
+      "duracion": "Unos 40 minutos; de mayo a octubre 8 salidas diarias, de noviembre a abril 2 por día"
+    },
+    {
+      "ruta": "Faro (estación de tren) → Albufeira-Ferreiras",
+      "empresas": "CP, tren regional de la Línea del Algarve",
+      "precio": "3,80 € regional; 4,15 € interregional (fuente: CP, precios válidos desde 19/07/2026, verificado octubre 2026)",
+      "duracion": "Unos 22 minutos (según Omio)"
+    },
+    {
+      "ruta": "Lisboa (Oriente, Entrecampos o Sete Rios) → Albufeira-Ferreiras",
+      "empresas": "CP Intercidades y Alfa Pendular",
+      "precio": "Intercidades: 23,45 € segunda clase; 29,70 € primera; ida y vuelta 42,50 € (fuente: CP, precios válidos desde 01/01/2026, verificado octubre 2026)",
+      "duracion": "Intercidades 3 h 11 a 3 h 19 desde Oriente; Alfa Pendular unas 2 h 41 (según Everyrail)"
+    },
+    {
+      "ruta": "Lagos o Portimão → Albufeira-Ferreiras",
+      "empresas": "CP, tren regional de la Línea del Algarve",
+      "precio": "Desde Lagos 5,45 € regional; desde Portimão 3,85 € (fuente: CP, precios válidos desde 19/07/2026, verificado octubre 2026)",
+      "duracion": "Variable según servicio"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Económico: hostels y pensiones del centro",
+      "nivel": 2,
+      "opciones": "Hostels como Sun Lovers Hostel, Orange Terrace o Son of a Beach (este último a pasos de la plaza del casco antiguo): Hostelworld calcula un promedio de £17 la noche fuera de temporada alta (fuente: Hostelworld, agregador, 2026). En 2 estrellas, Residencial Capri 45 €, Da Galé 68 € o Edificio Albufeira 69 € de precio medio por persona y noche (fuente: btravel.com, agregador, verificado octubre 2026). Sumá la tasa de 2 € por noche de abril a octubre."
+    },
+    {
+      "categoria": "Intermedio: 3 estrellas en el centro y Oura",
+      "nivel": 3,
+      "opciones": "Hotel Baltum 88 €, Turial Old Town Ocean View 102 €, Hotel Da Aldeia 73 €, Hotel Balaia Mar 98 € de precio medio por persona y noche (fuente: btravel.com, agregador, verificado octubre 2026). En julio y agosto suben bastante y se agotan; reservá con meses de anticipación."
+    },
+    {
+      "categoria": "Superior: 4 estrellas sobre la playa",
+      "nivel": 4,
+      "opciones": "Muthu Clube Praia da Oura 83 €, Vila Galé Cerro Alagoa 136 €, Santa Eulália Suite Hotel & Spa 126 €, Sol e Mar Beach Hotel (sobre la Praia dos Pescadores) 184 € de precio medio por persona y noche (fuente: btravel.com, agregador, verificado octubre 2026). Temporada alta: junio a septiembre."
+    },
+    {
+      "categoria": "Lujo: resorts de 5 estrellas sobre los acantilados",
+      "nivel": 5,
+      "opciones": "Grande Real Santa Eulália Resort 132 €, The Westin Salgados Beach Resort 174 €, Kimpton Atlântico Algarve 183 €, Pine Cliffs Hotel 268 € de precio medio por persona y noche (fuente: btravel.com, agregador, verificado octubre 2026). Casi todos quedan fuera del centro: calculá taxi o auto."
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Pollo al piri-piri de Guia (frango da Guia)",
+      "nivel": 2,
+      "opciones": "El pollo a la brasa con piri-piri y piel crocante nació en Guia. El Restaurante Ramires, abierto en 1964 y considerado el creador de la receta, abre de 12 a 23 todos los días con precio medio de unos 13 € por persona (fuente: Postal do Algarve, actualizado nov. 2024, verificado octubre 2026). Se acompaña con papas fritas y ensalada de tomate."
+    },
+    {
+      "tipo": "Menú del día y tascas del centro",
+      "nivel": 2,
+      "opciones": "El 'menu do dia' (entrada o sopa, plato y bebida) es la forma más barata de comer sentado: desde 11 € en Adega do David, o 10–15 € en general; café 1,50 € en Pastelaria Riviera (fuente: Quanto Custa Viajar, agregador, 2025, verificado octubre 2026). Restaurante Expresso, con cataplana y pescado, figura con precio medio de 12 € (fuente: Lifecooler, verificado octubre 2026)."
+    },
+    {
+      "tipo": "Pescado a la parrilla y cataplana",
+      "nivel": 3,
+      "opciones": "Sardinas asadas en verano, pescado del día por peso y la cataplana (guiso de mariscos y pescado en olla de cobre, casi siempre para dos). Una cena para dos en restaurante medio con entrada, plato, postre y vino de la casa cuesta 50–70 € (fuente: Quanto Custa Viajar, agregador, julio 2025, verificado octubre 2026). Festa da Praia, en Oura, figura con precio medio de 15 € (fuente: Lifecooler, verificado octubre 2026)."
+    },
+    {
+      "tipo": "Alta cocina frente al mar",
+      "nivel": 5,
+      "opciones": "Vila Joya, en la Galé, ofrece menú de degustación desde 190 € por persona; en el Evaristo, sobre la playa del mismo nombre, el pescado por peso llega a 60 € el plato (fuente: Quanto Custa Viajar, agregador, 2025, verificado octubre 2026). Reservá con anticipación en verano."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa para ir a Albufeira si soy latinoamericano?",
+      "a": "Portugal es parte del espacio Schengen. Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos no necesitan visa para turismo: pueden quedarse hasta 90 días dentro de cualquier período de 180 días en todo Schengen. Desde el 10 de abril de 2026 funciona en todas las fronteras externas el EES (Entry/Exit System): en tu primera entrada te toman huellas y foto y ya no se sella el pasaporte. El ETIAS, la autorización previa online de 20 €, todavía no está vigente: a octubre de 2026 no hay fecha confirmada y se habla de 2027. Revisá travel-europe.europa.eu antes de viajar. Si tenés pasaporte europeo (italiano, español, portugués), entrás como ciudadano de la UE. Para trabajar necesitás otro tipo de visa, que se tramita antes de viajar."
+    },
+    {
+      "q": "¿Cuántos días necesito en Albufeira?",
+      "a": "Con tres o cuatro días alcanza para lo principal. Un día para el casco antiguo, el museo y las playas del centro (Peneco y Pescadores). Otro para el barco a las cuevas de Benagil por la mañana y la Praia da Falésia a la tarde. Un tercero para Carvoeiro, el Algar Seco y el sendero de los Siete Valles Colgantes. Si tenés chicos, sumá un día de Zoomarine. Con una semana podés usar Albufeira de base para ir en tren a Lagos, Silves, Faro y Tavira, todos a menos de 7 € el boleto regional."
+    },
+    {
+      "q": "¿Puedo entrar nadando o en kayak propio a la cueva de Benagil?",
+      "a": "No. Desde el 13 de agosto de 2024 rigen reglas de la Autoridad Marítima Nacional: está prohibido desembarcar o usar la arena dentro de la gruta, entrar nadando o con flotadores, y alquilar kayaks o SUP sin guía en la zona. Además hay un tope de embarcaciones adentro al mismo tiempo y un tiempo máximo de visita. Las opciones legales son un barco con operador habilitado (desde la Marina de Albufeira o desde Benagil) o un tour guiado de kayak, con un guía cada seis kayaks. Si sólo querés verla gratis, el sendero de los Siete Valles Colgantes pasa por arriba del agujero del techo."
+    },
+    {
+      "q": "¿Me conviene alquilar auto?",
+      "a": "Depende de lo que quieras ver. Para el casco antiguo, las playas del centro, la Marina y el tren a otras ciudades, no hace falta: caminás, usás el GIRO y el tren regional. Para las calas del oeste (São Rafael, Coelha), el castillo de Paderne, la Lagoa dos Salgados o el sendero de los Siete Valles, el auto ahorra muchísimo tiempo, porque los colectivos son poco frecuentes. Una opción intermedia es alquilarlo uno o dos días. En el casco antiguo estacionar es difícil y en verano los estacionamientos de playa se llenan temprano."
+    },
+    {
+      "q": "¿Albufeira es seguro?",
+      "a": "Es un destino turístico tranquilo en general. Los problemas más comunes son los de cualquier zona de playa con mucha gente: robos de celulares o billeteras en la arena, en los bares de la noche y en autos con cosas a la vista. No dejes nada en el auto y no te descuides en la zona de The Strip de madrugada, donde hay mucho alcohol. El riesgo que más se subestima es el natural: los acantilados del Algarve se derrumban, así que no te sientes ni pongas la sombrilla debajo de ellos y respetá las banderas de los guardavidas. Emergencias en Portugal: 112."
+    },
+    {
+      "q": "¿Vale la pena ir en temporada baja?",
+      "a": "Sí, si no vas sólo por la playa. De noviembre a marzo los hoteles bajan mucho, no se cobra la tasa turística (rige de abril a octubre) y el clima es suave: la máxima media de enero ronda los 16 °C. La contra es que muchos bares y restaurantes de la zona turística cierran, el Aerobus desde Faro pasa a 2 viajes por día y algunos barcos no salen si hay mar fuerte. Mayo, junio, septiembre y octubre son el mejor equilibrio: mar templado, precios más bajos que en agosto y menos gente. Zoomarine abre hasta el 28 de noviembre."
+    },
+    {
+      "q": "¿Se puede pagar todo con tarjeta? ¿Hay que dejar propina?",
+      "a": "La tarjeta de débito o crédito se acepta en casi todos los restaurantes, hoteles y supermercados, y en las máquinas de boletos de tren y Vamus. Algunos hostels no aceptan efectivo y algunos bares chicos o puestos de playa sí lo prefieren, así que llevá un poco de las dos cosas. En el colectivo, pagar al chofer suele ser sólo en efectivo y más caro: mejor la app Vamus Algarve. La propina no es obligatoria en Portugal; redondear o dejar un 5 al 10 % si te atendieron bien es lo habitual. Avisá a tu banco que viajás y fijate la comisión por compras en euros."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (PT) — «Albufeira»: https://pt.wikipedia.org/wiki/Albufeira",
+      "Wikipedia (EN) — «Albufeira»: https://en.wikipedia.org/wiki/Albufeira",
+      "Wikipedia (PT) — «Castelo de Paderne»: https://pt.wikipedia.org/wiki/Castelo_de_Paderne",
+      "Postal do Algarve — «Restaurante Ramires está em Albufeira há mais de 50 anos»: https://postal.pt/economia/restaurante-ramires-esta-em-albufeira-ha-mais-de-50-anos/"
+    ],
+    "que_ver_atracciones": [
+      "Município de Albufeira — «Museu Municipal de Arqueologia»: https://www.cm-albufeira.pt/museus-e-galerias/museu-municipal-de-arqueologia",
+      "Município de Albufeira — «Praia do Peneco»: https://www.cm-albufeira.pt/praias/peneco",
+      "Município de Albufeira — «Praia dos Pescadores»: https://www.cm-albufeira.pt/praias/pescadores",
+      "Município de Albufeira — «Praia da Falésia - Açoteias»: https://www.cm-albufeira.pt/praias/falesia-acoteias",
+      "Município de Albufeira — «Praia de São Rafael»: https://www.cm-albufeira.pt/praias/sao-rafael",
+      "Município de Albufeira — «Praia da Coelha»: https://www.cm-albufeira.pt/praias/coelha",
+      "Município de Albufeira — «Praia de Olhos de Água»: https://www.cm-albufeira.pt/praias/olhos-de-agua",
+      "Município de Albufeira — «Praia dos Salgados»: https://www.cm-albufeira.pt/praias/salgados",
+      "Zoomarine — «Entradas Parque»: https://www.zoomarine.pt/pt/precos-e-bilhetes/entradas-parque/",
+      "Zoomarine — «Calendário do Parque»: https://www.zoomarine.pt/pt/calendario-do-parque/",
+      "Tomorrow Algarve — «New Navigation Rules for Benagil Caves Limit Access and Ensure Greater Safety»: https://tomorrowalgarve.com/?p=24659",
+      "Tomorrow Algarve — «Paderne Castle Reopens for Free Visits This September»: https://tomorrowalgarve.com/18-09-2025-paderne-castle-reopens-for-free-visits-this-september/",
+      "Algarve-Tourist (guía, último recurso) — «Percurso dos Sete Vales Suspensos»: https://www.algarve-tourist.com/carvoeiro/percurso-sete-vales-suspensos-hike-walk.html",
+      "Algarve-Tourist (guía, último recurso) — «Algar Seco, cueva Boneca, Carvoeiro»: https://www.algarve-tourist.com/algarve-es/algar-seco-cueva-boneca-carvoeiro-es.html"
+    ],
+    "como_llegar_transporte": [
+      "CP Comboios de Portugal — «Preços Regional | InterRegional Lagos - V.R.S.António (TP 2026)»: https://www.cp.pt/info/documents/d/cp/precos-regional-linha-algarve",
+      "CP Comboios de Portugal — «Preços Intercidades Lisboa Oriente - Faro (TP 2026)»: https://cp.pt/info/documents/d/cp/precos-intercidades-lisboa-faro",
+      "VAMUS Algarve — «Tarifário»: https://vamus.pt/tarifario/",
+      "VAMUS Algarve — «Tarifas em vigor a partir de 01 de janeiro de 2023»: http://vamus.pt/wp-content/uploads/2023/01/Tarifas_VAMUS_01-01-2023_v3.pdf",
+      "Portugal Expert — «Algarve Aerobus 56 vom Faro Airport nach Albufeira und Lagos»: https://www.portugalexpert.de/de/algarve-aerobus-56-vom-faro-airport-nach-albufeira-und-lagos/",
+      "AMAL — «“Passe Algarve” na rede VAMUS avança já em Setembro»: https://amal.pt/comunicacao/1110-passe-algarve-na-rede-vamus-avanca-ja-em-setembro",
+      "AMT — «Relatório de atividades 2022 (tarifario GIRO)»: https://amt-autoridade.pt/media/4385/73-rel_atividades_2022_final.pdf",
+      "Everyrail — «Albufeira to Lisbon by train»: https://everyrail.com/trains/albufeira-to-lisbon/",
+      "Omio (agregador) — «Train Albufeira - Ferreiras → Faro»: https://www.omio.fr/trains/albufeira-ferreiras/gare-ferroviaire-de-faro-xxohl"
+    ],
+    "precios_2026": [
+      "Município de Albufeira — «Regulamento da Taxa Turística do Município de Albufeira»: https://www.cm-albufeira.pt/sites/default/files/RepositorioAvisosEditais/2024/regulamento4882024taxaturisticama.pdf",
+      "Município de Albufeira — «Regulamentos»: https://www.cm-albufeira.pt/regulamentos",
+      "Dream Wave Algarve — «Dolphin Watching & Cave Cruise from Albufeira»: https://dreamwavealgarve.com/activities/dolphin-watching/",
+      "Civitatis (agregador) — «Excursiones y actividades en Albufeira»: https://www.civitatis.com/es/albufeira/"
+    ],
+    "visado_entrada": [
+      "France Diplomatie — «EES: The new European border Entry/Exit System goes live on 10 April 2026»: https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/ees-le-nouveau-systeme-europeen-de-gestion-des-frontieres-entre-en-service-le-10-avril-2026",
+      "Navan — «When does ETIAS go into effect?»: https://navan.com/blog/when-does-etias-go-into-effect"
+    ],
+    "alojamiento_gastronomia": [
+      "btravel (agregador) — «Hoteles 2 estrellas en Albufeira»: https://www.btravel.com/hoteles/2-estrellas-albufeira-faro-portugal-continental",
+      "btravel (agregador) — «Hoteles 3 estrellas en Albufeira»: https://www.btravel.com/hoteles/3-estrellas-albufeira-faro-portugal-continental",
+      "btravel (agregador) — «Hoteles 4 estrellas en Albufeira»: https://www.btravel.com/hoteles/4-estrellas-albufeira-faro-portugal-continental",
+      "btravel (agregador) — «Hoteles 5 estrellas en Albufeira»: https://www.btravel.com/hoteles/5-estrellas-albufeira-faro-portugal-continental",
+      "Hostelworld — «Hostels in Albufeira»: https://www.hostelworld.com/hostels/europe/portugal/albufeira/",
+      "Quanto Custa Viajar — «Alimentação em Albufeira»: https://quantocustaviajar.com/portugal/albufeira/alimentacao",
+      "Lifecooler — «Restaurante Expresso»: https://lifecooler.com/artigo/atividades/restaurante-expresso/455858",
+      "Lifecooler — «Restaurante Festa da Praia»: https://lifecooler.com/artigo/dormir/restaurante-festa-da-praia/403708"
+    ]
+  }
+}
