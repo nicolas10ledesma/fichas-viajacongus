@@ -251,7 +251,7 @@
         },
         {
           "label": "Entrada",
-          "value": "Ferry de ida desde 17 € según fecha y naviera (fuente: Ferryhopper, comparador, verificado octubre 2026); Fred. Olsen publica 'reserva desde 8 €' en fredolsen.es"
+          "value": "Ferry de ida desde 17 € según fecha y naviera (fuente: Ferryhopper, comparador, verificado octubre 2026); el 'desde 8 €' que muestra fredolsen.es es tarifa para residentes canarios, no para turistas"
         },
         {
           "label": "Duración",
@@ -450,7 +450,7 @@
     {
       "ruta": "Corralejo (Fuerteventura) → Playa Blanca en ferry",
       "empresas": "Fred. Olsen Express, Líneas Romero y, según la fecha, Naviera Armas o Baleària",
-      "precio": "Ida desde 17 € según fecha y naviera (fuente: Ferryhopper, comparador, verificado octubre 2026); Fred. Olsen publica 'reserva desde 8 €' en fredolsen.es",
+      "precio": "Ida desde 17 € según fecha y naviera (fuente: Ferryhopper, comparador, verificado octubre 2026); el 'desde 8 €' que muestra fredolsen.es es tarifa para residentes canarios, no para turistas",
       "duracion": "25 o 35 minutos según Fred. Olsen; unos 30 según Líneas Romero"
     }
   ],
