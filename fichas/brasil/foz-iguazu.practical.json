@@ -1,0 +1,660 @@
+{
+  "slug": "foz-iguazu",
+  "name": "Foz de Iguazú",
+  "region": "Estado de Paraná",
+  "lat": -25.5469,
+  "lon": -54.5882,
+  "datosRapidos": [
+    {
+      "label": "Estado",
+      "value": "Foz de Iguazú (Foz do Iguaçu en portugués) es un municipio del extremo oeste del estado de Paraná, en el sur de Brasil, a 643 km de Curitiba, la capital estatal. Según el censo del IBGE de 2022 tiene 285.415 habitantes. Está justo donde el río Iguazú desemboca en el río Paraná y forma la Triple Frontera: del otro lado del Iguazú queda Puerto Iguazú (Argentina) y del otro lado del Paraná, Ciudad del Este (Paraguay). Junto con esas dos ciudades arma una región urbana trinacional de más de 700.000 personas. Se la conoce en todo el mundo por las Cataratas del Iguazú, un conjunto de unos 275 saltos repartidos entre el Parque Nacional do Iguaçu (Brasil) y el Parque Nacional Iguazú (Argentina). El parque brasileño es Patrimonio Mundial de la Unesco desde 1986 y las Cataratas fueron elegidas una de las Siete Maravillas Naturales del Mundo en 2011. La otra cara de la ciudad es la represa de Itaipú, compartida con Paraguay, que en 2016 superó los 100 millones de MWh en un solo año. Foz también es conocida por su mezcla cultural: tiene una gran comunidad árabe, una mezquita de 1983 y un templo budista de 1996. El nombre viene del guaraní: 'y' (agua) y 'guazú' (grande)."
+    },
+    {
+      "label": "Moneda",
+      "value": "Real brasileño (R$). Del lado argentino se paga en pesos (AR$) y en Ciudad del Este se mueven guaraníes y dólares. En julio de 2026 la prensa local (H2FOZ) usaba como referencia de frontera R$ 1 = AR$ 280. Las entradas del Parque Nacional do Iguaçu se venden sólo online y se pueden pagar en hasta 3 cuotas; Itaipú acepta tarjeta, PIX y efectivo, pero el efectivo sólo en reales"
+    },
+    {
+      "label": "Mejor época",
+      "value": "Se puede ir todo el año: el parque brasileño abre los 365 días. El clima es subtropical húmedo (Cfa), con veranos calurosos, inviernos con alguna helada y unos 1.800 mm de lluvia al año repartidos en todos los meses. Con lluvias fuertes el caudal de las Cataratas puede multiplicarse por diez. Las temporadas más llenas son las vacaciones de enero, julio y los feriados largos: el 6 de septiembre de 2026 el parque recibió 15.942 personas en un solo día. Si podés, andá entre semana y en marzo-junio o en primavera"
+    },
+    {
+      "label": "Visado",
+      "value": "Argentinos, uruguayos, paraguayos, chilenos, colombianos y peruanos entran a Brasil como turistas con su documento nacional de identidad vigente o con pasaporte, por el acuerdo de documentos de viaje del Mercosur. Los mexicanos no necesitan visa de turismo desde 2013, pero entran con pasaporte. Ojo: cada vez que cruzás a Argentina o a Paraguay pasás por migraciones, así que llevá siempre el documento original (no fotocopia ni licencia de conducir)"
+    }
+  ],
+  "intro": [
+    "Foz de Iguazú es la puerta brasileña a las Cataratas del Iguazú, y el lado brasileño tiene algo que el argentino no: la vista de conjunto. En un sendero de un kilómetro y medio ves de frente casi todo el anfiteatro de saltos, y al final una pasarela te mete en la nube de agua. Es un paseo de dos horas que sirve para entender la escala del lugar antes de cruzar a recorrerlo de cerca del otro lado del río.",
+    "Pero la ciudad no se agota en las Cataratas. A 12 km del centro está Itaipú, una de las represas más grandes del mundo, que se recorre en colectivos abiertos y hasta por dentro, hasta la sala de comando. Hay un parque de aves con viveros donde caminás entre tucanes y guacamayos, una mezquita sunita de 1983, un templo budista con más de cien estatuas y un mirador donde se ven tres países al atardecer.",
+    "Y está la frontera, que es parte del viaje. En un mismo día podés desayunar en Brasil, recorrer las pasarelas argentinas y volver a cenar a Foz; o cruzar el Puente de la Amistad a Ciudad del Este para comprar electrónica. Para un latinoamericano es fácil: con el documento alcanza en la mayoría de los casos. Conviene quedarse tres o cuatro días, comprar las entradas online y dejar un margen para las colas en los puentes."
+  ],
+  "historia_corta": "Las excavaciones hechas antes de que se llenara el lago de Itaipú encontraron rastros humanos de unos 6.000 años antes de Cristo. Los últimos pueblos antes de la llegada europea fueron guaraníes y kaingang. En 1541-1542 el español Álvar Núñez Cabeza de Vaca llegó al río Iguazú guiado por indígenas y fue el primer europeo en ver las Cataratas. La ocupación brasileña empezó tarde: en 1881 se registraron los dos primeros habitantes, que explotaban yerba mate y madera para exportar por el río Paraná. El 22 de noviembre de 1889 se fundó una Colonia Militar en la frontera; ese mismo año un censo contó 324 personas, casi todas paraguayas y argentinas. En 1910 la colonia pasó a ser la Vila Iguassu, el 14 de marzo de 1914 se creó el municipio (instalado el 10 de junio) y en 1918 adoptó el nombre Foz do Iguaçu. En 1924 los revolucionarios tenentistas instalaron aquí su cuartel general. El Parque Nacional do Iguaçu se creó el 10 de enero de 1939, cinco años después del argentino. El gran cambio llegó con la infraestructura: el Puente de la Amistad con Paraguay se inauguró el 27 de marzo de 1965 y la ruta BR-277 a Curitiba y al puerto de Paranaguá, en 1969. La construcción de Itaipú (1975-1982) disparó la población de 33.970 habitantes en 1970 a 136.320 en 1980. En 1985 se inauguró el puente Tancredo Neves con Argentina, en 1986 la Unesco declaró al parque Patrimonio Mundial y en 2011 las Cataratas fueron elegidas Maravilla Natural. Desde diciembre de 2022 la concesionaria Urbia+Cataratas gestiona la visita turística del parque.",
+  "queVer": [
+    {
+      "nombre": "Cataratas del Iguazú, lado brasileño (Trilha das Cataratas, Parque Nacional do Iguaçu)",
+      "desc": "El sendero clásico frente al gran anfiteatro de saltos, con pasarela sobre el río y mirador con ascensor. Es la razón número uno del viaje.",
+      "detalle": "Las Cataratas son un conjunto de unos 275 saltos en el río Iguazú, compartidos entre Brasil y Argentina. El Parque Nacional do Iguaçu protege 185.000 hectáreas de Mata Atlántica y es Patrimonio Mundial de la Unesco desde 1986. En septiembre de 2026 recibió 186.906 visitantes de 124 países.\n\nEl paseo arranca en el Centro de Visitantes (BR-469, km 18). Desde ahí, colectivos panorámicos del parque recorren unos 12 km hasta el inicio de la Trilha das Cataratas, de alrededor de un kilómetro y medio. Desde el lado brasileño se ve el frente de saltos de una sola mirada; al final hay una pasarela que se mete en el río y un ascensor panorámico que sube al Espacio Porto Canoas, donde están el restaurante y el colectivo de vuelta.\n\nEl recorrido lleva unas dos horas. La entrada tiene día y horario de ingreso, pero una vez adentro podés quedarte hasta las 17.30. Llevá campera de lluvia o una muda: en la pasarela te mojás. No se puede entrar con mascotas ni con auto propio más allá del Centro de Visitantes.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Visitantes en la BR-469, km 18 (Rodovia das Cataratas); colectivo urbano 120 desde el centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; abrí temprano (lunes a viernes 9 a 16 h, sábados y domingos 8.30 a 16 h)"
+        },
+        {
+          "label": "Entrada",
+          "value": "R$ 134 integral; R$ 121 Brasil/Mercosur; niños hasta 6 años gratis (fuente: cataratasdoiguacu.com.br, verificado octubre 2026). Sólo online, con día y hora"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas el sendero; medio día con traslados"
+        }
+      ]
+    },
+    {
+      "nombre": "Cataratas del lado argentino (Parque Nacional Iguazú, Puerto Iguazú)",
+      "desc": "El complemento obligado: pasarelas que pasan por encima y por debajo de los saltos y el Tren Ecológico hasta la Garganta del Diablo.",
+      "detalle": "Del otro lado del río Iguazú está el Parque Nacional Iguazú, en la provincia de Misiones, creado en 1934. Si el lado brasileño te da la vista de conjunto, el argentino te pone encima del agua: los circuitos de pasarelas recorren los saltos de cerca. La entrada incluye el recorrido en el Tren Ecológico, que conecta los distintos circuitos del Área Cataratas.\n\nDesde Foz se cruza por el puente Tancredo Neves (1985), con control migratorio de los dos países. Hay colectivos internacionales desde la Rodoviária de Foz hasta la terminal de Puerto Iguazú (1 h 45 min con trámites) y desde ahí la Línea Cataratas de la empresa Río Uruguay hasta el parque. También hay excursiones desde los hoteles de Foz.\n\nNecesitás un día entero. La tarifa para extranjeros es la misma para cualquier nacionalidad, incluidos los países del Mercosur. Los jubilados argentinos y los menores de 6 años no pagan. Hay estacionamiento y lockers pagos en la entrada.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Ruta 101 km 142, Puerto Iguazú (Argentina); se cruza por el puente Tancredo Neves"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; empezá temprano para hacer todos los circuitos"
+        },
+        {
+          "label": "Entrada",
+          "value": "AR$ 60.000 visitantes internacionales; AR$ 25.000 residentes en Argentina; AR$ 8.000 residentes de Misiones (fuente: iguazuargentina.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Represa de Itaipú (Itaipu Binacional)",
+      "desc": "Una de las mayores hidroeléctricas del mundo, compartida con Paraguay. Se visita en colectivo por fuera o con circuito especial por dentro.",
+      "detalle": "Itaipú se construyó entre 1975 y 1982 sobre el río Paraná y cuando se terminó era la represa más grande del mundo. La barrera mide 7.919 metros de largo y hasta 196 metros de alto, tiene 20 unidades generadoras y un vertedero capaz de largar 62.200 m³ por segundo, 40 veces el caudal medio de las Cataratas. El nombre viene del tupí y significa 'piedra donde el agua hace ruido'.\n\nLa visita básica es Itaipu Panorâmica: 1 h 10 min en colectivos abiertos en el piso de arriba, con audioguía y paradas en el Mirante Central y el Mirante Vertedouro. Sale cada 30 minutos, todos los días de 8.15 a 17 h, por orden de llegada. El circuito Itaipu Especial (2 h 30 min) suma la parte interna y la Sala de Comando Central, pero no admite menores de 14 años. Hay control de seguridad con rayos X y están prohibidos los drones.\n\nEl Centro de Recepción de Visitantes queda en la Av. Tancredo Neves 6702, a 12 km del centro. Ojo: el vertedero sólo se abre cuando sobra agua, así que no está garantizado verlo largando.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "12 km del centro de Foz y 6 km del Puente de la Amistad"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; en días de lluvia llevá piloto porque el colectivo es abierto"
+        },
+        {
+          "label": "Entrada",
+          "value": "Panorámica R$ 63 entera; Itaipu Especial R$ 185 (fuente: turismoitaipu.com.br, verificado octubre 2026). Media entrada sólo para estudiantes de instituciones brasileñas"
+        },
+        {
+          "label": "Duración",
+          "value": "1 h 10 min (Panorámica) a 2 h 30 min (Especial)"
+        }
+      ]
+    },
+    {
+      "nombre": "Parque das Aves",
+      "desc": "Viveros donde caminás entre tucanes, guacamayos y loros de la Mata Atlántica, al lado de la entrada de las Cataratas.",
+      "detalle": "El Parque das Aves es una institución dedicada a la conservación de aves de la Mata Atlántica. Queda en la Rodovia das Cataratas, km 17,1, pegado al Parque Nacional do Iguaçu, así que se combina bien con las Cataratas el mismo día.\n\nEl recorrido es un sendero por el bosque que entra en grandes viveros: el de mariposas y colibríes, el Mundo dos Tucanos, el de aves de ríos y manglares, el de los guacamayos y el Cecropia, que el propio parque presenta como el mayor vivero de aves de Brasil. Hay uno con más de 300 periquitos. La visita ayuda a financiar proyectos con especies amenazadas.\n\nAbre todos los días de 8.30 a 16.30. El colectivo 120 que va a las Cataratas te deja cerca. La media entrada sólo vale para grupos específicos de brasileños (estudiantes, mayores de 60, docentes, donantes de sangre); los extranjeros pagan la entrada integral, salvo los chicos de hasta 8 años que no pagan. Los precios publicados valen hasta el 30 de noviembre de 2026.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Rodovia das Cataratas km 17,1, al lado del Parque Nacional do Iguaçu"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; a primera hora las aves están más activas"
+        },
+        {
+          "label": "Entrada",
+          "value": "R$ 110 integral (brasileños y extranjeros); media R$ 55; hasta 8 años gratis (fuente: parquedasaves.com.br, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Macuco Safari (paseo en lancha hasta los saltos)",
+      "desc": "El paseo náutico que te lleva por el río Iguazú hasta meterte debajo de los saltos. Terminás empapado, de eso se trata.",
+      "detalle": "Macuco Safari es la excursión náutica del lado brasileño y funciona dentro del Parque Nacional do Iguaçu, en la BR-469, km 25. El paseo dura alrededor de dos horas en total, de las cuales 25 a 30 minutos son de navegación. Antes se hace un tramo por la selva hasta el embarcadero.\n\nLas lanchas suben el cañón del río Iguazú y se acercan a los saltos hasta meterse en la cortina de agua: la empresa avisa que te vas a mojar por completo, así que llevá ropa de cambio y una bolsa estanca para el celular. Hay lockers opcionales.\n\nClave: el ticket del Macuco NO incluye la entrada al parque, que se compra aparte en cataratasdoiguacu.com.br. No hace falta reservar: las salidas son cada 20 minutos, de lunes a viernes de 9 a 17 y sábados y domingos de 8.30 a 17. No hay restricción de edad, pero la accesibilidad depende del estado del río. Conviene hacerlo antes de la Trilha das Cataratas o justo después, para no volver a pasar por el control.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "BR-469, km 25, dentro del Parque Nacional do Iguaçu"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días de calor; con el río muy crecido el recorrido puede cambiar"
+        },
+        {
+          "label": "Entrada",
+          "value": "R$ 384 adulto; R$ 192 niños 7-11, brasileños +60 y estudiantes; 0-6 años gratis (fuente: macucosafari.com.br, verificado octubre 2026). Más la entrada al parque"
+        },
+        {
+          "label": "Duración",
+          "value": "Unas 2 horas (25-30 min de navegación)"
+        }
+      ]
+    },
+    {
+      "nombre": "Marco das Três Fronteiras (Hito de las Tres Fronteras)",
+      "desc": "El mirador donde el Iguazú se junta con el Paraná y ves Argentina y Paraguay a la vez. Es el lugar clásico del atardecer.",
+      "detalle": "En el extremo oeste de la ciudad, donde el río Iguazú desemboca en el Paraná, hay un obelisco que marca el límite brasileño. Desde el mirador ves enfrente la costa argentina de Puerto Iguazú y, sobre el Paraná, la paraguaya.\n\nEl espacio está armado como paseo: plazas para caminar, tienda de recuerdos, el restaurante Cabeza de Vaca y espectáculos culturales que cuentan la historia de los tres países. La mayoría va a la tarde para ver la puesta del sol sobre el río y quedarse al show.\n\nAbre de martes a domingo de 14 a 21 horas, así que encaja después de un día de Cataratas o Itaipú. Los chicos de 0 a 5 años no pagan y los residentes de Foz entran gratis con comprobante. La tarifa reducida es para chicos de 6 a 11, mayores brasileños de 60 y estudiantes y docentes de Paraná.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Extremo oeste de la ciudad, en la unión de los ríos Iguazú y Paraná"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Al atardecer; cerrado los lunes"
+        },
+        {
+          "label": "Entrada",
+          "value": "R$ 60 adulto (R$ 57 + R$ 3 Fondo Iguaçu); reducida R$ 31,50 (fuente: marcodastresfronteiras.com.br, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas con el show"
+        }
+      ]
+    },
+    {
+      "nombre": "Senderos del parque: Caminho do Poço Preto, Circuito São João y otros",
+      "desc": "La entrada al parque incluye otros senderos por la Mata Atlántica, menos conocidos que el de las Cataratas y casi sin gente.",
+      "detalle": "Desde la tarifa 2026, la entrada al Parque Nacional do Iguaçu incluye además de la Trilha das Cataratas otros senderos y caminos: la Ciclovía das Cataratas, el Caminho das Bananeiras, el Caminho do Poço Preto, el Circuito São João y la Trilha da Canafístula. Son la forma de ver la selva de verdad, con más chances de cruzarte fauna.\n\nOjo con los cierres de octubre de 2026: la Trilha da Canafístula está cerrada del 28 de septiembre al 12 de octubre por un monitoreo de fauna, y el Caminho das Bananeiras está cerrado por obras. El Poço Preto y el Circuito São João siguen abiertos.\n\nEl Poço Preto también se puede hacer en bicicleta con guía (Bike Poço Preto, servicio aparte), y si tenés tu propia bici podés entrar a pedalear comprando la entrada online y respetando el horario del parque. Seguí siempre el camino marcado, sin atajos, y llevá agua, repelente y calzado cerrado.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Salen del Polo Cataratas del Parque Nacional do Iguaçu"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano, fuera de los días de lluvia fuerte"
+        },
+        {
+          "label": "Entrada",
+          "value": "Incluidos en la entrada del parque: R$ 134 integral / R$ 121 Brasil-Mercosur (fuente: cataratasdoiguacu.com.br, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día extra"
+        }
+      ]
+    },
+    {
+      "nombre": "Ponte da Amizade y Ciudad del Este (Paraguay)",
+      "desc": "El puente sobre el Paraná que lleva a Ciudad del Este, el gran centro de compras de la frontera. Ir temprano y con paciencia.",
+      "detalle": "El Puente Internacional de la Amistad une Foz con Ciudad del Este sobre el río Paraná. Se empezó en 1959 y se inauguró el 27 de marzo de 1965. Del puente nació el comercio de frontera y la propia ciudad paraguaya, que entonces se llamaba Puerto Stroessner.\n\nHoy la mayoría cruza para comprar electrónica, perfumes y ropa. El control migratorio del lado brasileño lo hace la Polícia Federal, y en 2026 la prensa paraguaya informó filas largas por falta de personal y obras; en septiembre hubo demoras de hasta tres horas por más control aduanero brasileño.\n\nSi volvés a Brasil con compras, la franquicia por vía terrestre es de US$ 500 por persona cada 30 días, controlada en todo el país. Lo que pase de eso paga impuesto. Andá temprano, con el documento original, poca plata a la vista y sin apuro para la vuelta.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al final de la BR-277, a 6 km del centro de visitantes de Itaipú"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días de semana a la mañana; evitá feriados brasileños"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (cruce de frontera)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Mezquita Omar Ibn Al-Khattab",
+      "desc": "Mezquita sunita de 1983 inspirada en Al-Aqsa, con minaretes de 15 metros. Ofrece visitas guiadas en español, portugués, inglés y árabe.",
+      "detalle": "Foz tiene una de las comunidades árabes más grandes de Brasil, llegada desde los años cincuenta para el comercio de frontera. Su símbolo es la Mezquita Omar Ibn Al-Khattab, inaugurada el 23 de marzo de 1983 en un terreno de 20.000 m². La arquitectura se inspira en la mezquita de Al-Aqsa, en Jerusalén; los minaretes miden 15 metros y la cúpula se pintó de dorado en 2001. Adentro hay arte abstracto y cuadros con versículos del Corán.\n\nEl Centro Cultural Beneficente Islâmico ofrece visitas guiadas en portugués, inglés, árabe y español, y regala ejemplares del Corán a quien quiera. Según la prensa recibe unos 120.000 visitantes por año. Se presta ropa adecuada para entrar y se proyecta un video corto sobre el islam.\n\nHorario de visita: lunes de 14 a 17.30; martes a sábado de 8.30 a 11.30 y de 14 a 17.30. Los domingos no hay visitas. Se reserva por la web o se compra en tótems en la entrada; confirmá el valor ahí.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Rua Meca 599, Foz do Iguaçu"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Fuera de los horarios de oración; domingos cerrado a visitas"
+        },
+        {
+          "label": "Entrada",
+          "value": "Visita con reserva online o tótem en la entrada; valor no publicado en la web oficial (mesquitafoz.com.br, consultado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Templo Budista Chen Tien",
+      "desc": "Templo construido en 1996 por la comunidad china de la frontera, con un Buda de 7 metros y más de cien estatuas en meditación.",
+      "detalle": "El Templo Budista Chen Tien fue construido en 1996 por comunidades chinas de la Triple Frontera. Está sobre una colina y lo primero que ves es una fila de más de un centenar de estatuas doradas en posición de meditación. En el centro hay un Buda de siete metros.\n\nEl conjunto tiene también un Buda Shakyamuni acostado, que simboliza el parinirvana, y una estatua de bronce del Buda Amitabha. El templo principal tiene más de 2.000 m² en dos pisos. Según la Secretaría de Turismo, recibe alrededor de 100.000 visitantes por año.\n\nQueda a unos 10 km del centro y el acceso en colectivo no es simple, así que muchos van en auto o en aplicación. Se pide ropa discreta (nada de musculosas, shorts ni polleras cortas) y no se admiten mascotas. Los horarios publicados por guías difieren, así que confirmá antes de ir.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Rua Dr. Josivalter Vila Nova, a unos 10 km del centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana o media tarde, con buena luz"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis, se aceptan donaciones (fuente: blogs Viciada em Viajar y Melhores Destinos, agregadores, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Experiencias especiales del parque: Amanecer, Puesta de Sol y Céu das Cataratas",
+      "desc": "Entradas especiales para ver las Cataratas antes de la apertura, al atardecer o bajo el cielo estrellado, con cupos limitados.",
+      "detalle": "La concesionaria del parque vende tres experiencias con cupo limitado que cambian por completo la visita. El Amanhecer nas Cataratas (Amanecer) se hace miércoles, jueves, viernes y sábados: el acceso al Centro de Visitantes es a las 5.30, recorrés el sendero antes de la apertura y cerrás con un desayuno de 7.30 a 9.30. La entrada vale para el resto del día.\n\nEl Pôr do Sol nas Cataratas (Puesta de Sol) te deja quedarte más tarde e incluye espumante, agua y jugos con música en vivo en el Espacio Naipi. El Céu das Cataratas es una salida nocturna los sábados con conductor especializado, bajo un cielo sin contaminación lumínica.\n\nLas dos primeras incluyen la entrada al parque. Se compran sólo online y se agotan en temporada alta, así que reservá con tiempo. Es la mejor forma de ver las Cataratas sin la multitud del mediodía.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Visitantes del Parque Nacional do Iguaçu (BR-469, km 18)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Amanecer: miércoles a sábado; Céu das Cataratas: sábados"
+        },
+        {
+          "label": "Entrada",
+          "value": "Tarifa aparte, incluye el ingreso al parque; el valor sólo se ve al comprar en cataratasdoiguacu.com.br (consultado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "3 a 4 horas cada una"
+        }
+      ]
+    },
+    {
+      "nombre": "Itaipu Iluminada (la represa de noche)",
+      "desc": "Los viernes y sábados la represa se ilumina y el paseo termina en el Mirante Central con música en vivo de la Triple Frontera.",
+      "detalle": "Los viernes y sábados a las 19 h, Itaipú abre un paseo nocturno: el colectivo te lleva hasta el Mirante Central, donde ocurre la mayor parte de la visita, y ahí se enciende la iluminación de la represa. Hay presentaciones de música en vivo de la Triple Frontera. Dura unas dos horas.\n\nExiste una versión ampliada, Itaipu Iluminada Especial, de unas cuatro horas, que suma el paso por los Condutos Forçados (los enormes tubos blancos por donde baja el agua a las turbinas: por cada uno pasan 700 m³ por segundo) y una cena en el Restaurante do Mirante do Lago.\n\nEs un buen plan para la noche si ya hiciste la Panorámica de día, o si querés ver Itaipú pero tenés el día ocupado con las Cataratas. Ojo con la política de no show: si no avisás con 4 horas de anticipación, se cobra el total.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Recepción de Visitantes de Itaipú, Av. Tancredo Neves 6702"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Viernes y sábados, 19 h"
+        },
+        {
+          "label": "Entrada",
+          "value": "Itaipu Iluminada R$ 50 entera; Iluminada Especial con cena R$ 180 (fuente: turismoitaipu.com.br, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas (4 horas la Especial)"
+        }
+      ]
+    },
+    {
+      "nombre": "Refúgio Biológico Bela Vista (Itaipú)",
+      "desc": "Reserva de Itaipú con recorrido en vehículo especial, plantación de un árbol nativo y una caminata suave de unos 2 km.",
+      "detalle": "El Refúgio Biológico Bela Vista es una de las áreas que Itaipú dedica a la recuperación de fauna y flora de la región. El paseo dura unas dos horas y media: se recorre en un vehículo especial, cada visitante planta un árbol nativo y se hace una caminata liviana por un sendero de alrededor de 2 km.\n\nEs la opción más tranquila y más barata de Itaipú, ideal si vas con chicos o si te interesa más la naturaleza que la ingeniería. Funciona de miércoles a lunes, con cupos y horarios limitados.\n\nLa propia Itaipú recomienda hacerlo a la mañana en verano, porque es al aire libre y hace mucho calor. Si no avisás que no vas con al menos 4 horas de anticipación, se cobra la entrada completa. Si se suspende por mal tiempo, Itaipú prevé el reembolso total.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sale del Centro de Recepción de Visitantes de Itaipú"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañanas, sobre todo en verano; cerrado los martes"
+        },
+        {
+          "label": "Entrada",
+          "value": "R$ 48 entera (fuente: turismoitaipu.com.br, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas 30 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Ecomuseu de Itaipú",
+      "desc": "Museo gratuito con tres exposiciones sobre la región trinacional, con tecnología inmersiva, acuarelas y fotografía.",
+      "detalle": "El Ecomuseu es el espacio cultural de Itaipú y es gratuito. Tiene tres exposiciones sobre la región de Foz: Território de Memórias, Território Ilustrado y Ciência na Esfera. Mezclan tecnología inmersiva, pinturas en acuarela y fotografías sobre la naturaleza de la región trinacional.\n\nLleva alrededor de una hora y es un buen complemento de la visita a la represa, sobre todo si querés entender qué había antes del lago de 1.350 km² que formó Itaipú y cómo cambió la región.\n\nAbre de miércoles a lunes, de 8.30 a 16 h. Al ser gratis, es una buena opción para un día de lluvia o para completar la mañana si tu horario de la Panorámica es más tarde. Recordá que todo el complejo es zona de seguridad binacional: pasás por detector de metales y rayos X al entrar.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Complejo turístico de Itaipú, 12 km del centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Miércoles a lunes, 8.30 a 16 h"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Puerto Iguazú (Argentina) y el puente Tancredo Neves",
+      "desc": "La ciudad argentina de enfrente, a la que se cruza por el puente de 1985. Base del lado argentino y buena opción para comer.",
+      "detalle": "Puerto Iguazú es la ciudad argentina que queda del otro lado del río Iguazú. Se llega por el puente Tancredo Neves, inaugurado el 29 de noviembre de 1985 por Sarney y Alfonsín. Mide 489 metros y está unos 15 km aguas abajo de las Cataratas. Al principio se llamó Puente de la Fraternidad.\n\nAdemás de ser la puerta al Parque Nacional Iguazú, es una alternativa para comer: guías de viaje brasileños recomiendan cruzar a probar parrilla y alfajores del lado argentino.\n\nEl cruce tiene controles migratorios de Brasil y de Argentina; con colectivo internacional el viaje de terminal a terminal ronda 1 h 45 min. Llevá documento original y, si viajás con menores, la documentación que pida tu país. En la ciudad, el colectivo urbano de la empresa Río Uruguay es más caro que en Foz: en julio de 2026 se aprobó un aumento con pago en pesos.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al otro lado del río Iguazú, por el puente Tancredo Neves"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; combinado con el parque argentino"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (cruce de frontera)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día a un día"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Parque Nacional do Iguaçu (Cataratas, lado brasileño)",
+      "precio": "Integral R$ 134 (R$ 131 + R$ 3 voluntarios al Fundo Iguaçu); Brasil/Mercosur R$ 121 (sólo nacionalidades brasileña, argentina, paraguaya, uruguaya y venezolana); Passe Comunidade R$ 26 para vecinos de 14 municipios; niños hasta 6 años gratis; no hay media entrada para estudiantes ni jubilados. Vigente desde el 19/12/2025 (fuente: cataratasdoiguacu.com.br, verificado octubre 2026). Chilenos, colombianos, peruanos y mexicanos pagan integral. Sólo online en cataratasdoiguacu.com.br"
+    },
+    {
+      "tipo": "Parque Nacional Iguazú (lado argentino)",
+      "precio": "AR$ 60.000 visitantes internacionales (incluye Mercosur); AR$ 25.000 residentes en Argentina; AR$ 8.000 residentes de Misiones; AR$ 15.000 estudiantes argentinos; gratis jubilados nacionales, menores de 6 y personas con discapacidad (fuente: iguazuargentina.com, verificado octubre 2026). Incluye Tren Ecológico. A R$ 1 = AR$ 280 (cotización de frontera citada por H2FOZ, julio 2026) los AR$ 60.000 son unos R$ 214"
+    },
+    {
+      "tipo": "Itaipú – Panorámica y Especial",
+      "precio": "Panorámica R$ 63 entera; Especial (con interior, mayores de 14) R$ 185 (fuente: turismoitaipu.com.br, verificado octubre 2026). Media entrada sólo para estudiantes de instituciones brasileñas; para extranjeros, sólo personas con discapacidad. Vecinos de municipios linderos, Panorámica gratis. Se compra en ingressos.turismoitaipu.com.br o en boletería"
+    },
+    {
+      "tipo": "Itaipú – Iluminada, Refúgio Biológico y Ecomuseu",
+      "precio": "Itaipu Iluminada R$ 50; Iluminada Especial con cena R$ 180; Refúgio Biológico R$ 48; Ecomuseu gratis (fuente: turismoitaipu.com.br, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Parque das Aves",
+      "precio": "R$ 110 integral para brasileños y extranjeros; media R$ 55 (estudiantes, mayores de 60, docentes y otros grupos, todos brasileños); chicos hasta 8 años gratis; Ingresso Comunidade R$ 15. Locker R$ 30, estacionamiento R$ 60. Precios válidos hasta 30/11/2026 (fuente: parquedasaves.com.br, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Macuco Safari (lancha a los saltos)",
+      "precio": "R$ 384 adulto; R$ 192 niños 7-11, brasileños mayores de 60, vecinos de la zona y estudiantes; 0-6 años gratis; privado R$ 767 por persona, mínimo 4 (fuente: macucosafari.com.br, verificado octubre 2026). No incluye la entrada al parque"
+    },
+    {
+      "tipo": "Marco das Três Fronteiras",
+      "precio": "R$ 60 adulto (R$ 57 + R$ 3 Fundo Iguaçu); reducida R$ 31,50 (niños 6-11, brasileños 60+, estudiantes y docentes de Paraná); 0-5 años gratis; residentes de Foz gratis (fuente: marcodastresfronteiras.com.br, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Servicios en el Parque Nacional do Iguaçu (estacionamiento y lockers)",
+      "precio": "Estacionamiento autos y motos R$ 65 por día; locker R$ 45 (fuente: cataratasdoiguacu.com.br, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Templo Budista Chen Tien",
+      "precio": "Gratis, con donación voluntaria (fuente: blogs de viaje, agregadores, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Ponte da Amizade, Marco argentino y paseo por Puerto Iguazú",
+      "precio": "Gratis (cruces de frontera y espacios públicos)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Macuco Safari: lancha por el cañón del Iguazú hasta debajo de los saltos",
+      "precio": "R$ 384 adulto; R$ 192 tarifa reducida (fuente: macucosafari.com.br, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Macuco Safari (dentro del Parque Nacional do Iguaçu)"
+    },
+    {
+      "actividad": "Itaipu Especial: circuito por dentro de la represa y Sala de Comando Central",
+      "precio": "R$ 185 entera (fuente: turismoitaipu.com.br, verificado octubre 2026)",
+      "duracion": "2 h 30 min",
+      "operador": "Itaipu Parquetec / Turismo Itaipu"
+    },
+    {
+      "actividad": "Itaipu Iluminada Especial: represa iluminada, Condutos Forçados y cena",
+      "precio": "R$ 180 entera; versión simple R$ 50 (fuente: turismoitaipu.com.br, verificado octubre 2026)",
+      "duracion": "4 horas",
+      "operador": "Turismo Itaipu"
+    },
+    {
+      "actividad": "Paseo de Luna Llena o Atardecer en Cataratas (lado argentino)",
+      "precio": "AR$ 95.000 adultos; AR$ 47.500 niños de 6 a 12; hasta 5 años gratis (fuente: iguazuargentina.com, verificado octubre 2026)",
+      "duracion": "Noche o atardecer, unas 2 horas",
+      "operador": "Iguazú Argentina (concesionaria del Parque Nacional Iguazú)"
+    },
+    {
+      "actividad": "Vuelo panorámico en helicóptero sobre las Cataratas",
+      "precio": "~US$ 139–141 por adulto, mínimo 4 pasajeros (fuente: Expedia/Travelocity, agregadores, verificado octubre 2026)",
+      "duracion": "10 minutos de vuelo",
+      "operador": "Helisul Aviação"
+    },
+    {
+      "actividad": "Bike Poço Preto: bici guiada por la selva del parque",
+      "precio": "~R$ 160 además de la entrada al parque (fuente: Curta Mais, valor publicado en octubre de 2025, verificado octubre 2026)",
+      "duracion": "Medio día",
+      "operador": "Urbia+Cataratas (Parque Nacional do Iguaçu)"
+    },
+    {
+      "actividad": "Cena con show folclórico latinoamericano en la Rafain Churrascaria",
+      "precio": "~US$ 68–138 por persona según el paquete, bebidas aparte (fuente: iguazufalls.com y Travelocity, agregadores, verificado octubre 2026)",
+      "duracion": "Noche, unas 2 horas de show",
+      "operador": "Rafain Churrascaria Show"
+    },
+    {
+      "actividad": "Refúgio Biológico Bela Vista: recorrido, plantación de árbol y caminata",
+      "precio": "R$ 48 entera (fuente: turismoitaipu.com.br, verificado octubre 2026)",
+      "duracion": "2 h 30 min",
+      "operador": "Turismo Itaipu"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Colectivo urbano de Foz (línea 120 Parque Nacional–Aeropuerto)",
+      "precio": "R$ 5 con integración (fuente: H2FOZ, julio 2026; Parque das Aves, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "La línea 120 sale del Terminal de Transporte Urbano (TTU) en el centro, pasa por el aeropuerto y llega al Centro de Visitantes de las Cataratas; también te deja cerca del Parque das Aves. Se vuelve con la misma línea."
+    },
+    {
+      "medio": "Transporte interno del Parque Nacional do Iguaçu",
+      "precio": "Incluido en la entrada de R$ 121/134 (fuente: cataratasdoiguacu.com.br, verificado octubre 2026)",
+      "duracion": "Unos 12 km entre el Centro de Visitantes y la Trilha das Cataratas",
+      "notas": "No se puede entrar con auto particular más allá del Centro de Visitantes. Los colectivos panorámicos son de uso libre entre las paradas."
+    },
+    {
+      "medio": "Colectivo internacional Foz–Puerto Iguazú",
+      "precio": "R$ 35–36 (fuente: Buson, agregador, verificado octubre 2026)",
+      "duracion": "1 h 45 min de terminal a terminal, con migraciones",
+      "notas": "Sale de la Rodoviária Internacional de Foz hacia la terminal de Puerto Iguazú. Un viajero informa que se paga en efectivo y que aceptan reales; confirmalo en el lugar."
+    },
+    {
+      "medio": "Línea Cataratas en Puerto Iguazú (terminal–Parque Nacional Iguazú)",
+      "precio": "AR$ 12.000 turistas; AR$ 4.000 residentes (aprobado en julio 2026, rige desde la publicación del decreto; fuente: H2FOZ, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "La opera la empresa Río Uruguay. Con la cotación de frontera de R$ 1 = AR$ 280, el boleto turista ronda R$ 43."
+    },
+    {
+      "medio": "Auto de alquiler",
+      "precio": "Media diaria entre R$ 44 y R$ 148 según el buscador (fuente: Mundi, verificado octubre 2026); estacionamiento en el parque R$ 65 por día (fuente: cataratasdoiguacu.com.br, verificado octubre 2026)",
+      "duracion": "Libre",
+      "notas": "Útil para combinar Cataratas, Itaipú, el templo budista y el Marco en pocos días. Para cruzar a Argentina o Paraguay revisá con la rentadora que el seguro y el permiso de cruce estén incluidos."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Avión a Foz do Iguaçu (IGU, Aeropuerto Internacional Cataratas) y colectivo al centro",
+      "empresas": "GOL y Azul con vuelos directos desde São Paulo (Congonhas y Guarulhos); colectivo urbano 120 al centro",
+      "precio": "Desde R$ 315 ida desde São Paulo; ida y vuelta R$ 630–660 (fuente: momondo, verificado octubre 2026); colectivo al centro R$ 5 (fuente: H2FOZ, julio 2026)",
+      "duracion": "1 h 35 min a 1 h 50 min de vuelo directo desde São Paulo"
+    },
+    {
+      "ruta": "Colectivo desde Curitiba a la Rodoviária Internacional de Foz",
+      "empresas": "Empresas de larga distancia que venden en Buson (convencional y cama)",
+      "precio": "R$ 358–436 (fuente: Buson, agregador, verificado octubre 2026)",
+      "duracion": "10 a 15 horas según el servicio"
+    },
+    {
+      "ruta": "Colectivo desde Argentina: Posadas o Puerto Iguazú a Foz",
+      "empresas": "Servicios internacionales vendidos en Buson; desde Puerto Iguazú, colectivos de frontera",
+      "precio": "Posadas–Foz R$ 151–205; Puerto Iguazú–Foz R$ 23–26 (fuente: Buson, agregador, verificado octubre 2026)",
+      "duracion": "6 h 10 min desde Posadas; 1 h 45 min desde Puerto Iguazú"
+    },
+    {
+      "ruta": "Auto desde Curitiba por la BR-277",
+      "empresas": "Por tu cuenta (ruta BR-277, que termina en el Puente de la Amistad)",
+      "precio": "Sin tarifa única: combustible y peajes de la ruta a tu cargo. Alquiler en Foz desde una media de R$ 44 por día (fuente: Mundi, verificado octubre 2026)",
+      "duracion": "643 km desde Curitiba"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Hostels y económicos",
+      "nivel": 2,
+      "opciones": "Hostel Poesia desde R$ 70, Che Lagarto Hostel e Suites desde R$ 132 y Tetris Container Hostel (Av. das Cataratas) con media de R$ 195 la noche (fuente: momondo y Mundi, verificado octubre 2026). Hay también cuartos privados en casas desde R$ 55–110. En julio y feriados largos los precios suben"
+    },
+    {
+      "categoria": "Intermedio en el centro",
+      "nivel": 3,
+      "opciones": "ibis budget (Av. República Argentina) R$ 207–283 en cuarto estándar, Rede Andrade Biton R$ 190, Foz Presidente Economic R$ 210, Águas do Iguaçu R$ 272 (fuente: Mundi y momondo, verificado octubre 2026). El centro tiene más colectivos y restaurantes; julio es el mes más caro del año"
+    },
+    {
+      "categoria": "Hoteles completos en el centro y la Av. das Cataratas",
+      "nivel": 4,
+      "opciones": "Hotel Rafain Centro ~R$ 395, Wyndham Foz do Iguaçu ~R$ 444, Nadai Confort Hotel e Spa ~R$ 462, Viale Cataratas ~R$ 509, JL Hotel by Bourbon ~R$ 519 la noche (fuente: momondo y Mundi, verificado octubre 2026). La Av. das Cataratas te deja más cerca del parque"
+    },
+    {
+      "categoria": "Resorts y lujo (incluido el único hotel dentro del parque)",
+      "nivel": 5,
+      "opciones": "Hotel das Cataratas, A Belmond Hotel, dentro del Parque Nacional y frente a los saltos: desde ~R$ 3.170 hasta R$ 4.234 la noche. Recanto Cataratas Thermas Resort ~R$ 763 y DoubleTree by Hilton Resort ~R$ 790 (fuente: momondo y Mundi, verificado octubre 2026). Según momondo, mayo es el mes más barato (media R$ 860) y julio el más caro (R$ 1.227)"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Buffet libre de comida casera brasileña",
+      "nivel": 2,
+      "opciones": "El Restaurante Barracão (barrio Vila A) sirve buffet a precio fijo con carnes, pescado, mandioca y feijoada alrededor de un fogón a leña: R$ 40 entre semana y algo más de R$ 50 el fin de semana en 2024 (fuente: Melhores Destinos, blog, verificado octubre 2026). Para ahorrar, el buffet grill del supermercado Super Muffato"
+    },
+    {
+      "tipo": "Comida árabe (shawarma, kibe crudo, fatush)",
+      "nivel": 3,
+      "opciones": "Por la gran comunidad libanesa, el shawarma es la comida callejera de Foz: Star Shawarma o Shawarmania & Casa da Esfiha. Para sentarse, Le Mir (menú degustación con hummus, fatush y kibe crudo) o Castelo Libanês (12 a 14 y 18 a 21.30, sin reservas) (fuente: Melhores Destinos, blog, verificado octubre 2026; precios en la carta del local)"
+    },
+    {
+      "tipo": "Almuerzo frente a las Cataratas (buffet Canoas Mirim)",
+      "nivel": 4,
+      "opciones": "Buffet libre en el Espacio Porto Canoas, al final de la Trilha das Cataratas, de 12 a 16 h; bebidas y postres aparte; niños 0-6 gratis y 7-11 pagan la mitad (fuente: cataratasdoiguacu.com.br, verificado octubre 2026). En agosto de 2024 costaba R$ 139 por persona (fuente: Melhores Destinos, blog, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Churrasco y pescado de río (dorado asado, pirá de Foz)",
+      "nivel": 5,
+      "opciones": "Foz es tierra de churrascarias: Rafain Churrascaria Show (desde 1981, más de 15 cortes y show a la noche, ~US$ 68–138 con show según agregadores, verificado octubre 2026), Búfalo Branco (desde 1989) y Churrascaria do Gaúcho. El plato típico local es el pirá de Foz y el dorado asado del río Paraná (fuente: Melhores Destinos y Viaje Paraná, verificado octubre 2026)"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Qué documento necesito para entrar a Brasil y cruzar a Argentina y Paraguay?",
+      "a": "Argentinos, uruguayos, paraguayos, chilenos, colombianos y peruanos pueden entrar a Brasil como turistas con su documento nacional de identidad vigente o con pasaporte, por el acuerdo de documentos de viaje del Mercosur. Los mexicanos no necesitan visa de turismo desde 2013, pero entran con pasaporte. En Foz vas a cruzar fronteras varias veces: llevá siempre el documento original, en buen estado (no sirven licencia de conducir ni fotocopias). Si viajás con menores, consultá la autorización de viaje que pide tu país. Cada cruce a Argentina pasa por migraciones de los dos países; en el Puente de la Amistad, el control brasileño lo hace la Polícia Federal."
+    },
+    {
+      "q": "¿Conviene ver las Cataratas de los dos lados? ¿Cuántos días necesito?",
+      "a": "Sí. El lado brasileño (unas 2 horas de sendero) te da la vista panorámica de casi todo el frente de saltos; el argentino (día completo) te lleva por pasarelas encima y cerca de los saltos, con el Tren Ecológico incluido en la entrada. Con tres días hacés lo básico: un día lado brasileño más Parque das Aves y Marco das Três Fronteiras al atardecer, un día lado argentino y un día Itaipú más mezquita o templo budista. Con cuatro sumás Macuco Safari, los senderos del parque o Ciudad del Este. Comprá las entradas online con día y hora, sobre todo en enero, julio y feriados."
+    },
+    {
+      "q": "¿Hay descuento por ser latinoamericano?",
+      "a": "Depende de dónde vengas. En el Parque Nacional do Iguaçu la tarifa Brasil/Mercosur (R$ 121 contra R$ 134 integral) sólo vale para las nacionalidades brasileña, argentina, paraguaya, uruguaya y venezolana; chilenos, colombianos, peruanos y mexicanos pagan la integral. No hay media entrada para estudiantes ni jubilados. En el lado argentino todos los extranjeros pagan lo mismo (AR$ 60.000), incluidos brasileños y mercosureños; sólo los residentes en Argentina pagan menos. En Itaipú y el Parque das Aves las medias entradas son para brasileños; un extranjero sólo accede si es persona con discapacidad."
+    },
+    {
+      "q": "¿Cómo voy a Ciudad del Este y cuánto puedo comprar?",
+      "a": "Se cruza por el Puente de la Amistad, al final de la BR-277. En 2026 hubo filas largas en migraciones y, en septiembre, demoras de hasta tres horas por controles aduaneros más estrictos del lado brasileño, así que andá temprano y entre semana. Si volvés a Brasil con compras, la franquicia por vía terrestre es de US$ 500 por persona cada 30 días, y la Receita Federal la controla en todo el país: si ya la usaste en un aeropuerto, no la tenés en la frontera. Lo que exceda paga impuesto. En un viaje de un día casi todo lo que compres entra en la cuota, incluida ropa y perfumes."
+    },
+    {
+      "q": "¿Es seguro Foz de Iguazú?",
+      "a": "Las zonas turísticas (Av. das Cataratas, el centro, los parques, Itaipú) se recorren sin problemas con precauciones normales. Pero es una ciudad de frontera con circulación de contrabando y tasas de homicidio altas para su tamaño, concentradas en barrios periféricos que no forman parte del circuito turístico. Conviene no exhibir celulares caros ni mucho efectivo en Ciudad del Este, moverte de noche en taxi o aplicación, y no aceptar llevar paquetes de terceros al cruzar fronteras. En los parques, el riesgo real es otro: no te salgas de los senderos, no alimentes a los coatíes y respetá la distancia con la fauna."
+    },
+    {
+      "q": "¿Pago con tarjeta o llevo efectivo? ¿Qué moneda uso?",
+      "a": "En Foz casi todo se paga con tarjeta o PIX. Las entradas del Parque Nacional do Iguaçu se compran sólo online y se pueden pagar en hasta 3 cuotas; Itaipú acepta crédito, débito, PIX y efectivo, pero en efectivo sólo reales. Para el lado argentino necesitás pesos o tarjeta: la entrada al parque está en pesos (AR$ 60.000) y el colectivo local también. En julio de 2026 la referencia de frontera era R$ 1 = AR$ 280. Tené algo de efectivo para los colectivos internacionales, donde suelen cobrar en mano, y para Ciudad del Este, donde circulan guaraníes y dólares."
+    },
+    {
+      "q": "¿Cuál es la mejor época para ir?",
+      "a": "El parque brasileño abre todo el año. En épocas de lluvia el caudal puede multiplicarse por diez, de 1.500 a 11.300 m³ por segundo; según el propio parque, en mayo el volumen suele estar en la media y con aguas claras. El verano es caluroso y húmedo; en julio, el mes más frío, las mañanas suelen tener nieblas suaves sobre las Cataratas, y puede haber alguna helada. Las temporadas de más gente son enero, julio y los feriados largos de Brasil y Argentina: el 6 de septiembre de 2026 hubo 15.942 visitantes en un solo día. Si podés elegir, marzo a junio y la primavera son buenos momentos, y los días de semana siempre tienen menos fila."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (PT) — «Foz do Iguaçu»: https://pt.wikipedia.org/wiki/Foz_do_Igua%C3%A7u",
+      "Wikipedia (PT) — «Cataratas do Iguaçu»: https://pt.wikipedia.org/wiki/Cataratas_do_Igua%C3%A7u",
+      "Wikipedia (PT) — «Usina Hidrelétrica de Itaipu»: https://pt.wikipedia.org/wiki/Usina_Hidrel%C3%A9trica_de_Itaipu",
+      "Wikipedia (PT) — «Ponte Internacional da Amizade»: https://pt.wikipedia.org/wiki/Ponte_Internacional_da_Amizade",
+      "Wikipedia (PT) — «Ponte Tancredo Neves»: https://pt.wikipedia.org/wiki/Ponte_Internacional_da_Fraternidade",
+      "Wikipedia (PT) — «Mesquita Omar Ibn Al-Khatab»: https://pt.wikipedia.org/wiki/Mesquita_Omar_Ibn_Al-Khatab",
+      "Wikipedia (PT) — «Templo Budista de Foz do Iguaçu»: https://pt.wikipedia.org/wiki/Templo_Budista_de_Foz_do_Igua%C3%A7u"
+    ],
+    "que_ver_atracciones": [
+      "Parque Nacional do Iguaçu — «O Parque»: https://cataratasdoiguacu.com.br/o-parque/",
+      "Parque Nacional do Iguaçu — «Informações gerais»: https://cataratasdoiguacu.com.br/ajuda-e-cuidados/informacoes-gerais/",
+      "Parque Nacional do Iguaçu — «Experiências»: https://cataratasdoiguacu.com.br/experiencias/",
+      "Parque Nacional do Iguaçu — «Trilha da Canafístula está fechada para monitoramento»: https://cataratasdoiguacu.com.br/blog/trilha-da-canafistula-esta-fechada-para-monitoramento/",
+      "Parque Nacional do Iguaçu — «Maior setembro da história: 186 mil visitantes»: https://cataratasdoiguacu.com.br/blog/maior-setembro-da-historia/",
+      "Turismo Itaipu — «Itaipu Panorâmica»: https://turismoitaipu.com.br/ingressos-e-passeios/itaipu-panoramica/",
+      "Turismo Itaipu — «A Usina Hidrelétrica»: https://turismoitaipu.com.br/a-usina-itaipu/",
+      "Marco das 3 Fronteiras — «Quanto custa»: https://marcodastresfronteiras.com.br/",
+      "CCBI – Mesquita Omar Ibn Al-Khattab — «Visitação»: https://www.mesquitafoz.com.br/",
+      "Gazeta do Povo — «Da mesquita ao templo budista: Foz do Iguaçu vira rota de turismo religioso»: https://www.gazetadopovo.com.br/parana/turismo-religioso-foz-do-iguacu/",
+      "Viciada em Viajar (blog) — «Como visitar o templo budista em Foz do Iguaçu?»: https://www.viciadaemviajar.com/templo-budista-de-foz-do-iguacu/"
+    ],
+    "precios_2026": [
+      "Parque Nacional do Iguaçu — «Valor do ingresso do Parque em 2026»: https://cataratasdoiguacu.com.br/blog/valor-ingressos-para-2026/",
+      "Parque Nacional do Iguaçu — «Informações sobre ingresso»: https://cataratasdoiguacu.com.br/ajuda-e-cuidados/informacoes-sobre-ingresso/",
+      "Parque Nacional do Iguaçu — «Descontos e gratuidades»: https://cataratasdoiguacu.com.br/ajuda-e-cuidados/descontos-e-gratuidades/",
+      "Parque Nacional Iguazú — «Tarifas»: https://iguazuargentina.com/es/tarifas",
+      "Turismo Itaipu — «Ingressos e passeios»: https://turismoitaipu.com.br/",
+      "Turismo Itaipu — «Planeje sua visita»: https://turismoitaipu.com.br/planeje-sua-visita/",
+      "Parque das Aves — «Valores»: https://www.parquedasaves.com.br/planeje-sua-visita/valores/",
+      "Macuco Safari — «Quanto custa o passeio?»: https://www.macucosafari.com.br/",
+      "Curta Mais — «5 experiências nas Cataratas que até moradores de Foz precisam viver»: https://curtamais.com.br/foz/2025/10/09/5-experiencias-cataratas-moradores-de-foz-precisam-viver/",
+      "Expedia (agregador) — «Panoramic helicopter flight over Iguassu Falls»: https://www.expedia.com/things-to-do/panoramic-helicopter-flight-over-iguassu-falls.a2707960.activity-details",
+      "iguazufalls.com (agregador) — «Rafain Churrascaria: Dinner + Show»: https://iguazufalls.com/tours-and-activities/rafain-churrascaria-dinner-show"
+    ],
+    "como_llegar_transporte": [
+      "Parque das Aves — «Como chegar»: https://www.parquedasaves.com.br/planeje-sua-visita/como-chegar/",
+      "H2FOZ — «Passagem do ônibus para as Cataratas está mais cara na Argentina»: https://www.h2foz.com.br/turismo/passagem-onibus-cataratas-argentina-julho-2026/",
+      "Buson — «Foz do Iguaçu a Puerto Iguazú»: https://www.buson.com.br/passagem-de-onibus/foz-do-iguacu-pr/puerto-iguazu-ar",
+      "Buson — «Foz do Iguaçu a Curitiba»: https://www.buson.com.br/passagem-de-onibus/foz-do-iguacu-pr/curitiba-pr",
+      "Buson — «Posadas a Foz do Iguaçu»: https://www.buson.com.br/passagem-de-onibus/posadas-ar/foz-do-iguacu-pr",
+      "momondo — «Voos de São Paulo para Foz do Iguaçu»: https://www.momondo.com.br/voos/sao-paulo/foz-do-iguacu",
+      "Diário do Transporte — «Ponte da Integração entre Brasil e Paraguai passa a receber ônibus de linhas internacionais»: https://diariodotransporte.com.br/2026/09/15/ponte-da-integracao-entre-brasil-e-paraguai-passa-a-receber-onibus-de-linhas-internacionais-e-de-turismo-fretado/"
+    ],
+    "fronteras_seguridad": [
+      "Última Hora — «Turistas paraguayos enfrentan calor y largas filas para cruzar el Puente de la Amistad»: https://www.ultimahora.com/turistas-paraguayos-enfrentan-calor-y-largas-filas-para-cruzar-el-puente-de-la-amistad",
+      "Gazeta do Povo — «Receita integra controle da cota de compras em Foz do Iguaçu»: https://www.gazetadopovo.com.br/parana/receita-integra-controle-cota-compras-foz-do-iguacu-fronteira/",
+      "Grupo Animal (verificación) — «Brasil suprimió la visa de turismo para mexicanos desde 2013»: https://grupoanimal.mx/verificacion-viral/brasil-suprimio-visa-mexicanos-2013",
+      "Cancillería Argentina — «Estatuto de la Ciudadanía del Mercosur»: https://eoirs.cancilleria.gob.ar/userfiles/2018/estatuto-ciudadania-mercosur-es-final-v2.pdf"
+    ],
+    "alojamiento_gastronomia": [
+      "momondo — «Hotéis em Foz do Iguaçu»: https://www.momondo.com.br/hoteis/foz-do-iguacu",
+      "Mundi — «ibis budget Foz do Iguaçu»: https://www.mundi.com.br/hotel/foz-do-igua%C3%A7u/ibis-budget-foz-do-iguacu-3639618.ksp",
+      "Melhores Destinos — «Onde comer em Foz do Iguaçu»: https://guia.melhoresdestinos.com.br/onde-comer-foz-do-iguacu.html",
+      "Parque Nacional do Iguaçu — «Onde comer nas Cataratas»: https://cataratasdoiguacu.com.br/restaurantes-do-parque/"
+    ]
+  }
+}
