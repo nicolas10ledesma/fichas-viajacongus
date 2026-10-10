@@ -1,0 +1,646 @@
+{
+  "slug": "benalmadena",
+  "name": "Benalmádena",
+  "region": "Andalucía (Costa del Sol, Málaga)",
+  "lat": 36.6,
+  "lon": -4.5167,
+  "datosRapidos": [
+    {
+      "label": "Municipio",
+      "value": "Benalmádena es un municipio de la provincia de Málaga, en Andalucía, sobre la Costa del Sol occidental, entre Torremolinos y Fuengirola. Ocupa unos 26,9 km² que bajan desde la Sierra de Mijas hasta el Mediterráneo, y queda a unos 12 km del aeropuerto de Málaga. Según el INE, al 1 de enero de 2025 vivían 78.338 personas. En realidad son tres pueblos que casi se tocan: Benalmádena Pueblo, el núcleo histórico de casas blancas a 241 metros de altura y a 2,7 km del mar; Arroyo de la Miel, la zona comercial y residencial que nació alrededor de una fábrica de papel del siglo XVIII y donde para el tren; y Benalmádena Costa, con más de nueve kilómetros de playas, el paseo marítimo y el puerto deportivo. La oficina de turismo la presenta como el pueblo de la Costa del Sol con más parques de ocio: tiene teleférico, delfinario, acuario y mariposario. Se la conoce sobre todo por Puerto Marina, el puerto deportivo de 1982 con edificios blancos sobre islas artificiales, y por la Estupa de la Iluminación, un templo budista de 33 metros con cúpula dorada que se ve desde la autovía. Es una base práctica y más barata que Marbella para recorrer la costa en tren o colectivo."
+    },
+    {
+      "label": "Moneda e idioma",
+      "value": "Se paga en euros y la tarjeta se acepta en casi todos lados, incluso en los molinetes del tren de Cercanías, que cobran con tarjeta contactless o con el celular. Para el colectivo urbano conviene tener monedas: el billete sencillo se paga a bordo. Se habla castellano con acento andaluz, pero en Benalmádena Costa y en Puerto Marina vas a escuchar mucho inglés: la oficina de turismo cuenta más de 140 nacionalidades conviviendo en el municipio, y muchas cartas vienen en varios idiomas."
+    },
+    {
+      "label": "Mejor época",
+      "value": "La oficina de turismo habla de más de 300 días de sol al año, con inviernos suaves y lluvias concentradas en noviembre y febrero. Para playa, de junio a septiembre; julio y agosto son los meses más caros y llenos. Mayo, junio, septiembre y octubre suelen ser el mejor equilibrio entre clima y precio. Ojo: el teleférico y Selwo Marina no abren todos los días y cierran por mal tiempo o mantenimiento, así que revisá sus calendarios antes de armar el viaje."
+    },
+    {
+      "label": "Visado y entrada",
+      "value": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos entran a España sin visa como turistas por hasta 90 días dentro de un período de 180 en el espacio Schengen. Desde el 10 de abril de 2026 funciona completo el EES (Sistema de Entradas y Salidas): en el primer control Schengen te registran huellas y foto. El ETIAS, el permiso previo online, a octubre de 2026 todavía no se pide y no tiene fecha oficial de arranque."
+    }
+  ],
+  "intro": [
+    "Benalmádena tiene algo poco común en la Costa del Sol: en un mismo día podés subir en teleférico a una montaña de casi 800 metros, bajar a un pueblo blanco con plaza y fuente, y terminar la tarde en la playa o mirando barcos en un puerto de cuento. Todo queda cerca y se conecta con colectivo o tren, así que no hace falta auto. Por eso funciona bien para quien viaja con poco presupuesto y quiere usarla como base para conocer Málaga, Mijas o Fuengirola.",
+    "Lo que más sorprende es la mezcla. Sobre la ladera se levanta una estupa budista dorada, la más grande de Occidente según la oficina de turismo; un poco más abajo, un castillo que un médico construyó en homenaje a Colón; y en la costa, un castillo neoárabe de los años treinta convertido en centro cultural. Entre medio hay delfinario, acuario, un mariposario con más de 1.500 mariposas y un parque urbano de 20 hectáreas con lago, pequeño zoológico y jardín de cactus.",
+    "No es un lugar tranquilo en agosto: el paseo marítimo se llena de familias y de turistas británicos y escandinavos. Pero tiene una ventaja clara frente a vecinos más famosos: los hoteles y las comidas cuestan bastante menos, el colectivo urbano sale 1,60 € y el tren te deja en el aeropuerto en unos 20 minutos. Si venís con chicos, es probablemente el pueblo de la costa con más planes por metro cuadrado."
+  ],
+  "historia_corta": "La historia de Benalmádena arranca en la Cueva del Toro, en el monte Calamorro, con pinturas rupestres que se atribuyen al Solutrense, hace unos 21.000 años. En el Neolítico se usaron las cuevas de La Serrezuela y, hace unos 2.900 años, el poblado del Cerro de la Era convivió con los primeros fenicios. Los romanos dejaron dos villas costeras: Benalroma, ocupada entre los siglos I y VI, y la Villa Mauritana de Torremuelle, con fábricas de salazones. En época andalusí surge el nombre, que se suele explicar como Ibn al-Madena, 'hijos de las minas', por los yacimientos de hierro. La fortaleza del actual Pueblo se levantó probablemente en el siglo XII, y los nazaríes vigilaban la costa con torres como Torre Bermeja y Torre Quebrada. En 1485 las tropas de Fernando el Católico destruyeron la alcazaba, y en 1491 se intentó repoblar la villa con 30 familias cristianas, con poco éxito por los ataques piratas. En 1784 el genovés Félix Solesio compró el cortijo de Arroyo de la Miel y montó el complejo papelero de San Carlos para la Real Fábrica de Naipes de Macharaviaya; de ahí viene el barrio. Desde los años cincuenta llegó el turismo: hoteles como el Riviera o el Alay, el parque Tívoli World en 1972 y Puerto Marina en 1982. El teleférico al Calamorro funciona desde el 3 de marzo de 2000 y la Estupa de la Iluminación se inauguró el 5 de octubre de 2003. Tívoli World, en cambio, está cerrado desde hace más de cinco años y en 2026 seguía pendiente un proyecto de reapertura con hoteles y comercios.",
+  "queVer": [
+    {
+      "nombre": "Puerto Marina (Puerto Deportivo de Benalmádena)",
+      "desc": "El puerto deportivo con edificios blancos sobre islas artificiales, elegido mejor puerto deportivo del mundo en 1995 y 1997.",
+      "detalle": "Puerto Marina es la postal de Benalmádena. Se inauguró en 1982 y la oficina de turismo destaca que fue elegido Mejor Puerto Deportivo del Mundo en 1995 y 1997, y que tiene Bandera Azul desde 1987. Tiene más de 1.100 amarres y una arquitectura muy particular: edificios blancos de inspiración mediterránea levantados sobre islas artificiales unidas por puentes y canales.\n\nSe recorre a pie y gratis. Entre los muelles hay restaurantes, bares, heladerías, tiendas, un pequeño parque de diversiones y juegos para chicos. Ahí mismo está el acuario SEA LIFE y salen los barcos para ver delfines y el ferry a Fuengirola. De noche se llena de gente y de música en los pubs.\n\nConviene ir dos veces: a media mañana para caminar tranquilo y sacar fotos de las islas, y al atardecer, cuando el sol cae sobre el mar y se encienden las terrazas. Ojo con comer justo frente al agua: se paga la vista. Si buscás algo más barato, alejate unas cuadras hacia la avenida Antonio Machado. La parada de colectivos más usada del municipio queda en esa avenida, muy cerca del puerto.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En Benalmádena Costa; parada de colectivos de la avenida Antonio Machado, muy cerca"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mejor al atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público; fuente: thisisbenalmadena.travel, oficina de turismo, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Teleférico de Benalmádena y monte Calamorro",
+      "desc": "La única telecabina de la Costa del Sol: 15 minutos de subida desde Arroyo de la Miel hasta la cima del Calamorro, con vistas a toda la costa.",
+      "detalle": "El teleférico funciona desde el 3 de marzo de 2000. La estación de salida está en la Explanada del Tívoli, en pleno Arroyo de la Miel, y las cabinas de cuatro personas suben 2.646 metros de cable con un desnivel de 636 metros en unos 15 minutos. Al principio pasás por encima del parque Tívoli World (cerrado) y después se abre la vista de toda la costa malagueña.\n\nArriba, la estación queda a unos 720 metros y la cima del Calamorro a unos 770. Hay senderos cortos a miradores desde donde, en días claros, según el operador se ven Sierra Nevada, el Peñón de Gibraltar y hasta la costa de África. La Fundación Valle de las Águilas hace una presentación de aves rapaces que se paga aparte. Si te gusta caminar, desde la cima salen senderos señalizados, como el del Arroyo de los Muertos, que baja hasta Arroyo de la Miel.\n\nConviene comprar online: sale bastante más barato que en taquilla. No abre todos los días y cierra con viento o por mantenimiento, así que revisá el calendario o llamá al 952 577 773 antes de ir. Llevá abrigo: arriba sopla más fuerte que en la playa.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Estación base en la Explanada del Tívoli, Arroyo de la Miel; a pasos de la estación de tren Benalmádena-Arroyo de la Miel"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días despejados; mañana o tarde, nunca con viento fuerte"
+        },
+        {
+          "label": "Entrada",
+          "value": "Ida y vuelta: desde 17,90 € online y desde 21,90 € en taquilla (desde 8 años); reducida desde 12,90 € online; menores de 3 años y de 1 metro gratis (fuente: telefericobenalmadena.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas con la visita a la cima"
+        }
+      ]
+    },
+    {
+      "nombre": "Estupa de la Iluminación (Stupa de Benalmádena)",
+      "desc": "Templo budista de 33 metros con cúpula dorada, inaugurado en 2003 sobre la ladera de Benalmádena Pueblo. Se entra libremente.",
+      "detalle": "La Estupa de la Iluminación se inauguró el 5 de octubre de 2003 por iniciativa de Lopon Tsechu Rinpoche, un maestro budista de Bután. La oficina de turismo la presenta como el templo budista más grande de Occidente. Mide 33 metros de alto, tiene una base cuadrada de 25 metros por lado y una cúpula dorada que brilla al sol y se ve desde la autovía.\n\nA diferencia de la mayoría de las estupas, que son macizas, esta se puede visitar por dentro: hay una sala de meditación de más de 100 m² y cualquiera puede entrar y participar de meditaciones guiadas. Se pide silencio y respeto, como en cualquier templo.\n\nLa vista desde la explanada es de las mejores del municipio: abajo se ve Arroyo de la Miel y el mar. Queda a unos 15 minutos a pie del centro histórico de Benalmádena Pueblo, y al lado está el mariposario Monowa, así que conviene combinarlos. En colectivo, la línea M-103 tiene una parada llamada Stupa Tibetana. La web oficial de la estupa no estaba accesible en octubre de 2026, así que confirmá el horario en la oficina de turismo antes de ir.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Avenida Retamar, en la parte alta de Benalmádena Pueblo; parada Stupa Tibetana de la línea M-103"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; al atardecer la cúpula se ve dorada"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (acceso libre; fuente: thisisbenalmadena.travel, oficina de turismo, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Benalmádena Pueblo (casco antiguo)",
+      "desc": "El núcleo histórico de casas blancas a casi 300 metros sobre el mar, con la Niña de Benalmádena, los Jardines del Muro y un museo precolombino.",
+      "detalle": "Benalmádena Pueblo es el origen del municipio: una villa de época andalusí colgada de la ladera, a unos 2,7 km de la costa. Conserva calles angostas empedradas, fachadas encaladas con macetas y plazas tranquilas, muy distinto del ambiente de la Costa.\n\nEl centro es la Plaza de España, con la escultura de la Niña de Benalmádena, de Jaime Pimentel: una nena de bronce que ofrece una caracola, símbolo del pueblo desde fines de los años sesenta. Muy cerca están la iglesia de Santo Domingo de Guzmán y los Jardines del Muro, rediseñados en los años ochenta por César Manrique sobre el trazado de la antigua muralla; desde su mirador se ve el Castillo de Colomares.\n\nEn la Plaza de las Tres Culturas está el Museo de Arte Precolombino Felipe Orlando, que según la oficina de turismo es el único de su tipo en España, con piezas de la América precolombina y hallazgos arqueológicos del municipio. Para un lector latinoamericano es una curiosidad: ver cerámicas de nuestro continente en un pueblo andaluz.\n\nSubís en colectivo M-103 desde la Costa. Es buen lugar para el menú del día, más barato que en el puerto.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "A unos 2,7 km de la costa, en la ladera; colectivo urbano M-103"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mejor a la mañana o al caer el sol"
+        },
+        {
+          "label": "Entrada",
+          "value": "Pasear es gratis. Museo Precolombino: entrada gratuita según la agenda municipal del museo (fuente: benalmadena.es, agenda de noviembre de 2024, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Castillo de Colomares (Castillo Monumento Colomares)",
+      "desc": "Monumento a Colón y al descubrimiento de América, construido entre 1987 y 1994 por un médico, con estilos mezclados y las tres carabelas.",
+      "detalle": "El Castillo de Colomares no es un castillo medieval: lo construyó entre 1987 y 1994 el médico Esteban Martín Martín (1926-2001), con ayuda de dos albañiles de Mijas, como homenaje a Cristóbal Colón y al primer viaje a América. Mezcla estilos neobizantino, neorrománico, neogótico y neomudéjar, y en sus muros aparecen representadas la Pinta, la Niña y la Santa María.\n\nLa visita es exterior: se recorre el monumento por fuera, a tu ritmo, con 17 puntos con códigos QR que explican cada rincón en varios idiomas. En la planta baja hay un museo de facsímiles con reproducciones de documentos de la época del Descubrimiento. Según la oficina de turismo, tiene la capilla más chica del mundo, dedicada a Santa Isabel de Hungría y reconocida por el Libro Guinness, pero no se puede visitar por dentro por ahora.\n\nLa oficina de turismo calcula una hora y media para recorrerlo entero. Queda en la Finca La Carraca, sobre la carretera que sube al Pueblo. La entrada se paga directo en taquilla, sin reserva previa. En otoño cierra los lunes.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Finca La Carraca, Ctra. Costa del Sol, debajo de Benalmádena Pueblo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; en otoño, martes a domingo de 10 a 18 h (lunes cerrado)"
+        },
+        {
+          "label": "Entrada",
+          "value": "Adultos 3,50 €; niños y jubilados 2,50 €; se paga en taquilla (fuente: castillomonumentocolomares.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora y media"
+        }
+      ]
+    },
+    {
+      "nombre": "Selwo Marina",
+      "desc": "Parque marino dentro del Parque de la Paloma, con pingüinos en un recinto con hielo, leones marinos, delfinario y fauna tropical.",
+      "detalle": "Selwo Marina es el parque de animales marinos de Benalmádena, dentro del Parque de la Paloma. Lo gestiona el mismo grupo que el teleférico y Selwo Aventura, por eso se venden entradas combinadas. Está organizado por áreas temáticas: la Isla de Hielo, con pingüinos; Las Antillas, donde está el delfinario; La Hondonada; Los Trópicos y Amazonía, con aves exóticas, monos ardilla y una tortuga gigante.\n\nDurante el día hay charlas educativas, alimentación de animales y una exhibición de aves exóticas. Las interacciones (encuentro con pingüinos, con leones marinos o la experiencia VIP) se pagan aparte y se reservan online.\n\nOjo: en octubre de 2026 la web del parque avisaba que, por ajustes técnicos, la piscina principal quedaba temporalmente sin actividades. Antes de pagar, chequeá en la web qué presentaciones están funcionando ese día. También usa precios dinámicos: online sale más barato que en taquilla y a veces hay promociones fuertes. No abre todos los días fuera de temporada: mirá el calendario de apertura.\n\nPara familias con chicos chicos es una visita de medio día. Se llega caminando desde Arroyo de la Miel o desde la playa.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Parque de la Paloma, entre Arroyo de la Miel y Benalmádena Costa"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño, con menos calor y menos gente"
+        },
+        {
+          "label": "Entrada",
+          "value": "General (8 a 64 años): desde 15,90 € online y desde 17,90 € en taquilla; reducida desde 13,90 € (fuente: selwomarina.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "SEA LIFE Benalmádena",
+      "desc": "Acuario dentro de Puerto Marina con túnel submarino, tiburones, isla de rayas y un templo de nutrias asiáticas.",
+      "detalle": "SEA LIFE Benalmádena es un acuario de la cadena Merlin Entertainments que funciona desde 1995 en el propio Puerto Marina. Es chico comparado con los grandes acuarios europeos, pero está bien armado para ir con chicos: tiene un túnel submarino donde los peces y tiburones pasan por encima, la Isla de Rayas, la zona Humedales del Mundo y el Templo de las Nutrias, con nutrias asiáticas de garra corta.\n\nA lo largo del día hay alimentaciones y charlas, incluidas en la entrada. Como extra se vende una experiencia de realidad virtual. Abre los siete días de la semana; en octubre de 2026 el horario era de 11 a 18.45, con última admisión a las 18.\n\nSi lo comprás online con anticipación ahorrás hasta un 10 % y elegís franja horaria. Combina bien con un paseo por el puerto o con el barco de delfines, que sale de ahí mismo: el operador Costasol Cruceros vende un pack con las dos cosas. El acuario recomienda no ir en tren, porque la estación más cercana (El Pinillo) queda a unos 20 minutos a pie; mejor colectivo hasta la parada Benalmar.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Dentro de Puerto Marina, Benalmádena Costa"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; ideal un día nublado o de mucho calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "21 € en taquilla; online desde 18,50 € (fuente: visitsealife.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Mariposario Monowa (Mariposario de Benalmádena)",
+      "desc": "Templo de inspiración tailandesa con más de 1.500 mariposas exóticas volando sueltas entre cascadas y plantas tropicales.",
+      "detalle": "El Mariposario de Benalmádena, rebautizado Monowa, ocupa un edificio inspirado en los templos tailandeses al lado de la Estupa. Adentro hay más de 1.500 mariposas de distintas partes del mundo que vuelan libres en un ambiente tropical, con cascadas y flores. Se ve cómo nacen, se alimentan y se reproducen, y es común que se te posen encima.\n\nLa oficina de turismo cuenta que ganó el premio a mejor atracción en los Remarkable Avenue Awards 2021. Abre los 365 días del año. Del 1 de octubre al 31 de diciembre el horario es de 10 a 18 h, y el último ingreso es media hora antes del cierre. Adentro hace calor y humedad: vestite liviano.\n\nLa visita no es larga, así que conviene combinarla con la Estupa, que está al lado, y después bajar caminando o en colectivo al Pueblo. Según el propio mariposario, desde la estación de tren Benalmádena-Arroyo de la Miel tomás la línea 103 y bajás en la parada Stupa Tibetana; en auto, salida 1008 de la autovía A-7 y hay estacionamiento gratuito en los alrededores.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Calle Muérdago, junto a la Estupa; parada Stupa Tibetana de la línea 103"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año (abre los 365 días)"
+        },
+        {
+          "label": "Entrada",
+          "value": "General 13,50 €; mayores de 65 y niños de 3 a 12 años 11,50 €; menores de 3 gratis (fuente: mariposariodebenalmadena.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Parque de la Paloma",
+      "desc": "El gran parque urbano de Benalmádena: más de 200.000 m² con lago artificial, un pequeño zoológico y un jardín de cactus y suculentas.",
+      "detalle": "El Parque de la Paloma es el pulmón verde del municipio y, según la oficina de turismo, uno de los parques urbanos más visitados de la Costa del Sol. Tiene más de 200.000 m² con caminos con sombra, un gran lago artificial con patos, juegos para chicos y zonas de descanso.\n\nLo más simpático para quien va con chicos es el pequeño zoológico que funciona dentro del parque. Hay también un Jardín de Cactus y Suculentas con más de 450 especies de todo el mundo. Adentro hay bares y restaurantes, pero también podés llevar algo y hacer picnic en el pasto.\n\nQueda a pocos minutos a pie de la playa y conecta Arroyo de la Miel con Benalmádena Costa, así que sirve de atajo agradable entre la zona del tren y el mar. Selwo Marina está dentro del parque. Al lado, en el recinto ferial, funcionan un rastro y un mercadillo ecológico, y se ve el templo hindú del municipio.\n\nEs un buen plan gratis para la tarde o para cortar el día de playa cuando aprieta el sol.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Avenida Federico García Lorca, entre Arroyo de la Miel y Benalmádena Costa"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañana temprano o última hora de la tarde"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (parque público municipal; fuente: thisisbenalmadena.travel, oficina de turismo, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Castillo El Bil-Bil y playa de Bil-Bil",
+      "desc": "Palacete neoárabe de los años treinta frente al mar, hoy centro cultural, junto a una playa céntrica del paseo marítimo.",
+      "detalle": "El Castillo El Bil-Bil es uno de los símbolos de Benalmádena Costa. Es un edificio de inspiración neoárabe construido en los años treinta del siglo XX, obra de Enrique Atencia según la enciclopedia, sobre la avenida Antonio Machado y pegado al paseo marítimo. Hoy es un espacio cultural que funciona todo el año, con exposiciones y actividades.\n\nForma parte de lo que la oficina de turismo llama el triángulo cultural, junto al Centro de Exposiciones y al Centro de la Historia de Benalmádena. Este último se inauguró en 2022 frente al mar e integra los restos de la villa romana de Benalroma, con zonas de producción de aceite y salazón de los siglos I al VII.\n\nEl edificio se ve gratis desde afuera y es una de las fotos clásicas del paseo. Adelante está la playa de Bil-Bil, céntrica y sobre el paseo marítimo, que la oficina de turismo destaca junto a Malapesquera y Santa Ana. La noche de San Juan, el 23 de junio, el gran concierto que abre las fiestas se hace junto al castillo. El interior abre según las actividades programadas: consultá la agenda cultural municipal.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Avenida Antonio Machado, Benalmádena Costa, sobre el paseo marítimo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; la playa, de junio a septiembre"
+        },
+        {
+          "label": "Entrada",
+          "value": "Exterior y playa: gratis. Centro de la Historia: tarifa no publicada en la web de turismo (fuente: thisisbenalmadena.travel, verificado octubre 2026); consultá al 951 26 88 14"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos a 1 hora (más el tiempo de playa)"
+        }
+      ]
+    },
+    {
+      "nombre": "Playas de Torrebermeja-Santa Ana, Fuente de la Salud y Carvajal",
+      "desc": "Las tres playas de Benalmádena con Bandera Azul 2026, sobre un litoral de más de nueve kilómetros con paseo marítimo accesible.",
+      "detalle": "Benalmádena tiene más de nueve kilómetros de costa, según la oficina de turismo: playas anchas de arena junto al paseo marítimo en la parte este y calas más rocosas y tranquilas hacia el oeste, buenas para snorkel. En 2026 tres playas recibieron Bandera Azul: Torrebermeja-Santa Ana, que recuperó el distintivo, Carvajal y Fuente de la Salud.\n\nTorrebermeja, también llamada Malapesquera, está pegada a Puerto Marina y al club náutico, y toma el nombre de una torre vigía nazarí que todavía se conserva. Fuente de la Salud también queda junto al puerto, con mucha oferta de comida. Carvajal está en el extremo oeste, en el límite con Fuengirola, y suele ser más tranquila.\n\nTodas son públicas y gratis; se paga sólo si alquilás reposera y sombrilla en un chiringuito. Hay duchas, baños, juegos para chicos y algunas playas tienen rampas, sillas anfibias y pasarelas para personas con movilidad reducida. Existe también Benalnatura, una de las primeras playas nudistas de España. El agua del Mediterráneo acá es más fresca que en el Caribe: en junio todavía puede estar fría.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "A lo largo de Benalmádena Costa; Torrebermeja y Fuente de la Salud junto a Puerto Marina"
+        },
+        {
+          "label": "Mejor época",
+          "value": "De junio a septiembre para bañarse; todo el año para caminar"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playas públicas; Banderas Azules 2026 según El Español, mayo 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Lo que quieras"
+        }
+      ]
+    },
+    {
+      "nombre": "Arroyo de la Miel",
+      "desc": "El barrio comercial y vivo del municipio, nacido en torno a una fábrica de papel de 1784, con tapas, mercadillo y estación de tren.",
+      "detalle": "Arroyo de la Miel es la Benalmádena donde vive la gente. Es el núcleo más poblado y el más práctico para dormir barato, porque tiene la estación de tren subterránea Benalmádena-Arroyo de la Miel y queda entre el Pueblo y la playa. El nombre viene, según la enciclopedia, de los panales que abundaban en la zona.\n\nSu origen está en el complejo papelero de San Carlos, que el genovés Félix Solesio levantó en 1784 para abastecer de papel a la Real Fábrica de Naipes de Macharaviaya. De esa época quedan el edificio La Tribuna, del siglo XVIII, y el arco adintelado de San Carlos, que marcaba la entrada a la fábrica, cerca de la Plaza de España del barrio.\n\nHoy es zona de calles comerciales, terrazas y bares de tapas con precios de barrio. Tiene un mercadillo en la avenida Manantial, la Casa de la Cultura y un auditorio municipal al aire libre. La estación del teleférico está acá mismo, en la Explanada del Tívoli, y el Parque de la Paloma queda a pocas cuadras. Es la mejor zona para quien quiere moverse en tren y comer bien sin pagar precios de puerto.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro del municipio; estación de Cercanías Benalmádena-Arroyo de la Miel"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; a la noche, para tapear"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (calles y plazas públicas; fuente: thisisbenalmadena.travel, oficina de turismo, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Excursión a Mijas Pueblo",
+      "desc": "Pueblo blanco de montaña vecino, a un viaje corto en colectivo M-121 desde Benalmádena, con miradores sobre la costa.",
+      "detalle": "Mijas Pueblo es el pueblo blanco más visitado de esta parte de la costa y queda muy cerca: la línea M-121 del Consorcio de Transporte une Mijas con Benalmádena y Torremolinos, y el billete desde Benalmádena Costa cuesta 1,75 €. Es una excursión de medio día que se hace sin auto ni agencia.\n\nEl pueblo está en la ladera de la Sierra de Mijas, la misma sierra que el Calamorro, y tiene calles encaladas con macetas y miradores sobre Fuengirola y el mar. Suele recibir muchos grupos de excursión, así que el horario importa.\n\nUn consejo: subí temprano, antes de que lleguen los micros de excursiones, y bajá a almorzar a Benalmádena o a Fuengirola, donde se come más barato. Si querés sumar playa, desde Mijas podés bajar a Fuengirola y volver en tren C1 o en el ferry de Costasol Cruceros hasta Puerto Marina. Si preferís todo organizado, hay excursiones que combinan Marbella y Mijas desde 39,90 € por persona en Civitatis.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Colectivo M-121 desde Benalmádena (Consorcio de Transporte Metropolitano de Málaga)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño; en verano, temprano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Pasear es gratis. Colectivo Benalmádena Costa-Mijas 1,75 € (1,18 € con tarjeta de transporte) (fuente: tarifas Avanza Puerto Marina vigentes desde el 1 de junio de 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Excursión a Málaga ciudad",
+      "desc": "La capital de la provincia queda a unos 30 minutos en tren C1 o en colectivo M-110: museos, catedral, Alcazaba y el puerto.",
+      "detalle": "Benalmádena es una base cómoda para conocer Málaga sin pagar hoteles de capital. El tren de Cercanías C1 sale cada unos 20 minutos desde Benalmádena-Arroyo de la Miel y, según la oficina de turismo, llega a Málaga María Zambrano en unos 30 minutos; sigue hasta Málaga Centro-Alameda, a pasos del casco histórico. También está el colectivo M-110 Málaga-Torremolinos-Benalmádena Costa, que cuesta 1,75 €.\n\nEn Málaga podés recorrer el centro histórico, la catedral, la Alcazaba y el teatro romano, el puerto con el Muelle Uno y la playa de la Malagueta. Muchos museos tienen tarifas propias y algunos son gratis ciertos días: chequeá cada web antes de ir.\n\nLa estación María Zambrano es además la del AVE (tren de alta velocidad) a Madrid, Córdoba o Sevilla, y la estación de micros de Málaga queda al lado, conectada por el intercambiador de El Perchel. Ojo con el último tren de vuelta si salís de noche. El C1 suele ir lleno en horas pico y tiene cancelaciones ocasionales: dejate margen si tenés que tomar un vuelo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 30 minutos en tren C1 hasta Málaga María Zambrano"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; evitá las horas pico del tren"
+        },
+        {
+          "label": "Entrada",
+          "value": "Colectivo M-110 Benalmádena Costa-Málaga 1,75 € (1,18 € con tarjeta de transporte) (fuente: tarifas Avanza Puerto Marina vigentes desde el 1 de junio de 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Un día completo"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Teleférico de Benalmádena (ida y vuelta)",
+      "precio": "General (desde 8 años): desde 17,90 € online, desde 21,90 € en taquilla; reducida (3 a 7 años o desde 1 metro, familias numerosas): desde 12,90 € online y 16,90 € en taquilla; sólo ida desde 10,90 € online; menores de 3 años y de 1 metro gratis; persona con discapacidad y acompañante gratis (fuente: telefericobenalmadena.com, verificado octubre 2026). Precios dinámicos: comprá online"
+    },
+    {
+      "tipo": "Presentación de aves rapaces en la cima del Calamorro (Fundación Valle de las Águilas)",
+      "precio": "Adultos desde 12 años 7 €; niños de 3 a 11 años 4 €; se paga aparte del teleférico. En octubre, funciones a las 13, 14.30 y 16.30 los días de apertura (fuente: telefericobenalmadena.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Selwo Marina",
+      "precio": "General (8 a 64 años): desde 15,90 € online y desde 17,90 € en taquilla; reducida (3 a 7 años, mayores de 65, familias numerosas): desde 13,90 €; persona con discapacidad y acompañante gratis. Las interacciones con animales se pagan aparte (fuente: selwomarina.es, verificado octubre 2026)"
+    },
+    {
+      "tipo": "SelwoPack 3 parques (Selwo Marina + Teleférico + Selwo Aventura en Estepona)",
+      "precio": "Desde 48,90 € online y 54,90 € en taquilla, por persona (fuente: telefericobenalmadena.com y selwomarina.es, verificado octubre 2026). Conviene sólo si vas a usar los tres"
+    },
+    {
+      "tipo": "SEA LIFE Benalmádena",
+      "precio": "21 € la entrada; online desde 18,50 € con franja horaria (fuente: visitsealife.com, verificado octubre 2026). Un revendedor lista niños de 3 a 11 años desde 17 € y menores de 3 gratis (fuente: taquilla.com, agregador, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Mariposario Monowa",
+      "precio": "General 13,50 €; mayores de 65 años 11,50 €; niños de 3 a 12 años 11,50 €; menores de 3 gratis (fuente: mariposariodebenalmadena.com, verificado octubre 2026). Abre los 365 días"
+    },
+    {
+      "tipo": "Castillo Monumento Colomares",
+      "precio": "Adultos 3,50 €; niños y jubilados 2,50 €; se compra en taquilla, sin reserva. Grupos de 25 o más: 2 € (2,50 € con guía) (fuente: castillomonumentocolomares.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Estupa de la Iluminación",
+      "precio": "Gratis, acceso libre al templo y a la sala de meditación (fuente: thisisbenalmadena.travel, oficina de turismo, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Museo de Arte Precolombino Felipe Orlando (Benalmádena Pueblo)",
+      "precio": "Gratis según la agenda municipal del museo; visitas guiadas al 952 449 527 (fuente: benalmadena.es, agenda de noviembre de 2024; no encontramos tarifa distinta publicada, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Parque de la Paloma, Puerto Marina, Arroyo de la Miel y playas",
+      "precio": "Gratis (espacios y playas públicas; fuente: thisisbenalmadena.travel, oficina de turismo, verificado octubre 2026). Sólo se paga reposera y sombrilla si las alquilás en un chiringuito"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Paseo en catamarán para ver delfines desde Puerto Marina",
+      "precio": "20 € adulto; 12 € niño; menores de 3 gratis (fuente: costasolcruceros.com, verificado octubre 2026). El avistamiento no está garantizado",
+      "duracion": "Unas 2 horas",
+      "operador": "Costasol Cruceros (catamarán New Magic), C/ La Fragata 6, Puerto Marina"
+    },
+    {
+      "actividad": "Ferry Benalmádena-Fuengirola por la costa",
+      "precio": "Ida y vuelta 19 € adulto y 12 € niño; sólo ida 14 € adulto y 8 € niño (fuente: costasolcruceros.com, verificado octubre 2026)",
+      "duracion": "1 hora por trayecto",
+      "operador": "Costasol Cruceros (golondrina StarFish Dos)"
+    },
+    {
+      "actividad": "Autobús turístico City Sightseeing con audioguía",
+      "precio": "Desde 15 € por persona, válido 2 días (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "Pase de 2 días; 11 paradas para subir y bajar",
+      "operador": "City Sightseeing Benalmádena"
+    },
+    {
+      "actividad": "Visita guiada por el Castillo de Colomares",
+      "precio": "9 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "40 minutos",
+      "operador": "Guías locales vía Civitatis"
+    },
+    {
+      "actividad": "Alquiler de barco sin licencia en Puerto Marina",
+      "precio": "Desde 100 € por grupo (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "2 a 8 horas",
+      "operador": "Empresas náuticas de Puerto Marina vía Civitatis"
+    },
+    {
+      "actividad": "Excursión a Ronda y Setenil de las Bodegas",
+      "precio": "Desde 35 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "8 a 10 horas",
+      "operador": "Agencias de la Costa del Sol vía Civitatis"
+    },
+    {
+      "actividad": "Excursión al Caminito del Rey",
+      "precio": "69 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "7 a 8 horas",
+      "operador": "Agencias de la Costa del Sol vía Civitatis"
+    },
+    {
+      "actividad": "Excursión a Granada con visita a la Alhambra",
+      "precio": "Desde 89 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "10 horas",
+      "operador": "Agencias de la Costa del Sol vía Civitatis"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Colectivo urbano de Benalmádena (líneas M-103 y M-107)",
+      "precio": "1,60 € el billete sencillo; 1,04 € con la Tarjeta de Transporte del Consorcio (fuente: tabla oficial de tarifas Avanza, parada Puerto Marina, versión vigente desde el 1 de junio de 2026, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "La M-103 es la más útil para el turista: une Torremuelle, Benalmádena Costa, Arroyo de la Miel y Benalmádena Pueblo, con parada Stupa Tibetana para la Estupa y el mariposario y parada Tívoli para el teleférico. La M-107 hace un circuito entre Santángelo y Arroyo de la Miel."
+    },
+    {
+      "medio": "Colectivos metropolitanos del Consorcio (M-110, M-112, M-116, M-121, M-123, M-126)",
+      "precio": "Benalmádena Costa-Torremolinos 1,60 €; Benalmádena Costa-Málaga, Fuengirola o Mijas 1,75 €; con tarjeta 1,04 € y 1,18 € (fuente: tabla oficial de tarifas Avanza, versión vigente desde el 1 de junio de 2026, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Los opera Avanza/Portillo y los coordina el Consorcio de Transporte Metropolitano del Área de Málaga. La M-110 va a Málaga, la M-121 a Mijas Pueblo y la M-126 a Torremolinos. La parada principal está en la avenida Antonio Machado, cerca de Puerto Marina; no hay una terminal propiamente dicha."
+    },
+    {
+      "medio": "Tren de Cercanías C1 (Málaga-Aeropuerto-Fuengirola)",
+      "precio": "Renfe no publica el precio de cada trayecto: se cobra por zonas y lo indica la máquina o el molinete. Podés pagar con tarjeta contactless o celular validando a la entrada y a la salida; desde el quinto viaje del mes hay 40 % de descuento (fuente: renfe.com, verificado octubre 2026). Como referencia, un agregador lista el sencillo de 1-2 zonas en 1,80 € (fuente: redtransporte.com, agregador, verificado octubre 2026)",
+      "duracion": "Cada unos 20 minutos; unos 20 minutos al aeropuerto",
+      "notas": "Benalmádena tiene dos estaciones: Benalmádena-Arroyo de la Miel (subterránea, la principal) y Torremuelle, en la Costa. Si no validás al salir te cobran el máximo de todas las zonas. En hora pico va muy lleno."
+    },
+    {
+      "medio": "A pie por el paseo marítimo",
+      "precio": "Gratis (paseo público; fuente: thisisbenalmadena.travel, oficina de turismo, verificado octubre 2026)",
+      "duracion": "Según el tramo",
+      "notas": "El paseo marítimo cruza todo el frente costero y es accesible. Entre Puerto Marina, Bil-Bil y el Parque de la Paloma se camina sin problema. Para subir al Pueblo o a la Estupa, en cambio, conviene el colectivo M-103: la cuesta es fuerte."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto de Málaga (AGP) → Benalmádena-Arroyo de la Miel o Torremuelle en tren",
+      "empresas": "Renfe Cercanías Málaga, línea C1 dirección Fuengirola. La estación está en el mismo aeropuerto",
+      "precio": "Tarifa por zonas: Renfe no publica el importe de este trayecto en su web; lo ves en la máquina antes de pagar, o pagás con contactless en el molinete (fuente: renfe.com, verificado octubre 2026)",
+      "duracion": "Unos 20 minutos, con trenes cada unos 20 minutos durante buena parte del día (fuente: thisisbenalmadena.travel). No hay micro directo del aeropuerto a Benalmádena"
+    },
+    {
+      "ruta": "Aeropuerto de Málaga (AGP) → Benalmádena en taxi o traslado",
+      "empresas": "Taxis de la parada del aeropuerto, apps y traslados reservados",
+      "precio": "No encontramos tarifa oficial publicada para este recorrido. Como referencia: Uber da un promedio de 23 €; Montransport, un promedio de 46 € con rango de 35 a 70 € (actualizado el 26 de julio de 2026) (fuente: uber.com y montransport.com, agregadores, verificado octubre 2026)",
+      "duracion": "15 a 20 minutos, unos 12 a 15 km según la oficina de turismo"
+    },
+    {
+      "ruta": "Málaga ciudad → Benalmádena",
+      "empresas": "Renfe Cercanías C1 desde Málaga Centro-Alameda o María Zambrano; colectivo M-110 (Avanza/Portillo) hasta Benalmádena Costa",
+      "precio": "Colectivo Málaga-Benalmádena Costa 1,75 € (1,18 € con tarjeta) (fuente: tabla oficial de tarifas Avanza vigente desde el 1 de junio de 2026, verificado octubre 2026). Tren: tarifa por zonas según renfe.com",
+      "duracion": "En tren, unos 30 minutos desde María Zambrano. Si llegás en AVE, la estación de Cercanías está en el mismo complejo"
+    },
+    {
+      "ruta": "Marbella, Estepona, La Línea (Gibraltar) o Algeciras → Benalmádena Costa",
+      "empresas": "Avanza (largo recorrido por la costa)",
+      "precio": "Desde Marbella 5,52 €; San Pedro de Alcántara 6,43 €; Estepona 8,84 €; La Línea 14,11 €; Algeciras 16,44 € (fuente: tabla oficial de tarifas Avanza, parada Puerto Marina, vigente desde el 1 de junio de 2026, verificado octubre 2026)",
+      "duracion": "Variable según el servicio; horarios en malaga.avanzagrupo.com"
+    },
+    {
+      "ruta": "Granada, Córdoba o Ronda → Benalmádena Costa",
+      "empresas": "Avanza",
+      "precio": "Granada 16,41 €; Córdoba 17,29 €; Ronda 12,93 € (fuente: tabla oficial de tarifas Avanza, parada Puerto Marina, vigente desde el 1 de junio de 2026, verificado octubre 2026)",
+      "duracion": "Variable; muchas veces conviene ir a Málaga en micro o AVE y seguir en tren C1"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Económico: pensiones y hostales en Arroyo de la Miel y la Costa",
+      "nivel": 2,
+      "opciones": "Momondo mostró en la última semana tarifas desde 37 € la noche en el Hotel Betania (calle de Contreras), 46 € en la Pensión Serramar (calle Las Flores) y 66 € en el Hostal Sol y Miel (fuente: Momondo, agregador, verificado octubre 2026). Según el mismo buscador, un hotel de 2 estrellas promedia 64 € la noche y noviembre es el mes más barato. Arroyo de la Miel es la zona más conveniente para moverse en tren"
+    },
+    {
+      "categoria": "Intermedio: hoteles de 3 estrellas cerca de la playa",
+      "nivel": 3,
+      "opciones": "Palmasol, en la avenida del Mar, desde 67 €; Medplaya Hotel Alba Beach desde 77 €; Hotel Pueblo desde 83 €; Benalma Hotel Costa del Sol desde 89 € la noche (fuente: Momondo, agregador, verificado octubre 2026). En julio y agosto los precios suben bastante: reservá con unos tres meses de anticipación, que es cuando Momondo registra las tarifas más bajas"
+    },
+    {
+      "categoria": "Superior: hoteles de 4 estrellas frente al mar",
+      "nivel": 4,
+      "opciones": "Hotel Riviera (solo adultos recomendado), en la avenida Antonio Machado, desde 104 €; Palia La Roca, sobre la N-340, desde 136 €; Silken Comfy Studios, en la avenida Alay, desde 145 € la noche (fuente: Momondo, agregador, verificado octubre 2026). El mismo buscador calcula un promedio de 178 € la noche para los 4 estrellas del municipio"
+    },
+    {
+      "categoria": "Lujo: hotel de 5 estrellas en Benalmádena Costa",
+      "nivel": 5,
+      "opciones": "Vincci Selección Aleysa, en Benalmádena Costa: desde 266 € la noche según un buscador, y hasta 391 € en otra versión del mismo buscador para otras fechas (fuente: lastminute, agregador, verificado octubre 2026). Los precios cambian mucho según la fecha: compará en la web del hotel"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Menú del día y cocina casera en Benalmádena Pueblo",
+      "nivel": 2,
+      "opciones": "Al mediodía muchos bares del Pueblo ofrecen menú del día (primer plato, segundo, postre y bebida). En el Restaurante Manolo un comensal reportó haber pagado 14,50 € y en el Mesón La Mezquita, calle Extremadura 10, los clientes destacan su menú del día por la relación precio-calidad (fuente: Gastroranking, reseñas, verificado octubre 2026). Es más barato comer acá que en Puerto Marina"
+    },
+    {
+      "tipo": "Tapas en Arroyo de la Miel",
+      "nivel": 2,
+      "opciones": "Arroyo de la Miel es la zona de tapeo de los vecinos. Los Delantales, en la calle San Telmo, ronda los 20 € por persona y sus clientes recomiendan el pollo (fuente: Gastroranking, verificado octubre 2026). Pedí pescaíto frito (pescado chico rebozado y frito) o boquerones, y preguntá por la tapa del día. Reservá los fines de semana"
+    },
+    {
+      "tipo": "Espetos de sardinas en los chiringuitos de playa",
+      "nivel": 3,
+      "opciones": "El espeto es el plato emblema de la costa malagueña: sardinas ensartadas en una caña y asadas junto al fuego, en un bote con arena. Un blog de viajes ubica al Chiringuito Rafael, en la playa de la Fuente de la Salud, y al Chiringuito Malapesquera, junto a Puerto Marina, en unos 25-35 € por persona (fuente: blog viajandoporelmundomundial.com, verificado octubre 2026). En Malapesquera sugieren también porra antequerana y boquerones rebozados"
+    },
+    {
+      "tipo": "Pescados, mariscos y arroces",
+      "nivel": 3,
+      "opciones": "Para un almuerzo de pescado más sentado: Taberna Marinera Pepi y Juan, en la avenida Juan Sebastián Elcano, y La Despensa del Mar, en la avenida de la Constitución, conocida por sus arroces: las dos con precio medio de 20-30 € por persona (fuente: Gastroranking, verificado octubre 2026). Probá el arroz caldoso y la fritura malagueña. Los restaurantes del frente de Puerto Marina cobran más por la vista"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa, EES o ETIAS para ir a Benalmádena desde Latinoamérica?",
+      "a": "No necesitás visa si tenés pasaporte argentino, uruguayo, chileno, mexicano, colombiano o peruano: podés quedarte como turista hasta 90 días en un período de 180 en todo el espacio Schengen. Lo que cambió en 2026 es el EES, el sistema de entradas y salidas: desde el 10 de abril te toman huellas y foto en el primer control Schengen en vez de sellarte el pasaporte. Si llegás a Málaga con escala en Madrid o en otra ciudad europea, el trámite lo hacés ahí. El ETIAS, la autorización online previa, todavía no se exige: a fines de julio de 2026 la UE sacó de su web la referencia al último trimestre de 2026 y dijo que avisará la fecha con varios meses de anticipación. Llevá pasaje de vuelta, reservas, seguro médico y fondos."
+    },
+    {
+      "q": "¿Hay tasa turística en Benalmádena?",
+      "a": "No. A octubre de 2026 Andalucía no tiene impuesto turístico y Benalmádena tampoco cobra uno propio, porque los municipios andaluces no pueden crearlo sin una ley de la Junta. El tema se discute: en septiembre de 2026 el alcalde de Sevilla volvió a pedirle a la Junta que lo habilite, mientras los hoteleros se oponen y Vox, que integra el gobierno andaluz, lo rechaza. Así que en la factura del hotel no vas a ver ese cargo. Si viajás en 2027 o después, conviene revisarlo de nuevo, porque cualquier cambio vendría por ley autonómica."
+    },
+    {
+      "q": "¿Cómo voy del aeropuerto de Málaga a Benalmádena?",
+      "a": "La forma más práctica y barata es el tren de Cercanías C1 en dirección Fuengirola. La estación está dentro del aeropuerto, y en unos 20 minutos llegás a Benalmádena-Arroyo de la Miel o a Torremuelle; según la oficina de turismo pasa cada unos 20 minutos durante buena parte del día. El precio depende de las zonas y Renfe no lo publica por trayecto: lo ves en la máquina, o pagás con tarjeta contactless en el molinete, validando también al salir. No hay micro directo del aeropuerto a Benalmádena. Un taxi tarda entre 15 y 20 minutos; no encontramos una tarifa oficial publicada y los agregadores dan promedios de 23 a 46 €."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse y en qué zona dormir?",
+      "a": "Para Benalmádena en sí alcanzan dos o tres días: uno para el teleférico y Arroyo de la Miel, otro para el Pueblo, la Estupa, el mariposario y Colomares, y otro para Puerto Marina y la playa. Si viajás con chicos, sumá un día para Selwo Marina y SEA LIFE. Con cinco o seis días podés usar el pueblo como base para Málaga, Mijas, Fuengirola y hasta Ronda o Granada en excursión. Para dormir, Arroyo de la Miel es lo más práctico por el tren y los precios; Benalmádena Costa, si querés playa y vida nocturna; el Pueblo, si buscás tranquilidad, aunque vas a depender del colectivo M-103."
+    },
+    {
+      "q": "¿Necesito auto?",
+      "a": "No. Benalmádena está bien conectada: el tren C1 llega al aeropuerto, a Málaga y a Fuengirola; el colectivo urbano M-103 une la Costa, Arroyo de la Miel y el Pueblo por 1,60 €; y los colectivos del Consorcio van a Mijas, Torremolinos y Málaga por 1,60 a 1,75 €. Lo que más cuesta a pie son las subidas al Pueblo y a la Estupa, pero para eso está el colectivo. El auto sirve si querés recorrer pueblos del interior o ir a la sierra por tu cuenta. Si alquilás, sumá a tu licencia el permiso internacional de conducir, que suelen pedir a quien tiene registro latinoamericano."
+    },
+    {
+      "q": "¿Es segura y es buena para ir con chicos?",
+      "a": "Es un destino familiar y tranquilo para los estándares de una zona turística. El riesgo principal, como en toda la costa, son los robos menores: cuidá celular y billetera en la playa, en el tren lleno y en Puerto Marina de noche. Para chicos es de los mejores lugares de la Costa del Sol: la oficina de turismo lo presenta como el pueblo con más parques de ocio, y tenés teleférico, Selwo Marina, SEA LIFE, el mariposario y el Parque de la Paloma, que es gratis. Un dato: el parque de atracciones Tívoli World, que todavía aparece en algunas guías, está cerrado desde hace más de cinco años."
+    },
+    {
+      "q": "¿Qué conviene saber del tren y de las obras previstas?",
+      "a": "El C1 es la columna vertebral del transporte, pero va muy cargado en horas pico y en 2026 tuvo cancelaciones y averías. Si tenés que tomar un vuelo, salí con margen. Además se anunció un corte de unos seis meses del tramo Málaga-Torremolinos por obras, previsto para fines de 2027 o comienzos de 2028, con micros de reemplazo cuyos detalles todavía no se publicaron. Si viajás en esa época, revisá los avisos de Renfe. Otra cosa: el abono mensual barato de Cercanías es para quien vive en España; como turista vas a pagar billetes sencillos, aunque con tarjeta contactless desde el quinto viaje del mes hay un 40 % de descuento."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "This is Benalmádena (turismo oficial) — «History of Benalmádena»: https://en.thisisbenalmadena.travel/explore/history/",
+      "This is Benalmádena (turismo oficial) — «Benalmádena: three heartbeats, one identity»: https://www.thisisbenalmadena.travel/turismo_benalmadena_es/en/enjoy/the-3-benalmadenas",
+      "Wikipedia (ES) — «Benalmádena»: https://es.wikipedia.org/wiki/Benalm%C3%A1dena",
+      "INE — «Cifras oficiales de población de los municipios: Málaga (tabla 2882)»: https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/2882?nult=2",
+      "El Debate — «Asalto al Tívoli de Benalmádena (enero de 2026)»: https://www.eldebate.com/espana/andalucia/malaga/20260118/asalto-tivoli-benalmadena-cuatro-intrusos-cuelan-parque-grabarse-redes-sociales_375505_amp.html"
+    ],
+    "que_ver_atracciones": [
+      "Teleférico Benalmádena — «Subida al monte Calamorro»: https://www.telefericobenalmadena.com/planea-tu-visita/disfruta-del-teleferico/subida-al-monte-calamorro",
+      "Teleférico Benalmádena — «Presentación de aves»: https://www.telefericobenalmadena.com/planea-tu-visita/disfruta-del-teleferico/presentacion-de-aves-rapaces",
+      "Teleférico Benalmádena — «Rutas de senderismo»: https://www.telefericobenalmadena.com/planea-tu-visita/rutas/rutas-de-senderismo",
+      "Selwo Marina — «Selwo Marina: pingüinos, leones marinos ¡y más!»: https://www.selwomarina.es/",
+      "SEA LIFE Benalmádena — «Dirección»: https://www.visitsealife.com/benalmadena/prepara-tu-visita/antes-de-tu-visita/direccion/",
+      "Castillo Monumento Colomares — «Horarios y tarifas»: https://www.castillomonumentocolomares.com/",
+      "Monowa Butterfly Park — «Mariposario de Benalmádena»: https://www.mariposariodebenalmadena.com/",
+      "This is Benalmádena (turismo oficial) — «Stupa de la Iluminación»: https://en.thisisbenalmadena.travel/listing/stupa-de-la-iluminaci%c3%b3n/25382101/",
+      "This is Benalmádena (turismo oficial) — «Castillo de Colomares»: https://en.thisisbenalmadena.travel/listing/castillo-de-colomares/25380101/",
+      "This is Benalmádena (turismo oficial) — «Puerto Marina»: https://en.thisisbenalmadena.travel/listing/puerto-marina/25375101/",
+      "This is Benalmádena (turismo oficial) — «Parque de la Paloma»: https://en.thisisbenalmadena.travel/listing/parque-de-la-paloma/25370101/",
+      "This is Benalmádena (turismo oficial) — «Centro de la Historia de Benalmádena»: https://en.thisisbenalmadena.travel/listing/centro-de-la-historia-de-benalm%c3%a1dena/31061101/",
+      "This is Benalmádena (turismo oficial) — «Leisure Parks»: https://en.thisisbenalmadena.travel/things-to-do/leisure-parks/",
+      "This is Benalmádena (turismo oficial) — «Traditional Village of Benalmádena»: https://en.thisisbenalmadena.travel/explore/3-benalmadenas/traditional-village-of-benalmadena/",
+      "This is Benalmádena (turismo oficial) — «Arroyo de la Miel»: https://en.thisisbenalmadena.travel/explore/3-benalmadenas/arroyo-de-la-miel/",
+      "El Español — «Málaga vuelve a teñir de azul su costa: las playas con Bandera Azul 2026»: https://www.elespanol.com/malaga/20260505/malaga-vuelve-tenir-azul-costa-playas-provincia-cuentan-bandera-sello-calidad/1003744233872_0.html"
+    ],
+    "precios_2026": [
+      "Teleférico Benalmádena — «Precios»: https://www.telefericobenalmadena.com/horarios-y-precios/precios",
+      "Selwo Marina — «Precios»: https://www.selwomarina.es/horarios-y-precios/precios",
+      "SEA LIFE Benalmádena — «Horario de apertura»: https://www.visitsealife.com/benalmadena/prepara-tu-visita/antes-de-tu-visita/horario/",
+      "Taquilla.com — «Sea Life Benalmádena»: https://www.taquilla.com/entradas/sea-life-benalmadena",
+      "Costasol Cruceros — «Paseo de los delfines»: https://www.costasolcruceros.com/paseo-de-los-delfines/",
+      "Costasol Cruceros — «Ferry Benalmádena-Fuengirola»: https://www.costasolcruceros.com/seccion-ferry-benalmadena-fuengirola/",
+      "Civitatis — «Excursiones y actividades en Benalmádena»: https://www.civitatis.com/es/benalmadena/",
+      "Ayuntamiento de Benalmádena — «Agenda cultural del Museo, noviembre 2024»: https://benalmadena.es/museo/imgs/agenda-cultural-museo-noviembre-2024.pdf"
+    ],
+    "como_llegar_transporte": [
+      "Avanza Málaga — «Tarifas Puerto Marina (versión 20260601)»: https://malaga.avanzagrupo.com/archivos/files/Tarifas/tarifa_20260601%20Puerto%20Marina.pdf",
+      "Avanza Málaga — «Destinos: Benalmádena»: https://malaga.avanzagrupo.com/es/destinos/benalmadena",
+      "Renfe — «Cercanías Málaga: tarifas»: https://www.renfe.com/es/es/cercanias/cercanias-malaga/tarifas",
+      "RedTransporte — «Cercanías Renfe de Málaga»: https://www.redtransporte.com/malaga/cercanias-renfe/",
+      "Teleférico Benalmádena — «Cómo llegar»: https://www.telefericobenalmadena.com/prepara-tu-visita/informacion-relevante/como-llegar",
+      "This is Benalmádena (turismo oficial) — «By plane»: https://en.thisisbenalmadena.travel/plan/getting-here/plane/",
+      "This is Benalmádena (turismo oficial) — «By train»: https://en.thisisbenalmadena.travel/plan/getting-here/train/",
+      "This is Benalmádena (turismo oficial) — «By bus»: https://en.thisisbenalmadena.travel/plan/getting-here/bus/",
+      "Montransport — «Taxi Benalmádena»: https://montransport.com/es/taxi/espana/malaga/benalmadena",
+      "Uber — «Taxi desde el Aeropuerto de Málaga (AGP)»: https://www.uber.com/global/es-es/r/airports/agp/taxi",
+      "Euro Weekly News — «Malaga commuters face six-month rail headache as C1 closure causes ire»: https://euroweeklynews.com/2026/09/08/malaga-commuters-face-six-month-rail-headache-as-c1-closure-causes-ire-among-costa-del-sol-mayors/",
+      "Euro Weekly News — «Malaga Cercanias trains are losing passengers: Why isn’t it free to use now?»: https://euroweeklynews.com/2026/09/28/malaga-cercanias-trains-are-losing-passengers-why-isnt-it-free-to-use-now/"
+    ],
+    "visado_tasas": [
+      "France Diplomatie — «EES: the new European border Entry/Exit System goes live on 10 April 2026»: https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/ees-le-nouveau-systeme-europeen-de-gestion-des-frontieres-entre-en-service-le-10-avril-2026",
+      "El Observador — «ETIAS: el cambio que publicó la UE en su web oficial»: https://www.elobservador.com.uy/mundo/etias-viajar-europa-el-cambio-que-publico-la-ue-su-web-oficial-que-va-pasar-los-vuelos-2026-n6052552",
+      "El Español — «El alcalde de Sevilla se reúne con el nuevo consejero de Turismo para pedir la tasa turística»: https://www.elespanol.com/sevilla/20260918/alcalde-sevilla-reune-nuevo-consejero-turismo-pedir-tasa-turistica/1003744388454_0.html",
+      "elDiario.es — «El alcalde de Sevilla llamará a la puerta de Vox en la Junta para reclamarle la tasa turística»: https://www.eldiario.es/sevilla/alcalde-sevilla-pp-llamara-puerta-vox-junta-reclamarle-tasa-turistica-ciudad-necesita_1_13429113.html"
+    ],
+    "alojamiento_gastronomia": [
+      "Momondo — «Hoteles en Benalmádena»: https://www.momondo.es/hoteles/benalmadena",
+      "Lastminute — «Vincci Selección Aleysa»: https://www.lastminute.ie/hotels/spain/benalmadena/vincci-seleccion-aleysa_hid-968458",
+      "Gastroranking — «Los Delantales en Benalmádena»: https://gastroranking.es/r/los-delantales_43097/",
+      "Gastroranking — «Manolo en Benalmádena»: https://gastroranking.es/r/manolo-2_13727/",
+      "Gastroranking — «Meson La Mezquita en Benalmádena»: https://gastroranking.es/r/meson-la-mezquita-2_96668/",
+      "Gastroranking — «Taberna Marinera Pepi y Juan en Benalmádena»: https://gastroranking.es/r/taberna-marinera-pepi-y-juan_13618/",
+      "Gastroranking — «La Despensa del Mar en Benalmádena»: https://gastroranking.es/r/la-despensa-del-mar_103551/",
+      "Viajando por el mundo mundial (blog) — «Los 8 mejores restaurantes dónde comer en Benalmádena barato y bien»: https://www.viajandoporelmundomundial.com/donde-comer-en-benalmadena/"
+    ]
+  }
+}
