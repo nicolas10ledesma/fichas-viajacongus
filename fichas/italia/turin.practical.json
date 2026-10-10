@@ -1,0 +1,698 @@
+{
+  "slug": "turin",
+  "name": "Turín",
+  "region": "Piamonte",
+  "lat": 45.0703,
+  "lon": 7.6869,
+  "datosRapidos": [
+    {
+      "label": "Región",
+      "value": "Turín (Torino, Piamonte, Italia). Es la capital del Piamonte y de su ciudad metropolitana, en el noroeste del país, sobre una llanura a unos 240 metros de altura donde el río Po recibe a la Dora Riparia. Al oeste se ven los Alpes y al este la colina, salpicada de villas. El municipio tenía 853.196 habitantes al 31 de diciembre de 2024 (ISTAT). Nació como campamento romano, Augusta Taurinorum, y su centro conserva todavía el trazado en cuadrícula. Fue capital del Ducado de Saboya desde 1563, del Reino de Cerdeña y, entre 1861 y 1865, la primera capital de la Italia unificada. Por eso tiene palacios reales, plazas enormes y kilómetros de soportales. En 1899 nació acá la Fiat, y la ciudad fue durante el siglo XX la capital del auto italiano. Las residencias de la Casa de Saboya son Patrimonio Mundial de la Unesco desde 1997. Se la conoce por el Museo Egipcio, por la Mole Antonelliana, que es el símbolo de la ciudad, por la Sábana Santa que se guarda en su catedral, por la Juventus y el Torino, y por su tradición de cafés, chocolate, vermut y aperitivo. Fue sede de los Juegos Olímpicos de Invierno de 2006. Es una ciudad elegante y bastante tranquila, menos invadida por el turismo masivo que Milán o Venecia, y una buena base para recorrer el Piamonte."
+    },
+    {
+      "label": "Moneda y pagos",
+      "value": "Euro (€). La tarjeta funciona casi en todos lados: museos, hoteles, restaurantes y también el transporte, porque GTT acepta pago contactless Visa y Mastercard (Tap&Go) en los molinetes del metro y en los colectivos y tranvías con el adhesivo amarillo. El colectivo del aeropuerto también cobra con tarjeta a bordo sin recargo. Algunos museos, como el Egipcio, venden la entrada sólo online. Llevá algo de efectivo para cafés chicos, el mercado y la boletería de la tranvía de Superga."
+    },
+    {
+      "label": "Mejor época",
+      "value": "Primavera y otoño son las épocas más cómodas para caminar la ciudad y ver los Alpes nevados de fondo. El invierno es frío y a veces con niebla, pero los museos funcionan igual y en diciembre hay horarios extendidos. Según Kayak, agosto es el mes más barato para dormir y noviembre el más caro. Varios atractivos cambian de horario según la estación: la subida a pie a la cúpula de la Mole se suspende en verano por calor y la cúpula de Superga cierra con más de 32 °C."
+    },
+    {
+      "label": "Ciudad de servicio",
+      "value": "La propia Turín concentra todo. El aeropuerto de Torino-Caselle (TRN) está al norte y se conecta con el centro por colectivo (45 a 50 minutos) y por tren hasta Porta Susa (unos 30 minutos). Las dos estaciones de tren principales son Porta Nuova y Porta Susa, con trenes rápidos a Milán y el resto de Italia, y servicios hacia Francia por el valle de Susa. Desde Turín salen trenes regionales y colectivos a Venaria, la Sacra di San Michele, las Langhe y los valles alpinos."
+    }
+  ],
+  "intro": [
+    "Turín sorprende a quien llega esperando una ciudad industrial gris. Tiene un centro barroco amplio y ordenado, con plazas enormes, calles rectas y soportales que te dejan caminar kilómetros bajo techo aunque llueva. Fue la casa de los Saboya y la primera capital del país unificado, así que los palacios reales están a la vuelta de cada esquina. Y todo eso con mucha menos gente que en Roma, Florencia o Venecia.",
+    "Para quien viaja con presupuesto, rinde. Las plazas, la catedral, el parque del Valentino y el mirador del Monte dei Cappuccini son gratis. Los Musei Reali cobran sólo € 2 a quienes tienen de 18 a 25 años, y los menores de 18 entran sin pagar. El primer domingo de cada mes los museos estatales abren gratis. Si pensás ver mucho, la Torino+Piemonte Card cubre la mayoría de los museos grandes, y el boleto diario de GTT cuesta € 3,70 en versión digital.",
+    "Lo que más cuesta es elegir. El Museo Egipcio guarda una colección de arte del antiguo Egipto que por sí sola justifica el viaje. La Mole Antonelliana guarda un museo del cine único y un ascensor que sube a 85 metros. Sumale Venaria, la colina de Superga con su tranvía de cremallera, la Sacra di San Michele colgada de una montaña y una tradición de cafés donde nació el bicerin. Con tres días ves lo esencial; con cinco, sumás las excursiones."
+  ],
+  "historia_corta": "En el siglo I a. C. los romanos levantaron un campamento sobre un asentamiento de los taurinos, un pueblo celto-ligur, y lo dedicaron a Augusto como Augusta Taurinorum. De esa época viene la cuadrícula del centro y la Porta Palatina. En el siglo VI fue sede de un ducado lombardo y en 773 la conquistaron las tropas de Carlomagno. Durante la Edad Media fue una ciudad menor hasta que, en 1563, el duque Manuel Filiberto de Saboya trasladó acá la capital del ducado. Desde entonces los Saboya la llenaron de palacios, iglesias de Guarini y Juvarra y residencias de caza alrededor, como Venaria, construida entre 1658 y 1679. En 1706 resistió el asedio francés durante la Guerra de Sucesión Española, y como promesa de esa victoria se levantó la basílica de Superga. Con el título de reyes, los Saboya gobernaron el Reino de Cerdeña desde Turín, y en el siglo XIX la ciudad fue el motor político del Risorgimento: entre 1861 y 1865 fue la primera capital del Reino de Italia, antes de pasar a Florencia y luego a Roma. Perder la capital la empujó a reinventarse: en 1863 empezó la construcción de la Mole Antonelliana y en 1899 se fundó la Fiat, que en 1923 abrió la fábrica del Lingotto con su pista de pruebas en el techo. Durante el siglo XX llegaron cientos de miles de inmigrantes del sur de Italia para trabajar en la industria. En 1943 las huelgas obreras de Turín ayudaron a acelerar la caída del fascismo. Con la crisis industrial, el Lingotto cerró en 1982 y se reconvirtió en centro cultural. En 1997 la Unesco declaró Patrimonio Mundial las residencias de los Saboya y en 2006 la ciudad organizó los Juegos Olímpicos de Invierno, que aceleraron su transformación turística.",
+  "queVer": [
+    {
+      "nombre": "Museo Egipcio (Museo Egizio)",
+      "desc": "Una colección enorme de arte del antiguo Egipto, con estatuas de faraones y tumbas completas, en pleno centro y con entrada sólo online.",
+      "detalle": "El Museo Egizio es el gran motivo por el que mucha gente viaja a Turín. Nació en 1824, cuando el rey Carlos Félix de Saboya compró la colección de Bernardino Drovetti, y celebró su bicentenario en 2024. Ocupa el edificio del Colegio de los Nobles, en la Via Accademia delle Scienze, a dos cuadras de Piazza Castello.\n\nEl recorrido arranca con la historia de las excavaciones y sigue cronológicamente. Lo más impactante es la Galería de los Reyes (Galleria dei Re), con estatuas monumentales de faraones y dioses, la tumba intacta del arquitecto Kha y su esposa Merit, con la comida y la ropa que llevaron al más allá, y los papiros. Hace poco abrieron las nuevas secciones permanentes 'Materia. Forma del tiempo' y la Galería de los Reyes renovada.\n\nLa entrada se compra sólo online, con día y horario, en museoegizio.it. Abre lunes de 9 a 14, de martes a viernes y domingos de 9 a 18:30, y sábados de 9 a 20. Los cumpleañeros entran gratis presentando documento. Hay visitas guiadas de 90 minutos en italiano y en inglés. El sábado 17 de octubre de 2026, por los Erasmus Days, abre gratis de 20 a 24 con reserva. Calculá medio día: es grande y se disfruta sin apuro.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Via Accademia delle Scienze 6, a 300 m de Piazza Castello"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; temprano o el lunes a la mañana para menos gente"
+        },
+        {
+          "label": "Entrada",
+          "value": "€ 18 adulto; € 15 mayores de 70; € 3 de 15 a 18 años y universitarios; € 1 de 6 a 14 años; familia (2 adultos + 2 menores) € 36; gratis menores de 6 y con Torino+Piemonte Card (fuente: museoegizio.it, tarifario actualizado enero 2026, verificado octubre 2026). Compra sólo online"
+        },
+        {
+          "label": "Duración",
+          "value": "3 a 4 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Mole Antonelliana y Museo Nacional del Cine (Museo Nazionale del Cinema)",
+      "desc": "El símbolo de Turín: una torre de 167,5 metros con un museo del cine adentro y un ascensor de vidrio que sube a 85 metros.",
+      "detalle": "La Mole Antonelliana se empezó en 1863 como sinagoga, según un proyecto de Alessandro Antonelli que originalmente preveía sólo 47 metros. Antonelli la fue estirando hasta los 167,5 metros y la comunidad judía terminó cediéndola a la ciudad. Hoy es el edificio más alto del centro de Turín.\n\nDesde 2000 adentro funciona el Museo Nazionale del Cinema. El recorrido sube en espiral por la gran sala central, con reposeras para ver proyecciones, y repasa desde las sombras chinescas y la linterna mágica hasta los escenarios, afiches y objetos de películas famosas. La audioguía de la exposición permanente es gratis con un código QR.\n\nEl ascensor panorámico, suspendido de cables en el centro de la cúpula, sube hasta la terraza a 85 metros, con vista a la ciudad y los Alpes. Se paga aparte o combinado con el museo, y conviene reservar horario online porque se agota, sobre todo los fines de semana. Abre de 9 a 19 todos los días menos martes; última entrada una hora antes. Ojo: del 7 de octubre al 9 de noviembre de 2026 hay salas cerradas por el montaje de una gran muestra y la entrada al museo se cobra reducida para todos; del 11 al 18 de noviembre sólo abre la planta de acceso, y el 28 de octubre cierra.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Via Montebello 20, a 600 m de Piazza Castello"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días despejados para la vista; reservá el ascensor con un día de anticipación"
+        },
+        {
+          "label": "Entrada",
+          "value": "Museo € 18 (reducido € 16 de 6 a 26 años); ascensor € 9 (reducido € 7, también con Torino+Piemonte Card); museo + ascensor € 23 (reducido € 20); gratis menores de 6; museo gratis con Torino+Piemonte Card (fuente: museocinema.it, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2,5 a 3 horas con el ascensor"
+        }
+      ]
+    },
+    {
+      "nombre": "Musei Reali: Palacio Real, Armería, Galería Sabauda y capilla de la Sábana Santa",
+      "desc": "La ciudadela de los Saboya: palacio, armería real, pinacoteca, museo arqueológico, jardines y la capilla de Guarini, todo con una entrada.",
+      "detalle": "Los Musei Reali reúnen en un solo complejo, sobre Piazza Castello, el Palacio Real (Palazzo Reale) que fue residencia de los Saboya, la Armería Real, la Biblioteca Real, la Galería Sabauda (pinacoteca con obras italianas y flamencas), el Museo de Antigüedades y los Jardines Reales. La entrada vale para todo el día, así que podés hacer una pausa en el jardín o en el café y seguir.\n\nDentro del recorrido está la Capilla de la Sábana Santa (Cappella della Sindone), la cúpula de Guarino Guarini que conecta el palacio con la catedral. Se incendió en 1997 y reabrió en 2018 después de una restauración larga. Desde ahí se ve el altar donde se guardaba la reliquia.\n\nAbre de jueves a martes de 9 a 19, con última entrada a las 18; cierra los miércoles. Los menores de 18 entran gratis y quienes tienen entre 18 y 25 años pagan € 2. Las entradas gratuitas no se sacan online: se retiran en boletería el mismo día. El primer domingo de cada mes, el 25 de abril, el 2 de junio y el 4 de noviembre la entrada es gratis para todos, sin reserva posible. Calculá entre tres horas y media jornada si querés ver todo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Piazzetta Reale 1, sobre Piazza Castello"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañanas de jueves a martes; primer domingo del mes gratis pero con filas"
+        },
+        {
+          "label": "Entrada",
+          "value": "€ 15 adulto; € 2 de 18 a 25 años; gratis menores de 18 y con Torino+Piemonte Card; entrada 'Open' € 18 válida hasta el 31 de diciembre (fuente: museireali.beniculturali.it, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "3 a 5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Catedral de Turín y la Sábana Santa (Duomo di San Giovanni Battista)",
+      "desc": "La única catedral renacentista de Turín, donde se guarda la Sábana Santa, la tela que la tradición asocia al entierro de Jesús.",
+      "detalle": "El Duomo, dedicado a San Juan Bautista, es una iglesia renacentista de fines del siglo XV con fachada de mármol blanco, a pasos del Palacio Real y de las ruinas romanas de la Porta Palatina. Su fama viene de la Sábana Santa (Sacra Sindone), la tela de lino con la imagen de un hombre crucificado que la tradición identifica con el sudario de Jesús y que los Saboya trajeron a Turín en el siglo XVI.\n\nConviene saber que la Sábana original no está a la vista: se conserva en una urna dentro de la catedral y sólo se muestra al público en ostensiones extraordinarias que anuncia la diócesis. La comisión diocesana confirmó que en 2025 no hubo ostensión pública, y al momento de esta verificación no hay ninguna anunciada.\n\nLa entrada a la iglesia es libre y es un lugar de culto: vestimenta adecuada y silencio. Para la Capilla de Guarini, que se ve desde la catedral, hay que entrar por los Musei Reali. Si te interesa el tema, en la Via San Domenico 28 funciona el Museo de la Sábana Santa, con entrada aparte.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Piazza San Giovanni, junto al Palacio Real y la Porta Palatina"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Fuera del horario de misa"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (iglesia); la Sábana Santa original no está expuesta, sin ostensión pública anunciada (fuente: diocesi.torino.it, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 a 45 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Piazza Castello y Palazzo Madama",
+      "desc": "El corazón de la ciudad: una plaza enorme rodeada de palacios y un castillo medieval con fachada barroca que hoy es museo.",
+      "detalle": "Piazza Castello es el centro geográfico e histórico de Turín. Desde acá salen la Via Roma, la Via Po y la Via Garibaldi, y alrededor están el Palacio Real, el Teatro Regio y la iglesia de San Lorenzo, con su cúpula de Guarini. Recorrerla es gratis y es el mejor punto de partida para cualquier paseo.\n\nEn el medio está el Palazzo Madama, un edificio que resume dos mil años: tiene la base de una puerta romana, torres de castillo medieval y una fachada barroca de Filippo Juvarra. Se llama así por las dos 'Madama Reale', las regentes de los Saboya que vivieron acá en el siglo XVII. En 1848 fue sede del Senado del Reino de Cerdeña. Hoy es el Museo Cívico de Arte Antiguo, con pintura, esculturas, cerámicas y orfebrería desde la Edad Media al siglo XVIII, y una escalera de honor de Juvarra que vale la visita sola.\n\nAbre lunes y de miércoles a domingo de 10 a 18 y cierra los martes; la boletería cierra una hora antes. Los menores de 18 entran gratis. Hay un boleto integrado que suma la GAM (arte moderno) y el MAO (arte oriental).",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro histórico; a 5 minutos a pie de Porta Nuova por Via Roma"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Cualquier época; el palacio cierra los martes"
+        },
+        {
+          "label": "Entrada",
+          "value": "Plaza gratis. Palazzo Madama: € 10 adulto; € 8 mayores de 65 y de 19 a 25 años; solo jardín reducido € 5; gratis menores de 18 (fuente: palazzomadamatorino.it, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas con el museo"
+        }
+      ]
+    },
+    {
+      "nombre": "Piazza San Carlo, Via Roma y los soportales (portici)",
+      "desc": "La 'sala de estar' de Turín: una plaza barroca con iglesias gemelas y cafés históricos, unida a la estación por calles con soportales.",
+      "detalle": "Piazza San Carlo es la plaza más elegante de la ciudad. Del siglo XVII, tiene en el centro la estatua ecuestre de Manuel Filiberto, el 'Caval 'd Brons' (caballo de bronce), y en el extremo sur dos iglesias casi idénticas, Santa Cristina y San Carlo. Bajo sus arcadas están algunos de los cafés más antiguos de Turín.\n\nLa plaza está sobre la Via Roma, la calle comercial que une la estación Porta Nuova con Piazza Castello, toda con soportales. Turín tiene kilómetros de estas galerías cubiertas: la Via Po, que va de Piazza Castello hasta el río, está porticada de punta a punta y desemboca en Piazza Vittorio Veneto, una plaza enorme con vista a la iglesia de la Gran Madre y a la colina. Por eso podés recorrer el centro sin mojarte aunque llueva.\n\nTodo esto es gratis. Un buen recorrido es Porta Nuova, Via Roma, San Carlo, Piazza Castello, Via Po y Piazza Vittorio, y cruzar el puente al atardecer. Por la noche la zona de Piazza Vittorio y los Murazzi del Po es la de la movida y el aperitivo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Entre la estación Porta Nuova y Piazza Castello"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Al atardecer, para el paseo y el aperitivo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas caminando"
+        }
+      ]
+    },
+    {
+      "nombre": "Palacio de Venaria (Reggia di Venaria Reale)",
+      "desc": "La residencia de caza de los Saboya, Patrimonio de la Unesco, con la Galería Grande de Juvarra y jardines enormes a 10 km del centro.",
+      "detalle": "La Reggia di Venaria se construyó entre 1658 y 1679 según el proyecto de Amedeo di Castellamonte como residencia de caza de Carlos Manuel II, y después la ampliaron Michelangelo Garove y Filippo Juvarra. En época napoleónica y durante casi dos siglos fue cuartel militar, y quedó muy deteriorada. Tras una restauración gigantesca reabrió en octubre de 2007. Integra las residencias de los Saboya declaradas Patrimonio Mundial en 1997.\n\nLo más impactante es la Galería Grande de Juvarra, un salón blanco luminosísimo, y la Capilla de San Huberto. El recorrido incluye las Caballerizas de Juvarra (Scuderia Grande) y los jardines, con un trencito interno que se paga aparte en el lugar. El Castello della Mandria, dentro del parque, se visita con otra entrada.\n\nAbre de martes a domingo: de martes a viernes de 9:30 a 17 y sábados, domingos y feriados de 9:30 a 18:30; los lunes cierra salvo feriados. Las entradas cierran una hora antes. Se llega en tren SFM4, SFM6 o SFM7 hasta la parada Reggia di Venaria y unos 500 metros a pie, o con el colectivo Venaria Express de GTT desde el centro.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "A unos 10 km del centro, en Venaria Reale"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño para los jardines; evitá los lunes (cerrado)"
+        },
+        {
+          "label": "Entrada",
+          "value": "Reggia + jardines € 18; reducido € 15; € 8 de 6 a 20 años y universitarios menores de 26; 'Tutto in una Reggia' (con muestras) € 25, familia € 55; gratis menores de 6 (fuente: lavenaria.it, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Basílica de Superga y tranvía de cremallera Sassi-Superga",
+      "desc": "La basílica de Juvarra en lo alto de la colina, con tumbas reales y vista a los Alpes, a la que se sube en una tranvía histórica.",
+      "detalle": "La Basílica de Superga la mandó construir Víctor Amadeo II en el siglo XVIII, como agradecimiento por la victoria en el asedio de 1706, y la diseñó Filippo Juvarra. Está en la cima de la colina de Superga, al este del Po, con una de las mejores vistas sobre Turín y el arco alpino. En la cripta están las Tumbas Reales (Tombe Reali) de muchos príncipes y reyes de Saboya. Detrás de la basílica hay un memorial a la tragedia de Superga, el accidente aéreo de 1949 en el que murió el plantel del Grande Torino.\n\nLa iglesia y la Capilla del Voto son gratis. Se paga la subida a la cúpula (cierra con mal tiempo, viento o más de 32 °C), las Tumbas Reales y el Departamento Real, que se recorren sólo con visita acompañada en italiano de unos 45 minutos.\n\nLo lindo es subir con la tranvía de cremallera (la 'Dentera') desde la estación Sassi, que se alcanza con la línea 15 desde Piazza Castello o las 61 y 68 desde Piazza Vittorio. La línea funciona desde 1884, sale cada hora y los miércoles no circula. La iglesia abre de lunes a viernes de 10 a 13:30 y de 14:30 a 18, y fines de semana de 10 a 19.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Colina de Superga; tranvía desde la estación Sassi (barrio Sassi)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días despejados; evitá miércoles (no hay tranvía)"
+        },
+        {
+          "label": "Entrada",
+          "value": "Iglesia gratis; cúpula € 4 (reducido € 3); Tumbas Reales € 6 (reducido € 5); Departamento Real € 6 (reducido € 5); gratis con Torino+Piemonte Card (fuente: basilicadisuperga.com, verificado octubre 2026). Tranvía: ver Transporte"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día con la tranvía"
+        }
+      ]
+    },
+    {
+      "nombre": "Parque del Valentino y Castello del Valentino",
+      "desc": "El gran parque a orillas del Po, con un castillo de los Saboya Patrimonio de la Unesco y un pueblo medieval de imitación.",
+      "detalle": "El Parco del Valentino se extiende a lo largo de la orilla izquierda del Po, a pocas cuadras de Porta Nuova. Es el pulmón verde del centro: los turineses vienen a correr, a tirarse en el pasto y a ver el río con la colina enfrente. Es gratis y está abierto.\n\nAdentro está el Castello del Valentino, residencia de la duquesa Cristina de Francia en el siglo XVII, con techos de pizarra de estilo francés. Forma parte de las residencias de los Saboya declaradas Patrimonio Mundial y hoy es sede de la Facultad de Arquitectura del Politécnico, así que por dentro sólo se ve en ocasiones puntuales.\n\nMás al sur está el Borgo Medievale, un pueblo y una fortaleza (la Rocca) de imitación construidos para la Exposición General de 1884. Atención: al momento de esta verificación el Borgo y la Rocca están cerrados al público por obras, así que se ven sólo por fuera. El parque también tiene un jardín de rosas y bares sobre el río donde se toma algo barato al atardecer.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Orilla del Po, a unos 10 minutos a pie de Porta Nuova"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño; atardeceres de verano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (parque). Borgo Medievale cerrado por obras (fuente: borgomedievaletorino.it, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Monte dei Cappuccini y Gran Madre di Dio",
+      "desc": "El mirador clásico de Turín: una colina junto al Po con la mejor vista de la Mole recortada contra los Alpes, gratis.",
+      "detalle": "Cruzando el puente Vittorio Emanuele I desde Piazza Vittorio aparece la iglesia de la Gran Madre di Dio, un templo neoclásico inspirado en el Panteón de Roma que se construyó para celebrar el regreso del rey Víctor Manuel I en 1814. A pocos minutos, una subida corta lleva al Monte dei Cappuccini, una colina con una iglesia y un convento capuchino del siglo XVI.\n\nDesde la explanada del convento está la postal de Turín: la ciudad a tus pies, la Mole en primer plano y, los días limpios, la cadena de los Alpes nevados detrás, con el Monviso a la izquierda. Es especialmente lindo al atardecer y en invierno, cuando el aire está más transparente. Es gratis.\n\nEn el mismo lugar funciona el Museo Nacional de la Montaña, con entrada aparte, para quienes quieran seguir. La subida a pie desde el río es corta pero empinada, por rampas y escaleras; llevá calzado cómodo. Se combina bien con Piazza Vittorio y la Via Po, o con la tranvía de Superga si seguís hacia la colina.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Del otro lado del Po, frente a Piazza Vittorio Veneto"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Atardecer y días despejados de invierno"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (mirador público)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo del Risorgimento (Palazzo Carignano)",
+      "desc": "El museo de la unificación italiana, en el palacio barroco donde funcionó el primer Parlamento del Reino de Italia.",
+      "detalle": "El Palazzo Carignano es una obra maestra de Guarino Guarini, con una fachada de ladrillo ondulada que no se parece a ninguna otra en Turín. Acá nació en 1820 el rey Víctor Manuel II y acá sesionó el primer Parlamento del Reino de Italia, cuando Turín era la capital. Hoy alberga el Museo Nazionale del Risorgimento Italiano.\n\nEl recorrido cuenta cómo un mosaico de reinos y ducados se convirtió en un solo país en el siglo XIX: armas, uniformes, banderas, cuadros, documentos y objetos de Garibaldi, Cavour y Mazzini. El momento fuerte es el aula del Parlamento Subalpino, conservada como estaba. Ayuda a entender por qué Turín se siente tan 'capital'.\n\nAbre de martes a domingo de 10 a 18 y cierra los lunes. Cada entrada incluye una audioguía web gratis; pedí el código QR en boletería. Hay tarifas baratas para jóvenes y un boleto familiar. Está en Piazza Carlo Alberto, a pasos de Piazza Castello y enfrente del Museo Egipcio, así que se combinan bien en el mismo día.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Via Accademia delle Scienze 5, frente al Museo Egipcio"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; cierra los lunes"
+        },
+        {
+          "label": "Entrada",
+          "value": "€ 12 adulto; € 10 mayores de 65 y grupos; € 6 de 20 a 26 años; € 4 de 6 a 19 años; familia € 20; gratis menores de 6 y con Torino+Piemonte Card (fuente: museorisorgimentotorino.it, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo Nacional del Automóvil (MAUTO)",
+      "desc": "La historia del auto en la ciudad de la Fiat: unos dos siglos de coches, de los primeros carruajes a vapor a los deportivos.",
+      "detalle": "Turín fue durante un siglo la capital del automóvil italiano, y el MAUTO lo cuenta. El museo, a orillas del Po en el sur de la ciudad, repasa la evolución del auto desde los primeros vehículos a vapor hasta los modelos de diseño y competición, con piezas de Fiat, Alfa Romeo, Lancia, Ferrari y Maserati, además de autos extranjeros.\n\nNo hace falta ser fanático: el recorrido está pensado como una historia del siglo XX contada a través del auto, con mucho de diseño y sociedad. Las exposiciones temporales están incluidas en la entrada.\n\nOjo con las rotaciones: según el museo, varios autos emblemáticos (como el Cisitalia 202 'Nuvolari', el Alfa Romeo Disco Volante o la Lancia Flaminia presidencial) están fuera de exposición hasta el 30 de octubre de 2026; revisá la web si vas por uno en particular. Abre los lunes de 10 a 14 y de martes a domingo de 10 a 19, con última entrada una hora antes. Hay promociones para viajeros de Trenitalia. Queda a mitad de camino entre el Valentino y el Lingotto.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Corso Unità d'Italia 40, al sur del Parque del Valentino"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; lunes sólo a la mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "€ 18 adulto; € 15 mayores de 65 y de 18 a 25 años; € 8 de 6 a 17 años; gratis hasta 5 años (fuente: museoauto.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Lingotto, Pista 500 y Pinacoteca Agnelli",
+      "desc": "La ex fábrica de la Fiat con la pista de pruebas en el techo, hoy convertida en jardín de arte y museo de la familia Agnelli.",
+      "detalle": "El Lingotto fue la gran fábrica de la Fiat: se abrió en 1923 con un diseño revolucionario de Giacomo Mattè-Trucco. Las materias primas entraban por abajo y los autos subían en espiral hasta salir terminados al techo, donde había una pista de pruebas de 2,4 km con curvas peraltadas. Le Corbusier la elogió como una de las mejores imágenes de la industria. Cerró en 1982 y Renzo Piano la transformó en un centro con shopping, cines, hotel y centro de convenciones.\n\nEn el techo está la Pinacoteca Giovanni e Marella Agnelli, el 'Scrigno' (cofre) diseñado por Piano, con obras de la colección de la familia (Canaletto, Matisse, Balla, entre otros) y muestras temporales. La vieja pista se convirtió en la Pista 500, un jardín elevado con instalaciones de arte contemporáneo.\n\nSegún la web de turismo italiana, la Pinacoteca abre de martes a domingo de 10 a 19 y cierra los lunes. Las tarifas cambian según las muestras en curso y no estaban publicadas en texto en su web al verificar; consultalas en pinacoteca-agnelli.it. Desde el 30 de octubre de 2026 se anuncia una gran retrospectiva de Alberto Savinio. Se llega en metro hasta la estación Lingotto.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Via Nizza, barrio Lingotto; metro línea 1 estación Lingotto"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días de sol para la Pista 500"
+        },
+        {
+          "label": "Entrada",
+          "value": "Edificio y galería comercial gratis; Pinacoteca y Pista 500 con tarifa vigente en pinacoteca-agnelli.it (no publicada en texto al verificar, octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Allianz Stadium y Juventus Museum",
+      "desc": "La casa de la Juventus: museo con los trofeos del club y tour guiado por el estadio, vestuarios y túnel incluidos.",
+      "detalle": "Turín es la ciudad de la Juventus, y el Allianz Stadium, inaugurado en 2011 en el norte de la ciudad, es su casa. El Juventus Museum recorre la historia del club con trofeos, camisetas, fotos y zonas interactivas, y el tour guiado por el estadio te lleva a lugares que en partido no se ven, como los vestuarios, el túnel y el banco de suplentes.\n\nEl precio incluye el tour del estadio con guía, en horarios fijos, y la visita libre al museo. Cuesta algo menos comprado online y los cupos son limitados, así que conviene reservar. Los menores de 5 años no pagan.\n\nEl museo abre de lunes a viernes de 9:30 a 18:30 y sábados, domingos y feriados de 9:30 a 19:30, con la boletería cerrando una hora antes. Los días de partido cambia el horario según la hora del inicio, y hay un 'Matchday Tour' especial. Si sos del otro equipo de la ciudad, el Torino, su historia está ligada a Superga.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Zona norte de Turín, fuera del centro histórico"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días sin partido para el tour completo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Museo + Stadium Tour desde € 29 online / € 30 en boletería; menores de 14 desde € 24 online; gratis menores de 5 (fuente: juventus.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Cafés históricos y Quadrilatero Romano (Caffè Al Bicerin)",
+      "desc": "Los cafés del siglo XVIII y XIX donde se toma el bicerin, en el barrio de calles romanas lleno de bares y aperitivos.",
+      "detalle": "Turín tiene una tradición de cafés históricos que es parte de la visita. El más famoso es el Caffè Al Bicerin, en funcionamiento desde 1763 en la Piazza della Consolata, frente al santuario. Acá nació el bicerin, la bebida típica de la ciudad: capas de café, chocolate caliente y crema de leche servidas en un vasito, que no se revuelven. El local es chiquito, así que en fin de semana puede haber fila.\n\nOtros clásicos: el Caffè Mulassano, en Piazza Castello 15, que en 2026 celebra los 100 años del tramezzino, el sándwich triangular que se inventó ahí; y los cafés de Piazza San Carlo. A la tarde-noche Turín es la ciudad del aperitivo y del vermut, que se inventó acá en el siglo XVIII.\n\nEl Bicerin está en el Quadrilatero Romano, el barrio de calles en cuadrícula sobre el trazado romano, entre Via Garibaldi y Porta Palazzo, lleno de bares, trattorias y vida nocturna. El Bicerin abre todos los días de 9 a 19:15 menos los miércoles; tiene cierres por vacaciones en enero y en verano.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Piazza della Consolata 5 (Bicerin); Quadrilatero Romano, a 10 minutos de Piazza Castello"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañanas de invierno para el bicerin; tardecitas para el aperitivo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (barrio); consumición según carta del local (fuente: bicerin.it, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Sacra di San Michele",
+      "desc": "Una abadía del siglo X colgada en la cima de una montaña a la entrada del valle de Susa, el monumento símbolo del Piamonte.",
+      "detalle": "La Sacra di San Michele se construyó entre 983 y 987 en la cima del monte Pirchiriano, a la entrada del valle de Susa, y su silueta sobre la roca es una de las imágenes más fuertes del Piamonte; la propia abadía se presenta como su monumento símbolo. La cuidaron monjes benedictinos y desde 1837 está a cargo de los padres rosminianos. Su paisaje inspiró a Umberto Eco para 'El nombre de la rosa'.\n\nSe sube por una gran escalinata tallada en la roca hasta la iglesia, con tumbas de príncipes de Saboya, y desde las terrazas se ve todo el valle y la llanura hacia Turín. Ojo: la Porta dello Zodiaco, uno de sus tesoros románicos, está en restauración (aviso de septiembre de 2026).\n\nDe marzo a octubre abre de lunes a sábado de 9:30 a 17:30 y domingos de 10:45 a 17:30; de noviembre a febrero cierra una hora antes. Sin auto, el boleto combinado tren + colectivo de Trenitalia desde Porta Nuova vía Avigliana funciona sábados, domingos y feriados hasta el 31 de octubre de 2026 y da 25% de descuento en la entrada. Desde el estacionamiento son 800 metros a pie.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Valle de Susa, sobre Avigliana y Sant'Ambrogio; en tren + colectivo desde Porta Nuova"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño, días claros"
+        },
+        {
+          "label": "Entrada",
+          "value": "€ 8 entero; € 6 reducido (fuente: museionline.info, agregador, actualizado abril 2026, verificado octubre 2026); 25% de descuento con boleto tren + bus. Entradas en ticketlandia.com"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día desde Turín"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Museo Egipcio (Museo Egizio)",
+      "precio": "€ 18 adulto; € 15 mayores de 70; € 3 de 15 a 18 años y universitarios; € 1 de 6 a 14 años; familia 2+2 € 36; gratis menores de 6, cumpleañeros y con Torino+Piemonte Card (fuente: museoegizio.it, tarifario actualizado enero 2026, verificado octubre 2026). Compra obligatoria online en museoegizio.it"
+    },
+    {
+      "tipo": "Museo Nacional del Cine y ascensor de la Mole Antonelliana",
+      "precio": "Museo € 18 (reducido € 16 de 6 a 26 años); ascensor € 9 (reducido € 7); combinado € 23 (reducido € 20); gratis menores de 6; con Torino+Piemonte Card museo gratis y ascensor € 7. Del 7/10 al 9/11/2026 el museo se cobra reducido para todos (fuente: museocinema.it, verificado octubre 2026). Comprar online, sobre todo el ascensor"
+    },
+    {
+      "tipo": "Musei Reali (Palacio Real, Armería, Galería Sabauda, capilla de la Sábana Santa)",
+      "precio": "€ 15 adulto; € 2 de 18 a 25 años; gratis menores de 18 y con Torino+Piemonte Card; 'Open' € 18 válido hasta el 31/12. Gratis para todos el primer domingo de cada mes (fuente: museireali.beniculturali.it, verificado octubre 2026). Compra online en museireali.midaticket.com; las gratuitas sólo en boletería"
+    },
+    {
+      "tipo": "Reggia di Venaria Reale",
+      "precio": "Reggia + jardines € 18 (reducido € 15; € 8 de 6 a 20 años y universitarios menores de 26); sólo jardines € 6; 'Tutto in una Reggia' € 25 (familia € 55); Castello della Mandria € 10; gratis menores de 6 (fuente: lavenaria.it, verificado octubre 2026). Comprar online con día y hora"
+    },
+    {
+      "tipo": "Basílica de Superga",
+      "precio": "Iglesia gratis; cúpula € 4 (reducido € 3); Tumbas Reales € 6 (reducido € 5); Departamento Real € 6 (reducido € 5). Reducido de 6 a 25 años y mayores de 65; gratis menores de 6 y con Torino+Piemonte Card (fuente: basilicadisuperga.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Palazzo Madama (Museo Cívico de Arte Antiguo)",
+      "precio": "€ 10 adulto; € 8 mayores de 65 y de 19 a 25 años; gratis menores de 18 (fuente: palazzomadamatorino.it, verificado octubre 2026). Boleto integrado con GAM y MAO disponible"
+    },
+    {
+      "tipo": "Museo Nacional del Automóvil (MAUTO)",
+      "precio": "€ 18 adulto; € 15 mayores de 65 y 18-25 años; € 8 de 6 a 17 años; gratis hasta 5 años (fuente: museoauto.com, verificado octubre 2026). Compra en ticket.museoauto.com"
+    },
+    {
+      "tipo": "Museo del Risorgimento (Palazzo Carignano)",
+      "precio": "€ 12 adulto; € 10 mayores de 65; € 6 de 20 a 26 años; € 4 de 6 a 19 años; familia € 20; gratis menores de 6 y con Torino+Piemonte Card (fuente: museorisorgimentotorino.it, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Juventus Museum + Allianz Stadium Tour",
+      "precio": "Desde € 29 online / € 30 en boletería; menores de 14 desde € 24 online; gratis menores de 5 (fuente: juventus.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Sacra di San Michele",
+      "precio": "€ 8 entero; € 6 reducido (fuente: museionline.info, agregador, actualizado abril 2026, verificado octubre 2026); 25% de descuento con el boleto tren + bus de Trenitalia. Venta online en ticketlandia.com"
+    },
+    {
+      "tipo": "Torino+Piemonte Card (pase turístico oficial)",
+      "precio": "24 h € 29,90 (máximo 3 entradas); 48 h € 39,90; 72 h € 45,90; 120 h € 52,90; Junior 72 h (12-17 años) € 18,90; incluye entrada gratis para un adulto y un menor de 12 en los museos del circuito (fuente: turismotorino.org, tarifas desde el 3/3/2025, verificado octubre 2026). Se compra online o en la oficina de turismo"
+    },
+    {
+      "tipo": "Catedral, plazas, Parque del Valentino y Monte dei Cappuccini",
+      "precio": "Gratis (iglesia y espacios públicos)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Visita guiada 'Viaje al Antiguo Egipto' en el Museo Egizio",
+      "precio": "€ 7 por persona en italiano / € 9 en inglés, más la entrada (fuente: egizio.museitorino.it, verificado octubre 2026)",
+      "duracion": "90 minutos",
+      "operador": "Museo Egizio (grupos de hasta 25 personas, con egiptólogo)"
+    },
+    {
+      "actividad": "Subida a pie por la cúpula de la Mole Antonelliana",
+      "precio": "€ 12 a € 15 según sea visita guiada o acompañada (fuente: museocinema.it, verificado octubre 2026); sólo en italiano, no apta menores de 6",
+      "duracion": "Alrededor de 1 hora",
+      "operador": "Museo Nazionale del Cinema (se suspende en verano por calor)"
+    },
+    {
+      "actividad": "Tour del Allianz Stadium + Juventus Museum",
+      "precio": "Desde € 29 online (fuente: juventus.com, verificado octubre 2026)",
+      "duracion": "1,5 a 2 horas",
+      "operador": "Juventus FC"
+    },
+    {
+      "actividad": "Tour por la Turín subterránea (Torino Sotterranea) con guía en español",
+      "precio": "Desde US$ 61,70 (Civitatis muestra el precio en dólares; fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Civitatis / operadores locales; sale de Via Guicciardini 7a"
+    },
+    {
+      "actividad": "Bus turístico hop on-hop off City Sightseeing Torino",
+      "precio": "Desde US$ 21,28 (fuente: civitatis.com, en dólares, verificado octubre 2026); con Torino+Piemonte Card hay tarifa reducida",
+      "duracion": "24, 48 o 72 horas",
+      "operador": "City Sightseeing Torino (líneas roja, azul y verde)"
+    },
+    {
+      "actividad": "Shuttle directo a la Sacra di San Michele desde Piazza Solferino",
+      "precio": "€ 28 ida y vuelta, con reserva online (fuente: sacradisanmichele.com, verificado octubre 2026)",
+      "duracion": "Unas 5 horas (domingos, salida 9:15)",
+      "operador": "Sacra di San Michele"
+    },
+    {
+      "actividad": "Excursión privada a las Langhe y el Barolo con bodegas",
+      "precio": "Desde € 350 el tour privado de 8 horas para 2 a 7 personas, almuerzo aparte (fuente: winedering.com, agregador, verificado octubre 2026)",
+      "duracion": "Día completo (8 horas)",
+      "operador": "Winedering / bodegas de la zona del Barolo"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Boleto City de GTT (colectivo, tranvía y metro)",
+      "precio": "€ 1,90 digital (app TO Move o contactless Tap&Go) / € 2,00 en papel; MultiCity de 6 viajes € 11,80 (fuente: gtt.to.it, verificado octubre 2026)",
+      "duracion": "Vale 100 minutos",
+      "notas": "Incluye un solo viaje en metro. Hay que validarlo en cada transbordo. Con tarjeta Visa o Mastercard contactless pagás directo en los molinetes del metro y en los vehículos con el adhesivo amarillo."
+    },
+    {
+      "medio": "Boleto Daily y pases turísticos de GTT",
+      "precio": "Daily € 3,70 digital / € 4,50 papel; Daily x4 (hasta 4 personas) € 12 digital; 'Tour' 48 h € 7,80 y 72 h € 10,30 en digital (€ 9,50 y € 12,50 en papel); MultiDaily 7 € 21 (fuente: gtt.to.it, verificado octubre 2026)",
+      "duracion": "Día completo o 48/72 horas",
+      "notas": "El Daily conviene desde el segundo viaje. Con la Torino+Piemonte Card, en la oficina de turismo el pase de 48 h sale € 7 y el de 72 h € 9."
+    },
+    {
+      "medio": "Metro de Turín (línea 1)",
+      "precio": "Mismo boleto City de € 1,90 digital (fuente: gtt.to.it, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Una sola línea automática que une el oeste de la ciudad con Porta Susa, Porta Nuova y el Lingotto. Útil para las estaciones de tren y el Lingotto; el centro histórico se camina."
+    },
+    {
+      "medio": "Tranvía de cremallera Sassi-Superga",
+      "precio": "Días hábiles: € 4 ida / € 6 ida y vuelta; sábados y feriados: € 6 ida / € 9 ida y vuelta; € 4 ida y vuelta con Torino+Piemonte Card (fuente: gtt.to.it, verificado octubre 2026)",
+      "duracion": "Salidas cada hora",
+      "notas": "Lunes, martes, jueves y viernes de 10 a 18 desde Sassi; fines de semana y feriados de 9 a 20. Los miércoles no funciona. Boletería y máquinas en la estación Sassi (línea 15 desde Piazza Castello)."
+    },
+    {
+      "medio": "Colectivo Venaria Express (GTT)",
+      "precio": "Martes a viernes con boleto urbano normal (€ 1,90 digital); sábados, domingos y feriados tarifa hop on-hop off € 7 por día, € 4 con Torino+Piemonte Card (fuente: gtt.to.it, verificado octubre 2026)",
+      "duracion": "Según horario de temporada",
+      "notas": "Une el centro y Porta Susa con la Reggia de Venaria y el parque de La Mandria, de martes a domingo. También llegan los trenes SFM4, SFM6 y SFM7 a la parada Reggia di Venaria."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto de Torino-Caselle (TRN) → Porta Susa / Porta Nuova (colectivo)",
+      "empresas": "Arriva Italia (directos y con paradas)",
+      "precio": "€ 7,50 ida (+ € 1 si comprás a bordo en efectivo; contactless a bordo sin recargo); ida y vuelta € 11; familia 2+2 € 23; € 6,50 con Torino+Piemonte Card (fuente: aeroportoditorino.it, verificado octubre 2026)",
+      "duracion": "45 a 50 minutos"
+    },
+    {
+      "ruta": "Aeropuerto de Torino-Caselle → Porta Susa (tren)",
+      "empresas": "Línea ferroviaria del aeropuerto (servicio metropolitano)",
+      "precio": "€ 3,70 por pasajero (fuente: aeroportoditorino.it, verificado octubre 2026)",
+      "duracion": "Unos 30 minutos"
+    },
+    {
+      "ruta": "Aeropuerto de Torino-Caselle → centro (shuttle directo)",
+      "empresas": "Flibco (a la terminal de Corso Vittorio Emanuele II 131 y Porta Nuova)",
+      "precio": "Desde € 3,99 online / € 6 comprado en el lugar (fuente: aeroportoditorino.it, verificado octubre 2026)",
+      "duracion": "Unos 30 minutos"
+    },
+    {
+      "ruta": "Aeropuerto de Torino-Caselle → centro (taxi)",
+      "empresas": "Taxis de la parada del aeropuerto",
+      "precio": "Unos € 40 según estimación del propio aeropuerto (fuente: aeroportoditorino.it, verificado octubre 2026)",
+      "duracion": "Unos 30 minutos"
+    },
+    {
+      "ruta": "Milán → Turín (tren)",
+      "empresas": "Trenitalia (Frecciarossa y Regionale Veloce), Italo",
+      "precio": "Desde unos € 10-13 con anticipación; promedio € 26-28 comprando el mismo día (fuente: omio.it, agregador, verificado octubre 2026). Comprá en trenitalia.com o italotreno.it",
+      "duracion": "Unos 50 minutos los rápidos; 1 h 50 los regionales"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Económico: hostel y hoteles simples",
+      "nivel": 2,
+      "opciones": "Combo Torino (hostel con habitaciones privadas y compartidas) desde € 80 la habitación; Hotel Sharing desde € 52; Hotel Cascina Fossata desde € 58; Sweet Home Lingotto desde € 59 (fuente: Momondo, agregador, precios 'desde' por noche, verificado octubre 2026). Sumá la tasa de estadía: € 1 en hostel, € 3,80 en B&B y departamentos"
+    },
+    {
+      "categoria": "Intermedio cerca de Porta Nuova y Porta Susa",
+      "nivel": 3,
+      "opciones": "Aston Hotel desde € 68; Eco Art Hotel Statuto desde € 77; Hotel Astoria y Tomato Urban Retreat desde € 82; Sure Hotel by Best Western Turin City Centre desde € 86; Hotel Lancaster desde € 87 (fuente: Momondo, agregador, verificado octubre 2026). Según Kayak noviembre es el mes más caro y agosto el más barato. Tasa de estadía en 3 estrellas: € 3,50 por persona y noche"
+    },
+    {
+      "categoria": "Superior en el centro histórico",
+      "nivel": 4,
+      "opciones": "AC Hotels by Marriott Torino desde € 133; NH Torino Centro desde € 138; DoubleTree by Hilton Turin Lingotto desde € 151; NH Collection Torino Santo Stefano desde € 172 (fuente: Momondo, agregador, verificado octubre 2026). Tasa de estadía en 4 estrellas: € 4,50 por persona y noche desde el 1/4/2026"
+    },
+    {
+      "categoria": "Lujo y grandes hoteles históricos",
+      "nivel": 5,
+      "opciones": "Grand Hotel Sitea desde € 165; Turin Palace Hotel desde € 210; NH Collection Torino Piazza Carlina desde € 225; Principi di Piemonte desde € 270 (fuente: Momondo, agregador, verificado octubre 2026). Tasa de estadía en 5 estrellas: € 5 por persona y noche (máximo 7 noches por año)"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Piolas y bistrós baratos (cocina casera piemontesa)",
+      "nivel": 2,
+      "opciones": "Las 'piole' son las tabernas populares turinesas. Según la guía 2026 de Scatti di Gusto, en Turín se come bien con unos € 40 o menos, y en La Cuite (San Salvario) se gasta unos € 25 por persona (fuente: scattidigusto.it, verificado octubre 2026). Pedí tajarin (tallarines finos de huevo) y vino suelto en jarra"
+    },
+    {
+      "tipo": "Cocina piemontesa clásica: vitello tonnato y agnolotti del plin",
+      "nivel": 3,
+      "opciones": "En Scannabue (Largo Saluzzo 25/h, San Salvario): vitello tonnato € 14, agnolotti del plin ai tre arrosti € 14, mejilla braseada al Barbera € 19; menú de la tradición € 42,50 por persona (mínimo 2); menú de almuerzo con copa de vino o postre € 18-20; cubierto € 2,50 (fuente: carta en scannabue.it, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Cafés históricos: bicerin y tramezzino",
+      "nivel": 2,
+      "opciones": "Caffè Al Bicerin (desde 1763, Piazza della Consolata 5): abre de 9 a 19:15, cierra los miércoles (fuente: bicerin.it, verificado octubre 2026). Caffè Mulassano (Piazza Castello 15), donde nació el tramezzino hace 100 años. Sus webs no publican precios: consultá la carta en el local"
+    },
+    {
+      "tipo": "Alta cocina histórica: Del Cambio",
+      "nivel": 5,
+      "opciones": "Restaurante con estrella Michelin en Piazza Carignano, frente al palacio del primer Parlamento; hoy con el chef Diego Giglio. Menú degustación '1757' € 175; maridajes € 135; unos € 170 por persona a la carta (fuente: scattidigusto.it, enero 2026, verificado octubre 2026)"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa para ir a Turín si soy latinoamericano?",
+      "a": "Argentinos, chilenos, uruguayos, mexicanos, colombianos y peruanos no necesitan visa para turismo en Italia: pueden quedarse hasta 90 días dentro de cualquier período de 180 en todo el espacio Schengen. Bolivianos y ecuatorianos, en cambio, sí necesitan visa Schengen. Desde el 10 de abril de 2026 funciona en pleno el EES (Entry/Exit System): en el primer ingreso te toman huellas y foto en la frontera y reemplaza el sello en el pasaporte. El ETIAS, la autorización online que costará unos € 20, todavía no está en funcionamiento en octubre de 2026 y la UE no confirmó la fecha. Revisá antes de viajar."
+    },
+    {
+      "q": "¿Cuántos días necesito para conocer Turín?",
+      "a": "Con tres días completos ves lo esencial. Un día para el Museo Egipcio y el centro (Piazza Castello, Palazzo Madama, Via Roma y San Carlo). Otro para los Musei Reali, la catedral, la Mole con el museo del cine y el atardecer en el Monte dei Cappuccini. El tercero para Superga con la tranvía de cremallera y el Valentino o el Lingotto. Con cinco días sumás Venaria (medio día largo) y la Sacra di San Michele o una excursión a las Langhe. Tené en cuenta los días de cierre: los Musei Reali cierran los miércoles, la Mole los martes y Venaria los lunes."
+    },
+    {
+      "q": "¿Conviene la Torino+Piemonte Card?",
+      "a": "Depende de cuántos museos veas. La de 48 horas cuesta € 39,90 y da entrada gratis a los museos grandes del circuito (Egipcio, Musei Reali, Venaria, cine, Superga, Risorgimento, entre otros) para un adulto y un menor de 12. Sólo el Egipcio (€ 18), los Musei Reali (€ 15) y el Cine (€ 18) ya suman € 51. Además da descuentos en el ascensor de la Mole, la tranvía de Superga, el Venaria Express y el colectivo del aeropuerto. Si tenés de 18 a 25 años, ojo: en los Musei Reali pagás sólo € 2, así que hacé la cuenta. La de 24 horas vale para un máximo de tres entradas."
+    },
+    {
+      "q": "¿Cuánto es la tasa turística en Turín?",
+      "a": "El Comune di Torino cobra la imposta di soggiorno por persona y por noche, hasta un máximo de 7 noches consecutivas por año calendario. Desde el 1 de abril de 2026 es de € 1 en hostels y campings, € 3 en hoteles de 1 y 2 estrellas, € 3,50 en 3 estrellas, € 4,50 en 4 estrellas y € 5 en 5 estrellas. En B&B, departamentos de alquiler turístico, residences y habitaciones es de € 3,80. Los menores de 13 años no pagan. Se abona en el alojamiento, normalmente aparte del precio de Booking o Airbnb."
+    },
+    {
+      "q": "¿Es seguro Turín?",
+      "a": "Turín es una ciudad tranquila para el visitante, con los cuidados de cualquier ciudad grande europea. Ojo con los carteristas en las zonas concurridas, en el transporte y en las estaciones de Porta Nuova y Porta Susa. De noche, las zonas con más movimiento son el Quadrilatero Romano, San Salvario y los Murazzi del Po; conviene evitar calles vacías alrededor de las estaciones a altas horas. GTT amplió en 2026 su presencia de seguridad 'Safe Tram' y 'Safe Bus' también a horarios diurnos. Emergencias: 112."
+    },
+    {
+      "q": "¿Puedo pagar todo con tarjeta? ¿Hace falta auto?",
+      "a": "Sí, casi todo se paga con tarjeta, incluso el colectivo y el metro con contactless Visa o Mastercard (Tap&Go), al mismo precio que el boleto digital de € 1,90. El auto no hace falta en la ciudad: el centro se camina, hay zona de tráfico limitado (ZTL) con multas automáticas y el estacionamiento es caro. Para Venaria y Superga hay transporte público. Para la Sacra di San Michele, las Langhe o los valles alpinos el auto da más libertad, pero en temporada hay tren + colectivo a la Sacra los fines de semana y excursiones organizadas."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Turín»: https://es.wikipedia.org/wiki/Tur%C3%ADn",
+      "Wikipedia (ES) — «Mole Antonelliana»: https://es.wikipedia.org/wiki/Mole_Antonelliana",
+      "Wikipedia (ES) — «Palacio de Venaria»: https://es.wikipedia.org/wiki/Palacio_de_Venaria",
+      "Wikipedia (ES) — «Lingotto»: https://es.wikipedia.org/wiki/Lingotto",
+      "Wikipedia (ES) — «Basílica de Superga»: https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_Superga",
+      "Tuttitalia (datos ISTAT) — «Popolazione Torino 2001-2024»: https://www.tuttitalia.it/piemonte/72-torino/statistiche/popolazione-andamento-demografico/",
+      "Sacra di San Michele — «Sito ufficiale»: https://www.sacradisanmichele.com/"
+    ],
+    "que_ver_atracciones": [
+      "Museo Egizio — «Orari di apertura»: https://www.museoegizio.it/info/orari/",
+      "Museo Egizio — «Tariffe»: https://www.museoegizio.it/info/prezzi/",
+      "Museo Egizio — «Tariffario per biglietteria»: https://api.museoegizio.it/wp-content/uploads/2017/12/Tariffario-per-biglietteria-ITA.jpg",
+      "Museo Nazionale del Cinema — «Tariffe»: https://www.museocinema.it/it/pianifica-una-visita/tariffe",
+      "Museo Nazionale del Cinema — «Orari»: https://www.museocinema.it/it/pianifica-una-visita/orari-museo-nazionale-del-cinema",
+      "Musei Reali Torino — «Organizza la tua visita»: https://museireali.beniculturali.it/organizza-la-tua-visita/",
+      "La Venaria Reale — «Reggia, Giardini, Castello della Mandria»: https://lavenaria.it/visita/biglietti-e-prenotazioni/reggia-giardini-castello-della-mandria/",
+      "La Venaria Reale — «Orari»: https://lavenaria.it/visita/orari/",
+      "Basilica di Superga — «Tariffe»: https://www.basilicadisuperga.com/organizza-la-tua-visita/tariffe.html",
+      "Basilica di Superga — «Orari di apertura»: https://www.basilicadisuperga.com/organizza-la-tua-visita/orari-di-apertura.html",
+      "Palazzo Madama — «Biglietti»: https://www.palazzomadamatorino.it/it/visita-il-museo/biglietti/",
+      "MAUTO — «Orari, info e tariffe»: https://www.museoauto.com/pianifica-la-tua-visita/",
+      "Museo del Risorgimento — «Biglietti»: https://www.museorisorgimentotorino.it/biglietti/",
+      "Juventus — «Juventus Museum & Allianz Stadium Tour»: https://www.juventus.com/it/biglietti/museum-tour/juventus-museum-stadium-tour",
+      "Borgo Medievale di Torino — «La tua visita»: https://www.borgomedievaletorino.it/la-tua-visita/",
+      "Caffè Al Bicerin — «Orari & posizione»: https://bicerin.it/dove-siamo/",
+      "Diocesi di Torino — «Sindone 2025, nessuna ostensione pubblica»: https://diocesi.torino.it/site/sindone-2025-nessuna-ostensione-pubblica",
+      "Italia.it — «Pinacoteca Agnelli»: https://www.italia.it/en/piemonte/torino/museums/pinacoteca-agnelli",
+      "Museionline (agregador) — «Sacra di San Michele»: https://museionline.info/piemonte-musei-monumenti/sacra-di-san-michele"
+    ],
+    "precios_2026": [
+      "Turismo Torino — «Torino+Piemonte Card»: https://turismotorino.org/en/visit/plan-your-trip/tourist-products/torino-piemonte-card",
+      "Comune di Torino — «Tariffe imposta di soggiorno»: https://www.comune.torino.it/media/10202",
+      "Comune di Torino — «Imposta di soggiorno»: https://www.comune.torino.it/schede-informative/imposta-soggiorno",
+      "Museo Egizio (biglietteria) — «Biglietto + visita guidata aperta al pubblico»: https://egizio.museitorino.it/categoria/biglietto-visita-guidata-aperta-al-pubblico/",
+      "Civitatis — «Tour por los subterráneos de Turín»: https://www.civitatis.com/es/turin/tour-subterraneos-turin/",
+      "Civitatis — «Autobus turistico di Torino»: https://www.civitatis.com/it/torino/autobus-turistico-torino",
+      "Winedering (agregador) — «Excursión privada al vino Barolo desde Turín»: https://www.winedering.com/es/private-barolo-wine-tour_d6781_travel"
+    ],
+    "como_llegar_transporte": [
+      "GTT — «Biglietti di corsa singola, speciali e carnet»: https://www.gtt.to.it/cms/biglietti-abbonamenti/biglietti/biglietti-carnet",
+      "GTT — «Tranvia Sassi-Superga»: https://www.gtt.to.it/cms/turismo/sassisup",
+      "GTT — «Venaria Express»: https://www.gtt.to.it/cms/turismo/venaria-express",
+      "Aeroporto di Torino — «In bus»: https://www.aeroportoditorino.it/it/tomove/trasporti-e-parcheggi/in-bus",
+      "Aeroporto di Torino — «In treno»: https://www.aeroportoditorino.it/it/tomove/trasporti-e-parcheggi/in-treno",
+      "Aeroporto di Torino — «In taxi»: https://www.aeroportoditorino.it/it/tomove/trasporti-e-parcheggi/in-taxi",
+      "La Venaria Reale — «Come arrivare»: https://lavenaria.it/visita/come-arrivare/",
+      "Basilica di Superga — «Come raggiungerci»: https://www.basilicadisuperga.com/organizza-la-tua-visita/come-raggiungerci.html",
+      "Sacra di San Michele — «Informazioni»: https://sacradisanmichele.com/informazioni/",
+      "Omio (agregador) — «Treni Milano-Torino»: https://www.omio.it/treni/milano/torino"
+    ],
+    "visados_entrada": [
+      "Ministère de l'Europe et des Affaires étrangères (Francia) — «EES: the new European border Entry/Exit System goes live on 10 April 2026»: https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/ees-le-nouveau-systeme-europeen-de-gestion-des-frontieres-entre-en-service-le-10-avril-2026",
+      "Navan (blog, fuente secundaria) — «When does ETIAS go into effect?»: https://navan.com/blog/when-does-etias-go-into-effect",
+      "La Prensa (Panamá) — «Visa Schengen: los países que seguirán necesitando este documento»: https://www.prensa.com/mundo/visa-schengen-para-viajar-a-europa-estos-son-los-paises-que-seguiran-necesitando-este-documento/",
+      "Acento (R. Dominicana) — «RD, Cuba, Bolivia y Ecuador seguirán necesitando visado Schengen»: https://acento.com.do/actualidad/rd-cuba-bolivia-y-ecuador-seguiran-necesitando-visado-schengen-9462611.html"
+    ],
+    "seguridad": [
+      "GTT — «Più presenza e controlli sulla rete: GTT estende il presidio Safe Tram e Safe Bus anche alle fasce diurne»: https://www.gtt.to.it/cms/avvisi-e-informazioni-di-servizio/torino-e-cintura/12832-piu-presenza-e-controlli-sulla-rete-gtt-estende-il-presidio-safe-tram-e-safe-bus-anche-alle-fasce-diurne"
+    ],
+    "alojamiento_gastronomia": [
+      "Momondo — «Hotels in Turin»: https://momondo.ie/hotels/turin",
+      "Kayak — «Turin Hotels»: https://www.kayak.com/Turin-Hotels.13332.hotel.ksp",
+      "Scannabue — «Il nostro menu»: https://www.scannabue.it/menu/",
+      "Scatti di Gusto — «Ristorante Del Cambio a Torino: menu, prezzi, recensioni»: https://www.scattidigusto.it/ristorante-del-cambio-a-torino-menu-prezzi-recensioni",
+      "Scatti di Gusto — «Dove mangiare di gusto a Torino spendendo poco: piole e bistrot»: https://www.scattidigusto.it/dove-mangiare-di-gusto-a-torino-spendendo-poco-piole-e-bistrot"
+    ]
+  }
+}
