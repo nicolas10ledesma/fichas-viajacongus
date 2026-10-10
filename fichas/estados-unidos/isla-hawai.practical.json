@@ -1,0 +1,650 @@
+{
+  "slug": "isla-hawai",
+  "name": "Isla de Hawái",
+  "region": "Hawái",
+  "lat": 19.5667,
+  "lon": -155.5,
+  "datosRapidos": [
+    {
+      "label": "Isla",
+      "value": "Isla de Hawái (Hawaiʻi Island, Estados Unidos), a la que todos llaman la 'Big Island' (la Isla Grande) para no confundirla con el estado. Es la más grande y la más austral del archipiélago de Hawái, en el medio del Pacífico Norte: unos 10.430 km², más que todas las otras islas juntas. Forma el Condado de Hawái, que tenía 200.632 habitantes en el censo de 2020 y unos 209.790 según la estimación de 2025. Las dos ciudades son Hilo, en la costa este, húmeda y verde (44.186 habitantes en 2020), y Kailua-Kona, en la costa oeste, seca y soleada (19.713 en 2020). La isla está formada por cinco volcanes en escudo: Kohala, Mauna Kea, Hualālai, Mauna Loa y Kīlauea, este último en erupción episódica desde diciembre de 2024. Mauna Kea llega a 4.207 metros y en su cumbre funcionan varios observatorios astronómicos internacionales. Se la conoce por el Parque Nacional de los Volcanes, Patrimonio Mundial de la Unesco, por las playas de arena negra y verde, por el café de Kona y por el snorkel nocturno con mantarrayas. También es la tierra natal de Kamehameha I, el rey que unificó las islas, y el lugar donde murió el capitán James Cook en 1779"
+    },
+    {
+      "label": "Moneda",
+      "value": "Dólar estadounidense (US$). La tarjeta se usa para todo y en varios lugares es la única opción: los parques estatales (ʻAkaka Falls, Rainbow Falls, Hāpuna) cobran sólo con tarjeta, y Puʻuhonua o Hōnaunau no acepta efectivo. Los precios se muestran sin impuesto y en los restaurantes con mesa se deja propina. Hawái es caro: lo que más pesa es el auto y el alojamiento. Lo gratis: el colectivo Hele-On, los miradores de Waipiʻo y el centro de visitantes de Mauna Kea"
+    },
+    {
+      "label": "Ciudad de servicio",
+      "value": "Hay dos bases y conviene repartir las noches entre ambas. Kailua-Kona, en el oeste, tiene el aeropuerto con más vuelos (KOA, Ellison Onizuka Kona International Airport at Keāhole), con conexiones al continente, Canadá y Japón, y queda cerca de las playas, el café y las mantarrayas. Hilo, en el este, tiene el aeropuerto de Hilo (ITO), queda a unos 48 km (30 millas, unos 45 minutos) del Parque Nacional de los Volcanes y es la puerta a las cascadas. Entre las dos ciudades, el colectivo Hele-On tarda unas 2 h 45 min por la Saddle Road"
+    },
+    {
+      "label": "Visado",
+      "value": "Es territorio de Estados Unidos, así que rigen las reglas federales. Chile está en el Programa de Exención de Visas (Visa Waiver Program) desde 2014: los chilenos con pasaporte electrónico viajan con una autorización ESTA, que cuesta US$ 40,27 y pasa a US$ 40,62 desde el 16 de octubre de 2026. Argentinos, uruguayos, mexicanos, colombianos y peruanos necesitan visa de turista B1/B2, con formulario DS-160 y entrevista consular. Además existe la 'visa integrity fee' de al menos US$ 250, que en 2026 los consulados cobran de forma despareja: confirmalo con la embajada"
+    }
+  ],
+  "intro": [
+    "La Isla de Hawái es la isla que todavía se está haciendo. En el Parque Nacional de los Volcanes el Kīlauea lleva casi dos años de episodios de fuentes de lava dentro del cráter Halemaʻumaʻu, y en una misma tarde se pasa de un bosque de helechos gigantes a un desierto de roca negra que tiene pocos años. Es la isla más grande del archipiélago y la menos urbana: no hay rascacielos, hay ranchos, plantaciones de café y pueblos chicos con una sola calle.",
+    "Lo que la hace distinta es la variedad. En un día de auto se cruza de la costa seca de Kona, con playas de arena blanca y atardeceres sobre el mar, a la costa húmeda de Hilo, con cascadas y selva. Arriba está Mauna Kea, a más de 4.200 metros, donde funcionan observatorios de varios países y hay astronomía gratis para el público. Abajo, de noche, las mantarrayas comen plancton a pocos metros de los snorkelistas.",
+    "No es un destino barato y conviene saberlo de entrada: el auto de alquiler es casi obligatorio y los hoteles de playa cuestan lo que cuestan. Pero mucho de lo mejor es gratis o casi: los miradores del valle de Waipiʻo, la playa de arena negra de Punaluʻu con tortugas, el mercado de Hilo, la visita a una finca de café o el centro de visitantes de Mauna Kea. Con cinco o seis días bien repartidos entre Kona y Hilo se ve lo esencial."
+  ],
+  "historia_corta": "Los primeros pobladores polinesios llegaron a Hawái en canoas dobles; los estudios recientes ubican ese poblamiento entre los años 900 y 1200. La Isla Grande fue durante siglos el centro de poder de los jefes hawaianos: el gobernante ʻUmi-a-Līloa instaló su sede en Kailua, en el distrito de Kona. En el norte, en Kohala, nació Kamehameha, que hacia 1791 controló toda la isla y en 1810 terminó de unificar el archipiélago en un solo reino. En enero de 1779 el capitán británico James Cook fondeó en la bahía de Kealakekua; volvió semanas después y murió el 14 de febrero de 1779 en un enfrentamiento con hawaianos en la orilla de Kaʻawaloa, donde hoy hay un obelisco. Kamehameha pasó sus últimos años en Kailua-Kona y murió allí en 1819. En 1838 el gobernador John Adams Kuakini construyó el Palacio Huliheʻe, que luego compró el rey Kalākaua. Durante el siglo XIX llegaron misioneros, balleneros y trabajadores de China, Japón, Portugal y Filipinas para las plantaciones de caña de azúcar, que fueron la base de la economía por más de cien años; la última cerró en 1995. El reino fue derrocado en 1893, Estados Unidos anexó las islas en 1898 y Hawái se convirtió en estado en 1959. Hilo sufrió dos tsunamis devastadores, en 1946 (originado en Alaska) y en 1960 (por el terremoto de Valdivia, en Chile). El Parque Nacional de los Volcanes se creó en 1916 y es Patrimonio Mundial desde 1987. La erupción del Kīlauea de 2018 cubrió parte del distrito de Puna; desde diciembre de 2024 el volcán entra en erupción por episodios dentro del cráter Halemaʻumaʻu.",
+  "queVer": [
+    {
+      "nombre": "Parque Nacional de los Volcanes de Hawái (Hawaiʻi Volcanoes National Park)",
+      "desc": "El parque del Kīlauea y el Mauna Loa: cráteres humeantes, campos de lava, tubos volcánicos y una erupción que va y viene.",
+      "detalle": "Es la razón principal para venir a la isla. El parque protege la cumbre del Kīlauea y parte del Mauna Loa, y es Patrimonio Mundial de la Unesco desde 1987. El centro es la caldera Kaluapele y, dentro de ella, el cráter Halemaʻumaʻu, donde el Kīlauea viene teniendo episodios de fuentes de lava desde el 23 de diciembre de 2024.\n\nEstado actual: según el Observatorio Vulcanológico de Hawái del USGS, el 9 de octubre de 2026 el volcán estaba en nivel de alerta WATCH / código naranja. El episodio 54 terminó el 25 de agosto de 2026; ahora hay salpicaduras menores y brillo nocturno en las bocas, y el USGS dice que puede venir otro episodio en días o semanas sin aviso previo. Mirá el estado el mismo día en usgs.gov/volcanoes/kilauea.\n\nOjo con las obras: el Centro de Visitantes Kīlauea está cerrado hasta fines de 2026 y funciona un centro provisorio en Kīlauea Military Camp, de 9 a 16:45. El Museo Jaggar fue demolido y no se reconstruye. La Chain of Craters Road, que baja hasta el mar, sigue siendo la gran alternativa. El parque abre las 24 horas y los estacionamientos se llenan antes de las 10. Los gases volcánicos pueden afectar a personas sensibles.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "A unos 48 km (45 minutos) de Hilo y a unos 153 km (2 a 2,5 horas) de Kailua-Kona por la ruta 11, según el NPS"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año. Temprano para estacionar y de noche para ver el brillo si hay actividad"
+        },
+        {
+          "label": "Entrada",
+          "value": "Auto particular US$ 30 (7 días); moto US$ 25; peatón o ciclista US$ 15; menores de 15 gratis (fuente: nps.gov/havo, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Un día completo; dos si querés caminar senderos"
+        }
+      ]
+    },
+    {
+      "nombre": "Mauna Kea (Maunakea) y su Centro de Visitantes",
+      "desc": "La montaña más alta de Hawái, con observatorios en la cumbre y astronomía gratuita en el centro de visitantes a 2.800 metros.",
+      "detalle": "Mauna Kea es un volcán dormido de 4.207 metros y un lugar sagrado para los hawaianos. En la cumbre funcionan observatorios de varios países, que aprovechan la altura y el cielo oscuro.\n\nPara la mayoría de los viajeros la visita es al Centro de Información para Visitantes (Maunakea Visitor Information Station), a 2.804 metros. Según la Universidad de Hawái en Hilo abre todos los días de 9 a 21 y no cobra entrada, registro ni estacionamiento. Hay programas de observación de estrellas en noches despejadas: mirá el calendario antes de ir.\n\nSubir a la cumbre es otra historia. El camino es sólo para 4x4, y muchos contratos de alquiler no lo permiten: revisá el tuyo. La cumbre abre de 30 minutos antes del amanecer a 30 minutos después de la puesta del sol. El Instituto de Astronomía de la universidad desaconseja subir más allá del centro a menores de 16 años, embarazadas, personas con problemas cardíacos o respiratorios, y a quienes bucearon con tanque en las últimas 24 horas.\n\nLa opción más simple es una excursión con traslado en 4x4, abrigo y cena. Llevá ropa de invierno: arriba hace frío incluso en verano.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sobre la Saddle Road, entre Hilo y Kona; el centro de visitantes está a 2.804 m de altura"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; noches sin nubes para las estrellas"
+        },
+        {
+          "label": "Entrada",
+          "value": "Centro de visitantes: gratis, sin entrada ni estacionamiento (fuente: hilo.hawaii.edu/maunakea, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "3 a 4 horas al centro de visitantes; 7,5 a 8,5 horas con excursión a la cumbre"
+        }
+      ]
+    },
+    {
+      "nombre": "Bahía de Kealakekua (Kealakekua Bay State Historical Park)",
+      "desc": "La bahía donde murió el capitán Cook, hoy parque histórico con un arrecife muy buscado para hacer snorkel al pie del monumento.",
+      "detalle": "La bahía de Kealakekua, al sur de Kailua-Kona, junta historia y mar. En la orilla de Nāpōʻopoʻo está el Hikiau Heiau, un templo hawaiano sagrado al que no se debe subir. Enfrente, en Kaʻawaloa, un obelisco blanco marca el lugar donde murió James Cook en 1779. Al pie del monumento hay un arrecife muy buscado para hacer snorkel: aguas transparentes, corales y peces tropicales.\n\nCómo llegar al monumento: hay tres formas. Caminando por el histórico sendero de Kaʻawaloa (sin baños; llevá agua y sacá tu basura). En kayak, pero sólo con empresas que tengan permiso de Parques Estatales: hoy figuran Kona Boys y Adventures in Paradise; está prohibido desembarcar en Kaʻawaloa con kayak propio o alquilado y botar desde el muelle de Nāpōʻopoʻo. O en barco: el catamarán Fair Wind II sale de la bahía de Keauhou.\n\nEl parque estatal abre de 7 a 20 y no cobra entrada. Los baños están sólo del lado de Nāpōʻopoʻo. Revisá los avisos de Parques Estatales antes de ir, porque hubo cierres por temporales.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Costa de Kona Sur, al sur de Kailua-Kona"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano, con el mar más calmo y mejor visibilidad"
+        },
+        {
+          "label": "Entrada",
+          "value": "Parque estatal gratis, abierto de 7 a 20 (fuente: dlnr.hawaii.gov/dsp, verificado octubre 2026). Excursiones en kayak o barco aparte"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Snorkel nocturno con mantarrayas (Kona)",
+      "desc": "De noche, las mantarrayas gigantes se acercan a las luces de los botes para comer plancton, a pocos metros de los snorkelistas.",
+      "detalle": "Es una de las actividades más conocidas de la isla y no se hace en ningún horario más que de noche. Los botes salen al atardecer y se quedan flotando sobre el fondo. Los guías encienden luces que atraen al plancton y las mantarrayas de arrecife suben a comerlo, dando vueltas y volteretas a centímetros de la superficie. Vos flotás agarrado a una tabla o aro con luz, boca abajo, sin tocar a los animales.\n\nMuchas salidas parten de la bahía de Keauhou, a pocos minutos de la zona conocida como 'Manta Village'. Duran entre 2 y 3 horas. No hace falta saber bucear: alcanza con saber flotar y animarse al agua oscura. Hay asientos de espectador para quien prefiere mirar desde el barco.\n\nQué conviene saber: hay operadores que ofrecen repetir gratis si esa noche no aparecen mantas; preguntá antes de pagar. A la tarifa base se suman impuestos y tasas de puerto (7% a 10%, según Dolphin Discoveries) y se espera propina. Si te mareás en barco, tomá algo antes.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Salidas desde la bahía de Keauhou, al sur de Kailua-Kona"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año, con mar calmo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Excursión paga: desde US$ 99,99 por persona; rango típico US$ 99–169 (fuente: dolphindiscoveries.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Puʻuhonua o Hōnaunau (Parque Histórico Nacional)",
+      "desc": "El antiguo lugar de refugio hawaiano: templos reconstruidos, estatuas de madera talladas y un muro de piedra junto al mar.",
+      "detalle": "En el antiguo Hawái, quien rompía un kapu (una ley sagrada) podía ser condenado a muerte, salvo que llegara a un puʻuhonua, un lugar de refugio, donde un sacerdote lo absolvía. Este es el más conocido que se conserva. Lo separa de los terrenos de los jefes un gran muro de piedra seca, y junto al mar hay un templo reconstruido rodeado de kiʻi, figuras talladas en madera.\n\nLa visita es a pie por un sendero corto entre palmeras y costas de lava donde suelen descansar tortugas verdes. El centro de visitantes abre todos los días de 8:30 a 16:30 según el NPS. Al lado del parque está la zona de snorkel conocida como Two Step, muy popular.\n\nQué conviene saber: el parque no acepta efectivo; se paga con tarjeta en la entrada o con un código QR si la caseta no tiene personal. El pase anual Hawaiʻi Tri-Park (US$ 55, sólo para ciudadanos y residentes de EE. UU.) también vale acá y en el Parque de los Volcanes. Combinalo con la bahía de Kealakekua y una finca de café: están en la misma zona.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Kona Sur, al sur de la bahía de Kealakekua"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana, antes del calor fuerte"
+        },
+        {
+          "label": "Entrada",
+          "value": "Auto US$ 20 (7 días); moto US$ 15; a pie o en bici US$ 10; menores de 15 gratis; sólo tarjeta (fuente: nps.gov/puho, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Valle de Waipiʻo (Waipiʻo Valley Lookout)",
+      "desc": "Un valle profundo con acantilados verdes y playa de arena negra. El mirador es gratis; al fondo sólo se baja con excursión.",
+      "detalle": "Waipiʻo, en la costa de Hāmākua, es un valle de paredes altísimas y verdes que termina en una playa de arena negra. Para los hawaianos es un lugar de gran valor histórico y cultural, y en su fondo se sigue cultivando taro.\n\nAcceso actual (verificado octubre 2026): la ruta de bajada está cerrada a visitantes desde febrero de 2022 por razones de seguridad, bajo reglas de emergencia del condado que se renuevan cada unos 60 días. Los peatones tampoco pueden bajar, no se puede caminar hasta la playa y los permisos de camping están suspendidos. Según la guía Love Big Island, la declaración de emergencia vigente llega hasta el 25 de febrero de 2027, así que no se espera que reabra pronto.\n\nLo que sí se puede: el mirador, al final de la Waipiʻo Valley Road en Kukuihaele, abierto y gratis, sin permiso. El estacionamiento se llena a media mañana los fines de semana. Desde arriba no se ven las cascadas. La única forma de bajar es con Waipio Valley Shuttle, con punto de encuentro sobre la Honokaa-Waipio Road, según su web. Las cabalgatas de Waipio on Horseback son en el rancho, arriba del valle. Combinalo con el pueblo de Honokaʻa.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Costa de Hāmākua, al final de la Waipiʻo Valley Road, en Kukuihaele (pasando Honokaʻa)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana, antes de que se llene el estacionamiento"
+        },
+        {
+          "label": "Entrada",
+          "value": "Mirador gratis. Bajada sólo con excursión: Waipio Valley Shuttle desde US$ 67 online (fuente: waipiovalleyshuttle.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos en el mirador; 105 minutos con la excursión"
+        }
+      ]
+    },
+    {
+      "nombre": "Cascada ʻAkaka (ʻAkaka Falls State Park)",
+      "desc": "Una cascada de 134 metros en medio de la selva, a la que se llega por un sendero corto y pavimentado, con muchos escalones.",
+      "detalle": "Es la cascada más conocida de la isla. El parque estatal, al norte de Hilo, tiene un sendero circular de unos 640 metros (0,4 millas), pavimentado pero con muchos escalones, que atraviesa un bosque húmedo muy cerrado. En el recorrido se ven dos saltos: la cascada Kahuna y la ʻAkaka, que cae 134 metros (442 pies) a un pozo.\n\nEl parque abre todos los días de 8:30 a 17. Los parques estatales de Hawái cobran a los no residentes por persona y por auto, y en ʻAkaka sólo se acepta tarjeta. Como en la zona casi no hay señal de celular, Parques Estatales recomienda pagar antes de llegar en la web de reservas.\n\nQué conviene saber: no es accesible en silla de ruedas por las escaleras. Según el aviso de Parques Estatales, una parte del sendero está cerrada por árboles caídos: revisá los avisos antes de ir.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al norte de Hilo, sobre la costa de Hāmākua"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; la mañana tiene menos gente"
+        },
+        {
+          "label": "Entrada",
+          "value": "No residentes US$ 5 por persona + US$ 10 el estacionamiento; menores de 3 gratis; residentes de Hawái gratis; sólo tarjeta (fuente: dlnr.hawaii.gov/dsp, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Hilo y su Mercado de Productores (Hilo Farmers Market)",
+      "desc": "La ciudad más grande de la isla: centro histórico frente a la bahía, mercado diario de frutas y comidas, y museos chicos y baratos.",
+      "detalle": "Hilo es la Hawái que vive de sí misma y no del turismo. El centro, frente a la bahía, se recorre a pie entre tiendas, cafés y el mercado. Es la costa húmeda de la isla, y por eso todo está verde.\n\nEl Hilo Farmers Market, en la esquina de Kamehameha Avenue y Mamo Street, abre todos los días de 7 a 15 según su web. Los días fuertes son miércoles y sábado, con más de 200 puestos según varias guías; el resto de la semana es más chico. Hay frutas tropicales, verduras, flores, comida preparada y artesanías. La entrada es gratis.\n\nOtros lugares: el ʻImiloa Astronomy Center, de la Universidad de Hawái, explica Mauna Kea y la navegación polinesia y tiene el único planetario de la isla (martes a domingo, 9 a 16:30). Hilo también recuerda los tsunamis de 1946 y 1960, que destruyeron parte del frente costero. Desde acá, el Parque de los Volcanes queda a 45 minutos.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Costa este de la isla; Aeropuerto de Hilo (ITO) a pocos minutos del centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Miércoles y sábado para el mercado grande; mañanas, porque a la tarde suele llover"
+        },
+        {
+          "label": "Entrada",
+          "value": "Mercado gratis. ʻImiloa: adultos US$ 19, niños 5-12 US$ 12, mayores de 65 US$ 17 (fuente: imiloahawaii.org, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día a un día"
+        }
+      ]
+    },
+    {
+      "nombre": "Kailua-Kona y el Palacio Huliheʻe",
+      "desc": "El pueblo turístico de la costa oeste: paseo costero en Aliʻi Drive, iglesia misionera y un palacio real de 1838 convertido en museo.",
+      "detalle": "Kailua-Kona es la base de la mayoría de los viajeros. El centro histórico se recorre caminando por Aliʻi Drive, la calle costera, con bares, tiendas de surf y vista al atardecer. Fue la sede de los jefes de Kona y el lugar donde Kamehameha I pasó sus últimos años y murió, en 1819.\n\nEl Palacio Huliheʻe lo construyó en 1838 el gobernador John Adams Kuakini con piedra de lava. Después lo compró el rey Kalākaua, que lo revocó y lo usó como casa de verano. Desde 1927 lo cuidan las Hijas de Hawái (Daughters of Hawaiʻi), que lo restauraron como museo con muebles de madera koa y objetos de la familia real. Abre de miércoles a sábado de 10 a 15 (última entrada 14:30); conviene reservar.\n\nDe la zona de Kona salen los barcos para la bahía de Kealakekua y el snorkel con mantarrayas, y al sur empiezan las fincas de café. Es buena base para la primera y la última noche si volás por el Aeropuerto de Kona.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al sur del Aeropuerto de Kona (KOA), sobre la costa oeste"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; atardecer para el paseo costero"
+        },
+        {
+          "label": "Entrada",
+          "value": "Palacio Huliheʻe: no residentes adultos US$ 16, jóvenes 6-17 US$ 14, menores de 5 gratis; visita guiada US$ 20 (fuente: daughtersofhawaii.org, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Cascada Rainbow y Boiling Pots (Wailuku River State Park)",
+      "desc": "Dos paradas en el río Wailuku, dentro de Hilo: una cascada de 24 metros con arcoíris y pozos que parecen hervir entre columnas de basalto.",
+      "detalle": "El parque estatal del río Wailuku tiene dos sectores a pocos minutos del centro de Hilo. La cascada Rainbow (Waiānuenue, 'agua del arcoíris') cae 24 metros (80 pies) frente a una gran cueva. Por la mañana, cuando el sol da de frente, se suele formar un arcoíris en la bruma. La leyenda dice que en la cueva vivía Hina, madre del semidiós Maui. Se ve desde un mirador al lado del estacionamiento.\n\nMás arriba, al final de Peʻepeʻe Falls Drive, están los Boiling Pots ('ollas hirviendo'): una serie de pozos unidos por corrientes subterráneas que hacen que el agua burbujee. Las paredes son columnas hexagonales de basalto que se formaron cuando la lava se enfrió despacio. Un mismo pago de entrada y estacionamiento vale para los dos sectores.\n\nEl parque abre de 7 a 17:30 y cierra el portón a las 18. No te metas al río: respetá los carteles y las barandas. Después de lluvias fuertes, Parques Estatales puede cerrar el acceso; mirá los avisos.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Dentro de Hilo, por Waiānuenue Avenue y Rainbow Drive"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana, para ver el arcoíris"
+        },
+        {
+          "label": "Entrada",
+          "value": "No residentes US$ 5 por persona + US$ 10 el estacionamiento (vale para los dos sectores); residentes gratis; sólo tarjeta (fuente: dlnr.hawaii.gov/dsp, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 a 60 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Café de Kona (fincas de Kona Norte y Sur)",
+      "desc": "Las laderas del Hualālai y el Mauna Loa producen el café de Kona; varias fincas ofrecen visitas gratis y hay una granja histórica museo.",
+      "detalle": "El café de Kona se cultiva en una franja angosta de laderas entre Holualoa y Hōnaunau, a media altura, donde las mañanas son soleadas y las tardes nubladas. Muchas de esas fincas las trabajaron familias de origen japonés, como la que recrea la granja histórica de la zona.\n\nLa forma más simple de conocerlo es visitar una finca. Greenwell Farms, en Kealakekua, ofrece recorridos gratis todos los días, con degustación, entre las 8:30 y las 14 aproximadamente (su web da horarios distintos según la sección: confirmá por teléfono). Hay otras fincas sobre la ruta 11 y la ruta 180 que también abren sus tiendas.\n\nPara la historia, la Kona Coffee Living History Farm, de la Sociedad Histórica de Kona, recrea una finca de una familia japonesa de la década de 1920: casa original, árboles de café, secaderos (hoshidana) y el molino (kuriba), con guías vestidos de época. Abre martes y viernes de 10 a 14 (última entrada 13:15).",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Laderas entre Holualoa y Hōnaunau, al sur y al este de Kailua-Kona"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañanas para los recorridos"
+        },
+        {
+          "label": "Entrada",
+          "value": "Greenwell Farms: recorrido gratis. Kona Coffee Living History Farm: adultos US$ 20, estudiantes 7-17 US$ 10, menores de 7 gratis (fuente: konahistorical.org, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa de arena negra de Punaluʻu (Punaluʻu Black Sand Beach)",
+      "desc": "La playa de arena negra más conocida de la isla, donde suelen descansar tortugas verdes. Está en el camino entre el volcán y Kona.",
+      "detalle": "Punaluʻu está en el distrito de Kaʻū, en la costa sur, y es la parada lógica entre el Parque de los Volcanes y Kona. La arena es de basalto negro, partido en granos por el mar, y la bahía está rodeada de cocoteros. Lo que todos vienen a ver son las tortugas verdes (honu) que suben a la arena a descansar al sol; a veces también aparecen tortugas carey en el agua.\n\nReglas: no las toques, no les des de comer y quedate a por lo menos 3 metros (10 pies), como piden las guías de la zona. Si una tortuga se te acerca, alejate despacio. También está prohibido llevarse arena.\n\nEl mar tiene corrientes fuertes en algunos momentos: nadá con cuidado. Según Love Big Island hay guardavidas de 8:30 a 17, estacionamiento, mesas, baños y ducha. Más al sur, en Nāʻālehu (a unos 16 km, 10 millas), está la Punaluʻu Bake Shop, famosa por sus malasadas y su pan dulce: buena parada para comer barato.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 50 km (31 millas) de Volcano Village por la ruta 11, entre los mojones 56 y 57"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mediodía, cuando las tortugas suelen estar en la arena"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa de arena verde de Papakōlea (Papakōlea Green Sand Beach)",
+      "desc": "Una playa de arena verdosa, por los cristales de olivino de un cono volcánico, en el extremo sur de la isla. Se llega caminando.",
+      "detalle": "Papakōlea está cerca de Ka Lae (South Point), el punto más al sur de Estados Unidos. La playa ocupa una bahía chica dentro de un cono volcánico erosionado. La arena tiene un tono verde oliva porque está llena de cristales de olivino, un mineral más pesado que la ceniza que el mar se lleva.\n\nLlegar no es fácil. Las guías coinciden en que no se puede ir en auto hasta la playa. La caminata sale del estacionamiento cerca de South Point y cruza un terreno abierto, sin sombra y con mucho viento; las guías dan entre 4 y 5 km por tramo según desde dónde se arranque. Llevá agua, protector y calzado firme. Al final hay que bajar por una pared de roca a la playa.\n\nAlternativa: vecinos de la zona ofrecen traslados en camionetas 4x4 por las huellas de tierra, con pago en efectivo. No son un servicio oficial y los precios cambian. Llevarse arena está prohibido. El mar puede ser bravo: si hay olas grandes, mirá desde arriba.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Extremo sur de la isla, cerca de Ka Lae (South Point); el último tramo es a pie"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana, antes del calor y el viento"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis la playa. Traslado informal en 4x4: unos US$ 20 por persona según blogs de viaje (fuente: one-million-places.com, blog, verificado octubre 2026); no oficial"
+        },
+        {
+          "label": "Duración",
+          "value": "3 a 4 horas con la caminata"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa Hāpuna (Hāpuna Beach State Recreation Area)",
+      "desc": "Una playa larga de arena blanca en la costa de Kohala, con guardavidas, buena para nadar con mar calmo y ver el atardecer.",
+      "detalle": "Hāpuna es la gran playa de arena blanca de la costa de Kohala, al norte de Kona, entre campos de lava y resorts. Tiene agua turquesa y mucho espacio. En verano el mar suele estar calmo y es buena para nadar y hacer snorkel en los extremos; en invierno puede haber olas grandes y corrientes. Hay guardavidas, baños y duchas de agua fría, mesas y un tramo del sendero costero Ala Kahakai.\n\nEl parque abre de 7 a 19:30 y el portón se cierra a las 20. Es un parque estatal, así que los no residentes pagan entrada y estacionamiento, sólo con tarjeta. Las cabañas tipo A-frame y el camping están cerrados, el puesto de comida está cerrado temporalmente y el sector Waialea está cerrado por árboles caídos, según Parques Estatales: mirá los avisos.\n\nQué conviene saber: casi no hay sombra; llevá sombrilla. Es buen plan para el día de llegada o salida si volás desde Kona.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Costa de Kohala, al norte del Aeropuerto de Kona"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Verano para nadar; atardecer todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "No residentes US$ 5 por persona + US$ 10 el estacionamiento; menores de 3 gratis; sólo tarjeta (fuente: dlnr.hawaii.gov/dsp, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Parque Nacional de los Volcanes de Hawái",
+      "precio": "Auto particular US$ 30 (7 días, hasta 15 pasajeros); moto US$ 25; peatón o ciclista US$ 15; menores de 15 gratis (fuente: nps.gov/havo, verificado octubre 2026). Pase anual America the Beautiful para no residentes US$ 250; para residentes US$ 80. Se paga en la entrada o en recreation.gov. Si llegás en Hele-On pagás US$ 15 en el parque"
+    },
+    {
+      "tipo": "Puʻuhonua o Hōnaunau (Parque Histórico Nacional)",
+      "precio": "Auto US$ 20; moto US$ 15; a pie o en bici US$ 10; menores de 15 gratis; no acepta efectivo (fuente: nps.gov/puho, verificado octubre 2026). Pase Hawaiʻi Tri-Park US$ 55 (sólo ciudadanos y residentes de EE. UU.), vale también en Volcanes y Haleakalā"
+    },
+    {
+      "tipo": "ʻAkaka Falls State Park",
+      "precio": "No residentes US$ 5 por persona + US$ 10 por auto; menores de 3 gratis; residentes de Hawái gratis con documento; sólo tarjeta (fuente: dlnr.hawaii.gov/dsp, verificado octubre 2026). Conviene pagar online antes, porque no hay señal"
+    },
+    {
+      "tipo": "Rainbow Falls y Boiling Pots (Wailuku River State Park)",
+      "precio": "No residentes US$ 5 por persona + US$ 10 por auto (un pago para los dos sectores); residentes gratis; sólo tarjeta (fuente: dlnr.hawaii.gov/dsp, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Hāpuna Beach State Recreation Area",
+      "precio": "No residentes US$ 5 por persona + US$ 10 por auto; menores de 3 gratis; residentes gratis; sólo tarjeta (fuente: dlnr.hawaii.gov/dsp, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Centro de Visitantes de Mauna Kea",
+      "precio": "Gratis: sin entrada, registro ni estacionamiento; abre de 9 a 21 todos los días (fuente: hilo.hawaii.edu/maunakea, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Palacio Huliheʻe (Kailua-Kona)",
+      "precio": "Visita libre: adultos no residentes US$ 16, jóvenes 6-17 US$ 14, menores de 5 gratis, kamaʻāina y mayores de 65 US$ 12; visita guiada US$ 20 (fuente: daughtersofhawaii.org, verificado octubre 2026). Miércoles a sábado"
+    },
+    {
+      "tipo": "Kona Coffee Living History Farm",
+      "precio": "Adultos US$ 20; estudiantes 7-17 US$ 10; menores de 7 gratis; residentes de Hawái US$ 15 y US$ 5 (fuente: konahistorical.org, verificado octubre 2026). Martes y viernes de 10 a 14"
+    },
+    {
+      "tipo": "ʻImiloa Astronomy Center (Hilo)",
+      "precio": "Adultos US$ 19; niños 5-12 US$ 12; mayores de 65 US$ 17; menores de 4 gratis; kamaʻāina US$ 14 (fuente: imiloahawaii.org, verificado octubre 2026). Incluye planetario; boletos no reembolsables"
+    },
+    {
+      "tipo": "Valle de Waipiʻo",
+      "precio": "Mirador gratis. Bajada al valle sólo con Waipio Valley Shuttle: desde US$ 67 reservando online, con precio especial para niños (fuente: waipiovalleyshuttle.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Bahía de Kealakekua (parque histórico estatal)",
+      "precio": "Gratis, de 7 a 20 (fuente: dlnr.hawaii.gov/dsp, verificado octubre 2026). Los kayaks sólo con empresas con permiso"
+    },
+    {
+      "tipo": "Playas Punaluʻu y Papakōlea, Hilo Farmers Market, Greenwell Farms",
+      "precio": "Gratis (playas públicas, mercado y recorrido de la finca sin cargo)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Snorkel nocturno con mantarrayas",
+      "precio": "Desde US$ 99,99 por persona en Dolphin Discoveries; rango típico de salidas compartidas US$ 99–169, más 7%–10% de impuestos y tasas (fuente: dolphindiscoveries.com, verificado octubre 2026)",
+      "duracion": "2 a 3 horas",
+      "operador": "Dolphin Discoveries (bahía de Keauhou) y otros operadores de Kona"
+    },
+    {
+      "actividad": "Crucero de snorkel a la bahía de Kealakekua (Fair Wind II)",
+      "precio": "Mañana: US$ 193,75 adulto, US$ 127,32 niño 4-12; tarde: US$ 143,93 adulto (fuente: hawaiiactivities.com, agregador con la oferta de Fair Wind, verificado octubre 2026)",
+      "duracion": "4,5 a 5 horas (mañana); 3,5 horas (tarde)",
+      "operador": "Fair Wind Cruises, desde la bahía de Keauhou"
+    },
+    {
+      "actividad": "Kayak y snorkel guiado al monumento a Cook",
+      "precio": "Salida de mañana US$ 249,99 adulto; salida de mediodía US$ 169,99 adulto y US$ 129,99 joven, sin impuestos (fuente: lovebigisland.com, guía con reservas, verificado octubre 2026)",
+      "duracion": "4 a 5 horas",
+      "operador": "Kona Boys (con permiso de Parques Estatales)"
+    },
+    {
+      "actividad": "Atardecer y estrellas en Mauna Kea con traslado 4x4",
+      "precio": "Desde US$ 330 por persona, sin impuestos ni cargo de reserva; desde 13 años (fuente: maunakea.com, verificado octubre 2026)",
+      "duracion": "7,5 a 8,5 horas",
+      "operador": "Mauna Kea Summit Adventures (incluye abrigo y cena)"
+    },
+    {
+      "actividad": "Excursión en 4x4 al fondo del valle de Waipiʻo",
+      "precio": "Desde US$ 67 reservando online (fuente: waipiovalleyshuttle.com, verificado octubre 2026)",
+      "duracion": "105 minutos",
+      "operador": "Waipio Valley Shuttle, desde Honokaʻa"
+    },
+    {
+      "actividad": "Vuelo en helicóptero sobre el volcán y las cascadas",
+      "precio": "Desde Hilo, Safari desde US$ 349 (55 min); Blue Hawaiian US$ 419–719; desde Kona, Mauna Loa Helicopters US$ 229–639 (fuente: lovebigisland.com, guía actualizada en agosto de 2026, verificado octubre 2026)",
+      "duracion": "30 minutos a 2 horas",
+      "operador": "Safari, Blue Hawaiian, Mauna Loa Helicopters, Rainbow Helicopters"
+    },
+    {
+      "actividad": "Recorrido por una finca de café de Kona",
+      "precio": "Gratis en Greenwell Farms, todos los días (fuente: greenwellfarms.com, verificado octubre 2026)",
+      "duracion": "30 a 45 minutos",
+      "operador": "Greenwell Farms (Kealakekua)"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Auto de alquiler",
+      "precio": "Un cuarto de las búsquedas en Kayak encontró Enterprise en el Aeropuerto de Kona por US$ 94 por día o menos; promedio de camionetas US$ 107 por día (fuente: kayak.com, agregador, verificado octubre 2026)",
+      "duracion": "Hilo–Volcanes: unos 45 minutos; Kona–Volcanes: 2 a 2,5 horas (según el NPS)",
+      "notas": "Casi imprescindible: la isla es enorme, el colectivo pasa poco y las aplicaciones de viaje casi no funcionan fuera de las ciudades. Se alquila en los aeropuertos KOA e ITO. Revisá si el contrato permite la Saddle Road y la subida a Mauna Kea (sólo 4x4). Se maneja por la derecha, como en Latinoamérica"
+    },
+    {
+      "medio": "Colectivo Hele-On (todo el condado)",
+      "precio": "Gratis para todos los pasajeros hasta el 31 de diciembre de 2028 (fuente: heleonbus.hawaiicounty.gov/fares, verificado octubre 2026)",
+      "duracion": "Hilo–Kona por la Saddle Road: unas 2 h 45 min",
+      "notas": "Sirve para ahorrar, no para recorrer. La línea Azul (ruta 2) une Hilo y Kailua-Kona pasando por el Aeropuerto de Kona, con pocas salidas por día; la ruta 101 llega al Aeropuerto de Hilo. Consultá los horarios actualizados en heleonbus.hawaiicounty.gov o al (808) 961-8744"
+    },
+    {
+      "medio": "Hele-On al Parque Nacional de los Volcanes",
+      "precio": "Colectivo gratis + US$ 15 de entrada por peatón que se paga al parque (fuente: heleonbus.hawaiicounty.gov y nps.gov/havo, verificado octubre 2026)",
+      "duracion": "Variable; consultá horarios",
+      "notas": "La parada está en el cruce de Volcano House y la segunda entrada al Centro de Visitantes Kīlauea. Dentro del parque no hay transporte público ni shuttle, según el NPS: vas a tener que caminar"
+    },
+    {
+      "medio": "Taxi",
+      "precio": "Tarifa del condado: US$ 3 los primeros 1/8 de milla y US$ 0,40 cada 1/8 de milla adicional, más US$ 1 por valija grande (fuente: heleonbus.hawaiicounty.gov, tarifa vigente desde noviembre de 2008, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Útil para el tramo aeropuerto–hotel. No todos los taxis pueden levantar en los aeropuertos. Uber y Lyft existen en Kona y Hilo, pero el NPS advierte que cerca del Parque de los Volcanes casi no hay conductores"
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Desde Latinoamérica: vuelo con escala en EE. UU. continental hasta Kona (KOA)",
+      "empresas": "Al Aeropuerto de Kona vuelan Alaska, American, Delta, United, Southwest, Hawaiian, Air Canada, WestJet, Japan Airlines y Go! Mokulele (fuente: airports.hawaii.gov/koa)",
+      "precio": "Sin tarifa fija: varía según fecha y escala; compará en buscadores (fuente: airports.hawaii.gov, verificado octubre 2026)",
+      "duracion": "Variable según la escala"
+    },
+    {
+      "ruta": "Desde Honolulu (HNL) a Kona (KOA) o Hilo (ITO)",
+      "empresas": "Hawaiian Airlines y Southwest Airlines",
+      "precio": "HNL–KOA ida desde US$ 69 en Southwest (fuente: southwest.com, verificado octubre 2026); Expedia mostró desde US$ 49 la ida en la última semana (agregador, verificado octubre 2026)",
+      "duracion": "Vuelo interisla directo"
+    },
+    {
+      "ruta": "Desde Las Vegas a Hilo (ITO), vuelo directo",
+      "empresas": "Southwest Airlines, tres veces por semana desde el 6 de agosto de 2026; Hawaiian Airlines conecta Hilo con Honolulu",
+      "precio": "Tarifa variable según fecha; consultá southwest.com (fuente: flymag.com, noticia de la ruta, verificado octubre 2026)",
+      "duracion": "Vuelo directo, lunes, jueves y viernes"
+    },
+    {
+      "ruta": "Aeropuerto de Kona (KOA) → Kailua-Kona",
+      "empresas": "Taxi, SpeediShuttle, Uber/Lyft y autos de alquiler en el aeropuerto",
+      "precio": "Taxi: unos US$ 25 hasta el pueblo de Kailua-Kona, como referencia no garantizada (fuente: airports.hawaii.gov/koa, verificado octubre 2026)",
+      "duracion": "Unos 25 minutos en shuttle compartido, según agregadores"
+    },
+    {
+      "ruta": "Aeropuerto de Hilo (ITO) → centro de Hilo",
+      "empresas": "Colectivo Hele-On ruta 101 Keaukaha, taxi, Uber/Lyft y autos de alquiler",
+      "precio": "Hele-On gratis hasta el 31 de diciembre de 2028 (fuente: heleonbus.hawaiicounty.gov, verificado octubre 2026); taxi con tarifa de taxímetro del condado",
+      "duracion": "Trayecto corto; la ruta 101 pasaba cada hora en días hábiles y sábados (UH Hilo, noviembre de 2024)"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Hostel en Hilo",
+      "nivel": 2,
+      "opciones": "Howzit Hostels Hawaii (ex Hilo Bay Hostel), en 101 Waiānuenue Avenue, en el centro de Hilo: desde US$ 58 la noche; promedio de US$ 101 a 122 por habitación (fuente: kayak.com, verificado octubre 2026). Es de las pocas opciones baratas de la isla. Para camas en cuarto compartido, consultá directamente al hostel"
+    },
+    {
+      "categoria": "Hotel frente a la bahía en Hilo",
+      "nivel": 3,
+      "opciones": "Grand Naniloa Hotel Hilo, a DoubleTree by Hilton, junto al Liliʻuokalani Park: US$ 213–243 la noche con impuestos (fuente: Orbitz y Travelocity, agregadores, verificado octubre 2026). Hilo es bastante más barato que Kona y queda a 45 minutos del volcán"
+    },
+    {
+      "categoria": "Hotel de playa en Kailua-Kona",
+      "nivel": 4,
+      "opciones": "Courtyard by Marriott King Kamehameha's Kona Beach Hotel, junto al muelle y al Ahuʻena Heiau: US$ 273–312 la noche (fuente: Travelocity, agregador, verificado octubre 2026). El promedio de un hotel en Kailua-Kona según Kayak es de US$ 418 la noche; diciembre es el mes más caro"
+    },
+    {
+      "categoria": "Resort en la costa de Kohala",
+      "nivel": 5,
+      "opciones": "Mauna Kea Beach Hotel, Autograph Collection, sobre la playa Kaunaʻoa: US$ 1.225–1.375 la noche en fechas de 2026, más impuestos (fuente: Expedia, agregador, verificado octubre 2026). En la costa de Kohala también están los resorts de Mauna Lani y Waikoloa. Fiestas de fin de año: reservá con meses de anticipación"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Loco moco (el plato de Hilo)",
+      "nivel": 1,
+      "opciones": "Arroz, hamburguesa, huevo frito y salsa gravy: el plato de comida casera más típico de Hilo. En Café 100 (969 Kīlauea Ave., Hilo) el loco moco original arranca en US$ 8,50 con ensalada de macarrones (fuente: hawaiimagazine.com y howtoliveinhawaii.com, verificado octubre 2026). Es comida para llevar, barata y abundante"
+    },
+    {
+      "tipo": "Malasadas y pan dulce hawaiano",
+      "nivel": 1,
+      "opciones": "Las malasadas son buñuelos de origen portugués. En la Punaluʻu Bake Shop de Nāʻālehu cuestan US$ 1,29 la común, US$ 1,49 con glaseado de maracuyá y US$ 1,79 rellenas (fuente: menú publicado de la panadería, sin fecha, verificado octubre 2026). También venden el pan dulce de guayaba y de taro"
+    },
+    {
+      "tipo": "Poke (pescado crudo marinado)",
+      "nivel": 2,
+      "opciones": "El poke hawaiano lleva atún ahi en cubos con salsa de soja, sal de mar, cebolla y algas. En Da Poke Shack, en Kailua-Kona, los bowls con arroz cuestan US$ 12–18 según guías (fuente: flashpackingamerica.com, blog, verificado octubre 2026); casi todo es para llevar. Los supermercados de la isla también venden poke por libra"
+    },
+    {
+      "tipo": "Cocina de productos de la isla (farm to table)",
+      "nivel": 4,
+      "opciones": "Merriman's Waimea, en el pueblo ganadero de Waimea, trabaja con productos locales: ahi a la plancha US$ 49, pescado con macadamia de Hāmākua US$ 54, cordero de Kahua Ranch US$ 59, poke de entrada US$ 27 (fuente: merrimanshawaii.com, verificado octubre 2026). Suma un recargo del 4% para la cocina, más impuestos y propina"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa para ir a la Isla de Hawái si soy argentino, uruguayo, chileno, mexicano, colombiano o peruano?",
+      "a": "Hawái es Estados Unidos, así que rigen las reglas federales. Chile está en el Programa de Exención de Visas desde el 31 de marzo de 2014: los chilenos con pasaporte electrónico viajan con una autorización ESTA que se tramita online en esta.cbp.dhs.gov. Cuesta US$ 40,27 y desde el 16 de octubre de 2026 pasa a US$ 40,62; vale dos años o hasta que venza el pasaporte. Argentinos, uruguayos, mexicanos, colombianos y peruanos necesitan visa de turista B1/B2: formulario DS-160, pago del arancel consular y entrevista. Además existe la 'visa integrity fee' de al menos US$ 250, que en 2026 algunos consulados ya cobran y otros todavía no. Consultá la web de la embajada de EE. UU. en tu país y pedí turno con tiempo."
+    },
+    {
+      "q": "¿Hace falta alquilar auto?",
+      "a": "Casi seguro que sí. La isla mide unos 10.430 km² y los lugares importantes están lejos entre sí: del Parque de los Volcanes a Kona hay entre 2 y 2,5 horas de manejo, según el NPS. El colectivo Hele-On es gratis hasta fines de 2028, pero tiene pocas frecuencias y no llega a la mayoría de las playas, miradores y fincas. Dentro del Parque de los Volcanes no hay transporte público, y el NPS avisa que Uber y Lyft casi no tienen conductores en la zona. Reservá el auto con anticipación en el aeropuerto donde llegás. Ojo: muchos contratos no permiten subir a la cumbre de Mauna Kea, que exige 4x4."
+    },
+    {
+      "q": "¿Es seguro visitar el volcán Kīlauea?",
+      "a": "Sí, si respetás las indicaciones del parque. El Kīlauea entra en erupción por episodios dentro del cráter Halemaʻumaʻu desde diciembre de 2024, en una zona cerrada y lejos de los miradores. El 9 de octubre de 2026 el USGS lo tenía en nivel de alerta WATCH / naranja, y avisaba que podía haber otro episodio en días o semanas. El riesgo más concreto para el visitante son los gases volcánicos (dióxido de azufre) y la bruma volcánica o 'vog', que afectan a personas con asma, problemas cardíacos, embarazadas y niños. Mirá el estado del volcán en usgs.gov/volcanoes/kilauea y la calidad del aire antes de ir, quedate en los senderos señalizados y no pases ningún cierre."
+    },
+    {
+      "q": "¿Cuántos días hacen falta?",
+      "a": "Con cinco o seis días se ve lo esencial sin correr. Una buena forma es dividir: dos o tres noches en Kailua-Kona para las playas, la bahía de Kealakekua, Puʻuhonua o Hōnaunau, el café y el snorkel con mantarrayas; y dos o tres noches en Hilo o en Volcano Village para el Parque de los Volcanes, las cascadas ʻAkaka y Rainbow, el mercado y el mirador de Waipiʻo. Mauna Kea se hace al cruzar por la Saddle Road. Punaluʻu y Papakōlea quedan en el camino largo del sur entre Kona y el volcán. Con menos de cuatro días conviene elegir un lado y no intentar todo."
+    },
+    {
+      "q": "¿Cuál es la mejor época para viajar?",
+      "a": "La isla se puede visitar todo el año, pero tiene dos climas. La costa de Kona y Kohala es seca y soleada casi siempre; la de Hilo y Hāmākua es húmeda, con lluvias frecuentes sobre todo a la tarde, y por eso es tan verde. En verano el mar del lado oeste suele estar más calmo para nadar y hacer snorkel; en invierno hay más oleaje. Diciembre es el mes más caro para los hoteles de Kona según Kayak. En cualquier época, en la cumbre de Mauna Kea hace frío y puede nevar."
+    },
+    {
+      "q": "¿Puedo pagar todo con tarjeta? ¿Cuánto se gasta por día?",
+      "a": "La tarjeta es casi obligatoria: los parques estatales como ʻAkaka Falls, Rainbow Falls y Hāpuna cobran sólo con tarjeta, y Puʻuhonua o Hōnaunau no acepta efectivo. Llevá algo de efectivo para puestos del mercado de Hilo, propinas y traslados informales como el de Papakōlea. Hawái es caro: un hostel en Hilo arranca en unos US$ 58, un hotel medio en Kona ronda los US$ 270–310 y un auto unos US$ 90–110 por día según Kayak. Se ahorra comiendo poke y loco moco, usando las playas públicas y los miradores gratis, y comprando el pase anual America the Beautiful (US$ 250 para no residentes) sólo si vas a visitar varios parques nacionales en el año."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (EN) — «Hawaii (island)»: https://en.wikipedia.org/wiki/Hawaii_(island)",
+      "Daughters of Hawaiʻi — «Huliheʻe Palace»: https://daughtersofhawaii.org/hulihee-palace/",
+      "Kona Historical Society — «Kona Coffee Living History Farm»: https://konahistorical.org/kona-coffee-living-history-farm",
+      "Citypopulation.de — «Hawaii (USA): Counties»: https://citypopulation.de/en/usa/hawaii/",
+      "Citypopulation.de — «Hawaii: Cities and Places»: https://citypopulation.de/en/usa/cities/hawaii"
+    ],
+    "que_ver_atracciones": [
+      "National Park Service — «Hawaiʻi Volcanoes: Fees & Passes»: https://www.nps.gov/havo/planyourvisit/fees.htm",
+      "National Park Service — «Hawaiʻi Volcanoes: Construction Closures»: https://www.nps.gov/havo/planyourvisit/construction-closures.htm",
+      "National Park Service — «Hawaiʻi Volcanoes: Park Conditions»: https://www.nps.gov/havo/planyourvisit/conditions.htm",
+      "USGS Hawaiian Volcano Observatory — «Kīlauea»: https://www.usgs.gov/volcanoes/kilauea",
+      "USGS Hawaiian Volcano Observatory — «Kīlauea Volcano Updates»: https://www.usgs.gov/volcanoes/kilauea/volcano-updates",
+      "University of Hawaiʻi at Hilo — «Maunakea Visitor Information»: https://hilo.hawaii.edu/maunakea/visitor-information/",
+      "University of Hawaiʻi Institute for Astronomy — «Health Cautions Form»: https://irtfweb2.ifa.hawaii.edu/safety/Health_Cautions_Form.pdf",
+      "Hawaiʻi Division of State Parks — «ʻAkaka Falls State Park»: https://dlnr.hawaii.gov/dsp/parks/hawaii/akaka-falls-state-park/",
+      "Hawaiʻi Division of State Parks — «Wailuku River State Park»: https://dlnr.hawaii.gov/dsp/parks/hawaii/wailuku-river-state-park/",
+      "Hawaiʻi Division of State Parks — «Hāpuna Beach State Recreation Area»: https://dlnr.hawaii.gov/dsp/parks/hawaii/hapuna-beach-state-recreation-area/",
+      "Hawaiʻi Division of State Parks — «Kealakekua Bay State Historical Park»: https://dlnr.hawaii.gov/dsp/parks/hawaii/kealakekua-bay-state-historical-park/",
+      "National Park Service — «Puʻuhonua o Hōnaunau: Fees & Passes»: https://www.nps.gov/puho/planyourvisit/fees.htm",
+      "National Park Service — «Puʻuhonua o Hōnaunau: Visitor Center»: https://www.nps.gov/puho/planyourvisit/visitorcenter.htm",
+      "Love Big Island (guía) — «Waipiʻo Valley»: https://www.lovebigisland.com/waipio-valley/",
+      "Love Big Island (guía) — «Punaluʻu Black Sand Beach»: https://lovebigisland.com/big-island-beaches/punaluu",
+      "One Million Places (blog) — «Hike to Papakolea Green Sand Beach»: https://one-million-places.com/en/united-states/hawaii-big-island-hike-papakolea-green-sand-beach",
+      "Hilo Farmers Market — «Home»: https://hilofarmersmarket.com/",
+      "ʻImiloa Astronomy Center — «Plan Your Voyage»: https://imiloahawaii.org/plan-your-voyage",
+      "Greenwell Farms — «Kona Coffee Farm Tours»: https://www.greenwellfarms.com/"
+    ],
+    "precios_2026": [
+      "Waipio Valley Shuttle — «Waipio Valley Tours»: https://www.waipiovalleyshuttle.com/",
+      "Dolphin Discoveries — «Kona Manta Ray Night Snorkel Price Per Person: A Quick 2026 Answer»: https://www.dolphindiscoveries.com/blog/kona-manta-snorkel-cost-guide-2026",
+      "Hawaii Activities (agregador) — «Deluxe Captain Cook Snorkeling Tour at Kealakekua Bay - Fair Wind Cruises»: https://www.hawaiiactivities.com/en/hawaii/big_island/a/15778",
+      "Love Big Island (guía) — «Morning Magic Kealakekua Bay Kayak Snorkel Tour with Kona Boys»: https://www.lovebigisland.com/tours/morning-magic-kealakekua-bay-kayak-snorkel-tour-with-kona-boys/",
+      "Love Big Island (guía) — «Kealakekua Bay Kayak & Snorkel Afternoon (Kona Boys)»: https://www.lovebigisland.com/tours/kealakekua-bay-kayak-snorkel-afternoon-kona-boys/",
+      "Mauna Kea Summit Adventures — «Mauna Kea Sunset & Stargazing Tour»: https://www.maunakea.com/",
+      "Love Big Island (guía) — «Big Island Helicopter Tours»: https://www.lovebigisland.com/big-island-helicopter-tours/"
+    ],
+    "como_llegar_transporte": [
+      "Hawaiʻi County Mass Transit Agency — «Hele-On Fares»: https://www.heleonbus.hawaiicounty.gov/fares",
+      "Hawaiʻi County Mass Transit Agency — «Taxicabs in Hawaiʻi County»: https://www.heleonbus.hawaiicounty.gov/programs/taxicabs-in-hawai-i-county",
+      "University of Hawaiʻi at Hilo — «Hele-On Bus Schedule for Routes Stopping at UH Hilo»: https://hilo.hawaii.edu/campuslife/bussched.php",
+      "National Park Service — «Hawaiʻi Volcanoes: Directions & Transportation»: https://www.nps.gov/havo/planyourvisit/directions.htm",
+      "Hawaiʻi Airports — «Kona International Airport: Airlines»: https://airports.hawaii.gov/koa/flights/airlines/",
+      "Hawaiʻi Airports — «Hilo International Airport: Airlines»: https://airports.hawaii.gov/ito/flights/airlines/",
+      "Hawaiʻi Airports — «Kona International Airport»: https://airports.hawaii.gov/koa/",
+      "Southwest Airlines — «Flights from Honolulu to Kona»: https://www.southwest.com/routes/flights-from-honolulu-to-kona",
+      "Expedia (agregador) — «Cheap Flights from Kailua-Kona (KOA) to Honolulu (HNL)»: https://expedia.com/lp/flights/koa/hnl/kailua-kona-to-honolulu",
+      "FlyMag — «Southwest Adds Las Vegas-Hilo Nonstop, Bringing Mainland Service Back To Hawaii Island»: https://flymag.com/southwest-adds-las-vegas-hilo-nonstop-bringing-mainland-service-back-to-hawaii-island/",
+      "Kayak (agregador) — «Enterprise car rentals at Kona Intl Airport»: https://www.kayak.com/Enterprise-Car-Rentals-Kailua-Kona.KOA.AENTERPRISE.cla.ksp",
+      "Kayak (agregador) — «Kona Intl Airport Van Rentals»: https://www.kayak.com/Kona-Intl-Airport-Van-Rentals.KOA.acva.ksp"
+    ],
+    "visas_entrada": [
+      "U.S. Customs and Border Protection — «Official ESTA Application Website»: https://esta.cbp.dhs.gov/",
+      "U.S. Customs and Border Protection — «Frequently Asked Questions about the Visa Waiver Program and ESTA»: https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel",
+      "U.S. Department of Homeland Security — «Visa Waiver Program»: https://www.dhs.gov/visa-waiver-program",
+      "Buch dein Visum — «U.S.: ESTA fee to rise slightly to $40.62 starting October 16, 2026»: https://www.buch-dein-visum.de/en/news/usa/usa-esta-gebuehr-steigt-ab-16-oktober-2026-leicht-auf-40-62-us-dollar-64a7d7",
+      "Ellis — «Visa Integrity Fee»: https://www.ellis.com/resources/visa-integrity-fee"
+    ],
+    "alojamiento_gastronomia": [
+      "Kayak (agregador) — «Hilo Bay Hostel / Howzit Hostels Hawaii»: https://www.kayak.com/Hilo-Hotels-Howzit-Hostels-Hawaii.2639133.ksp",
+      "Orbitz (agregador) — «Luxury Hotels in Hilo, HI»: https://orbitz.com/Hilo-Hotels-Luxury-Hotel.0-0-d1643-tLuxuryHotel.Travel-Guide-Filter-Hotels",
+      "Travelocity (agregador) — «Hotels with Room Service in Hilo»: https://www.travelocity.com/Hilo-Hotels-Hotels-With-Room-Service.0-0-d1643-tHotelswithRoomService.Travel-Guide-Filter-Hotels",
+      "Travelocity (agregador) — «Hotels with Early Check-in in Kailua-Kona»: https://www.travelocity.com/Kailua-Kona-Hotels-Hotel-With-Early-Check-In.0-0-d1879-thotelwithearlycheckin.Travel-Guide-Filter-Hotels",
+      "Kayak (agregador) — «Kailua-Kona resorts»: https://www.kayak.com/Kailua-Kona-Hotels_Θέρετρο.Tresort.12703.hotel.ksp",
+      "Expedia (agregador) — «Mauna Kea Beach Hotel»: https://www.expedia.com/Mana.dx11845",
+      "Hawaii Magazine — «10 Tasty Hawaiʻi Foods to Try for Under $10»: https://www.hawaiimagazine.com/10-tasty-hawaii-foods-under-10/",
+      "How to Live in Hawaiʻi (guía) — «Café 100 loco moco»: https://howtoliveinhawaii.com/cafe-100-loco-moco-hilo-signature/",
+      "Punaluʻu Bake Shop — «Menú (PDF)»: https://cdn.shopify.com/s/files/1/0038/4512/files/Punaluu-menu.pdf?400",
+      "Flashpacking America (blog) — «Da Poke Shack, Kona»: https://www.flashpackingamerica.com/hawaii-travel/da-poke-shack-kona-big-island/",
+      "Merriman's — «Merriman's Waimea»: https://merrimanshawaii.com/waimea/"
+    ]
+  }
+}
