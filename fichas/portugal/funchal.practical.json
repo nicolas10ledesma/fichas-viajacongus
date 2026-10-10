@@ -1,0 +1,677 @@
+{
+  "slug": "funchal",
+  "name": "Funchal",
+  "region": "Madeira (isla de Madeira)",
+  "lat": 32.65,
+  "lon": -16.9167,
+  "datosRapidos": [
+    {
+      "label": "Región Autónoma",
+      "value": "Funchal es la capital de la isla de Madeira y de la Región Autónoma de Madeira, el archipiélago portugués en pleno Atlántico, al que se llega en 1 h 45 de vuelo desde Lisboa. La ciudad ocupa un valle abierto al mar en la costa sur de la isla, encerrado por un anfiteatro de montañas que sube desde el puerto hasta más de 1.000 metros. El municipio tiene 76,15 km² y 105.795 habitantes según el censo de 2021, repartidos en diez freguesias (parroquias), desde la Sé en el centro hasta Monte en las alturas. El nombre viene de 'funcho', el hinojo silvestre que cubría el valle cuando llegaron los colonos portugueses en el siglo XV. Fue la primera ciudad del archipiélago (1508) y se hizo rica primero con el azúcar y después con el vino de Madeira, que todavía se añeja en sus bodegas del centro. Hoy se la conoce por el teleférico a Monte y la bajada en carros de cesto, por el Mercado dos Lavradores, por sus jardines subtropicales, por ser la ciudad natal de Cristiano Ronaldo y por ser la base desde donde se sale a caminar las levadas y los picos de la isla, como el Pico do Areeiro."
+    },
+    {
+      "label": "Moneda e idioma",
+      "value": "Se paga en euros (€), como en el resto de Portugal. El idioma es el portugués, con acento madeirense; en hoteles, restaurantes del centro y oficinas de turismo se defienden en inglés y muchas veces en español. Para un rioplatense el portugués escrito se entiende bastante; el hablado cuesta más al principio. Las tarjetas se aceptan en casi todos lados, pero conviene llevar algo de efectivo para colectivos (el boleto a bordo se paga al chofer), puestos del mercado y bares chicos."
+    },
+    {
+      "label": "Mejor época",
+      "value": "Funchal tiene clima suave todo el año: inviernos templados y algo lluviosos, veranos secos y calurosos, con el mar entre 18 °C en invierno y 24–26 °C a fines del verano. Para caminar la montaña conviene primavera y otoño, con días largos y menos calor. Las fechas más caras y llenas son la Fiesta de la Flor (primavera), el verano europeo y Fin de Año, famoso por los fuegos artificiales sobre la bahía. En noviembre y enero–febrero hay mejores precios, pero más chance de lluvia y de senderos cerrados por mal tiempo."
+    },
+    {
+      "label": "Visado",
+      "value": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos entran sin visa como turistas hasta 90 días dentro de cualquier período de 180 en todo el espacio Schengen, del que Madeira forma parte. Desde 2026 funciona el EES (Sistema de Entradas y Salidas): en el primer control te toman huellas y foto en vez de sellar el pasaporte. La Unión Europea anunció para el último trimestre de 2026 el arranque del ETIAS, un permiso online de 20 € que vas a tener que sacar antes de viajar; mirá travel-europe.europa.eu antes de comprar el pasaje. Si tenés pasaporte europeo (italiano, español, portugués), nada de esto te aplica."
+    }
+  ],
+  "intro": [
+    "Funchal es una ciudad de bajadas y subidas: el centro está pegado al mar y los barrios trepan el cerro hasta perderse entre eucaliptos y nubes. Desde cualquier mirador se ve la bahía, los cruceros entrando al puerto y las casas blancas con techos de teja salpicadas de verde. Es chica, se camina en un día, pero tiene capas: iglesias del siglo XV, bodegas donde el vino se añeja a temperatura ambiente desde hace dos siglos y un casco viejo con puertas pintadas por artistas.",
+    "Lo que la hace distinta es lo que está a media hora. Subís en teleférico a Monte, recorrés un jardín tropical enorme y bajás por las calles en un carro de mimbre empujado por dos hombres con botas de goma. Otro día te vas a 1.818 metros, al Pico do Areeiro, a ver amanecer por encima de las nubes, y a la tarde estás en una pileta de agua de mar en el Lido. Todo eso con colectivos baratos y un clima que casi nunca molesta.",
+    "Para el que viene de Latinoamérica, Funchal suele ser una escala dentro de un viaje por Portugal, y conviene darle al menos cuatro días. Ojo con algunas reglas nuevas: desde 2026 los senderos oficiales de la isla se reservan y se pagan online, la ciudad cobra una tasa turística por noche y en el mercado hay que preguntar el precio de la fruta antes de que te la corten. Con eso claro, es de los destinos de Europa donde mejor rinde la plata."
+  ],
+  "historia_corta": "Madeira estaba deshabitada cuando los navegantes portugueses João Gonçalves Zarco y Tristão Vaz Teixeira llegaron a la isla en 1419–1420. Zarco se quedó con la capitanía del sur y el poblamiento empezó pocos años después en un valle fértil, con mucha agua y una bahía protegida, cubierto de hinojo silvestre: el 'funcho' que le dio nombre a Funchal. El caserío creció rápido como puerto y centro administrativo. En 1452 fue elevado a villa y en 1508 el rey Manuel I le dio el título de ciudad, la primera del archipiélago. Unos años antes, en 1493, el mismo rey había mandado construir la catedral (la Sé), terminada a comienzos del siglo XVI. Ese siglo fue el del azúcar: Madeira se volvió uno de los grandes productores del Atlántico y Funchal una escala habitual entre Europa, África y América. Cuando el azúcar decayó, a partir del siglo XVII, lo reemplazó el vino de Madeira, y con él llegaron casas comerciales británicas que marcaron la economía, la arquitectura y la vida social de la ciudad; la bodega Blandy's es heredera de esa época. En los siglos XVIII y XIX Funchal se hizo famosa como lugar de cura por su clima suave: pasaron por acá la emperatriz Sissi y Winston Churchill, y en 1921 llegó al exilio el último emperador austrohúngaro, Carlos I, que murió y está enterrado en la iglesia de Monte. Durante la Primera Guerra Mundial, submarinos alemanes atacaron el puerto en 1916 y 1917. Con la autonomía regional de 1976 la ciudad pasó a ser capital de la Región Autónoma de Madeira y el turismo se convirtió en su motor. En 2021 el censo contó 105.795 habitantes en el municipio.",
+  "queVer": [
+    {
+      "nombre": "Teleférico de Funchal a Monte (Teleférico do Funchal)",
+      "desc": "El teleférico que sale de la Zona Velha y sube por encima de los techos de la ciudad hasta Monte, con toda la bahía a la vista.",
+      "detalle": "Es la forma más linda y más directa de subir a Monte. La estación de abajo está en la Rua Dom Carlos I, en plena Zona Velha (casco viejo), y la de arriba en el Largo das Babosas, a pasos del Jardín Tropical Monte Palace y de la iglesia de Monte. El cable recorre 3.200 metros con 39 cabinas para 4 a 6 personas, y el viaje es un mirador en movimiento: primero pasás casi rozando los techos y las huertas del valle, después se abre la vista a la bahía, el puerto y los cruceros.\n\nEl teleférico abre todos los días de 8:45 a 17:45, salvo el 25 de diciembre. Se puede comprar el e-ticket en la web oficial (vale 60 días) o en cualquiera de las dos estaciones. Conviene ir temprano: a media mañana, sobre todo en días de cruceros, se arma fila abajo.\n\nLa combinación clásica es subir en teleférico, visitar Monte y bajar en carro de cesto hasta Livramento; desde ahí se vuelve al centro en colectivo, taxi o caminando cuesta abajo. Otra opción es seguir en el segundo teleférico, el del Jardín Botánico, que une Monte con el jardín en unos nueve minutos sobre el valle de la Ribeira de João Gomes. Ojo: en 2026 el teleférico de Funchal cerró de enero a abril por obras y otra vez algunos días de julio por mantenimiento, así que revisá la web antes.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Estación base en la Zona Velha, a 10 minutos a pie de la Sé"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano, con cielo despejado"
+        },
+        {
+          "label": "Entrada",
+          "value": "Ida y vuelta 22 €; un sentido 16 €; niños de 0 a 6 gratis y de 7 a 14 con 50% de descuento (fuente: madeiracablecar.com, verificado octubre 2026). Abre 8:45 a 17:45"
+        },
+        {
+          "label": "Duración",
+          "value": "15 minutos por tramo; medio día con Monte"
+        }
+      ]
+    },
+    {
+      "nombre": "Carros de cesto del Monte (Carreiros do Monte)",
+      "desc": "La bajada más famosa de Madeira: un trineo de mimbre sobre patines de madera que dos carreiros guían cuesta abajo por el asfalto.",
+      "detalle": "Los carros de cesto nacieron en el siglo XIX como transporte rápido entre Monte y la ciudad. Son sillones de mimbre montados sobre patines de madera, sin motor ni frenos: los manejan dos 'carreiros' vestidos de blanco y con sombrero de paja, que usan las suelas gruesas de sus botas de goma como freno. Hoy es la experiencia más típica de Funchal y vale la pena hacerla una vez, aunque sea corta.\n\nEl recorrido actual es de unos 2 km por el Caminho do Monte, desde la salida en Monte (Caminho do Monte, entrada 151) hasta Livramento. No llega al centro: abajo vas a tener que tomar un taxi o un colectivo, o seguir caminando cuesta abajo, para volver al centro. Los carreiros cobran por carro, así que conviene ir de a dos o tres.\n\nNo hay reservas online: los tickets se compran en el lugar. Funcionan de lunes a sábado de 9 a 18 y no salen los domingos. Si llueve o el piso está mojado no hacen viajes de tres personas. Abajo suele haber un fotógrafo que vende la foto de la bajada: no es obligatoria. Combinalo con el teleférico de subida.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Salida en Monte (Caminho do Monte), cerca de la estación superior del teleférico"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Lunes a sábado, mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "1 persona 30 €; 2 personas 40 €; 3 personas 60 € por carro (fuente: carreirosdomonte.com, verificado octubre 2026). Sólo se paga en el lugar"
+        },
+        {
+          "label": "Duración",
+          "value": "10 minutos de bajada"
+        }
+      ]
+    },
+    {
+      "nombre": "Jardín Tropical Monte Palace (Monte Palace Madeira)",
+      "desc": "Un jardín de 70.000 m² en la ladera de Monte, con lagos, plantas de todo el mundo, paneles de azulejos y un museo de minerales y arte africano.",
+      "detalle": "Al lado de la estación superior del teleférico está uno de los jardines más visitados de la isla. Ocupa unos 70.000 m² en pendiente, con caminos que bajan entre helechos arborescentes, cícadas, azaleas y especies exóticas de todos los continentes, con elegantes paneles de azulejos repartidos por el recorrido y un museo con galerías de esculturas y una colección de minerales.\n\nEl palacio en sí no se visita por dentro. La entrada principal está en el Caminho das Babosas, junto al teleférico. Abre todos los días salvo el 25 de diciembre: el jardín de 9 a 19 entre abril y septiembre y de 9 a 18 entre octubre y marzo; el museo de 9 a 17:30. La última entrada es 45 minutos antes del cierre.\n\nLleva un par de horas recorrerlo sin apuro. Ojo: es todo subidas y bajadas con escalones, así que no es cómodo para cochecitos o para quien tiene movilidad reducida; el propio jardín lo advierte. Los chicos de hasta 14 años entran gratis con un adulto, lo que lo hace buen plan en familia. Aceptan tarjeta y efectivo, y adentro hay cafetería y baños.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En Monte, junto a la estación superior del teleférico"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera, con todo florecido"
+        },
+        {
+          "label": "Entrada",
+          "value": "Adultos 18 €; menores de 14 gratis con adulto (fuente: montepalace.com, verificado octubre 2026). Venta online o en la boletería"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Jardín Botánico de Madeira (Jardim Botânico da Madeira – Eng.º Rui Vieira)",
+      "desc": "Ocho hectáreas en la antigua Quinta do Bom Sucesso con más de 2.000 plantas exóticas y uno de los mejores miradores sobre la bahía.",
+      "detalle": "El jardín botánico oficial de la isla abrió en 1960 en la Quinta do Bom Sucesso, una finca fundada en 1881 por la familia Reid. Ocupa unas ocho hectáreas, cinco de ellas ajardinadas, en terrazas que miran a Funchal. Tiene más de 2.000 plantas exóticas de todos los continentes, algunas en peligro de extinción en su lugar de origen, además de un sector de orquídeas, césped, un anfiteatro, un área de investigación y conservación y miradores con vista amplia sobre la capital.\n\nEn la casa principal funcionan el Museo de Historia Natural y el Herbario. Lo gestiona el IFCN, el instituto de bosques del gobierno regional, y abre todos los días de 9 a 17:30, salvo el 25 de diciembre.\n\nSe llega en colectivo desde el centro o, más lindo, con el teleférico del Jardín Botánico desde Monte, que cruza el valle en unos nueve minutos. Desde 2026 los residentes de Madeira entran gratis y los visitantes pagan; la tarifa está fijada por portaria regional con aumentos anuales ya previstos (12,50 € en 2027). Hay visitas guiadas por técnicos del IFCN con reserva (25 € la hora para grupos de hasta 8).",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Caminho do Meio, Bom Sucesso, en la ladera sobre el centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño"
+        },
+        {
+          "label": "Entrada",
+          "value": "Mayores de 12: 10 €; de 6 a 12 años: 3 €; menores de 6 gratis; residentes en Madeira gratis (fuente: Portaria 48/2026, Jornal Oficial de la Región, ifcn.madeira.gov.pt, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Mercado dos Lavradores",
+      "desc": "El mercado municipal de 1940, con azulejos en la fachada, frutas tropicales, flores y una pescadería donde se ve el pez espada negro.",
+      "detalle": "Inaugurado el 24 de noviembre de 1940, el Mercado dos Lavradores (Mercado de los Labradores) es el gran centro de abastecimiento de Funchal y uno de los lugares con más vida de la ciudad. El edificio, proyectado por Edmundo Tavares en estilo del Estado Novo, tiene paneles de azulejos de 1940 en la fachada, la puerta principal y la pescadería, pintados con escenas regionales.\n\nAdentro hay puestos de frutas tropicales y productos frescos del archipiélago, verduras y flores, en un ambiente ruidoso y lleno de color. Abajo está la pescadería, donde se ve el espada preto (pez sable negro), un pez de aguas profundas de aspecto feroz que es la base de un plato típico de la isla.\n\nAbre de lunes a jueves de 7 a 19, los viernes de 7 a 20 y los sábados de 7 a 14; cierra los domingos. El viernes y el sábado temprano es cuando hay más movimiento. Ojo con la fruta: en algunos puestos te ofrecen probar y después te cobran precios muy altos; en 2025 se hizo viral el caso de turistas españolas que pagaron 72 € por unas pocas frutas. Preguntá siempre el precio por kilo antes de que te pesen o te corten nada.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Largo dos Lavradores, en el centro, junto a la Zona Velha"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Viernes y sábado a la mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (mercado municipal)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Pico do Areeiro (Pico do Arieiro)",
+      "desc": "El tercer pico más alto de Madeira, a 1.818 metros, con mirador sobre las nubes y el arranque del sendero PR1 hacia el Pico Ruivo.",
+      "detalle": "En la cordillera central, al norte de Funchal, se llega al Pico do Areeiro (también escrito Arieiro), de 1.818 metros, uno de los pocos picos de la isla con ruta hasta la cumbre. Desde el mirador se ven las crestas volcánicas del macizo central y, muchas mañanas, un mar de nubes por debajo. El amanecer es el momento más buscado.\n\nAcá empieza el PR1 Vereda do Areeiro, el sendero más famoso de Madeira, que pasa por túneles excavados en la roca y escaleras hasta el Pico das Torres (1.851 m) y el Pico Ruivo (1.862 m), el techo de la isla. Estuvo cerrado desde agosto de 2024 por un incendio y reabrió en 2026. Se puede hacer de dos formas: ida y vuelta hasta el Miradouro da Pedra Rija (1,2 km por tramo) o completo hasta el Pico Ruivo (6,1 km, unas 3 horas, dificultad media), que desde la Pedra Rija es sólo de ida: no se puede volver por el mismo camino, así que hay que organizar transporte desde Achada do Teixeira.\n\nEl mirador es gratis, pero el sendero exige reserva y pago previo en el portal SIMplifica (ver precios). Hace frío arriba: llevá abrigo. Sin auto, Horários do Funchal tiene un colectivo especial desde el teleférico (3 € por viaje) con salidas a las 6:00 y 13:30.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 45 minutos en el colectivo especial desde el teleférico de Funchal"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Amanecer, días despejados de primavera a otoño"
+        },
+        {
+          "label": "Entrada",
+          "value": "Mirador gratis. Sendero PR1: 4,50 € hasta la Pedra Rija; 10,50 € completo hasta el Pico Ruivo; menores de 12 exentos (fuente: Portaria 48/2026, ifcn.madeira.gov.pt, verificado octubre 2026). Estacionamiento 4 € la hora"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día; 5 a 6 horas con el PR1 completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Zona Velha y Rua de Santa Maria",
+      "desc": "El primer barrio de Funchal: calles empedradas, puertas pintadas por artistas, la capilla del Corpo Santo y la movida nocturna de la ciudad.",
+      "detalle": "La Zona Velha (zona vieja) es donde nació el primer asentamiento de Funchal, al este del centro y junto al mar. Su eje es la Rua de Santa Maria, una de las calles más antiguas de la ciudad, angosta y empedrada, con casas bajas de fachadas de colores. El proyecto 'arT of opEN doors' (Portas Pintadas) invitó a artistas a pintar las puertas y fachadas, y el barrio se volvió una galería al aire libre que se recorre sin pagar nada.\n\nEn el corazón de la zona está la capilla del Corpo Santo, uno de los pocos edificios del siglo XV que se conservan. Siguiendo la Rua de Santa Maria aparecen comercios tradicionales, como una fábrica de sombreros y otra de botas de vilão (las botas típicas madeirenses), hasta llegar a la iglesia barroca del Socorro y a un pequeño mirador. Muy cerca están el Fuerte de São Tiago y la playa de piedras de Barreirinha.\n\nDe día se camina tranquila; de noche se llena de restaurantes con mesas en la calle y bares donde se toma poncha, el trago típico de aguardiente de caña, miel y limón. Es también donde arranca el teleférico. Ojo con los mozos que te invitan a sentarte en la puerta: mirá la carta y los precios antes.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Pegada al Mercado dos Lavradores, al este del centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; de noche para cenar"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Catedral de Funchal (Sé do Funchal)",
+      "desc": "La catedral manuelina mandada a construir por el rey Manuel I en 1493, con un techo de cedro de la isla de tradición mudéjar.",
+      "detalle": "La Sé es el principal templo de Madeira y el centro simbólico de la ciudad. Su construcción empezó en 1493 por orden del rey Manuel I y se terminó a comienzos del siglo XVI, con rasgos góticos y manuelinos. Es monumento nacional desde 1910. Por fuera es austera: muros blancos, piedra volcánica oscura en las esquinas y una portada gótica con ocho arquivoltas en arco apuntado, labrada en piedra del Cabo Girão.\n\nLo mejor está adentro. El techo es de madera de cedro de la isla, trabajado en estilo mudéjar (de tradición islámica), uno de los mejores ejemplos de este tipo en Portugal. El retablo mayor es un gran políptico de madera tallada y dorada, con esculturas y pinturas sobre tabla, y la capilla mayor tiene una sillería de coro muy elaborada. La catedral guarda además una cruz procesional considerada una obra maestra de la orfebrería manuelina.\n\nSe visita en poco tiempo y queda en pleno centro, a pasos de la Avenida Arriaga y de la bodega Blandy's. Abre de lunes a viernes de 7:15 a 18:30, los sábados de 8 a 12 y de 16 a 19, y los domingos de 7:15 a 12 y de 16 a 19. Respetá los horarios de misa y entrá con ropa adecuada.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Rua do Aljube, en el centro histórico"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año, fuera de horario de misa"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (templo en uso; fuente: visitmadeira.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Bodegas Blandy's (Blandy's Wine Lodge)",
+      "desc": "Las bodegas más antiguas de Madeira, en un ex convento franciscano del centro, donde se aprende cómo se hace y se añeja el vino de Madeira.",
+      "detalle": "Sobre la Avenida Arriaga, en un conjunto de edificios barrocos donde estuvo el convento de San Francisco (demolido en el siglo XIX), funciona el Blandy's Wine Lodge, con bodegas de los siglos XVII y XVIII. La familia Blandy, de origen británico, está en el negocio del vino desde 1811, y en 1913 se formó la Madeira Wine Company, que reunió varias casas productoras.\n\nEn las visitas guiadas se ve la tonelería, los depósitos de madera, el sistema de 'canteiro' en que el vino se añeja con el calor natural de los altillos, y se explican las cuatro uvas clásicas: sercial, verdelho, boal y malvasía (malmsey). El Lodge Tour es la visita básica con degustación; el Premium Tour suma más salas y vinos, y el Vintage Tour incluye frasqueiras (vinos de cosecha) muy viejas. Hay visitas en inglés todos los días y en español de lunes a viernes a las 11:45, conviene reservar.\n\nAbre de lunes a viernes de 10 a 18:30, sábados de 10 a 18 y domingos con corte al mediodía. Los menores de 6 entran gratis y de 6 a 17 pagan 8,40 € en cualquier visita. Si no querés hacer el tour, en la tienda y en el bar 1811 se puede tomar una copa o hacer catas por separado.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Avenida Arriaga 28, en el centro, frente al Jardín Municipal"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; reservar en temporada de cruceros"
+        },
+        {
+          "label": "Entrada",
+          "value": "Lodge Tour 17 €; Premium Tour 23 €; Vintage Premium 59 €; de 6 a 17 años 8,40 € (fuente: blandyswinelodge.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Iglesia de Nuestra Señora del Monte (Igreja do Monte)",
+      "desc": "El santuario de la patrona de Madeira, en lo alto de una escalinata en Monte, donde está enterrado el último emperador de Austria.",
+      "detalle": "Arriba de una gran escalinata, en el corazón de Monte, está la iglesia de Nossa Senhora do Monte, dedicada a la patrona de Madeira y principal lugar de peregrinación de la isla. Su fachada blanca con detalles de piedra oscura y sus dos torres se ven desde buena parte de Funchal.\n\nAdentro, en una capilla lateral, está la tumba de Carlos I de Austria, el último emperador austrohúngaro, que llegó exiliado a Madeira en 1921, vivió con su familia en la Quinta do Monte (hoy Quinta Jardins do Imperador) y quedó sepultado en esta iglesia. Afuera hay una estatua suya y en la iglesia una exposición permanente. La iglesia organiza una de las fiestas más antiguas y populares de Madeira, con romería y puestos en las calles.\n\nLa iglesia queda a pocos minutos a pie de la estación superior del teleférico y justo encima del punto de partida de los carros de cesto, así que entra naturalmente en el recorrido por Monte. Muy cerca están el Parque Municipal do Monte, un jardín romántico de 1899 con árboles centenarios, y el Centro Interpretativo del antiguo tren de Monte, una vía de 3,9 km inaugurada en 1912 que unía el Pombal, en Funchal, con el Terreiro da Luta.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En Monte, cerca de la estación superior del teleférico"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: madeiracablecar.com y visitmadeira.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo Quinta das Cruzes",
+      "desc": "Una antigua quinta señorial convertida en museo de artes decorativas, con muebles, orfebrería, joyas, cerámica y un jardín con vista.",
+      "detalle": "Sobre el centro, en una de las zonas más tranquilas de la ciudad, está la Quinta das Cruzes, una antigua casa señorial que hoy es museo de artes decorativas del gobierno regional. Muestra una colección amplia de obras de arte, muebles, piezas de orfebrería, joyería, cerámica y escultura, que ayudan a imaginar cómo vivían las familias acomodadas de la isla en los siglos de esplendor del azúcar y del vino. Las salas se recorren como una casa, ambiente por ambiente.\n\nTan interesante como la colección es el jardín, que la oficina de turismo regional incluye entre los jardines de la ciudad y que tiene uno de los miradores del centro histórico, con vista sobre los techos de Funchal y la bahía. Hay rampa de acceso a la entrada del jardín y del jardín al edificio.\n\nAbre de martes a sábado de 10 a 17:30, de corrido; cierra domingos, lunes y feriados. Tiene tarifa reducida para jóvenes de 13 a 25 años y mayores de 65, y un ticket familiar. Se llega caminando cuesta arriba desde la Sé o en taxi. Es uno de los museos más tranquilos de la ciudad, ideal para escapar del movimiento del centro.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Calçada do Pico 1, cuesta arriba desde la Sé"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año, martes a sábado"
+        },
+        {
+          "label": "Entrada",
+          "value": "Adulto (26-64) 10 €; joven (13-25) 5 €; mayores de 65 5 €; familia 18 € (fuente: cultura.madeira.gov.pt, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Complejo balneario del Lido y Praia Formosa",
+      "desc": "Piletas de agua de mar con acceso al océano en el Lido, y la Praia Formosa, la playa pública más grande de la isla, de piedras y arena negra.",
+      "detalle": "Funchal no tiene playas de arena dorada, pero se resuelve con complejos balnearios sobre las rocas. El más popular es el Lido, sobre el paseo marítimo de la zona hotelera: varias terrazas escalonadas sobre el mar, pileta para adultos, piletas para chicos, escaleras de acceso al océano, reposeras y sombrillas para alquilar, bar y bandera azul. Abre todo el año con horario que cambia según la estación (en octubre, de 9 a 18:30).\n\nMás al oeste, a unos 10 minutos del centro, está la Praia Formosa, la playa pública más grande de Madeira: unos 2 km de canto rodado y tramos de arena volcánica negra. Es la opción más amplia para pasar el día frente al mar sin estructura de pileta. Otras opciones para bañarse son Ponta Gorda, Barreirinha (junto a la Zona Velha) y Doca do Cavacas.\n\nEl mar acá es profundo enseguida y las piedras resbalan: usá calzado de agua. La temperatura del agua va de 18–19 °C en invierno a 24–26 °C a fines del verano. Los complejos los administra la empresa municipal Frente MarFunchal, con tarifa única para todos.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Lido: sobre el paseo marítimo de la zona hotelera, al oeste del centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a octubre"
+        },
+        {
+          "label": "Entrada",
+          "value": "Complejos balnearios (Lido, Ponta Gorda, Barreirinha, Praia Formosa, Doca do Cavacas): adulto 6 €; 7 a 17 años 2 €; menores de 6 gratis; jubilados 2 € (fuente: frentemarfunchal.pt, tarifario 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Cabo Girão",
+      "desc": "El acantilado de 580 metros al oeste de Funchal con una plataforma de vidrio suspendida sobre el vacío y vista a la ciudad.",
+      "detalle": "Al oeste de Funchal, en el municipio vecino de Câmara de Lobos, está el Cabo Girão, un acantilado de 580 metros que se promociona como el promontorio más alto de Europa. Su mirador tiene una plataforma de vidrio suspendida, el 'skywalk', desde la que se mira directo hacia abajo, hasta las fajãs: pequeñas parcelas cultivadas al pie del acantilado, a las que antes sólo se llegaba por mar o por senderos.\n\nDesde arriba se ve hacia el este toda la costa de Câmara de Lobos y la bahía de Funchal, un anfiteatro urbano sobre el océano rodeado de montañas verdes. Es uno de los puntos más visitados y fotografiados del archipiélago, y también un lugar para parapente. Cerca está la capilla de Nuestra Señora de Fátima, de 1951, centro de peregrinación.\n\nDesde 2026 la entrada para no residentes se paga por el portal SIMplifica del gobierno regional; los menores de 12 y los residentes entran gratis. Abre todos los días de 8 a 20. Se llega en auto, en excursión o en colectivo interurbano. Lo ideal es combinarlo con el pueblo pesquero de Câmara de Lobos y con Curral das Freiras, el pueblo en el fondo de un antiguo cráter.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En Câmara de Lobos, al oeste de Funchal"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano, antes de los grupos"
+        },
+        {
+          "label": "Entrada",
+          "value": "Mayores de 12 años 5 €; menores de 12 y residentes gratis (fuente: visitmadeira.com y portal SIMplifica, verificado octubre 2026). Abre 8 a 20"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora; medio día con Câmara de Lobos"
+        }
+      ]
+    },
+    {
+      "nombre": "Madeira Story Centre",
+      "desc": "Un museo interactivo junto al teleférico que cuenta 14 millones de años de historia de la isla, de los volcanes a los piratas, en hora y media.",
+      "detalle": "Si querés entender la isla antes de recorrerla, el Madeira Story Centre es un buen arranque, sobre todo con chicos. Queda en la Rua Dom Carlos I, en la Zona Velha, al lado de la estación del teleférico, y propone un recorrido interactivo de alrededor de hora y media que resume 14 millones de años: el origen volcánico, las leyendas y el descubrimiento de 1419, el auge del azúcar y del vino, los ataques de piratas, el papel estratégico de la isla en las rutas atlánticas y las tradiciones que siguen vivas.\n\nCombina objetos históricos auténticos con pantallas, maquetas y juegos, organizados en salas temáticas ('Los orígenes volcánicos', 'El descubrimiento de Madeira', 'Isla estratégica', 'Explore Madeira', entre otras). Tiene ascensor, rampas y baños adaptados.\n\nArriba hay una terraza panorámica con vista al centro de Funchal, con cafetería temática, y una tienda de productos regionales. La web oficial anuncia el museo abierto todos los días de 9 a 19 y una tarifa promocional; fuera de eso, cerrá el horario con el museo por teléfono. Es un buen plan para un día de lluvia, que en invierno no son raros en Funchal.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Rua Dom Carlos I 27-29, junto al teleférico"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días de lluvia o con chicos"
+        },
+        {
+          "label": "Entrada",
+          "value": "Promoción: normal 5 €; júnior 3 € (fuente: madeirastorycentre.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Parque de Santa Catarina y paseo marítimo",
+      "desc": "Un parque sobre el puerto con césped, lago y una capilla del siglo XV, y el paseo costero que une el centro con la marina.",
+      "detalle": "Entre el centro y la zona hotelera, sobre el puerto, está el Parque de Santa Catarina, uno de los espacios verdes más grandes de la ciudad. Tiene un gran césped en pendiente, un lago con patos y cisnes, juegos para chicos, árboles grandes y una vista abierta a la bahía y a los cruceros amarrados. En el parque está la capilla de Santa Catarina, que la oficina de turismo incluye entre las iglesias históricas de Funchal.\n\nDesde el parque se baja al paseo marítimo y a la Avenida do Mar, que recorre la costa hasta la marina y el Fuerte de São Tiago. En el camino aparecen la Praça do Povo, el muelle donde atracan los barcos de excursión, la marina con restaurantes y la zona del Museo CR7, en la Praça do Mar, dedicado a la carrera de Cristiano Ronaldo, nacido en Funchal.\n\nAbre todos los días de 7 a 20 entre fines de septiembre y marzo, y de 7 a 22 entre fines de marzo y septiembre. Es gratis y es el mejor lugar para un picnic con compras del mercado o para mirar el atardecer sobre el puerto. A la noche de Fin de Año es uno de los puntos más buscados para ver los fuegos artificiales.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Avenida do Infante 18, sobre el puerto, al oeste del centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Atardecer, todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (parque municipal; horario según visitmadeira.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Teleférico Funchal–Monte",
+      "precio": "Ida y vuelta 22 €; un sentido 16 €; niños 0-6 gratis, 7-14 años 50% de descuento (fuente: madeiracablecar.com, verificado octubre 2026). E-ticket en la web (vale 60 días) o en las estaciones de Zona Velha y Babosas"
+    },
+    {
+      "tipo": "Carros de cesto del Monte (bajada Monte–Livramento)",
+      "precio": "30 € una persona; 40 € dos personas; 60 € tres personas, por carro (fuente: carreirosdomonte.com, verificado octubre 2026). Sólo en el lugar, lunes a sábado de 9 a 18; no aceptan reservas online"
+    },
+    {
+      "tipo": "Jardín Tropical Monte Palace",
+      "precio": "Adultos 18 €; menores de 14 gratis acompañados por un adulto (fuente: montepalace.com, verificado octubre 2026). Boletería online o en la entrada; tarjeta y efectivo"
+    },
+    {
+      "tipo": "Jardín Botánico de Madeira",
+      "precio": "Mayores de 12: 10 €; 6 a 12 años: 3 €; menores de 6 gratis; residentes de Madeira y personas con discapacidad del 60% o más gratis (fuente: Portaria 48/2026, JORAM, ifcn.madeira.gov.pt, verificado octubre 2026). Ya fijado 12,50 € para 2027. Se paga en la entrada"
+    },
+    {
+      "tipo": "Senderos oficiales PR de Madeira (reserva obligatoria desde el 1/1/2026)",
+      "precio": "Público general mayores de 12: 4,50 € por sendero; PR1 Pico do Areeiro–Pico Ruivo 10,50 € (hasta la Pedra Rija 4,50 €); pase diario de varios senderos 9 €; 3 días 22,50 €; 7 días 52,50 € (los pases no incluyen el PR1); con operador con protocolo IFCN 3 € por sendero; menores de 12 y residentes exentos pero deben registrarse (fuente: Portaria 48/2026 e IFCN, ifcn.madeira.gov.pt, verificado octubre 2026). Sólo en simplifica.madeira.gov.pt, con turnos de 30 minutos; caminar sin reserva es infracción"
+    },
+    {
+      "tipo": "Tasa turística municipal de Funchal",
+      "precio": "2 € por persona y por noche, hasta 7 noches; exentos menores de 12 años, residentes en Madeira y personas con discapacidad del 60% o más; la cobra el alojamiento (fuente: Reglamento de la Tasa Municipal Turística, funchal.pt, vigente desde 1/10/2024, verificado octubre 2026). Los pasajeros de cruceros pagan 2 € por escala desde 2025. Ojo: el 1/10/2026 la Cámara aprobó subirla a 4 € desde enero de 2027, en consulta pública"
+    },
+    {
+      "tipo": "Bodegas Blandy's (visitas guiadas)",
+      "precio": "Lodge Tour 17 €; Premium Tour 23 €; Vintage Premium 59 €; privado 150 € por persona; menores de 6 gratis y de 6 a 17 años 8,40 € (fuente: blandyswinelodge.com, verificado octubre 2026). Reserva online o en Avenida Arriaga 28"
+    },
+    {
+      "tipo": "Museo Quinta das Cruzes",
+      "precio": "Adulto (26-64) 10 €; joven (13-25) 5 €; sénior +65 5 €; familia 18 €; grupos 5 € por persona (fuente: cultura.madeira.gov.pt, verificado octubre 2026). En la boletería del museo"
+    },
+    {
+      "tipo": "Complejos balnearios municipales (Lido, Ponta Gorda, Barreirinha, Praia Formosa, Doca do Cavacas)",
+      "precio": "Adulto 6 €; 7 a 17 años 2 €; menores de 6 gratis; jubilados 2 € (fuente: frentemarfunchal.pt, tarifario 2026, verificado octubre 2026). En la entrada de cada complejo"
+    },
+    {
+      "tipo": "Cabo Girão (skywalk)",
+      "precio": "Mayores de 12 años 5 €; menores de 12 y residentes gratis (fuente: visitmadeira.com y portal SIMplifica del gobierno regional, verificado octubre 2026). Pago en simplifica.madeira.gov.pt"
+    },
+    {
+      "tipo": "Madeira Story Centre",
+      "precio": "Promoción: normal 5 €; júnior 3 € (fuente: madeirastorycentre.com, verificado octubre 2026). En la boletería, Rua Dom Carlos I 27-29"
+    },
+    {
+      "tipo": "Mercado dos Lavradores, Sé, Zona Velha, Parque de Santa Catarina, mirador del Pico do Areeiro",
+      "precio": "Gratis (espacios públicos y templo en uso). En el Pico do Areeiro sí se paga el estacionamiento: 4 € la hora (fuente: Portaria 48/2026, ifcn.madeira.gov.pt, verificado octubre 2026)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Avistamiento de delfines y ballenas en catamarán desde la marina de Funchal",
+      "precio": "Desde 40 € por persona; en Caniçal desde 62,50 € (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "2 a 3 horas",
+      "operador": "Operadores de la marina de Funchal y de Caniçal (vía Civitatis)"
+    },
+    {
+      "actividad": "Senderismo al amanecer por los picos Areeiro y Ruivo con guía y traslado",
+      "precio": "Desde 40 € por persona, más la tasa del sendero si no la incluye (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "8 horas",
+      "operador": "Empresas de turismo activo de Funchal (vía Civitatis)"
+    },
+    {
+      "actividad": "Tour en 4x4 por Santana, Pico do Areeiro y Ponta de São Lourenço",
+      "precio": "Desde 69 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "7,5 horas",
+      "operador": "Operadores de jeep tours con recogida en hotel (vía Civitatis)"
+    },
+    {
+      "actividad": "Excursión a Curral das Freiras (pueblo en el fondo de un antiguo cráter)",
+      "precio": "Desde 22 €; con bajada en carros de cesto desde 45 € (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "3 horas",
+      "operador": "Operadores locales con salida de Funchal (vía Civitatis)"
+    },
+    {
+      "actividad": "Trekking guiado por la levada de Rabaçal y las 25 Fontes",
+      "precio": "Desde 60 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "8 horas",
+      "operador": "Guías de montaña con traslado desde Funchal (vía Civitatis)"
+    },
+    {
+      "actividad": "Paseo en la réplica de la carabela Santa María de Colón por la bahía",
+      "precio": "Desde 55 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "3 horas",
+      "operador": "Santa Maria de Colombo, desde la marina de Funchal (vía Civitatis)"
+    },
+    {
+      "actividad": "Cruce de un día a Porto Santo en ferry (playa de 9 km de arena dorada)",
+      "precio": "Desde 58,90 € ida y vuelta en el día; con traslados desde 65,70 € (fuente: portosantoline.pt, verificado octubre 2026)",
+      "duracion": "Día completo (2 h 30 de navegación por tramo)",
+      "operador": "Porto Santo Line (ferry Lobo Marinho)"
+    },
+    {
+      "actividad": "Free tour a pie por el centro de Funchal",
+      "precio": "Gratis (a la gorra; fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "2,5 horas",
+      "operador": "Guías locales (vía Civitatis)"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Colectivos urbanos amarillos (Horários do Funchal, sistema SIGA)",
+      "precio": "Boleto a bordo 2,05 €; prepago en tarjeta GIRO 1,45 € por viaje; pase de 1 día 4,95 €; 3 días 12,50 €; 7 días 23,50 €; niños de 6 a 12 a mitad de precio aprox. (1 € a bordo); tarjeta GIRO 0,50 € (fuente: Portaria 128/2026 de 23 de marzo, siga.madeira.gov.pt, verificado octubre 2026)",
+      "duracion": "Variable; 10 a 30 minutos dentro de la ciudad",
+      "notas": "Cubren toda la ciudad, Monte, el Jardín Botánico y la zona hotelera. La tarjeta GIRO se compra y recarga en los puestos de Horários do Funchal y en agentes Payshop. Para pocos días conviene el prepago o el pase diario municipal. En 2026 la empresa cambió la numeración de líneas: usá el planificador de horariosdofunchal.pt."
+    },
+    {
+      "medio": "Colectivos interurbanos y pase Regional Turístico",
+      "precio": "Boleto intermunicipal a bordo 2,65 €; prepago 2 €; pase Regional Turístico (incluye Aerobus) 1 día 13,75 €, 3 días 23 €, 7 días 36 € (fuente: Portaria 128/2026, siga.madeira.gov.pt, verificado octubre 2026)",
+      "duracion": "Variable; 30 a 90 minutos a otros municipios",
+      "notas": "Para Câmara de Lobos, Cabo Girão, Curral das Freiras, Machico o el norte. Las líneas son de varias empresas (Horários do Funchal, SAM, Rodoeste) integradas en el sistema SIGA. Los horarios a pueblos chicos son pocos: revisalos antes."
+    },
+    {
+      "medio": "Teleférico de Funchal (Zona Velha–Monte)",
+      "precio": "16 € un sentido; 22 € ida y vuelta (fuente: madeiracablecar.com, verificado octubre 2026)",
+      "duracion": "15 minutos",
+      "notas": "Más que transporte es un paseo. Funciona de 8:45 a 17:45 todos los días menos Navidad. Desde Monte sale otro teleférico al Jardín Botánico (unos 9 minutos), con boletos aparte."
+    },
+    {
+      "medio": "Colectivo especial Funchal–Pico do Areeiro (Horários do Funchal)",
+      "precio": "3 € por viaje, sólo a bordo; lanzadera interna en el Areeiro 1,20 € (fuente: horariosdofunchal.pt, verificado octubre 2026)",
+      "duracion": "Unos 45 minutos",
+      "notas": "Sale de la parada del teleférico a las 6:00 y 13:30 y baja a las 12:15 y 19:00 (horario de verano hasta el 24/10/2026; después rige el de invierno). 31 asientos; se reserva por teléfono al 291 705 555 entre siete y dos días hábiles antes."
+    },
+    {
+      "medio": "Colectivos turísticos con paradas libres (hop on-hop off)",
+      "precio": "Yellow Bus desde 21 €; City Sightseeing desde 26 € (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "Recorrido completo de 1 a 1,5 horas",
+      "notas": "Útiles para un primer día o con chicos: pasan por el centro, la zona hotelera, el puerto y miradores. Para moverse varios días sale mucho más barato el pase de colectivos urbanos."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto de Madeira Cristiano Ronaldo (FNC, en Santa Cruz) → centro de Funchal en Aerobus",
+      "empresas": "Aerobus, operado por SAM (sistema SIGA)",
+      "precio": "Prepago en tarjeta GIRO 5,55 €; niños de 6 a 12 2,75 €; también incluido en el pase Regional Turístico desde 13,75 € (fuente: Portaria 128/2026, siga.madeira.gov.pt, verificado octubre 2026)",
+      "duracion": "El aeropuerto está a unos 19 km por ruta; 20-25 minutos en auto, algo más en colectivo por las paradas"
+    },
+    {
+      "ruta": "Aeropuerto → Funchal en taxi o traslado privado",
+      "empresas": "Taxis de la parada del aeropuerto; traslados como Auto Jardim; apps como Uber y Bolt",
+      "precio": "Traslado privado desde 30 € por auto hasta 3 pasajeros (fuente: auto-jardim.com, operador, verificado octubre 2026). Taxi con taxímetro: no encontramos tarifa oficial publicada",
+      "duracion": "20-25 minutos"
+    },
+    {
+      "ruta": "Vuelo desde Lisboa u Oporto",
+      "empresas": "TAP Air Portugal, easyJet, Transavia, Azores Airlines",
+      "precio": "Vuelos desde Funchal anunciados desde 84 € (fuente: flytap.com, verificado octubre 2026); el precio real depende mucho de la fecha",
+      "duracion": "1 h 45 desde Lisboa; 1 h 50 desde Oporto"
+    },
+    {
+      "ruta": "Desde Latinoamérica (sin vuelos directos: conexión en Lisboa)",
+      "empresas": "TAP Air Portugal vía Lisboa desde Brasil y otras ciudades de la región",
+      "precio": "Río de Janeiro–Funchal anunciado desde R$ 8.711 ida y vuelta (fuente: flytap.com, verificado octubre 2026)",
+      "duracion": "Vuelo transatlántico a Lisboa más 1 h 45 a Funchal; el total depende del origen y la escala"
+    },
+    {
+      "ruta": "Ferry Funchal ↔ Porto Santo",
+      "empresas": "Porto Santo Line (Lobo Marinho)",
+      "precio": "Ida y vuelta en el día desde 58,90 € (fuente: portosantoline.pt, verificado octubre 2026). El servicio se suspende del 14 al 22 de octubre de 2026 por mantenimiento del barco",
+      "duracion": "2 h 30 por tramo"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Económico: albergue juvenil y hostels",
+      "nivel": 2,
+      "opciones": "El albergue público Centro de Juventude Quinta da Ribeira, en Funchal, cobra por cama en habitación múltiple 20 € (menores de 30) y 30 € (30 o más) de octubre a marzo, y 26 € y 39 € de abril a septiembre (fuente: lista de precios 2026, madeira.gov.pt, verificado octubre 2026). Hay además hostels privados en la Zona Velha y el centro, como Santa Maria Hostel; reservá con tiempo en verano y Fin de Año."
+    },
+    {
+      "categoria": "Intermedio en el centro, Zona Velha o zona del Lido",
+      "nivel": 3,
+      "opciones": "El promedio de un 3 estrellas en Funchal ronda 101 £ a 166 € la noche, con opciones desde 81 € (fuente: HotelsCombined y Skyscanner, agregadores, verificado octubre 2026). El centro y la Zona Velha son mejores para moverse a pie y en colectivo; la zona del Lido y la Estrada Monumental tiene más hoteles con pileta. Sumá la tasa turística de 2 € por persona y noche. En Fin de Año y la Fiesta de la Flor los precios suben fuerte."
+    },
+    {
+      "categoria": "Boutique en el casco histórico",
+      "nivel": 4,
+      "opciones": "Castanheiro Boutique Hotel, 4 estrellas con 81 habitaciones al lado de la Sé, aparece entre 173 y 221 US$ la noche según fecha y tipo de habitación (fuente: Kayak y Expedia, agregadores, verificado octubre 2026). Es la categoría que mejor combina ubicación y comodidad para recorrer Funchal caminando. Diciembre y la temporada de verano son lo más caro."
+    },
+    {
+      "categoria": "Lujo frente al mar",
+      "nivel": 5,
+      "opciones": "Reid's Palace (Belmond), el gran hotel histórico de la ciudad: desde unos 614 € la noche sin desayuno en reserva directa, 650–720 US$ en agregadores (fuente: A Small World y Travelocity, verificado octubre 2026). Savoy Palace, más nuevo y con pileta en la terraza: 390–480 US$ la noche (fuente: Travelocity, verificado octubre 2026). Ambos se llenan para Fin de Año."
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Espetada madeirense (carne en brocheta de laurel)",
+      "nivel": 3,
+      "opciones": "Trozos de carne de vaca adobados con ajo, sal gruesa y laurel, asados en un palo de laurel que se cuelga sobre la mesa, con bolo do caco y milho frito (polenta frita). Casa das Espetadas y Casal da Penha, en la zona del Lido: 14–22 € la espetada (fuente: Tablejourney, guía gastronómica, verificado octubre 2026)."
+    },
+    {
+      "tipo": "Espada com banana (pez sable negro con banana)",
+      "nivel": 3,
+      "opciones": "El plato que más sorprende: filete de espada preto, el pez de profundidad que se ve en el mercado, rebozado y frito, servido con banana frita Armazém do Sal, en el centro: 14–20 € (fuente: Tablejourney, guía gastronómica, verificado octubre 2026). En la Zona Velha, Gavião Novo y Taberna Ruel, sobre la Rua de Santa Maria, trabajan pescado y cocina regional."
+    },
+    {
+      "tipo": "Bolo do caco, prego y poncha (comida al paso)",
+      "nivel": 2,
+      "opciones": "El bolo do caco es un pan chato de harina de trigo y batata cocido en piedra, que se come con manteca de ajo o relleno como sándwich (prego, de carne). Cuesta 2–5 € como acompañamiento (fuente: Tablejourney, verificado octubre 2026). Para tomar, la poncha (aguardiente de caña, miel y limón) en los bares de la Zona Velha. Comprar fruta en el mercado y comer en el Parque de Santa Catarina es la opción más barata, pero preguntá precios antes."
+    },
+    {
+      "tipo": "Vino de Madeira: catas en bodega",
+      "nivel": 4,
+      "opciones": "En Blandy's Wine Lodge hay catas guiadas de los cuatro estilos clásicos (sercial, verdelho, boal y malvasía de 10 años) desde 25,50 € con chocolates, 32,50 € con frutos secos, chocolate, queso y torta de Madeira, y 38,50 € con quesos; la cata 'Bual Evolution' de 5 a 30 años cuesta 43–49 € (fuente: blandyswinelodge.com, verificado octubre 2026). En la Zona Velha y el centro hay bares de vino que sirven copas sueltas."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa para ir a Madeira si soy latinoamericano?",
+      "a": "Madeira es Portugal y forma parte del espacio Schengen. Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos entran como turistas sin visa por hasta 90 días dentro de cualquier período de 180, sumando todos los países Schengen. Desde 2026 funciona el EES: en el primer ingreso te toman huellas y foto en lugar de sellarte el pasaporte. Además, la Unión Europea anunció el ETIAS para el último trimestre de 2026: un permiso online de 20 € que vas a tener que sacar antes de volar; revisá travel-europe.europa.eu porque la fecha exacta la publica la Comisión. Si tenés pasaporte europeo, no te aplica. Llevá pasaje de salida, reserva de alojamiento y seguro médico."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse en Funchal?",
+      "a": "Con dos días ves la ciudad: centro, Sé, mercado, Zona Velha, teleférico a Monte, Monte Palace, carros de cesto y el Jardín Botánico. Pero Funchal es sobre todo la base para recorrer la isla, así que lo razonable son cuatro o cinco días: uno para el Pico do Areeiro y el sendero al Pico Ruivo, uno para una levada como la de las 25 Fontes, uno para Cabo Girão, Câmara de Lobos y Curral das Freiras, y si te da, uno para cruzar en ferry a Porto Santo. Con una semana podés sumar el norte (Porto Moniz, Santana, São Vicente) sin correr."
+    },
+    {
+      "q": "¿Cómo funciona la reserva de los senderos y cuánto cuesta?",
+      "a": "Desde el 1 de enero de 2026 todos los senderos oficiales clasificados como PR (incluidos el PR1 del Pico do Areeiro, las 25 Fontes, Levada do Risco y Ponta de São Lourenço) exigen reserva previa en el portal SIMplifica del gobierno regional, con turnos de entrada cada 30 minutos. El público general mayor de 12 años paga 4,50 € por sendero y 10,50 € por el PR1 completo hasta el Pico Ruivo; hay pases de 1, 3 y 7 días (9 €, 22,50 € y 52,50 €, sin el PR1). Los menores de 12 no pagan pero también se registran. Caminar sin reserva es infracción y las multas pueden ser altas. Antes de salir, revisá que el sendero esté abierto."
+    },
+    {
+      "q": "¿Es seguro Funchal?",
+      "a": "Funchal es una ciudad tranquila y Portugal tiene niveles bajos de delincuencia; se puede caminar de noche por el centro y la Zona Velha sin problemas. Los riesgos reales son otros. En la montaña el clima cambia rápido, hay neblina, frío y senderos con precipicios: no salgas sin abrigo, agua, celular con batería y sin revisar el estado del sendero; la emergencia es el 112. En el mar, las piedras resbalan y el fondo cae rápido. Y en lo comercial, ojo con la fruta en el Mercado dos Lavradores: hubo casos muy difundidos de turistas que pagaron decenas de euros por pocas frutas. Preguntá el precio por kilo antes."
+    },
+    {
+      "q": "¿Hace falta alquilar auto?",
+      "a": "Para Funchal, no: el centro se camina, y para Monte, el Jardín Botánico y la zona hotelera alcanzan los colectivos urbanos (2,05 € a bordo o 1,45 € con tarjeta GIRO) y el teleférico. Para el resto de la isla el auto da mucha libertad, porque los colectivos a los pueblos tienen pocos horarios. Ojo que se maneja por la derecha, con calles muy empinadas y angostas, túneles y curvas cerradas: si no tenés práctica en montaña, conviene una excursión o el pase Regional Turístico (13,75 € el día). Al Pico do Areeiro también llega un colectivo especial de Horários do Funchal por 3 € el tramo."
+    },
+    {
+      "q": "¿Qué impuestos y tasas extra hay que pagar?",
+      "a": "Hay dos que no suelen figurar en el precio que ves al reservar. La tasa turística municipal de Funchal es de 2 € por persona por noche, hasta siete noches, y la cobra el hotel o el departamento; los menores de 12 no pagan. La Cámara Municipal aprobó en octubre de 2026 duplicarla a 4 € desde enero de 2027, pendiente de consulta pública. La otra son las tasas de naturaleza del gobierno regional: 4,50 € por sendero PR (10,50 € el PR1 completo), 5 € para el Cabo Girão y 4 € por hora de estacionamiento en el Pico do Areeiro. Todas se pagan online en SIMplifica."
+    },
+    {
+      "q": "¿Puedo pagar con tarjeta y cuánto se gasta por día?",
+      "a": "La moneda es el euro y la tarjeta se acepta en casi todos los comercios, hoteles, teleférico, museos y en el portal de senderos. Llevá efectivo para el boleto de colectivo a bordo y para puestos chicos; hay cajeros (Multibanco) en todo el centro. Para tener una idea con datos de 2026: un pase de colectivos de un día cuesta 4,95 €, el teleférico ida y vuelta 22 €, la bajada en carro de cesto 40 € para dos, una espetada en restaurante entre 14 y 22 €, y una cama en el albergue juvenil oficial entre 20 y 39 € según edad y temporada."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Funchal»: https://es.wikipedia.org/wiki/Funchal",
+      "Visit Madeira — «Catedral de Funchal»: https://visitmadeira.com/es/que-hacer/apasionados-por-la-cultura/patrimonio/monumentos-y-arquitectura/catedral-de-funchal/"
+    ],
+    "que_ver_atracciones": [
+      "Madeira Cable Car — «Teleférico – Preço / Horário»: https://www.madeiracablecar.com/",
+      "Carreiros do Monte — «Prices and Schedules»: https://www.carreirosdomonte.com/",
+      "Monte Palace Madeira — «Planeie a sua visita»: https://www.montepalace.com/visita/",
+      "Visit Madeira — «Jardín Botánico de Madeira»: https://visitmadeira.com/es/que-hacer/apasionados-por-la-cultura/jardines/jardin-botanico-de-madeira/",
+      "Visit Madeira — «Mercado dos Lavradores»: https://visitmadeira.com/es/que-hacer/apasionados-por-la-cultura/patrimonio/monumentos-y-arquitectura/mercado-dos-lavradores/",
+      "Visit Madeira — «Zona Velha (casco antiguo)»: https://visitmadeira.com/es/que-hacer/conocer-la-ciudad-de-funchal/explorar-la-ciudad/paseos-publicos/zona-velha/",
+      "Visit Madeira — «PR1 - Vereda do Areeiro»: https://visitmadeira.com/es/que-hacer/exploradores-de-la-naturaleza/actividades/senderismo/pr1-vereda-do-areeiro/",
+      "Visit Madeira — «Cabo Girão»: https://visitmadeira.com/pt/o-que-fazer/exploradores-da-natureza/miradouros/miradouro-do-cabo-girao/",
+      "Visit Madeira — «Story Centre Madeira»: https://visitmadeira.com/es/que-hacer/apasionados-por-la-cultura/patrimonio/museos/story-centre-madeira/",
+      "Visit Madeira — «Parque de Santa Catarina»: https://visitmadeira.com/es/que-hacer/apasionados-por-la-cultura/jardines/parque-de-santa-catarina/",
+      "Visit Madeira — «Teleférico do Jardim Botânico»: https://www.visitmadeira.com/pt/o-que-fazer/viver-a-cidade-do-funchal/passear-na-cidade/telefericos-no-funchal/teleferico-do-jardim-botanico/"
+    ],
+    "precios_2026": [
+      "IFCN / Jornal Oficial da RAM — «Portaria n.º 48/2026 – taxas e preços do IFCN»: https://ifcn.madeira.gov.pt/images/Doc_Artigos/Legislacao/Portarias/Port48ISerie027_2026.pdf",
+      "IFCN — «Nuevo modelo de tarifas y precios para 2026»: https://ifcn.madeira.gov.pt/images/Destaques/Informacao/Info_OperEcon/Novos/Inf_OE_GAB_ES_2026.pdf",
+      "Visit Madeira — «Tudo o que precisas de saber para caminhar na Madeira em 2026»: https://visitmadeira.com/pt/blog/visit-madeira/tudo-o-que-precisas-de-saber-para-caminhar-na-madeira-em-2026/",
+      "Câmara Municipal do Funchal — «Regulamento da Taxa Municipal Turística (publicação DR)»: https://cmfdoc.funchal.pt/media/k2/attachments/Taxa_Tur%C3%ADstica_publica%C3%A7%C3%A3o_DR.pdf",
+      "Câmara Municipal do Funchal — «Taxa Municipal Turística do Funchal entra hoje em vigor»: https://funchal.pt/taxa-municipal-turistica-do-funchal-entra-hoje-em-vigor-cmf-organiza-mais-duas-sessoes-de-esclarecimento-direccionadas-para-o-alojamento-local-local",
+      "DNOTICIAS.PT — «Aumento da taxa turística do Funchal para o dobro aprovado por unanimidade»: https://www.dnoticias.pt/2026/10/1/507464-aumento-da-taxa-turistica-do-funchal-para-o-dobro-aprovado-por-unanimidade/",
+      "Blandy's Wine Lodge — «Tours»: https://blandyswinelodge.com/en/tours/",
+      "Blandy's Wine Lodge — «Wine Tasting»: https://blandyswinelodge.com/en/wine-tasting/",
+      "Direção Regional da Cultura — «Museu Quinta das Cruzes»: https://cultura.madeira.gov.pt/museu-quinta-das-cruzes",
+      "Frente MarFunchal — «Tarifário 2026»: https://frentemarfunchal.pt/tarifario/",
+      "Madeira Story Centre — «Museu»: https://www.madeirastorycentre.com/pt/museu"
+    ],
+    "como_llegar_transporte": [
+      "SIGA – Governo Regional da Madeira — «Tarifário (Portaria n.º 128/2026)»: https://siga.madeira.gov.pt/public/index.php/tiim",
+      "Horários do Funchal — «Pico do Areeiro»: https://www.horariosdofunchal.pt/index.php/pt/viajar/pico-do-areeiro",
+      "Horários do Funchal — «Tarifas Recomendadas»: https://www.horariosdofunchal.pt/index.php/turismo/tarifas-recomendadas",
+      "Porto Santo Line — «Página oficial»: https://www.portosantoline.pt/",
+      "Ferryscanner — «Ferry de Funchal a Porto Santo»: https://www.ferryscanner.com/es/rutas-ferry/ferry-funchal-porto-santo",
+      "TAP Air Portugal — «Voos de Funchal (FNC)»: https://www.flytap.com/pt_pt/voos-de-funchal",
+      "TAP Air Portugal — «Passagens de Rio de Janeiro (GIG) a Funchal (FNC)»: https://www.flytap.com/pt_br/passagens-de-rio-de-janeiro-para-funchal",
+      "Auto Jardim — «Transfer aeroporto Madeira»: https://auto-jardim.com/pt/transfer-aeroporto-madeira/",
+      "Civitatis — «Excursiones y actividades en Madeira»: https://www.civitatis.com/es/madeira/"
+    ],
+    "visado_entrada": [
+      "Comisión Europea — «ETIAS – Travel Europe»: https://travel-europe.europa.eu/etias_en",
+      "The Local — «EU reveals latest start date for EES biometric passport checks»: https://www.thelocal.dk/20250722/eu-reveals-latest-start-date-for-ees-biometric-passport-checks",
+      "Travel Market News — «ETIAS Launch Date Update: EU Confirms Late-2026 Start»: https://travelmarketnews.com/etias-launch-timeline-update-2026"
+    ],
+    "seguridad": [
+      "Directo al Paladar — «Unas turistas españolas pagan 72 euros en el mercado de Madeira por un puñado de frutas»: https://www.directoalpaladar.com/consumidores/queriamos-hacer-macedonia-unas-turistas-espanolas-pagan-72-euros-mercado-madeira-punado-frutas",
+      "DNOTICIAS.PT — «Vereda do Pico do Areeiro reabre a 26 de junho»: https://www.dnoticias.pt/2026/5/31/493857-vereda-do-pico-do-areeiro-reabre-a-26-de-junho/"
+    ],
+    "alojamiento_gastronomia": [
+      "Governo Regional da Madeira — «Price list accommodation 2026 (Centros de Juventude)»: https://www.madeira.gov.pt//Portals/44/Documentos/PRICE%20LIST%20ACCOMMODATION_183_2026.pdf",
+      "Skyscanner — «Hotels in Funchal»: https://www.skyscanner.ie/hotels/portugal/funchal-hotels/ci-223808213",
+      "HotelsCombined — «Hotels in Funchal»: https://www.hotelscombined.co.uk/Place/Funchal.htm",
+      "Kayak — «Castanheiro Boutique Hotel»: https://www.nz.kayak.com/Funchal-Hotels-Castanheiro-Boutique-Hotel.2467637.ksp",
+      "A Small World — «Reid's Palace, A Belmond Hotel»: https://www.asmallworld.com/collection/hotels/reids-palace-a-belmond-hotel",
+      "Travelocity — «Luxury Hotels in Funchal»: https://www.travelocity.com/Funchal-Hotels-Luxury-Hotel.0-0-d1232-tLuxuryHotel.Travel-Guide-Filter-Hotels",
+      "Tablejourney — «Funchal signature dishes»: https://tablejourney.com/portugal/funchal/signature-dishes/"
+    ]
+  }
+}
