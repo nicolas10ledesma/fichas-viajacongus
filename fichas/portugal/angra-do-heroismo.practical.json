@@ -1,0 +1,618 @@
+{
+  "slug": "angra-do-heroismo",
+  "name": "Angra do Heroísmo",
+  "region": "Azores, isla Terceira",
+  "lat": 38.655,
+  "lon": -27.2167,
+  "datosRapidos": [
+    {
+      "label": "Isla",
+      "value": "Angra do Heroísmo es la ciudad principal de la isla Terceira, en el grupo central del archipiélago de las Azores, en pleno Atlántico Norte. Queda en la costa sur de la isla, en una bahía protegida por el Monte Brasil, un volcán apagado que se mete en el mar como una península. El municipio tiene 239 km², 19 freguesias (parroquias) y 33.771 habitantes según el Censo 2021. Fue la primera localidad de las Azores en ser elevada a ciudad, en 1534, el mismo año en que se convirtió en sede del obispado que todavía abarca todo el archipiélago. Durante siglos su puerto fue escala de las flotas que volvían de las Indias. Se la conoce sobre todo por su centro histórico: la Zona Central de la ciudad es Patrimonio Mundial de la Unesco desde el 7 de diciembre de 1983, con calles en damero, casas de colores, iglesias barrocas y la enorme Fortaleza de São João Baptista. También es famosa por sus fiestas: las Sanjoaninas de junio, que se presentan como las mayores de las Azores, y las touradas à corda (toros con soga) que se hacen en las calles de la isla durante el verano. Es la base natural para recorrer el interior volcánico de Terceira, con el Algar do Carvão y la Gruta do Natal."
+    },
+    {
+      "label": "Ciudad de servicio",
+      "value": "La propia Angra concentra hoteles, restaurantes y el centro histórico, pero el aeropuerto de la isla está en Lajes, del lado de Praia da Vitória, junto a una base aérea compartida por Portugal y Estados Unidos. Del aeropuerto a Angra hay colectivos de EVT (Empresa de Viação Terceirense) con transbordo en Praia da Vitória o línea directa, y taxis. Praia da Vitória, la segunda ciudad de la isla, tiene la única playa grande de arena de Terceira y el puerto por donde llegan los ferries de Atlânticoline en temporada."
+    },
+    {
+      "label": "Mejor época",
+      "value": "El verano europeo, de junio a septiembre, trae el clima más estable, las Sanjoaninas (del 19 al 28 de junio en 2026) y la temporada de touradas à corda. Las cuevas volcánicas abren todos los días de abril a septiembre y sólo cuatro días por semana entre octubre y marzo. Ojo: el Algar do Carvão cierra temporalmente entre fines de octubre o noviembre de 2026 y el primer trimestre de 2027 por las obras de su nuevo centro de visitantes."
+    },
+    {
+      "label": "Visado",
+      "value": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos entran como turistas sin visa por hasta 90 días en cualquier período de 180, contando todo el espacio Schengen: las Azores son Portugal. El EES (Sistema de Entradas y Salidas) registra huellas y foto en el control de frontera en lugar del sello. El ETIAS, un permiso online de 20 € válido tres años, todavía no es obligatorio: la Unión Europea anunciará la fecha con meses de aviso."
+    }
+  ],
+  "intro": [
+    "Angra do Heroísmo es la ciudad más antigua de las Azores y se nota en cada esquina. Bajás desde el Alto da Memória y tenés la postal entera: techos de teja, las dos torres de la catedral, la bahía y el Monte Brasil verde cerrando el horizonte. El centro histórico es Patrimonio de la Unesco desde 1983 y se recorre a pie en una mañana, aunque conviene quedarse más: lo lindo es la vida de todos los días, con los cafés, el mercado y la gente sentada en el jardín municipal.",
+    "Terceira tiene además un interior volcánico que no se parece al de las otras islas. Podés bajar al Algar do Carvão, la chimenea de un volcán por la que se entra caminando hasta un lago subterráneo, recorrer el tubo de lava de la Gruta do Natal y caminar entre las fumarolas de las Furnas do Enxofre. Desde la Serra do Cume ves la isla cortada en parcelas de pasto separadas por muros de piedra, y en Biscoitos te bañás en piletas naturales de lava negra.",
+    "Y está la fiesta. En Terceira se celebra todo: las Sanjoaninas de junio llenan Angra de desfiles y conciertos, las touradas à corda sacan un toro atado con una soga a las calles de los pueblos, y la alcatra, carne cocida lentamente en olla de barro con vino y especias, aparece en cada mesa. Es una isla menos visitada que São Miguel, con precios razonables y un ritmo tranquilo."
+  ],
+  "historia_corta": "Terceira fue asignada a Jácome de Bruges en 1450 y la tradición le atribuye la fundación de Angra en esos años, aunque otros la adjudican a Álvaro Martins Homem, que en 1474 canalizó un arroyo para mover un molino y dio impulso al poblado. La bahía, protegida por el Monte Brasil, convirtió a Angra en escala de las naves que volvían de las Indias cargadas de especias, oro y plata. En 1534 fue la primera localidad de las Azores elevada a ciudad y la sede del nuevo obispado. En la crisis de sucesión de 1580, Angra se resistió a Felipe II y sostuvo el gobierno de António I hasta 1582. En 1641, tras la restauración portuguesa, los vecinos expulsaron a las tropas españolas atrincheradas en el Monte Brasil, y el rey João IV le dio el título de 'siempre leal ciudad'. En 1766 se creó la Capitanía General de las Azores, con sede en el antiguo colegio jesuita, hoy Palácio dos Capitães-Generais. En las guerras liberales Angra fue bastión de los partidarios de María II: en 1828 se instaló allí una Junta Provisoria, en 1830 fue declarada capital del reino y sede de la regencia, y desde allí salió la expedición que desembarcó en Mindelo. Por decreto del 12 de enero de 1837 recibió el nombre 'do Heroísmo'. El 1 de enero de 1980 un fuerte terremoto dañó mucho el centro histórico; la reconstrucción llevó unos cuatro años y el 7 de diciembre de 1983 la Unesco inscribió la Zona Central de la ciudad como Patrimonio Mundial.",
+  "queVer": [
+    {
+      "nombre": "Centro histórico de Angra (Zona Central, Patrimonio Unesco)",
+      "desc": "El casco antiguo inscripto por la Unesco en 1983: calles en damero, casas de colores, iglesias y palacios entre el puerto y el Alto da Memória.",
+      "detalle": "La Zona Central de Angra do Heroísmo fue inscripta como Patrimonio Mundial en 1983, en la séptima sesión del Comité de la Unesco. Es un ejemplo de ciudad portuaria del Atlántico de los siglos XVI a XVIII, trazada en cuadrícula pese a las pendientes, con fachadas pintadas, balcones de hierro y empedrados.\n\nEl recorrido básico une la Praça Velha, con la Câmara Municipal, la Rua Direita que baja al puerto de Pipas, la Sé, la Igreja da Misericórdia frente al mar y la Igreja do Colégio junto al Palácio dos Capitães-Generais. Muchos edificios se reconstruyeron después del terremoto de 1980.\n\nPara entrar a varias iglesias y museos existe el Angra City Pass, una iniciativa del Municipio con la Cámara de Comercio: 10 € por persona, se compra online en Fienta o en los propios lugares, que en la entrada sólo aceptan efectivo. Cada sitio tiene su horario.\n\nCalculá medio día caminando y otro más si querés entrar a los museos. Las calles suben y bajan: llevá calzado cómodo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de la ciudad, junto al puerto"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; de día para entrar a iglesias y museos"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis recorrer las calles; Angra City Pass 10 € para entrar a museos e iglesias incluidas (fuente: exploreterceira.com, Municipio de Angra y Cámara de Comercio, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día a un día"
+        }
+      ]
+    },
+    {
+      "nombre": "Monte Brasil y Fortaleza de São João Baptista",
+      "desc": "Volcán apagado que cierra la bahía de Angra, con senderos, miradores y la enorme fortaleza de los siglos XVI y XVII a sus pies.",
+      "detalle": "El Monte Brasil es un cono de toba de unos 3 km de ancho, restos de un volcán formado por una erupción submarina, que se une a la ciudad por un istmo. Es reserva forestal de recreo: tiene caminos, zonas de picnic y miradores, el más conocido en el Pico das Cruzinhas, desde donde se ven la marina, la costa de Porto Judeu y los islotes de las Cabras, y en días claros São Jorge y Pico.\n\nA sus pies está la Fortaleza de São João Baptista, con unos 4 km de murallas, construida entre los siglos XVI y XVII para proteger a las naves que volvían de las Indias. Allí se atrincheraron las tropas españolas hasta 1641. Sigue siendo una instalación militar, por eso sólo se visita con guía y reserva previa.\n\nLa visita guiada la organiza el Museu de Angra do Heroísmo e incluye el Núcleo de Historia Militar; grupos de hasta 20 personas. Reservá por teléfono (+351 295 218 383) o por correo.\n\nSubir caminando desde el centro y recorrer los miradores lleva unas dos o tres horas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "A pie desde el centro de Angra, cruzando el istmo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días despejados, para la vista desde el Pico das Cruzinhas"
+        },
+        {
+          "label": "Entrada",
+          "value": "Monte Brasil gratis (reserva forestal); visita guiada a la fortaleza 5 € con reserva, incluye Núcleo de Historia Militar (fuente: agenda oficial del Museu de Angra do Heroísmo, 2023; confirmalo al reservar, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Algar do Carvão",
+      "desc": "Chimenea de un volcán por la que se baja a pie hasta un lago interior: el gran ícono natural de Terceira, a 583 m de altura.",
+      "detalle": "El Algar do Carvão es una cavidad volcánica en el centro de Terceira, en la freguesia de Porto Judeu, a 583 m sobre el nivel del mar. La entrada es un pozo vertical de unos 45 m; adentro, una escalera baja hasta unos 90 m de profundidad, donde hay un lago de agua de lluvia que puede secarse en verano. Las paredes tienen estalactitas de sílice, una rareza mineralógica. Fue explorado por primera vez el 26 de enero de 1893, con una simple soga, y es Monumento Natural Regional.\n\nLo gestiona la asociación Os Montanheiros. Reabrió el 21 de marzo de 2026 con condiciones especiales mientras terminan las obras del nuevo centro de visitantes: la boletería es improvisada, no hay baño, bar ni refugio, hay fila única por orden de llegada y un máximo de 150 personas adentro.\n\nImportante: a fines de octubre o en noviembre de 2026 las visitas se suspenden hasta mediados o fines del primer trimestre de 2027. En octubre, noviembre y diciembre abre martes, miércoles, viernes y sábados de 14:30 a 17:00. La visita dura unos 30 minutos. Llevá abrigo: adentro hay humedad.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de la isla; se llega en auto o excursión"
+        },
+        {
+          "label": "Mejor época",
+          "value": "De abril a septiembre abre todos los días; revisá el cierre previsto desde fines de 2026"
+        },
+        {
+          "label": "Entrada",
+          "value": "10 € por persona; gratis menores de 12 con adulto pagante; sólo en la boletería, efectivo o tarjeta salvo American Express, sin reserva online (fuente: montanheiros.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora con la fila"
+        }
+      ]
+    },
+    {
+      "nombre": "Sé de Angra (Catedral del Santísimo Salvador)",
+      "desc": "La iglesia más grande de las Azores y sede del obispado, con dos torres, techo de cedro tallado y azulejos del siglo XVII.",
+      "detalle": "La Sé, o Igreja do Santíssimo Salvador, es la catedral de la diócesis de Angra, que abarca todo el archipiélago. Se empezó a construir en 1570 sobre una iglesia anterior, probablemente de 1496, de la que queda el altar mayor bajo la capilla. Es el mayor templo de la ciudad y del área Patrimonio de la Humanidad.\n\nLa fachada es sobria, con dos campanarios. Adentro se destacan el techo de cedro tallado, los azulejos del siglo XVII, la galería de retratos de los obispos de Angra y esculturas antiguas. Sufrió daños en el terremoto de 1980 y en un incendio en 1984, y fue restaurada.\n\nLa entrada está incluida en el Angra City Pass, que no cubre el tesoro ni las torres. Según el Municipio abre de martes a sábado de 9:30 a 17:00. No encontramos tarifa suelta publicada: preguntá en la puerta. Al ser un templo en uso, respetá misas y vestimenta.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Rua da Sé, en pleno centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año, martes a sábado"
+        },
+        {
+          "label": "Entrada",
+          "value": "Incluida en el Angra City Pass de 10 € (no incluye tesoro ni torres) (fuente: exploreterceira.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 a 45 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Palácio dos Capitães-Generais e Igreja do Colégio",
+      "desc": "Antiguo colegio jesuita convertido en palacio de los gobernadores de las Azores, hoy residencia oficial del presidente del Gobierno Regional.",
+      "detalle": "El edificio nació como Colegio de los Jesuitas: una carta real de 1570 ordenó fundarlo y los jesuitas llegaron ese año. Tras su expulsión en 1760, el Estado se quedó con el edificio, y en 1766 el ala residencial pasó a ser la casa de los capitanes generales, gobernadores del archipiélago. Allí se alojaron Pedro IV en 1832, durante las guerras liberales, y los reyes Carlos I y Amélia en 1901. En 1971 cenaron en el palacio Richard Nixon y Georges Pompidou.\n\nEl terremoto de 1980 lo dañó mucho. La restauración recreó la época de los capitanes generales con muebles de fines del siglo XVIII y principios del XIX. Hoy es una de las residencias oficiales del presidente del Gobierno de las Azores y tiene un circuito de museo abierto al público.\n\nAl lado está la Igreja do Colégio (de San Ignacio de Loyola), del siglo XVII, con azulejos holandeses, tallas doradas y pinturas. Según el Municipio, el palacio abre de martes a domingo de 10 a 17, con visitas guiadas pagas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Rua do Palácio, centro histórico"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Incluido en el Angra City Pass de 10 €; visitas guiadas pagas aparte (fuente: exploreterceira.com, verificado octubre 2026). Tarifa suelta no publicada"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Museu de Angra do Heroísmo",
+      "desc": "Museo regional en el antiguo convento de San Francisco: historia de la isla, arte sacro, carruajes y piezas militares.",
+      "detalle": "El Museu de Angra do Heroísmo funciona en el edificio del antiguo Convento de São Francisco, en el centro. Es el museo de referencia para entender la historia de Terceira: el poblamiento, la ciudad como escala de las naves de las Indias, la vida religiosa, el arte decorativo y la historia militar. De él dependen también el Núcleo de Historia Militar Manuel Coelho Baptista de Lima y las visitas guiadas a la Fortaleza de São João Baptista.\n\nEl museo organiza además actividades fuera de su sede, como conciertos de órgano en la Igreja de Nossa Senhora da Guia y noches en las baterías de artillería del Monte Brasil.\n\nEn horario de invierno (1 de octubre al 31 de marzo) abre de martes a domingo y feriados de 9:30 a 17:00; los lunes cierra. En verano, de 10:00 a 17:30. La entrada individual era de 2 €, con descuentos para jóvenes, jubilados y grupos, y gratis hasta 14 años. También entra en el Angra City Pass.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro histórico, junto al Jardim Duque da Terceira"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; lunes cerrado"
+        },
+        {
+          "label": "Entrada",
+          "value": "2 € entrada individual; 1 € jóvenes de 15 a 25, jubilados y grupos; gratis hasta 14 años (fuente: agenda oficial del museo, 2023; no encontramos tarifario 2026, verificado octubre 2026). Incluido en el Angra City Pass"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Jardim Duque da Terceira y Alto da Memória",
+      "desc": "Jardín botánico en el corazón de Angra, con araucarias y palmeras, y una escalera que sube al mirador del Alto da Memória.",
+      "detalle": "El Jardim Duque da Terceira ocupa terrenos que fueron huertas del Colegio de los Jesuitas, parte del Convento de San Francisco y patios de la casa del capitán donatario. El Municipio los compró en 1863 y empezó a construir el jardín en 1882, con diseño de estilo francés atribuido al agrónomo François Joseph Gabriel. Lleva el nombre del primer duque de Terceira.\n\nHoy suma unos 26.000 m² visitables, ampliados en 2019 con el Passeio Rui Teles Palhinha. Tiene dos grandes araucarias, palmeras de varios géneros, magnolias, camelias, helechos arborescentes y la mayoría de las plantas está identificada.\n\nDesde el jardín sale la Passagem Silva Sarmento, una escalera de 1898 bordeada de plátanos, que sube al Alto da Memória, un mirador sobre la ciudad, la bahía y el Monte Brasil. Es la mejor vista gratuita de Angra: subí a la mañana temprano o al atardecer.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro histórico"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; primavera para la floración"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (jardín público municipal)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora con la subida al mirador"
+        }
+      ]
+    },
+    {
+      "nombre": "Gruta do Natal",
+      "desc": "Tubo de lava de casi 700 metros, de techo alto y piso suave, junto a la Lagoa do Negro, en el interior de la isla.",
+      "detalle": "La Gruta do Natal es un tubo de lava de unos 697 m de largo, con acceso fácil, techo alto y piso en pendiente suave. Está dentro de la Reserva Forestal Natural de Santa Bárbara y Mistérios Negros, cerca de los Picos Gordos y de la zona de picnic de la Lagoa do Negro. Primero se llamó Galeria Negra y luego Gruta do Cavalo; desde el 25 de diciembre de 1969 se la conoce como Gruta do Natal (de la Navidad), y allí se celebra tradicionalmente una misa navideña.\n\nLa gestiona Os Montanheiros, igual que el Algar do Carvão. Hay fila única, un máximo de 80 personas adentro y no se reserva: se paga al llegar. Adentro la humedad supera el 90%, gotea y el piso es irregular: llevá zapatillas o botas. No se recomienda a personas con problemas de equilibrio, claustrofobia ni a bebés.\n\nDe octubre a diciembre abre martes, miércoles, viernes y sábados de 14:30 a 17:00; de junio a septiembre, todos los días de 14:00 a 18:00. Por ahora no se venden entradas combinadas con el Algar.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Interior de la isla, municipio de Praia da Vitória"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Abril a septiembre abre todos los días"
+        },
+        {
+          "label": "Entrada",
+          "value": "9 € por persona; gratis menores de 12 con adulto pagante; pago en el lugar, efectivo o tarjeta salvo American Express (fuente: montanheiros.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Furnas do Enxofre",
+      "desc": "Campo de fumarolas en el centro de Terceira: vapor, gases volcánicos y depósitos de azufre a la vista desde un circuito interpretativo.",
+      "detalle": "Las Furnas do Enxofre (hornos de azufre) son, según el Geoparque Azores, el campo de fumarolas más importante de Terceira. Por grietas del suelo sale vapor de agua y gases volcánicos, en su mayoría dióxido de carbono, y el terreno junto a las fumarolas llega a 95-98 °C. Alrededor se forman depósitos amarillos de azufre y una vegetación de musgos que aprovecha el calor y la humedad.\n\nEstá clasificado como Monumento Natural dentro del Parque Natural de Terceira, creado en 2011, y tiene un circuito interpretativo cuyos paneles se renovaron en 2023. Queda en el interior de la isla, en la misma zona que el Algar do Carvão, así que se combinan bien en una mañana o en una excursión de cuevas.\n\nRespetá los caminos marcados: el suelo está caliente y los gases se acumulan en los pozos. Con niebla o lluvia la visita se vuelve resbaladiza. Para dudas, el Parque Natural atiende en parque.natural.terceira@azores.gov.pt.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Interior de la isla, cerca del Algar do Carvão"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días secos; temprano para evitar grupos"
+        },
+        {
+          "label": "Entrada",
+          "value": "No encontramos tarifa publicada para el circuito (fuente: visitazores.com y Geoparque Azores, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 a 45 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Mirador de la Serra do Cume",
+      "desc": "Borde de una caldera de 7 km desde el que se ve la isla dividida en parcelas verdes con muros de piedra y la bahía de Praia da Vitória.",
+      "detalle": "La Serra do Cume es el borde de una antigua caldera volcánica de unos 7 km de diámetro, en el municipio de Praia da Vitória. La cumbre llega a 545 m. Desde el mirador se ve, de un lado, la ciudad y la bahía de Praia da Vitória; del otro, la llanura interior que se extiende hasta la Serra da Ribeirinha, el borde opuesto del cráter.\n\nEsa llanura se convirtió en la principal zona lechera de la isla, y su imagen es la que identifica a Terceira: un mosaico de potreros separados por muros de piedra volcánica y setos, que los locales llaman manta de retalhos (colcha de retazos). La guía de turismo Explore Terceira la cuenta entre las diez vistas más características de la isla.\n\nSe llega en auto por la ruta que cruza el interior y hay espacio para estacionar junto al mirador. Andá en un día despejado: con nubes bajas no se ve nada. Combina bien con Praia da Vitória y la Gruta do Natal.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Interior este de la isla, municipio de Praia da Vitória"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días despejados; luz linda al atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (mirador al aire libre)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Biscoitos: piscinas naturales y viñedos de verdelho",
+      "desc": "Piletas de mar entre lava negra en la costa norte y viñedos de verdelho protegidos por muros de piedra, con un museo del vino.",
+      "detalle": "Biscoitos es una freguesia de la costa norte de Terceira, en el municipio de Praia da Vitória, con 1.424 habitantes en 2011. Su nombre viene de las coladas de lava que forman la costa, y entre esas rocas negras se armaron piletas naturales de agua de mar, con escaleras y solárium, que en verano son el lugar de baño preferido de la isla.\n\nEl terreno volcánico es pobre para otros cultivos, así que desde hace siglos se plantan viñas entre muros de piedra que las protegen del viento. De allí sale el vino verdelho de Biscoitos, y la zona es Paisaje Protegido de la Cultura de la Viña. En 2011 se inauguró un sendero que sigue los antiguos accesos a las bodegas. El Museu do Vinho dos Biscoitos, fundado en 1990, cuenta esa historia.\n\nEn las piletas el mar puede entrar con fuerza: con oleaje no te metas y respetá las indicaciones. Llevá calzado para las rocas. Hay excursiones de medio día que combinan Monte Brasil, Biscoitos y degustación de quesos.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Costa norte de la isla"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Julio a septiembre para bañarse"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (zona de baño pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Praia da Vitória",
+      "desc": "Segunda ciudad de Terceira, con la única playa grande de arena de la isla, una marina y el puerto de los ferries.",
+      "detalle": "Praia da Vitória es la segunda ciudad de Terceira y cabecera del municipio vecino de Angra, con 21.035 habitantes en el censo de 2011. Su nombre recuerda la batalla del 11 de agosto de 1829, ganada por los liberales: en 1837 la reina María II le sumó 'da Vitória' en reconocimiento. A tres kilómetros al norte está la base aérea de Lajes, compartida por Portugal y Estados Unidos, junto al aeropuerto civil de la isla.\n\nLo que más se busca es la playa: tiene, según su propia descripción, la única playa de arena de tamaño considerable de Terceira, frente a una marina grande muy usada por veleros. El centro es chico y tranquilo, con una iglesia matriz y calles para caminar. Explore Terceira la menciona por sus calles y bahías y por el escritor Vitorino Nemésio, que se inspiró en ella.\n\nDe Angra se llega en auto o en el colectivo de EVT de la línea 2. Combiná la visita con la Serra do Cume, que la mira desde arriba, y con una comida de pescado.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Costa este de la isla; colectivo EVT línea 2 desde Angra"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Verano para la playa"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Sanjoaninas y touradas à corda",
+      "desc": "Las fiestas grandes de Angra en junio y la tradición de soltar un toro atado con una soga por las calles de los pueblos.",
+      "detalle": "Las Sanjoaninas son las fiestas del municipio de Angra en honor a San Juan, cuyo feriado es el 24 de junio. Sus organizadores las presentan como las mayores fiestas de las Azores. En 2026 se hicieron del 19 al 28 de junio en el centro de la ciudad, con escenarios de música, la Feria de São João, desfiles de freguesias, marchas populares, charangas y bandas filarmónicas, además de gastronomía en la calle.\n\nLa tourada à corda (corrida con soga) es la tradición popular más antigua de su tipo en el archipiélago. Se sueltan cuatro toros de la raza brava de Terceira, uno por vez, cada uno atado al cuello con una larga soga que manejan diez hombres, por un tramo de calle de hasta unos 500 m. Cohetes avisan la salida y la vuelta del toro, que tiene las puntas de los cuernos cubiertas. Los vecinos lo provocan con paraguas y capas improvisadas.\n\nSi vas a ver una, quedate detrás de las protecciones o en un balcón: el toro corre suelto dentro del tramo marcado y no es un espectáculo para chicos chicos.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sanjoaninas en el centro de Angra; touradas en pueblos de toda la isla"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio para las Sanjoaninas; temporada de verano para las touradas"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis presenciar las touradas en la calle; programa de Sanjoaninas en sanjoaninas.pt (fuente: sanjoaninas.pt, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Una tarde o una noche"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Algar do Carvão (Os Montanheiros)",
+      "precio": "10 € por persona; gratis menores de 12 con adulto pagante y personas con discapacidad (fuente: montanheiros.com, verificado octubre 2026). Sólo se compra al llegar, en la boletería; efectivo o tarjeta salvo American Express. Cierre temporal previsto desde fines de octubre o noviembre de 2026 hasta el primer trimestre de 2027"
+    },
+    {
+      "tipo": "Gruta do Natal (Os Montanheiros)",
+      "precio": "9 € por persona; gratis menores de 12 con adulto pagante (fuente: montanheiros.com, verificado octubre 2026). Se paga en el centro de visitantes; no hay entradas combinadas con el Algar por ahora"
+    },
+    {
+      "tipo": "Angra City Pass (museo, palacio, Sé, Misericórdia, Colégio, Núcleo de Historia Militar)",
+      "precio": "10 € por persona (fuente: exploreterceira.com, iniciativa del Municipio de Angra y la Cámara de Comercio, verificado octubre 2026). Online en Fienta.com o en cualquiera de los lugares; en los lugares, sólo efectivo. No incluye tesoro ni torres de la Sé"
+    },
+    {
+      "tipo": "Museu de Angra do Heroísmo",
+      "precio": "2 € individual; 1 € jóvenes de 15 a 25, jubilados, docentes y grupos de 10 o más; gratis hasta 14 años (fuente: agenda oficial del museo, julio 2023; tarifario 2026 no publicado, verificado octubre 2026). En la boletería del museo"
+    },
+    {
+      "tipo": "Visita guiada a la Fortaleza de São João Baptista",
+      "precio": "5 € por persona, incluye el Núcleo de Historia Militar; con reserva al +351 295 218 383 (fuente: agenda oficial del Museu de Angra do Heroísmo, julio 2023; confirmalo al reservar, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Palácio dos Capitães-Generais",
+      "precio": "Incluido en el Angra City Pass de 10 €; visitas guiadas pagas aparte, tarifa no publicada (fuente: exploreterceira.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Monte Brasil (reserva forestal, senderos y miradores)",
+      "precio": "Gratis"
+    },
+    {
+      "tipo": "Jardim Duque da Terceira y mirador del Alto da Memória",
+      "precio": "Gratis (jardín público municipal)"
+    },
+    {
+      "tipo": "Mirador de la Serra do Cume",
+      "precio": "Gratis (mirador al aire libre)"
+    },
+    {
+      "tipo": "Piscinas naturales de Biscoitos y playa de Praia da Vitória",
+      "precio": "Gratis (zonas de baño públicas)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Avistamiento de ballenas y delfines en la costa de Terceira",
+      "precio": "65 € (fuente: civitatis.com, precio por persona, verificado octubre 2026)",
+      "duracion": "3 horas",
+      "operador": "Operador náutico local, reserva vía Civitatis"
+    },
+    {
+      "actividad": "Excursión a las cuevas volcánicas: Algar do Carvão, Gruta do Natal y Furnas do Enxofre",
+      "precio": "45 € (fuente: civitatis.com, precio por persona, verificado octubre 2026); consultá si incluye las entradas",
+      "duracion": "3 a 4 horas",
+      "operador": "Operador local, reserva vía Civitatis"
+    },
+    {
+      "actividad": "Visita guiada por el centro histórico de Angra",
+      "precio": "35 € (fuente: civitatis.com, precio por persona, verificado octubre 2026)",
+      "duracion": "3 horas",
+      "operador": "Guías locales, reserva vía Civitatis"
+    },
+    {
+      "actividad": "Vuelta completa a la isla Terceira",
+      "precio": "64,90 € (fuente: civitatis.com, precio por persona, verificado octubre 2026)",
+      "duracion": "8 horas",
+      "operador": "Operador local, reserva vía Civitatis"
+    },
+    {
+      "actividad": "Tour en jeep por Terceira",
+      "precio": "80 € (fuente: civitatis.com, precio por persona, verificado octubre 2026)",
+      "duracion": "4 a 8 horas",
+      "operador": "Operador local, reserva vía Civitatis"
+    },
+    {
+      "actividad": "Costa oeste: Monte Brasil, piscinas de Biscoitos y degustación de quesos",
+      "precio": "50 € (fuente: civitatis.com, precio por persona, verificado octubre 2026)",
+      "duracion": "3 horas",
+      "operador": "Operador local, reserva vía Civitatis"
+    },
+    {
+      "actividad": "Snorkel en los islotes de las Cabras",
+      "precio": "45 € (fuente: civitatis.com, precio por persona, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Operador náutico local, reserva vía Civitatis"
+    },
+    {
+      "actividad": "Ballenas y delfines más islotes de las Cabras",
+      "precio": "115 € (fuente: civitatis.com, precio por persona, verificado octubre 2026)",
+      "duracion": "7 horas",
+      "operador": "Operador náutico local, reserva vía Civitatis"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Colectivo EVT aeropuerto de Lajes – Angra",
+      "precio": "2,95 € el viaje (fuente: horario oficial de EVT, evt.pt, verificado octubre 2026)",
+      "duracion": "Alrededor de 1 h a 1 h 10 según la combinación",
+      "notas": "La parada está en la zona de partidas. De lunes a viernes hay salidas desde las 6:40 hasta las 18:40; casi todas con transbordo en Praia da Vitória a la línea 2, y algunas por la línea 5 sin transbordo. Sábados y domingos hay menos servicios. Revisá el PDF del horario antes de viajar."
+    },
+    {
+      "medio": "Colectivos EVT en la isla (líneas a Praia da Vitória, Biscoitos, Serreta y pueblos)",
+      "precio": "EVT no publica tarifas en una web accesible; un blog pagó 2,95 € Angra–Praia da Vitória y 0,30 € un viaje urbano en Angra (fuente: To Azores Islands, blog, septiembre 2024, verificado octubre 2026)",
+      "duracion": "Variable; frecuencias bajas",
+      "notas": "EVT opera más de 18 líneas que salen de Angra. La línea 1 une Biscoitos, Serreta y Angra con pocas salidas por día (la primera de Angra a las 7:45 los días hábiles) y la línea 11 va directa a Biscoitos. Los colectivos no llegan a las cuevas del interior. Se paga a bordo; tené monedas."
+    },
+    {
+      "medio": "Taxi",
+      "precio": "Aeropuerto de Lajes – centro de Angra: 22–26 € (fuente: To Azores Islands, blog, septiembre 2024, verificado octubre 2026)",
+      "duracion": "Unos 20 minutos",
+      "notas": "Según ese relato, los taxis no usan taxímetro en ese trayecto: acordá el precio antes de subir. Para recorrer la isla, algunos taxistas ofrecen tours de medio día a precio cerrado."
+    },
+    {
+      "medio": "Auto de alquiler",
+      "precio": "Unos 25 € por día en septiembre de 2024, temporada alta, con reserva anticipada (fuente: To Azores Islands, blog, 2024, verificado octubre 2026)",
+      "duracion": "Libre",
+      "notas": "Es la forma práctica de llegar al Algar do Carvão, la Gruta do Natal, las Furnas do Enxofre y la Serra do Cume, que no tienen colectivo. Las agencias retiran en el aeropuerto. En el interior hay niebla frecuente y caminos angostos."
+    },
+    {
+      "medio": "A pie por el centro",
+      "precio": "Gratis",
+      "duracion": "El centro histórico se cruza en 15 a 20 minutos",
+      "notas": "Angra es compacta pero con subidas fuertes, sobre todo hacia el Alto da Memória y el Monte Brasil. Para vehículos de más de 3.500 kg el centro tiene circulación restringida."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Lisboa → Terceira (aeropuerto de Lajes, TER), avión",
+      "empresas": "TAP Air Portugal y Azores Airlines (grupo SATA); para el verano de 2026 Azores Airlines sumó dos frecuencias semanales Lisboa–Terceira",
+      "precio": "Desde 138 € ida y vuelta en económica para noviembre de 2026 (fuente: flytap.com, tarifas vistas en octubre 2026)",
+      "duracion": "Vuelo directo de 1 h 40 en promedio"
+    },
+    {
+      "ruta": "Sudamérica → Terceira (con escala en Lisboa)",
+      "empresas": "TAP Air Portugal y otras aerolíneas hasta Lisboa; luego TAP o Azores Airlines a Terceira",
+      "precio": "Sumá al pasaje transatlántico el tramo Lisboa–Terceira, desde 138 € ida y vuelta (fuente: flytap.com, tarifas vistas en octubre 2026)",
+      "duracion": "Un día de viaje con la conexión"
+    },
+    {
+      "ruta": "Ponta Delgada (São Miguel) → Terceira, avión interislas",
+      "empresas": "SATA Air Açores",
+      "precio": "No residentes: en general 60–120 € por tramo; la Tarifa Açores es sólo para residentes (fuente: Travel Azores, guía, marzo 2026, verificado octubre 2026)",
+      "duracion": "Unos 35 minutos"
+    },
+    {
+      "ruta": "Faial, Pico, São Jorge o Graciosa → Angra o Praia da Vitória, ferry",
+      "empresas": "Atlânticoline",
+      "precio": "Ida adulto: 45,90 € desde Horta, Madalena o Cais do Pico; 42,80 € desde Velas, Calheta o Graciosa; niños de 3 a 12: 22,95 € / 21,40 €; mayores de 65: 32,15 € / 30,00 € (fuente: atlanticoline.pt, tarifas vigentes, verificado octubre 2026)",
+      "duracion": "Horta–Praia da Vitória unas 4 h 30; ruta de temporada"
+    },
+    {
+      "ruta": "Aeropuerto de Lajes → Angra do Heroísmo",
+      "empresas": "EVT (colectivo) y taxis",
+      "precio": "Colectivo 2,95 € (fuente: EVT, verificado octubre 2026); taxi 22–26 € (fuente: To Azores Islands, blog, 2024)",
+      "duracion": "Colectivo 1 h a 1 h 10; taxi unos 20 minutos"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Hostels en el centro",
+      "nivel": 2,
+      "opciones": "Aliança café & hostel desde 18 €, Angra Heritage City Center Hostel desde 40 € y Globo Happy Hostel desde 51 € la noche (fuente: momondo.pt, precios vistos en octubre 2026). No hay tasa turística municipal en Angra. En las Sanjoaninas de fines de junio y en julio–agosto reservá con mucha anticipación."
+    },
+    {
+      "categoria": "Casas de huéspedes y alojamiento local",
+      "nivel": 3,
+      "opciones": "Downtown Guesthouse desde 34 €, Casa de Hóspedes Isaías desde 35 €, Príncipe de Mónaco Boutique House desde 39 € y Angra Bed & Breakfast desde 51 € la noche (fuente: momondo.pt, precios vistos en octubre 2026). Buena relación precio-ubicación para caminar el centro. Confirmá si el precio es por habitación o por persona."
+    },
+    {
+      "categoria": "Hoteles intermedios",
+      "nivel": 4,
+      "opciones": "Palácio Santa Catarina desde 56 €, Hotel do Caracol desde 58 €, Hotel Cruzeiro desde 63 € y Angra Garden Hotel desde 64 € la noche (fuente: momondo.pt, precios vistos en octubre 2026). El precio promedio por noche en la ciudad ronda los 88 € según el mismo sitio. En verano suben."
+    },
+    {
+      "categoria": "Lo más alto de Angra",
+      "nivel": 5,
+      "opciones": "Angra Marina Hotel, que momondo lista con cinco estrellas, desde 79 €; la Pousada de Angra do Heroísmo, en el fuerte de São Sebastião, desde 66 €; y Quinta da Nasce Água desde 73 € la noche (fuente: momondo.pt, precios vistos en octubre 2026). Son tarifas de temporada media: en junio y en verano pueden duplicarse."
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Alcatra de Terceira (el plato emblema)",
+      "nivel": 3,
+      "opciones": "Carne vacuna cocida lentamente en una olla de barro con vino, laurel, pimienta, clavo y pimienta de Jamaica, que se come con pan de leche para mojar en la salsa (fuente: exploreterceira.com, verificado octubre 2026). Para probarla: A Caneta, en Altares, y Quinta do Martelo, en São Mateus da Calheta, donde la reserva es obligatoria; Ti Choa, en Serreta, tiene un menú degustación regional (fuente: Dica de Portugal, blog, consultado octubre 2026). No publican precios online."
+    },
+    {
+      "tipo": "Quinta dos Açores: carne, quesos y helados de la casa",
+      "nivel": 2,
+      "opciones": "Restaurante del productor lácteo local: hamburguesas de carne azoriana, tabla de quesos y helados de sabores de la isla. La sede, en Pico Redondo 149 (São Bento), abre todos los días de 10 a 22; el Marina Grill, en la marina de Angra, tiene plato del día con sopa y bebida al almuerzo de lunes a viernes (fuente: quintadosacores.com, verificado octubre 2026). No publican precios online."
+    },
+    {
+      "tipo": "Taberna y cocina a leña",
+      "nivel": 4,
+      "opciones": "Taberna Roberto, en Angra, con horno a leña: su atún braseado es de lo más pedido; los platos principales cuestan entre 22 y 26 € (fuente: Dica de Portugal, blog, consultado octubre 2026). Conviene reservar los fines de semana. Para carne a la parrilla, el restaurante de la Associação Agrícola da Ilha Terceira, en Angra, trabaja con carne de productores locales."
+    },
+    {
+      "tipo": "Pescado y mariscos",
+      "nivel": 3,
+      "opciones": "O Pescador, en Praia da Vitória, y Beira Mar / Quebra Mar, en São Mateus da Calheta, con pescado del día, pulpo, lapas y cracas (percebes de las Azores) (fuente: Dica de Portugal, blog, consultado octubre 2026). De postre, la torta Dona Amélia, con miel de caña y canela, y el alfenim, figuras de azúcar de las fiestas del Espíritu Santo (fuente: exploreterceira.com, verificado octubre 2026)."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa para ir a Terceira si soy latinoamericano?",
+      "a": "No. Terceira es Portugal y forma parte del espacio Schengen. Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos entran como turistas sin visa por hasta 90 días dentro de cualquier período de 180, sumando todos los países Schengen. El EES registra huellas y foto en el primer control en lugar de sellar el pasaporte. El ETIAS, un permiso online de 20 € válido tres años, está previsto pero todavía no es obligatorio; la Unión Europea dice que avisará la fecha con meses de anticipación. Llevá pasaje de salida, reserva de alojamiento y seguro médico, que te pueden pedir en frontera."
+    },
+    {
+      "q": "¿Hay tasa turística en Angra do Heroísmo?",
+      "a": "No encontramos una. La lista de reglamentos de la Câmara Municipal de Angra (angradoheroismo.pt) no incluye una tasa turística, a diferencia de Ponta Delgada, en São Miguel, que cobra 2 € por noche. En 2023 la Cámara de Comercio de Angra propuso una tasa regional de 25 € para no residentes, pero no encontramos que se haya aplicado. Lo que sí pagás son entradas: 10 € el Algar do Carvão, 9 € la Gruta do Natal y 10 € el Angra City Pass para museos e iglesias del centro. Si tu alojamiento te cobra algún extra, pedí que te lo detallen en la factura."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse?",
+      "a": "Con tres días completos ves lo principal. Un día para el centro histórico, el museo y el palacio con el Angra City Pass, más la subida al Monte Brasil. Otro para el interior volcánico: Algar do Carvão, Furnas do Enxofre y Gruta do Natal, que abren a la tarde. Y un tercero para la costa: Biscoitos, la Serra do Cume y Praia da Vitória. Si sumás una salida de ballenas o los islotes de las Cabras, agregá un día. Tené en cuenta que entre octubre y marzo las cuevas abren sólo martes, miércoles, viernes y sábados."
+    },
+    {
+      "q": "¿Hace falta auto?",
+      "a": "Para el interior de la isla, casi sí. Los colectivos de EVT conectan Angra con el aeropuerto, Praia da Vitória y los pueblos de la costa, pero con pocas salidas y no llegan al Algar do Carvão, la Gruta do Natal, las Furnas do Enxofre ni al mirador de la Serra do Cume. Un viajero pagó unos 25 € por día en septiembre de 2024 reservando con tiempo. Sin auto, las alternativas son las excursiones (la de cuevas ronda 45 € y la vuelta a la isla 64,90 € en Civitatis) o un taxi a precio cerrado. En el centro de Angra, mejor a pie."
+    },
+    {
+      "q": "¿Cuándo conviene ir y qué pasa con el Algar do Carvão?",
+      "a": "De junio a septiembre el clima es más estable y las cuevas abren todos los días; a fines de junio están las Sanjoaninas (del 19 al 28 de junio en 2026), con la ciudad llena y alojamiento más caro. Fuera de temporada hay menos gente y precios más bajos, pero más lluvia y niebla. Ojo con el Algar do Carvão: Os Montanheiros anunció que a fines de octubre o en noviembre de 2026 suspende las visitas hasta mediados o fines del primer trimestre de 2027 para terminar su nuevo centro de visitantes. Revisá montanheiros.com antes de armar el viaje."
+    },
+    {
+      "q": "¿Es seguro Angra do Heroísmo?",
+      "a": "Es una ciudad chica y tranquila, y el centro se camina de día y de noche sin problemas; aplicá las precauciones normales con celular y billetera en fiestas con mucha gente. Los riesgos reales son otros. En las touradas à corda el toro corre suelto dentro del tramo: mirá desde detrás de las protecciones y no te acerques aunque veas a los locales hacerlo. En las piscinas naturales de Biscoitos no te metas con oleaje. En las cuevas el piso es irregular y húmedo, y en las Furnas do Enxofre el suelo está caliente: no salgas de los caminos marcados."
+    },
+    {
+      "q": "¿Se puede pagar con tarjeta?",
+      "a": "En general sí: hoteles, restaurantes y supermercados aceptan tarjeta. El Algar do Carvão y la Gruta do Natal aceptan efectivo, débito y crédito, salvo American Express. Pero hay excepciones: en los lugares del Angra City Pass, si lo comprás en la puerta, sólo aceptan efectivo, y en los colectivos de EVT conviene tener monedas. La moneda es el euro. Si vas a pueblos chicos del interior o a las touradas, llevá algo de efectivo para comer y tomar algo en los puestos."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (PT) — «Angra do Heroísmo»: https://pt.wikipedia.org/wiki/Angra_do_Hero%C3%ADsmo",
+      "Wikipedia (EN) — «Angra do Heroísmo»: https://en.wikipedia.org/wiki/Angra_do_Hero%C3%ADsmo",
+      "Wikipedia (PT) — «Palácio dos Capitães-Generais (Angra do Heroísmo)»: https://pt.wikipedia.org/wiki/Pal%C3%A1cio_dos_Capit%C3%A3es-Generais_(Angra_do_Hero%C3%ADsmo)",
+      "Wikipedia (EN) — «Monte Brasil»: https://en.wikipedia.org/wiki/Monte_Brasil",
+      "Wikipedia (PT) — «Jardim Duque da Terceira»: https://pt.wikipedia.org/wiki/Jardim_Duque_da_Terceira",
+      "Wikipedia (PT) — «Tourada à corda»: https://pt.wikipedia.org/wiki/Tourada_%C3%A0_corda",
+      "Wikipedia (EN) — «Praia da Vitória»: https://en.wikipedia.org/wiki/Praia_da_Vit%C3%B3ria",
+      "Wikipedia (EN) — «Biscoitos»: https://en.wikipedia.org/wiki/Biscoitos",
+      "Wikipedia (PT) — «Serra do Cume»: https://pt.wikipedia.org/wiki/Serra_do_Cume",
+      "Wikipedia (EN) — «Gruta do Natal»: https://en.wikipedia.org/wiki/Gruta_do_Natal",
+      "Wikipedia (EN) — «Algar do Carvão»: https://en.wikipedia.org/wiki/Algar_do_Carv%C3%A3o",
+      "Wikipedia (EN) — «Furnas do Enxofre / Parque Natural da Terceira»: https://en.wikipedia.org/wiki/Furnas_do_Enxofre"
+    ],
+    "que_ver_atracciones": [
+      "Os Montanheiros — «Algar do Carvão: épocas de abertura, bilhetes»: https://www.montanheiros.com/algarcarvao",
+      "Os Montanheiros — «Gruta do Natal: dias e horários, bilhetes»: https://www.montanheiros.com/gruta-do-natal/",
+      "Os Montanheiros — «Frequently Asked Questions»: https://www.montanheiros.com/en/faq/",
+      "Explore Terceira — «Angra City Pass»: https://www.exploreterceira.com/en/angra-city-pass/",
+      "Museu de Angra do Heroísmo — «Agenda julho 2023 (preçário e visitas à Fortaleza)»: https://museu-angra.cultura.azores.gov.pt/wp-content/uploads/2024/01/agendaMAH-07-2023.pdf",
+      "Museu de Angra do Heroísmo — «Horário (10:00 - 17:30)»: https://museu-angra.cultura.azores.gov.pt/en/?p=519",
+      "Visit Azores — «Monte Brasil»: https://www.visitazores.com/en/explore/monte-brasil",
+      "Visit Azores — «Furnas do Enxofre»: https://www.visitazores.com/en/explore/furnas-do-enxofre",
+      "Azores Geopark — «Furnas do Enxofre»: https://dev.azoresgeopark.com/en/?p=6570",
+      "Sanjoaninas — «Sanjoaninas 2026»: https://www.sanjoaninas.pt/"
+    ],
+    "precios_2026": [
+      "Civitatis — «Excursiones y visitas guiadas en Angra do Heroísmo»: https://www.civitatis.com/es/angra-do-heroismo/",
+      "Atlânticoline — «Tarifas»: https://www.atlanticoline.pt/tarifas/",
+      "Câmara Municipal de Angra do Heroísmo — «Portal do Município (regulamentos)»: https://angradoheroismo.pt/",
+      "ECO / SAPO — «Câmara de Comércio de Angra do Heroísmo propõe taxa de 25 euros para visitantes nos Açores»: https://eco.sapo.pt/2023/07/25/camara-de-comercio-de-angra-do-heroismo-propoe-taxa-de-25-euros-para-visitantes-nos-acores/"
+    ],
+    "como_llegar_transporte": [
+      "EVT — «Viagens Aeroporto - Angra do Heroísmo (horário e preço)»: https://www.evt.pt/percursos/documentos/horario-apt-angra.pdf",
+      "EVT — «Carreira 1: Biscoitos - Serreta - Angra»: http://www.evt.pt/percursos/doc/carreira1.pdf",
+      "byAçores — «Public Transport in the Azores: Schedules, Prices, and Routes»: https://byacores.com/en/public-transport/",
+      "TAP Air Portugal — «Voos de Lisboa para a Terceira»: https://www.flytap.com/pt_pt/voos-de-lisboa-para-terceira",
+      "TAP Air Portugal — «Voos para a Terceira (TER)»: https://www.flytap.com/pt_pt/voos-para-terceira",
+      "Azores Airlines — «IATA Summer Operation 2026»: https://www.azoresairlines.pt/en/node/1898",
+      "Travel Azores — «Transportes Públicos nos Açores: autocarros, ferries e voos inter-ilhas»: https://travel-azores.com/pt/magazine/azores-public-transport-buses-ferries-and-inter-island-flights-guide",
+      "To Azores Islands — «How to get around Terceira island»: https://toazoresislands.com/how-to-get-around-terceira-island/",
+      "Lajes Airport guide — «Getting to Lajes Airport by Bus»: https://lajesairport.com/lajes-airport-transfers/bus/"
+    ],
+    "alojamiento_gastronomia": [
+      "momondo — «Hotéis em Angra do Heroísmo»: https://www.momondo.pt/hoteis/angra-do-heroismo",
+      "Dica de Portugal — «Melhores restaurantes da Ilha Terceira nos Açores»: https://dicadeportugal.com/acores/melhores-restaurantes-da-ilha-terceira-nos-acores/",
+      "Quinta dos Açores — «Restaurante Sede»: https://www.quintadosacores.com/restaurante-sede/",
+      "Quinta dos Açores — «Restaurante Marina Grill»: https://www.quintadosacores.com/restaurante-marina-grill/",
+      "Explore Terceira — «Gastronomy and Wine»: https://www.exploreterceira.com/en/discover/gastronomia-e-vinhos/"
+    ],
+    "visas_entrada": [
+      "Euronews — «EU's ETIAS travel authorisation delayed until 2026»: https://www.euronews.com/2025/03/14/eus-etias-travel-authorisation-delayed-until-2026-heres-when-youll-have-to-pay",
+      "TTG Media — «EU confirms October start date for new biometric border rules and ETIAS price hike»: https://www.ttgmedia.com/news/eu-confirms-october-start-date-for-new-biometric-border-rules-and-etias-visa-waiver-price-hike-52893"
+    ]
+  }
+}
