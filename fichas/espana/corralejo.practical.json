@@ -1,0 +1,599 @@
+{
+  "slug": "corralejo",
+  "name": "Corralejo",
+  "region": "Fuerteventura (Canarias)",
+  "lat": 28.7283,
+  "lon": -13.8675,
+  "datosRapidos": [
+    {
+      "label": "Municipio e isla",
+      "value": "Corralejo es una localidad del municipio de La Oliva, en la punta norte de la isla de Fuerteventura, provincia de Las Palmas, comunidad autónoma de Canarias (España). Según el INE, en 2023 tenía 18.704 habitantes, y es el segundo núcleo de población de la isla después de la capital, Puerto del Rosario. Fue una caleta de pescadores chica hasta mediados del siglo XX; el turismo llegó en los años setenta y hoy vive de hoteles, apartamentos, bares y escuelas de surf. Se la conoce por tres cosas. La primera, el Parque Natural de Corralejo: más de 2.600 hectáreas de dunas de arena blanca y playas largas que empiezan al sur del pueblo. La segunda, el islote de Lobos, que se ve desde el paseo y al que se cruza en barco en unos 20 minutos, con permiso previo del Cabildo. La tercera, su puerto: desde acá salen los ferris a Playa Blanca, en Lanzarote, y según Wikipedia es el puerto de gestión autonómica con más pasajeros de Canarias. Es además una base cómoda para el norte de la isla: El Cotillo, Lajares, el volcán Calderón Hondo y La Oliva quedan a un rato en auto o en guagua (así le dicen al colectivo en Canarias)."
+    },
+    {
+      "label": "Moneda e idioma",
+      "value": "Se paga en euros. El idioma es el castellano con acento canario, de ritmo parecido al del Caribe. Al colectivo le dicen 'guagua', y las papas son 'papas', como en el Río de la Plata. En la zona turística se escucha mucho inglés y muchas cartas vienen en varios idiomas. En las guaguas de Tiadhe se puede pagar en efectivo a bordo, pero el chofer no acepta billetes de más de 50 € ni que superen cinco veces el boleto: llevá monedas o billetes chicos."
+    },
+    {
+      "label": "Mejor época",
+      "value": "Se puede ir todo el año. Según AEMET (estación del aeropuerto de Fuerteventura, serie 1981-2010), la temperatura media anual es de 21,1 °C: enero es el mes más fresco (17,6 °C de media) y agosto el más cálido (24,6 °C). Llueven apenas 98 mm por año. Lo que cambia es el precio: según Momondo, junio es el mes más barato para dormir en Corralejo y diciembre el más caro. El parque acuático abre sólo de fines de marzo a principios de noviembre, y los barcos a Lobos tienen más salidas en el horario de verano (13 de junio al 10 de septiembre)."
+    },
+    {
+      "label": "Visado y entrada",
+      "value": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos no necesitan visa para turismo de hasta 90 días en cualquier período de 180 dentro del espacio Schengen, y Canarias forma parte de él. Desde el 10 de abril de 2026 el EES (sistema europeo de entradas y salidas) funciona en todos los pasos fronterizos: en tu primer control Schengen te toman huellas y foto en vez de sellar el pasaporte. Si llegás con escala en Madrid, ese control lo hacés en Madrid. El ETIAS, el permiso previo online, todavía no se pide: no tiene fecha oficial y la prensa especializada apunta a 2027."
+    }
+  ],
+  "intro": [
+    "Corralejo es el lugar donde Fuerteventura se vuelve desierto y mar a la vez. Salís del pueblo por la carretera FV-1 y en pocos minutos estás entre dunas blancas que bajan hasta un agua turquesa, con el islote de Lobos y la silueta de Lanzarote enfrente. No hace falta pagar nada para caminar por ahí: las dunas y las playas son públicas. Alcanza con agua, gorra, protector y ganas de caminar por la arena.",
+    "El pueblo en sí es chico y fácil de entender. Tiene un casco viejo con el puerto de pescadores, la Cofradía, una playita urbana y una calle peatonal llena de bares, y del otro lado una franja de hoteles que crece hacia las dunas. Del muelle salen los barcos a Lobos, una isla sin habitantes con cupo de visitantes, y los ferris a Lanzarote, que en media hora te dejan en Playa Blanca. Es una base práctica para quien viaja sin auto.",
+    "El norte de la isla completa el viaje. En El Cotillo hay calas de agua quieta y un faro con museo de la pesca; en Lajares, un mercadillo los sábados y el sendero al cráter del Calderón Hondo; en La Oliva, la Casa de los Coroneles, la mansión desde donde se mandó en la isla durante siglos. Y si te gusta el agua con viento, Corralejo tiene escuelas de surf, kitesurf y windsurf para empezar de cero, con cursos desde un par de horas."
+  ],
+  "historia_corta": "La historia escrita de Corralejo empieza con la conquista normanda. En 1402, la expedición de Gadifer de la Salle desembarcó en esta costa desde Lanzarote, y en octubre de ese año parte de sus hombres usó el islote de Lobos como base para cazar lobos marinos (focas monje), el animal que le dio nombre a la isla. A fines del siglo XVI el ingeniero italiano Leonardo Torriani, al servicio de Felipe II, dibujó la zona en sus mapas. En el siglo XVII la caleta servía de refugio a contrabandistas y piratas, y en 1772 el historiador José de Viera y Clavijo la citó entre los puertos de la isla. No había, sin embargo, un pueblo estable: la tradición oral fecha la fundación hacia 1810, y otros relatos dicen que no hubo pobladores registrados hasta 1850. Hasta mediados del siglo XX fue una caleta de pescadores que dependía de La Oliva. En 1925 los propios pescadores levantaron la Ermita de Nuestra Señora del Carmen, su patrona, reemplazada por una iglesia moderna en los años ochenta. El turismo llegó al norte de la isla en los años setenta, y en 1994 las dunas quedaron protegidas como Parque Natural de Corralejo. En los años 2000 el pueblo vivió su mayor crecimiento turístico y se instalaron muchos británicos e irlandeses. En 2017 empezó la peatonalización de la calle principal, en 2021 abrió un casino y, según el INE, en 2023 Corralejo ya tenía 18.704 habitantes, el segundo núcleo de Fuerteventura.",
+  "queVer": [
+    {
+      "nombre": "Parque Natural de Corralejo (dunas y Grandes Playas)",
+      "desc": "El mayor campo de dunas de Canarias: arena blanca hasta el mar, con Lobos y Lanzarote enfrente y playas largas para caminar.",
+      "detalle": "El Parque Natural de Corralejo ocupa más de 2.600 hectáreas al sur del pueblo. Fue declarado parque natural en 1994. Según Hello Canary Islands, la web oficial de turismo de Canarias, es una franja costera de 2,5 por 10,5 km con dos caras: al norte, el mayor campo de dunas de todo el archipiélago; al sur, un paisaje volcánico rojo y ocre.\n\nLa arena es de origen orgánico: son restos triturados de conchas y esqueletos de animales marinos. Bajo las dunas móviles hay dunas fósiles y, en la costa, restos de una playa fósil. Es además área importante para aves esteparias según BirdLife.\n\nLas Grandes Playas arrancan a unos 3 km del pueblo. La carretera FV-1 atraviesa el parque: dejás el auto y seguís a pie. Si querés subir, la Montaña Roja ofrece vistas de Lanzarote y La Graciosa. Sin auto, la línea 6 de Tiadhe llega a la parada Los Hoteles, en la zona hotelera junto a las dunas, por 1,40 € de lunes a viernes.\n\nNo hay sombra ni servicios en la mayor parte del recorrido: llevá agua, protector y algo para tapar la cabeza. No te lleves arena ni piedras, no saques plantas y respetá los senderos señalizados.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Empieza a unos 3 km del centro, sobre la FV-1 hacia Puerto del Rosario"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; a primera hora o al atardecer hace menos calor y la luz es mejor"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio natural abierto)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día; un día entero si sumás playa"
+        }
+      ]
+    },
+    {
+      "nombre": "Isla de Lobos (Islote de Lobos)",
+      "desc": "Islote deshabitado a 20 minutos en barco, con cupo diario: hay que sacar antes un permiso gratuito del Cabildo de Fuerteventura.",
+      "detalle": "Lobos es un islote de unos 4,5 km² a unos 2 km al noreste de Corralejo, separado de Fuerteventura por un estrecho llamado El Río que no pasa de 15 metros de profundidad. Debe el nombre a las focas monje ('lobos marinos') que vivían ahí. Una investigación de la Universidad de La Laguna encontró que los romanos tuvieron un asentamiento al menos estacional para obtener tinte púrpura. En Lobos nació la escritora Josefina Pla.\n\nSe recorre a pie. Desde el muelle hay senderos al volcán de La Caldera, que creó el islote y desde cuya cima se ven Lanzarote y las dunas de Corralejo, y al faro de Martiño, en la punta norte. También están la playa de La Concha, en forma de media luna, y El Puertito, el viejo refugio de pescadores. Hay un solo restaurante, el de los descendientes de Antoñito el farero: reservá al llegar o llevá comida.\n\nEl permiso es obligatorio y gratis. Se pide en lobospass.com desde 3 días antes, hasta 3 plazas por solicitud. Hay dos turnos (10 a 14 y 14 a 18 h) con 200 visitantes a la vez y una estadía máxima de 4 horas. Al bajar del barco te lo piden: sin él no entrás. Algunos paquetes de ferry incluyen el trámite; desconfiá de webs que cobran por el permiso solo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 2 km al noreste; 20 minutos de barco desde el puerto de Corralejo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; en verano hay más barcos. Pedí el permiso apenas se abra el cupo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Permiso gratis en lobospass.com. Ferry ida y vuelta 17 € adulto, 11 € niños de 4 a 11 años, gratis de 0 a 3; residentes canarios 14 € y 9 € (fuente: islalobos.es, naviera Isla de Lobos, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "4 horas como máximo en la isla, más el cruce"
+        }
+      ]
+    },
+    {
+      "nombre": "Casco viejo y puerto de Corralejo",
+      "desc": "El Corralejo de los pescadores: muelle, Cofradía, iglesia del Carmen y la calle peatonal donde se concentra la vida del pueblo.",
+      "detalle": "El núcleo histórico de Corralejo es el puerto. Ahí estuvo la caleta de pescadores que dio origen al pueblo en el siglo XIX, y ahí siguen la Cofradía de Pescadores y la lonja. Según Wikipedia, es el puerto de gestión autonómica con más tráfico de pasajeros de Canarias, porque de él salen los ferris a Lanzarote y los barcos a Lobos.\n\nLos pescadores construyeron en 1925 la Ermita de Nuestra Señora del Carmen, patrona del pueblo; en los años ochenta la reemplazó una iglesia moderna. Las visitas guiadas gratuitas que se ofrecen en el pueblo recorren la playa de Corralejo Viejo, la Plaza Félix Estévez y el muelle viejo.\n\nDesde 2017 la calle principal se fue peatonalizando y hoy concentra comercios, bares y restaurantes. Es el mejor lugar para caminar al caer la tarde, mirar Lobos desde el paseo y cenar pescado. En la zona del muelle están los restaurantes de pescado más conocidos, como el de la Cofradía.\n\nNo es un casco colonial ni monumental: es un pueblo marinero que creció rápido con el turismo. El encanto está en el puerto, el paseo y la vista de las islas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En el centro del pueblo, junto al muelle"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; el atardecer es el mejor momento"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa del Muelle Chico (Corralejo Viejo)",
+      "desc": "La playita urbana del casco viejo, junto al puerto: arena fina, agua baja y bares a pocos pasos. Ideal para un rato, no para el día entero.",
+      "detalle": "En el centro de Corralejo, al lado del puerto, hay una playa urbana chica que aparece con varios nombres: Muelle Chico, Muelle Viejo o Corralejo Viejo. Se llega caminando desde cualquier punto del centro, y el paseo marítimo la une con otras playitas cercanas y con la zona de bares, tiendas y restaurantes.\n\nLonely Planet describe las playas del puerto como de arena fina y agua poco profunda, cómodas para un baño corto o para chicos. Spain.info, la web oficial de turismo de España, también la tiene en su catálogo de playas.\n\nHay un detalle a tener en cuenta: la guía Fuerteventura Playas advierte que, por la cercanía del puerto, la calidad del agua a veces no es buena, y que en algunas épocas no se recomienda bañarse. Por eso conviene tomarla como lugar para tomar sol o esperar el barco, y dejar el baño largo para las Grandes Playas. Si hay bandera o cartel de prohibición, respetalo.\n\nAl atardecer se llena de gente que mira la puesta de sol sobre Lobos y Lanzarote desde la arena o desde las terrazas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En el centro, junto al puerto"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; atardeceres"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "El Cotillo (lagunas y Torre del Tostón)",
+      "desc": "Pueblo de pescadores en la costa noroeste: calas de agua quieta (Los Lagos, La Concha) y una torre defensiva del año 1700.",
+      "detalle": "El Cotillo es otra localidad del municipio de La Oliva, en la costa noroeste. Según Wikipedia tenía 1.289 habitantes en 2015. Desde el siglo XVII había ahí un asentamiento de pescadores junto al desembarcadero llamado Puerto del Roque, que fue llegada de la ruta comercial entre Madeira y Fuerteventura. El nombre El Cotillo recién se generalizó a mediados del siglo XX, y el turismo llegó en los años ochenta.\n\nLo más buscado son sus calas de agua clara y arena fina, conocidas como La Concha y Los Lagos: las 'lagunas', piletones naturales protegidos por la roca, donde el agua queda quieta. Son buenas para chicos y para quien no se anima al mar abierto. En las lagunas también se dan cursos de windsurf para principiantes.\n\nEl monumento del pueblo es la Torre del Tostón, construida en 1700 para defender la costa de piratas berberiscos, ingleses y franceses, y declarada Bien de Interés Cultural en 1949.\n\nCómo llegar: la línea 8 de Tiadhe une Corralejo con El Cotillo todos los días (3,10 €; 2,05 € los servicios directos). En auto se puede seguir hasta el faro del Tostón.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En la costa noroeste; línea 8 de guagua desde Corralejo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; con marea baja las lagunas quedan más protegidas"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playas y torre por fuera). Guagua línea 8 desde Corralejo 3,10 € o 2,05 € directo (fuente: horario oficial Tiadhe, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Faro del Tostón y Museo de la Pesca Tradicional",
+      "desc": "Tres faros en la punta noroeste de la isla, y en la casa del farero un museo sobre cómo se pescaba en Fuerteventura.",
+      "detalle": "En la punta noroeste de Fuerteventura, a unos 5 km de El Cotillo según Lonely Planet, hay tres faros juntos que cuentan la historia del lugar. El primero se inauguró en 1897: una torre de mampostería de 7 metros en una esquina de la casa del farero. En los años cincuenta se sumó una torre de hormigón de 15 metros, y en 1986 se encendió el faro actual, de 30 metros, blanco con franjas rojas.\n\nLa vieja casa del farero se reformó como Museo de la Pesca Tradicional. Con paneles, herramientas antiguas y videos cortos explica cómo los pescadores de la isla aprovechaban el mar. Hay información en inglés, y se puede subir a la torre de los años cincuenta para ver el océano.\n\nSegún Lonely Planet, abre de martes a sábado, de 10 a 14:30 y de 15:15 a 18 h, pero esos horarios pueden estar desactualizados; el café del museo figuraba cerrado en su última visita. No encontramos el precio de entrada publicado: confirmalo en el lugar.\n\nEl entorno es costa volcánica abierta, con mucho viento. Es un buen cierre para el día en El Cotillo, sobre todo al atardecer. No hay guagua hasta el faro: hace falta auto, bici o ganas de caminar.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 5 km al norte de El Cotillo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; la tarde y el atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Precio no publicado en las fuentes consultadas; consultá en el lugar (fuente: Lonely Planet, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Volcán Calderón Hondo y el pueblo de Lajares",
+      "desc": "Sendero corto y fácil hasta el borde de un cráter bien conservado, que arranca cerca de Lajares, pueblo con mercadillo los sábados.",
+      "detalle": "El Calderón Hondo es uno de los cráteres mejor conservados de Fuerteventura. Según Hello Canary Islands, la web oficial de turismo de Canarias, entró en erupción hace entre 50.000 y 130.000 años. Queda al este de la ruta que sale de Lajares hacia Majanicho, en el municipio de La Oliva.\n\nEl sendero oficial es el SL-FV-2, parte de la red del GR-131: un circuito de unos 5 km, de dificultad baja, que se hace en alrededor de una hora y media. Sube por un camino empedrado hasta un mirador a 278 metros, sobre el cráter, con vistas a los malpaíses (campos de lava) y a Lanzarote. Es común cruzarse con ardillas: no les des de comer.\n\nLlevá agua y protector: no hay sombra ni señal de celular en el recorrido. No armes torres de piedras ni salgas del sendero marcado.\n\nLajares, el pueblo de partida, queda entre Corralejo y El Cotillo. Los sábados de 10 a 14 h hay un mercadillo de artesanía y productos locales con música en vivo, según mercadillos.org. La línea 7 de Tiadhe pasa por Lajares. Para hacer el paseo con guía, hay excursiones de senderismo que salen de Corralejo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Inicio cerca de Lajares, entre Corralejo y El Cotillo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; evitá el mediodía en verano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (sendero público). Con guía, excursión desde 60 € (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 horas el circuito; 5 horas la excursión guiada"
+        }
+      ]
+    },
+    {
+      "nombre": "La Oliva y la Casa de los Coroneles",
+      "desc": "La antigua capital del poder militar de la isla: una mansión del siglo XVII con torres almenadas, hoy en obras de rehabilitación.",
+      "detalle": "La Oliva es la cabecera del municipio al que pertenece Corralejo. Su edificio más conocido es la Casa de los Coroneles, una mansión de la segunda mitad del siglo XVII construida como residencia oficial del coronelato: los coroneles concentraban el poder civil y militar de Fuerteventura, cargo hereditario que pasó de la familia Sánchez Dumpiérrez a los Cabrera Bethencourt. Es monumento histórico-artístico desde 1979.\n\nSe destaca por su tamaño, sus balcones de madera, el patio canario y las torres almenadas que servían de defensa ante los piratas. Estuvo abandonada y en ruinas durante el siglo XX y se restauró en 2006.\n\nOjo: según Hello Canary Islands, la web oficial de turismo de Canarias, la casa figura temporalmente cerrada por rehabilitación (consultado en octubre de 2026). Desde afuera igual se aprecia el edificio. Antes de las obras abría de martes a sábado de 10 a 18 h, y un folleto oficial de 2014 marcaba 3 € la entrada general.\n\nEn el pueblo también están la iglesia de Nuestra Señora de la Candelaria y el Mercado de las Tradiciones, cuya rehabilitación terminó el Cabildo en septiembre de 2025. La línea 7 de Tiadhe une La Oliva con Corralejo por 1,65 €.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En el centro de la isla norte; línea 7 de guagua desde Corralejo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; confirmá antes si reabrió la casa"
+        },
+        {
+          "label": "Entrada",
+          "value": "Temporalmente cerrada por rehabilitación según Hello Canary Islands (verificado octubre 2026); antes de las obras, 3 € general según folleto oficial de 2014"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Cueva del Llano (Villaverde)",
+      "desc": "Un tubo volcánico de 650 metros con una araña ciega que no existe en otro lugar; hoy se visita sólo el centro de interpretación.",
+      "detalle": "La Cueva del Llano es un tubo volcánico de unos 650 metros de largo, de los que 450 eran visitables, en Villaverde, municipio de La Oliva. Según el blog de la cadena Lopesan, tiene más de un millón de años.\n\nEs famosa por dos cosas. La primera, la Maiorerus randoi, una araña chiquita, ciega y pálida que sólo vive en esta cueva y está amenazada de extinción. La segunda, un yacimiento con la mayor concentración de huesos de Canarias, formado por las egagrópilas (bolos que regurgitan las aves rapaces). A lo largo de la historia, la cueva sirvió de corral de camellos, gallinero y polvorín.\n\nAl lado hay un centro de interpretación que explica la formación de la isla. Según el mismo blog, en marzo de 2026 el tubo estaba cerrado por seguridad y sólo se podía visitar el centro de interpretación, gratis. Otras fuentes hablan de cierre por protección de la araña y derrumbe en la entrada, y los horarios que circulan son viejos.\n\nAntes de ir, confirmá por teléfono si está abierto: el centro de visitantes figura con el número +34 928 858 998. Si el tubo reabre, la visita es con guía especializado.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En Villaverde, entre Corralejo y La Oliva"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; confirmá la apertura antes"
+        },
+        {
+          "label": "Entrada",
+          "value": "Centro de interpretación gratis; tubo cerrado por seguridad (fuente: blog Lopesan, marzo 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Alrededor de 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Surf, kitesurf y windsurf en Corralejo",
+      "desc": "Escuelas para empezar de cero en las playas del pueblo y las lagunas de El Cotillo, y una ola de calidad en Lobos para los que ya saben.",
+      "detalle": "Corralejo es uno de los centros de deportes de agua de Canarias: surf, kitesurf, windsurf y paddle surf. El pueblo organiza incluso el Canarias Surf Film Festival. Hay escuelas en el centro y en la zona de las dunas, y muchas ofrecen alojamiento tipo 'surf house' para quienes vienen a aprender por una semana.\n\nPara surf, los cursos para principiantes duran unas dos horas por día e incluyen tabla, traje y traslado a la playa que esté mejor ese día. Para kitesurf, el primer día suele ser teoría y práctica en la arena: Flag Beach, una de las escuelas más antiguas del pueblo, empieza con una hora de teoría y tres horas de práctica en la playa sin entrar al agua. Para windsurf, las lagunas de El Cotillo son agua quieta y poco profunda, buena para los primeros días.\n\nPara surfistas con experiencia, en la base de La Caldera, en Lobos, hay una ola de derecha de mucha calidad según la naviera Isla de Lobos; ojo con el permiso del Cabildo para desembarcar.\n\nRespetá las banderas y las indicaciones de las escuelas: corrientes y viento cambian rápido.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Escuelas en el pueblo; clases en las Grandes Playas, Flag Beach y El Cotillo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; preguntá a la escuela por viento y olas de esa semana"
+        },
+        {
+          "label": "Entrada",
+          "value": "Curso de surf desde 50 € (fuente: Civitatis, verificado octubre 2026); kitesurf 1 día 175 €, clase privada 1 hora 75 € (fuente: flagbeach.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas (surf) a un día (kitesurf)"
+        }
+      ]
+    },
+    {
+      "nombre": "Acua Water Park",
+      "desc": "El único parque acuático de Fuerteventura, en la zona turística de Corralejo: toboganes, río lento, piscina de olas y zona infantil.",
+      "detalle": "Acua Water Park está en la zona turística de Corralejo y, según su web, es el único parque acuático de Fuerteventura. Tiene más de 25.000 m² y más de 14 atracciones: río rápido, kamikazes, zig-zag, Dark Cave, toboganes familiares, río lento, piscina de olas, jacuzzis, un castillo de saltos y una zona infantil.\n\nAbre por temporada. Para 2026, la web marca: del 27 de marzo al 12 de abril, todos los días de 10:30 a 17:30; del 13 de abril al 31 de mayo, de 10:30 a 17:30 con cierre miércoles y jueves; del 1 de junio al 31 de agosto, todos los días de 10 a 18; del 1 de septiembre al 18 de octubre, de 10:30 a 17:30 con cierre miércoles y jueves; y del 19 de octubre al 8 de noviembre, todos los días de 10:30 a 17:30. Las atracciones cierran media hora antes que el parque.\n\nLa entrada incluye hamacas, vestuarios, duchas, animación y estacionamiento gratis. Podés salir y volver el mismo día con la pulsera. Hay un bus propio (AcuaBus) y un pack VIP con flotador, locker y menú. La tarifa de residente sólo sirve para residentes canarios.\n\nComprá online: la web vende por fecha y avisa que calendario y precios pueden cambiar.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En la zona turística de Corralejo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "De fines de marzo a principios de noviembre; en verano abre todos los días"
+        },
+        {
+          "label": "Entrada",
+          "value": "1 día no residente desde 23 €; Water Days no residente desde 33,50 €; residentes canarios desde 15 € (fuente: acuawaterpark.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Un día"
+        }
+      ]
+    },
+    {
+      "nombre": "Ferry a Lanzarote (Playa Blanca)",
+      "desc": "En 25 a 35 minutos de ferry estás en el sur de Lanzarote: la excursión de un día más fácil que se puede hacer desde Corralejo.",
+      "detalle": "Corralejo y Playa Blanca, en la punta sur de Lanzarote, están separadas por unos 15 km de mar, el estrecho de La Bocaina. Según Fred. Olsen Express, el cruce dura 25 o 35 minutos según el barco. Según el comparador Ferryhopper, hay más de 20 salidas por día entre cuatro navieras: Fred. Olsen Express, Naviera Armas, Líneas Romero y Baleària. La primera sale de Corralejo alrededor de las 6:15 y la última cerca de las 22.\n\nEs la forma más barata de sumar una segunda isla al viaje. En Playa Blanca podés caminar el paseo marítimo y Marina Rubicón, ir a las playas de Papagayo o seguir hacia Timanfaya en auto o excursión. Esa parte la contamos en nuestra ficha de Playa Blanca.\n\nOjo con los precios: el 'desde 8 €' que publicita Fred. Olsen es para residentes canarios. Para turistas, Ferryhopper muestra pasajes de ida desde unos 17 €, según fecha y naviera. Comprá con anticipación en temporada alta y llegá al muelle con tiempo.\n\nSi alquilaste auto en Fuerteventura y querés cruzarlo, preguntá antes a la rentadora si lo permite.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Desde el puerto de Corralejo; unos 15 km de mar"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; con mar calmo el cruce es más cómodo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Ida desde 17 € para no residentes según fecha y naviera (fuente: Ferryhopper, comparador, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Un día de excursión; 25 a 35 minutos cada cruce"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Isla de Lobos: permiso de visita del Cabildo de Fuerteventura",
+      "precio": "Gratis. Se pide en lobospass.com desde 3 días antes, hasta 3 plazas por solicitud, turnos de 10 a 14 y 14 a 18 h (fuente: Cabildo de Fuerteventura y naviera Isla de Lobos, verificado octubre 2026). Desconfiá de webs que cobran sólo por el permiso"
+    },
+    {
+      "tipo": "Isla de Lobos: ferry de la naviera Isla de Lobos (ida y vuelta)",
+      "precio": "Adulto 17 €; niños 4-11 años 11 €; 0-3 años gratis; residentes canarios 14 € y 9 €. Incluye IGIC, seguro y tasas portuarias (fuente: islalobos.es, verificado octubre 2026). Se compra online o en el puerto de Corralejo"
+    },
+    {
+      "tipo": "Isla de Lobos: otras navieras y watertaxi",
+      "precio": "Naviera Nortour desde 17 € (fuente: navieranortour.com, verificado octubre 2026); watertaxi desde 16 € (fuente: Civitatis, verificado octubre 2026). Revisá si el pasaje incluye el trámite del permiso"
+    },
+    {
+      "tipo": "Acua Water Park",
+      "precio": "1 día no residente desde 23 €; Water Days no residente desde 33,50 €; 1 día residente canario desde 15 €; bono anual desde 95 € (fuente: acuawaterpark.com, verificado octubre 2026). Compra online por fecha"
+    },
+    {
+      "tipo": "Parque Natural de Corralejo (dunas y Grandes Playas)",
+      "precio": "Gratis (espacio natural abierto, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Playas urbanas (Muelle Chico / Corralejo Viejo) y lagunas de El Cotillo",
+      "precio": "Gratis (playas públicas)"
+    },
+    {
+      "tipo": "Volcán Calderón Hondo (sendero SL-FV-2)",
+      "precio": "Gratis (sendero público, según Hello Canary Islands, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Cueva del Llano (centro de interpretación)",
+      "precio": "Gratis el centro de interpretación; el tubo volcánico figuraba cerrado por seguridad (fuente: blog Lopesan, marzo 2026, verificado octubre 2026). Confirmá por teléfono antes de ir"
+    },
+    {
+      "tipo": "Casa de los Coroneles (La Oliva)",
+      "precio": "Temporalmente cerrada por rehabilitación según Hello Canary Islands (verificado octubre 2026). Antes de las obras, 3 € general, 1 € residentes canarios, gratis menores de 10 y mayores de 65 (fuente: folleto oficial de 2014)"
+    },
+    {
+      "tipo": "Museo de la Pesca Tradicional (Faro del Tostón)",
+      "precio": "Precio no publicado en las fuentes consultadas; horario martes a sábado de 10 a 14:30 y de 15:15 a 18 h según Lonely Planet (verificado octubre 2026), puede estar desactualizado"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Ferry a la isla de Lobos con permiso tramitado",
+      "precio": "Desde 17 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "20 minutos de cruce y hasta 4 horas en la isla",
+      "operador": "Navieras de Corralejo, vendido por Civitatis"
+    },
+    {
+      "actividad": "Excursión en catamarán a la isla de Lobos",
+      "precio": "Desde 75 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "4 horas",
+      "operador": "Operadores de catamarán del puerto de Corralejo"
+    },
+    {
+      "actividad": "Excursión en kayak a la isla de Lobos",
+      "precio": "Desde 69 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "5 horas",
+      "operador": "Escuelas de kayak de Corralejo"
+    },
+    {
+      "actividad": "Curso de surf para principiantes",
+      "precio": "Desde 50 € (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Escuelas de surf de Corralejo"
+    },
+    {
+      "actividad": "Curso de kitesurf (principiante, 1 a 5 días)",
+      "precio": "175 € 1 día; 285 € 2 días; 570 € 5 días; clase privada 75 € la hora (fuente: flagbeach.com, verificado octubre 2026)",
+      "duracion": "1 a 5 días",
+      "operador": "Flag Beach (Corralejo)"
+    },
+    {
+      "actividad": "Curso de windsurf en las lagunas de El Cotillo",
+      "precio": "Desde 75 € (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "5 horas",
+      "operador": "Escuelas de windsurf de El Cotillo"
+    },
+    {
+      "actividad": "Tour en 4x4 por el norte de Fuerteventura",
+      "precio": "Desde 69 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "6 horas",
+      "operador": "Operadores de excursiones de Corralejo"
+    },
+    {
+      "actividad": "Tour en buggy por Fuerteventura",
+      "precio": "Desde 129 € (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Operadores de buggy de Corralejo"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Guagua Tiadhe línea 6 dentro de Corralejo (centro – Los Hoteles, junto a las dunas)",
+      "precio": "1,40 € Corralejo – Los Hoteles (fuente: tabla de tarifas Tiadhe aprobada por el Cabildo, publicada en tiadhe.com, verificado octubre 2026)",
+      "duracion": "Trayecto corto",
+      "notas": "Los servicios que entran a Los Hoteles (la zona hotelera junto a las dunas) corren de lunes a viernes no festivos. Desde el muelle la línea sale 10 minutos antes de la hora de la grilla. Se paga en efectivo a bordo o con tarjeta BTF."
+    },
+    {
+      "medio": "Guagua Tiadhe línea 8 (Corralejo – El Cotillo)",
+      "precio": "3,10 €; 2,05 € los servicios directos; mismo precio a la vuelta (fuente: horario oficial Tiadhe, verificado octubre 2026)",
+      "duracion": "Salidas a lo largo del día, todos los días (ver grilla oficial)",
+      "notas": "Corre todos los días. Es directa: no pasa por La Oliva. Sale y termina en la parada Plaza de la Ermita de El Cotillo. Para La Oliva, Lajares y Villaverde usá la línea 7 (Puerto del Rosario – El Cotillo)."
+    },
+    {
+      "medio": "Tarjeta No Residente de Tiadhe",
+      "precio": "5 € la tarjeta; 10% de descuento en cada viaje (fuente: tiadhe.com, verificado octubre 2026)",
+      "duracion": "Sin vencimiento indicado",
+      "notas": "Es la única tarjeta con descuento para turistas: no es nominativa y se compra y recarga a bordo. El Bono Residente Canario (20 € al mes, viajes ilimitados) es sólo para empadronados en Canarias."
+    },
+    {
+      "medio": "Alquiler de auto",
+      "precio": "Promedio de 17 €/día un auto chico en el aeropuerto de Fuerteventura; el más barato encontrado, 11 €/día en mayo; seguros aparte (fuente: Momondo, agregador, verificado octubre 2026)",
+      "duracion": "A demanda",
+      "notas": "Es lo más práctico para el faro del Tostón, el Calderón Hondo y las playas sin guagua. Llevá licencia de tu país y permiso internacional de conducir. En las dunas dejá el auto en los estacionamientos y seguí a pie."
+    },
+    {
+      "medio": "A pie o en bici",
+      "precio": "Gratis",
+      "duracion": "El centro se recorre caminando",
+      "notas": "El casco viejo, el puerto, la calle peatonal y el paseo marítimo están a distancias cortas. A las dunas se puede llegar caminando o en bici, pero no hay sombra: salí temprano y con agua."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto de Fuerteventura (FUE) → Corralejo en guagua directa",
+      "empresas": "Tiadhe línea 6 (los servicios que paran en el aeropuerto y el hospital)",
+      "precio": "3,90 € Corralejo – Aeropuerto (fuente: horario oficial Tiadhe, verificado octubre 2026)",
+      "duracion": "Sólo de lunes a viernes no festivos; el tiempo de viaje no figura en la grilla oficial"
+    },
+    {
+      "ruta": "Aeropuerto → Puerto del Rosario → Corralejo en guagua con transbordo",
+      "empresas": "Tiadhe línea 3 (Puerto del Rosario – Aeropuerto) + línea 6 (Puerto del Rosario – Corralejo)",
+      "precio": "1,40 € la línea 3 Aeropuerto – Puerto del Rosario (fuente: tabla de tarifas Tiadhe, verificado octubre 2026) + 3,40 € la línea 6 (fuente: horario oficial Tiadhe, verificado octubre 2026)",
+      "duracion": "La línea 6 corre todos los días, con menos frecuencia domingos y festivos; el tiempo de viaje no figura en la grilla oficial. En sentido contrario, el primer servicio sale del muelle de Corralejo a las 6:35 de lunes a viernes y el último a las 20:50"
+    },
+    {
+      "ruta": "Aeropuerto de Fuerteventura (FUE) → Corralejo en taxi",
+      "empresas": "Taxis de la parada del aeropuerto (planta baja de la terminal)",
+      "precio": "Alrededor de 60 € a la zona de playas de Corralejo según Spain.info (Turespaña, sin fecha); 82–93 € según vehículo en montransport.com (comparador, julio 2026, verificado octubre 2026)",
+      "duracion": "Unos 40 km, alrededor de 31 minutos según montransport.com"
+    },
+    {
+      "ruta": "Playa Blanca (Lanzarote) → Corralejo en ferry",
+      "empresas": "Fred. Olsen Express, Naviera Armas, Líneas Romero y Baleària",
+      "precio": "Ida desde 17 € para no residentes según fecha (fuente: Ferryhopper, comparador, verificado octubre 2026); el 'desde 8 €' de fredolsen.es es tarifa de residente canario",
+      "duracion": "25 o 35 minutos según Fred. Olsen; más de 20 salidas diarias según Ferryhopper"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Económico: hostels y surf houses",
+      "nivel": 2,
+      "opciones": "Corralejo tiene muchas 'surf houses' pensadas para mochileros. Ejemplos en Momondo: Kaktus Beach House desde 12 €, Moana Surf House 19 €, Aloha Surf House 27 €, Nomad Surf House 32 € y Surfers Retreat 46 € la noche (fuente: Momondo, verificado octubre 2026). Suelen ser camas en cuarto compartido; varias venden paquetes con curso de surf"
+    },
+    {
+      "categoria": "Intermedio: apartamentos y hoteles medios",
+      "nivel": 3,
+      "opciones": "El Olivar Corralejo Beach desde 88 €, Bristol Sunset Beach 96 € y Hotel Livvo Corralejo Beach 100 € la noche (fuente: Momondo, verificado octubre 2026). Los apartamentos con cocina ayudan a ahorrar en comidas. Según Momondo, junio es el mes más barato (97 € de promedio) y diciembre el más caro (231 €)"
+    },
+    {
+      "categoria": "Superior: hoteles de diseño y solo adultos",
+      "nivel": 4,
+      "opciones": "Hotel Arena Suite (solo adultos) desde 113 €, Playa Park Zensation 124 €, Labranda Bahía de Lobos 150 € y Avanti Lifestyle Hotel (solo adultos) 188 € la noche (fuente: Momondo, verificado octubre 2026). Reservá con tiempo para Navidad y Semana Santa"
+    },
+    {
+      "categoria": "Lujo: resort cinco estrellas frente a Lobos",
+      "nivel": 5,
+      "opciones": "Secrets Bahía Real Resort & Spa, cinco estrellas, desde unos 234 € la noche (fuente: Momondo, verificado octubre 2026). Según Momondo, un hotel de lujo en Corralejo ronda los 272 € por noche de promedio; en diciembre los precios suben"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Parrillada de pescado en el muelle",
+      "nivel": 1,
+      "opciones": "La Cofradía de Pescadores (calle Muelle 5) y Bar La Lonja sirven pescado fresco con papas arrugadas (papas chicas hervidas con mucha sal) y mojo. Según reseñas en Wanderlog, una parrillada de pescado variado ronda los 35 € (para compartir) (fuente: Wanderlog/Gastroranking, reseñas de usuarios, verificado octubre 2026). Los fines de semana se llena: reservá"
+    },
+    {
+      "tipo": "Papas arrugadas y pescado del día en la zona centro",
+      "nivel": 2,
+      "opciones": "En La Vela, la carta publicada en TheFork marca papas arrugadas con mojo a 7,20 € y pescado del día a la plancha a 18,90 € (fuente: TheFork, carta 2025, verificado octubre 2026). Una guía local ubica los platos principales de Corralejo entre 10 y 20 € (fuente: Teneriffa News, julio 2026)"
+    },
+    {
+      "tipo": "Pulpo, arroces y pescado a la parrilla",
+      "nivel": 3,
+      "opciones": "Gregorio El Pescador (calle de la Iglesia 11, centro) es conocido por el pulpo, el pescado a la parrilla. Según una reseña en Wanderlog, unos 30 € por persona (fuente: Wanderlog/Gastroranking, reseñas de usuarios, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Cena más cuidada",
+      "nivel": 4,
+      "opciones": "Taverna Fogalera figura con un precio medio de 40 a 50 € por persona según reseñas (fuente: Wanderlog, reseñas de usuarios, verificado octubre 2026). Para probar el queso majorero (queso de cabra de Fuerteventura con Denominación de Origen), buscalo como entrante en las cartas; varias casas lo ofrecen asado o con mojo"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa para ir a Fuerteventura?",
+      "a": "No, si tenés pasaporte de Argentina, Uruguay, Chile, México, Colombia o Perú y viajás como turista por hasta 90 días en cualquier período de 180 dentro del espacio Schengen. Canarias es España y forma parte de Schengen. Desde el 10 de abril de 2026 el EES está desplegado en todos los pasos fronterizos: en el primer control Schengen te registran huellas y foto en vez del sello. Si llegás con escala en Madrid u otra ciudad Schengen, ese control lo hacés ahí, no en Fuerteventura. El ETIAS (autorización online, que costará 20 €) todavía no se pide y no tiene fecha oficial; la prensa especializada apunta a 2027. Llevá pasaje de vuelta, reserva de alojamiento y seguro de viaje por si te los piden."
+    },
+    {
+      "q": "¿Cómo saco el permiso para la isla de Lobos?",
+      "a": "Es gratis y se pide online en lobospass.com, la web que indican el Cabildo de Fuerteventura y las navieras. Las plazas se abren 3 días antes de la fecha de visita y cada solicitud cubre hasta 3 personas, con nombre y documento de cada una. Elegís turno: de 10 a 14 o de 14 a 18 h. Entran como máximo 200 personas a la vez. Al desembarcar te piden la autorización, así que bajala al celular. El permiso es aparte del barco: el pasaje lo comprás con la naviera (17 € ida y vuelta el adulto en la naviera Isla de Lobos). Algunos paquetes de Civitatis incluyen el trámite. Desconfiá de webs que cobran por el permiso solo."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse en Corralejo?",
+      "a": "Con tres o cuatro días hacés lo principal sin correr. Un día para la isla de Lobos, que tiene horario fijo por el permiso. Medio día para las dunas y las Grandes Playas, mejor temprano o al atardecer. Otro día para el norte: El Cotillo con sus lagunas, el faro del Tostón y, de vuelta, el sendero al Calderón Hondo desde Lajares. Si tenés una semana, sumá un día en Lanzarote con el ferry a Playa Blanca, el parque acuático si viajás con chicos, o un curso de surf o kitesurf de varios días. Las tardes, para el casco viejo y el puerto."
+    },
+    {
+      "q": "¿Me conviene alquilar auto o moverme en guagua?",
+      "a": "Para Corralejo, Lobos y las dunas no necesitás auto: se camina, el barco sale del puerto y la línea 6 de Tiadhe llega a la zona hotelera junto a las dunas. La línea 8 va a El Cotillo todos los días por 3,10 €, y la 7 pasa por Lajares y La Oliva. El auto sirve para el faro del Tostón, el Calderón Hondo y para combinar varios lugares en un día. Según Momondo, un auto chico en el aeropuerto cuesta en promedio 17 € por día, sin seguros. Si vas a usar guaguas, sacá la tarjeta No Residente de Tiadhe: cuesta 5 €, se compra a bordo y da 10% de descuento en cada viaje."
+    },
+    {
+      "q": "¿Es seguro Corralejo? ¿Qué precauciones conviene tomar?",
+      "a": "Es un pueblo turístico tranquilo y con mucha gente en la calle hasta tarde. Los riesgos más concretos son naturales. En las dunas no hay sombra ni agua: llevá de las dos y protector, como recomienda la web oficial de turismo de Canarias. En el Calderón Hondo no hay señal de celular. En el mar abierto de las Grandes Playas respetá las banderas y las indicaciones de las escuelas, porque viento y corrientes cambian rápido. En la playita del puerto la calidad del agua a veces no es buena. Para robos, lo de siempre: no dejes cosas a la vista dentro del auto estacionado en las playas."
+    },
+    {
+      "q": "¿Puedo pagar con tarjeta y cuánto se gasta por día?",
+      "a": "La tarjeta se acepta en casi todos lados. En las guaguas de Tiadhe se paga en efectivo a bordo (o con tarjeta BTF) y no aceptan billetes de más de 50 €. Para darte una idea: la guagua a El Cotillo cuesta 3,10 €; el barco a Lobos, 17 € ida y vuelta; el parque acuático, desde 23 €; un plato principal en un restaurante del centro, entre 10 y 20 € según una guía local. Lo más caro es dormir: según Momondo, una noche de hotel ronda los 188 € de promedio, aunque hay camas en surf houses desde unos 12 € y el mes más barato es junio."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Corralejo (La Oliva)»: https://es.wikipedia.org/wiki/Corralejo_(La_Oliva)",
+      "Wikipedia (EN) — «Corralejo»: https://en.wikipedia.org/wiki/Corralejo",
+      "Wikipedia (ES) — «Casa de los Coroneles»: https://es.wikipedia.org/wiki/Casa_de_los_Coroneles",
+      "Wikipedia (ES) — «El Cotillo»: https://es.wikipedia.org/wiki/El_Cotillo",
+      "Wikipedia (EN) — «Tostón Lighthouse»: https://en.wikipedia.org/wiki/Tost%C3%B3n_Lighthouse"
+    ],
+    "que_ver_atracciones": [
+      "Wikipedia (ES) — «Parque natural de Corralejo»: https://es.wikipedia.org/wiki/Parque_natural_de_Corralejo",
+      "Hello Canary Islands (oficial) — «Corralejo Natural Park»: https://www.hellocanaryislands.com/nature-spaces/fuerteventura/corralejo-natural-park/",
+      "Hello Canary Islands (oficial) — «Calderón Hondo»: https://www.hellocanaryislands.com/hiking/fuerteventura/calderon-hondo/",
+      "Hello Canary Islands (oficial) — «Casa de los Coroneles»: https://www.hellocanaryislands.com/museums-and-places-of-interest/fuerteventura/casa-de-los-coroneles/",
+      "Naviera Isla de Lobos — «Isla de Lobos»: https://www.islalobos.es/isla-de-lobos",
+      "Lopesan Blog — «Cueva del Llano»: https://www.lopesan.com/blog/en/cueva-del-llano-fuerteventura/",
+      "Showcaves — «Cueva del Llano»: https://showcaves.com/english/es/showcaves/Llano.html",
+      "Lonely Planet (FR) — «Museo de la Pesca Tradicional»: https://www.lonelyplanet.fr/poi/iles-canaries-fuerteventuracanariescg-museo-de-la-pesca-tradicional",
+      "Spain.info (Turespaña) — «Playa de Corralejo Viejo»: https://www.spain.info/es/playa/corralejo-viejo/",
+      "Fuerteventura Playas — «Características de la playa (Muelle Chico)»: https://www.fuerteventuraplayas.com/en/?p=4962",
+      "RTVC — «Finalizan las obras del Mercado de las Tradiciones de La Oliva»: https://rtvc.es/finalizan-las-obras-del-mercado-de-las-tradiciones-de-la-oliva-fuerteventura-6-septiembre-2025/",
+      "Mercadillos.org — «Mercadillos de Fuerteventura los sábados»: https://mercadillos.org/es/fuerteventura/sabado"
+    ],
+    "precios_2026": [
+      "Naviera Isla de Lobos — «Horarios y Tarifas»: https://www.islalobos.es/horariosytarifas",
+      "Naviera Nortour — «Ferry Isla de Lobos»: https://navieranortour.com/",
+      "Cabildo de Fuerteventura — «A partir del 15 de enero las personas que deseen visitar el islote de Lobos deberán solicitar una autorización vía online»: https://www.cabildofuer.es/cabildo/a-partir-del-15-de-enero-las-personas-que-deseen-visitar-el-islote-de-lobos-deberan-solicitar-una-autorizacion-via-online/",
+      "Cabildo de Fuerteventura — «El Cabildo de Fuerteventura activa la aplicación de acceso al Espacio Natural del Islote de Lobos»: https://www.cabildofuer.es/cabildo/el-cabildo-de-fuerteventura-activa-la-aplicacion-de-acceso-al-espacio-natural-del-islote-de-lobos/",
+      "LobosPass (oficial) — «Solicitud de visita»: https://lobospass.com/information/visit",
+      "Comiviajeros (blog) — «Cómo ir de Fuerteventura a la isla de Lobos en 2026»: https://comiviajeros.com/como-ir-de-fuerteventura-a-la-isla-de-lobos/",
+      "Acua Water Park (oficial) — «Compra tus entradas»: https://www.acuawaterpark.com/entrada-parque-acuatico",
+      "Acua Water Park (oficial) — «Horario del día»: https://www.acuawaterpark.com/content/horario-del-dia",
+      "Casa de los Coroneles — «Ruta de los Coroneles (folleto)»: https://lacasadeloscoroneles.org/xtras/2014/02/Ruta-de-los-Coroneles-La-Oliva_folleto.pdf"
+    ],
+    "como_llegar_transporte": [
+      "Tiadhe (oficial) — «Sistemas de pago y tarifas»: https://www.tiadhe.com/sistemas-de-pago/",
+      "Tiadhe (oficial) — «Tarifas Tiadhe (PDF, resolución del Cabildo)»: https://tiadhe.com/wp-content/uploads/2025/03/TARIFAS-TIADHE.pdf",
+      "Tiadhe (oficial) — «Línea 06 Puerto del Rosario – Corralejo»: https://tiadhe.com/linea-06/",
+      "Tiadhe (oficial) — «Línea 08 Corralejo – El Cotillo»: https://tiadhe.com/linea-08/",
+      "Fred. Olsen Express (oficial) — «Fuerteventura»: https://www.fredolsen.es/es/destinos/fuerteventura",
+      "Ferryhopper (comparador) — «Ferry y Barco de Corralejo a Lanzarote (Playa Blanca)»: https://www.ferryhopper.com/es/ferry-routes/direct/corralejo-lanzarote",
+      "Spain.info (Turespaña) — «Aeropuerto de Fuerteventura»: https://www.spain.info/es/avion/aeropuerto-fuerteventura/",
+      "Montransport (comparador) — «Taxi Aeropuerto de Fuerteventura»: https://montransport.com/es/taxi/espana/las-palmas/aeropuerto-de-fuerteventura",
+      "Momondo — «Alquiler de coches en el aeropuerto de Fuerteventura»: https://www.momondo.es/alquiler-de-coches/Fuerteventura-FUE-cap.ksp"
+    ],
+    "actividades": [
+      "Civitatis — «Ferry a la isla de Lobos desde Corralejo»: https://www.civitatis.com/es/corralejo/ferry-isla-lobos/",
+      "Civitatis — «Excursión a la isla de Lobos en catamarán»: https://www.civitatis.com/es/corralejo/excursion-catamaran-isla-lobos/",
+      "Civitatis — «Excursión a la isla de Lobos en kayak»: https://www.civitatis.com/es/corralejo/excursion-isla-lobos-kayak/",
+      "Civitatis — «Curso de surf en Fuerteventura»: https://www.civitatis.com/es/corralejo/curso-surf-fuerteventura/",
+      "Civitatis — «Curso de windsurf en las lagunas de El Cotillo»: https://www.civitatis.com/es/corralejo/curso-windsurf-cotillo/",
+      "Civitatis — «Tour en 4x4 por el norte de Fuerteventura»: https://www.civitatis.com/es/corralejo/jeep-safari-fuerteventura/",
+      "Civitatis — «Tour en buggy por Fuerteventura»: https://www.civitatis.com/es/corralejo/tour-buggy-fuerteventura/",
+      "Civitatis — «Senderismo por el volcán Calderón Hondo»: https://www.civitatis.com/es/corralejo/senderismo-volcan-calderon-hondo/",
+      "Civitatis — «Watertaxi a la isla de Lobos desde Corralejo»: https://www.civitatis.com/es/corralejo/watertaxi-isla-lobos/",
+      "Flag Beach (escuela) — «Kite surfing courses»: https://www.flagbeach.com/kite-surfing/kite-surfing-courses/"
+    ],
+    "alojamiento_gastronomia": [
+      "Momondo — «Hoteles en Corralejo»: https://www.momondo.es/hoteles/corralejo",
+      "Wanderlog — «Los mejores restaurantes de mariscos en Corralejo»: https://wanderlog.com/es/list/geoCategory/82857/los-mejores-restaurantes-de-mariscos-en-corralejo",
+      "Gastroranking — «Cofradía Pescadores Corralejo»: https://gastroranking.es/r/cofradia-pescadores-corralejo_39749/",
+      "Gastroranking — «Gregorio El Pescador»: https://gastroranking.es/r/gregorio-el-pescador_38260",
+      "TheFork — «Carta La Vela - Corralejo»: https://www.thefork.es/restaurante/la-vela-corralejo-r399923/menu",
+      "Teneriffa News — «The 12 best restaurants in Corralejo (July 2026)»: https://www.teneriffa-news.com/en/restaurant-en/fuerteventura/corralejo"
+    ],
+    "clima_visado_seguridad": [
+      "AEMET — «Valores climatológicos normales: Fuerteventura Aeropuerto»: https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C249I&k=coo",
+      "VisasNews — «El lanzamiento del ETIAS podría aplazarse a 2027»: https://visasnews.com/es/el-lanzamiento-del-etias-podria-aplazarse-a-2027/",
+      "Newland Chase — «Schengen EES flexibility lapses as ETIAS launch appears likely to move to 2027»: https://newlandchase.com/schengen-ees-flexibility-lapses-as-etias-launch-appears-likely-to-move-to-2027/"
+    ]
+  }
+}
