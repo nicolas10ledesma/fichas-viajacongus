@@ -23,3 +23,4 @@ FOTO espana/gijon | https://upload.wikimedia.org/wikipedia/commons/e/e6/Playa_de
 FOTO espana/zaragoza | https://upload.wikimedia.org/wikipedia/commons/5/51/Zaragoza_Rio_Ebro_and_Catedral-Bas%C3%ADlica_del_Pilar_upstream_from_Puente_de_Piedra.jpg | Zaragoza Rio Ebro and Catedral-Basílica del Pilar upstream from Puente de Piedra.jpg | CC BY-SA 4.0 | Ymblanter
 FOTO mexico/ixtapa-zihuatanejo | https://upload.wikimedia.org/wikipedia/commons/1/1e/Zihuatanejo_from_Bahia_Zihuatanejo.jpg | Zihuatanejo from Bahia Zihuatanejo.jpg | CC BY-SA 4.0 | Nick Navarro
 FOTO brasil/praia-grande | https://upload.wikimedia.org/wikipedia/commons/5/5e/C%C3%A2nion_do_Itaimbezinho_entre_nuvens.jpg | Cânion do Itaimbezinho entre nuvens.jpg | CC BY-SA 4.0 | Guilherme Nunes Serafina
+FOTO colombia/ibague | https://upload.wikimedia.org/wikipedia/commons/9/9a/Ibagu%C3%A9.jpg | Ibagué.jpg | CC BY-SA 4.0 | GOBERNACIÓN DEL TOLIMA

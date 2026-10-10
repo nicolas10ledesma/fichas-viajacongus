@@ -1,0 +1,606 @@
+{
+  "slug": "ibague",
+  "name": "Ibagué",
+  "region": "Tolima",
+  "lat": 4.4378,
+  "lon": -75.2006,
+  "datosRapidos": [
+    {
+      "label": "Departamento",
+      "value": "Ibagué (Tolima, Colombia). Es la capital del departamento del Tolima y queda en la vertiente oriental de la cordillera Central, en el valle que forman el río Combeima y el Chipalo, a 1.285 metros sobre el nivel del mar y con una temperatura media de 24 °C. El censo 2018 del DANE contó 529.635 habitantes y la proyección para 2025 ronda los 546.000. Desde Bogotá se llega en unas 4 a 5 horas de micro o en un vuelo corto. Se la conoce como la 'Capital Musical de Colombia': el apodo se atribuye al conde francés de Gabriac, que la visitó en 1886 y se sorprendió por la afición de sus vecinos a la música. Esa fama se apoya en el Conservatorio del Tolima, fundado como academia en 1906 por Alberto Castilla, en su Salón Alberto Castilla (monumento nacional) y en el Festival Folclórico Colombiano, que se hace cada junio desde 1959. Para el viajero, Ibagué es una ciudad de servicios sin grandes multitudes turísticas, con buenos museos gratuitos o baratos, una cocina propia (la lechona y el tamal tolimense) y una salida directa a la montaña: el Cañón del Combeima sube desde los barrios del norte hacia el Nevado del Tolima, uno de los volcanes nevados del Parque Nacional Natural Los Nevados."
+    },
+    {
+      "label": "Moneda",
+      "value": "Peso colombiano (COP). Los precios se escriben con signo $ y punto de miles: un pasaje de buseta urbana cuesta $3.300 y un tamal en la plaza ronda los $9.000. En el centro y en los centros comerciales hay cajeros automáticos y la tarjeta se acepta en hoteles, supermercados y restaurantes medianos. En plazas de mercado, lechonerías, busetas y transporte rural se paga en efectivo, así que conviene andar con billetes chicos. Los taxis cobran por taxímetro según la tabla oficial de la Alcaldía."
+    },
+    {
+      "label": "Mejor época",
+      "value": "Ibagué tiene clima cálido todo el año, pero las salidas a la montaña cambian mucho según la lluvia. Para el Cañón del Combeima y los termales conviene ir temprano, porque las nubes suelen tapar la vista del nevado a media mañana. Si te interesa la fiesta, la fecha es la última semana de junio: en 2026 el 52.º Festival Folclórico Colombiano se hizo del 22 al 29 de junio, con el Día del Tamal y el Día de la Lechona. En esa semana los hoteles se llenan y conviene reservar antes. El 13 de noviembre se recuerda la tragedia de Armero con actos en las ruinas."
+    },
+    {
+      "label": "Visado",
+      "value": "Argentinos, uruguayos, chilenos, peruanos, mexicanos, brasileños, bolivianos, ecuatorianos y paraguayos no necesitan visa de turismo para Colombia, según la lista de la Cancillería actualizada en mayo de 2026. Los ciudadanos de países del Mercosur y de la Comunidad Andina pueden entrar con su documento nacional de identidad vigente (en Argentina, el DNI de la versión más reciente); igual conviene llevar pasaporte. Migración Colombia recomienda completar el formulario Check-MIG, gratuito, entre 72 horas y 1 hora antes del vuelo. Los colombianos, obviamente, viajan con cédula."
+    }
+  ],
+  "intro": [
+    "Ibagué no es una ciudad de postal y no pretende serlo. Es una capital de provincia trabajadora, calurosa y ruidosa, que se toma muy en serio dos cosas: la música y la comida. Acá funciona desde hace más de un siglo el Conservatorio del Tolima, cada junio la calle se llena de bandas, desfiles y sombreros para el Festival Folclórico, y en cualquier plaza de mercado te sirven un tamal tolimense o un plato de lechona que muchos colombianos cruzan el país para probar.",
+    "Lo que sorprende es lo cerca que queda la montaña. En unos 45 minutos pasás del centro al Cañón del Combeima, un valle verde y angosto con cascadas, fincas de café y miradores desde donde, si el cielo está limpio, aparece el cono blanco del Nevado del Tolima. Más arriba de Juntas, el último caserío, arrancan las caminatas a los termales de El Rancho y la travesía al nevado, que se hace con guía y reserva ante Parques Nacionales.",
+    "Para el bolsillo, Ibagué es amable. El Museo Panóptico, una antigua cárcel convertida en museo, es gratis; el Museo de Arte del Tolima cobra $5.500; la buseta urbana cuesta $3.300 y se duerme bien por menos de $130.000 la noche. Sirve también como base para salir a Honda, el viejo puerto colonial sobre el Magdalena, y a las ruinas de Armero, el pueblo que desapareció bajo el lodo del Nevado del Ruiz en 1985."
+  ],
+  "historia_corta": "La ciudad fue fundada el 14 de octubre de 1550 por el capitán Andrés López de Galarza con el nombre de Villa de San Bonifacio de Ibagué del Valle de las Lanzas, en la meseta de Ana-Ima (hoy Anaime). El 7 de febrero de 1551 se trasladó a la orilla del río Combeima, donde está hoy. En 1854 el Congreso Nacional se reunió en Ibagué y la ciudad fue capital de la República. En 1886 el conde francés de Gabriac la bautizó 'Ciudad Musical', y al año siguiente fue declarada capital del Tolima Grande; desde 1905 es capital del actual departamento del Tolima. En 1906 Alberto Castilla creó la academia de música que en 1920 se convirtió en el Conservatorio de Música del Tolima, y en 1932 se inauguró el Salón Alberto Castilla, declarado monumento nacional en 1994. En 1959 nació el Festival Folclórico Colombiano. El 13 de noviembre de 1985 la erupción del Nevado del Ruiz generó avalanchas de lodo que borraron Armero, en el norte del Tolima, y mataron a unas 25.000 personas. En 2022 la vieja cárcel panóptica, que funcionó como prisión durante 98 años, reabrió como Museo Panóptico. Hoy es una ciudad de más de medio millón de habitantes, con una vida cultural muy ligada a sus festivales de música, como el Festival Nacional de la Música Colombiana, creado en 1987 en homenaje al dueto Garzón y Collazos.",
+  "queVer": [
+    {
+      "nombre": "Cañón del Combeima y Juntas",
+      "desc": "El valle del río Combeima sube desde Ibagué hacia el Nevado del Tolima entre fincas, cascadas, miradores y el caserío de Juntas.",
+      "detalle": "El Cañón del Combeima es la salida natural de Ibagué a la montaña. El río nace en las laderas del Nevado del Tolima y baja hasta la ciudad formando un valle angosto y muy verde, con bosque andino, cascadas y pequeñas fincas. La carretera sube unos 28 km cuesta arriba pasando por corregimientos como Villa Restrepo, donde salen caminatas a la cascada La Plata, hasta Juntas, el último caserío habitado, punto de partida de las caminatas de alta montaña.\n\nEn el camino hay miradores, como el de Los Sauces, desde donde se ve el nevado si no hay nubes, y muchos restaurantes campestres que sirven trucha, carnes a la parrilla y sancocho. Más arriba de Juntas sigue el sendero a los termales de El Rancho y la travesía que cruza el Parque Nacional Natural Los Nevados hacia el Valle de Cocora.\n\nConviene salir temprano: después de media mañana las nubes suelen cubrir el nevado. Llevá abrigo liviano, porque a medida que subís baja la temperatura, y efectivo para los restaurantes. Si no querés organizarlo por tu cuenta, hay tours de día completo que salen de Ibagué. En temporada de lluvias el río crece rápido y la vía puede tener derrumbes: consultá antes de salir.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Arranca en el norte de Ibagué; el cañón se extiende unos 28 km cuesta arriba hasta Juntas (fuente: Semana)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Temprano por la mañana, en los meses más secos"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (vía pública). Los miradores y fincas privadas pueden cobrar aparte; los tours guiados salen desde US$ 43 (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día a un día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Conservatorio del Tolima y Salón Alberto Castilla",
+      "desc": "La institución que le dio a Ibagué el título de capital musical, con un salón de conciertos de 1932 declarado monumento nacional.",
+      "detalle": "El Conservatorio del Tolima es el motivo principal por el que Ibagué se llama a sí misma 'Capital Musical de Colombia'. Empezó en 1906 como una academia de música creada por el maestro Alberto Castilla, que la dirigió hasta su muerte en 1937; fue oficializada por decreto en 1909 y en 1920 pasó a llamarse Conservatorio de Música del Tolima. Hoy es una institución pública de educación superior con facultad de educación y artes y escuela de música.\n\nLa joya del edificio es el Salón Alberto Castilla, inaugurado en 1932 y declarado monumento nacional en 1994. Es una sala de conciertos de estilo republicano, construida con técnicas tradicionales, donde se presentan recitales, estrenos y festivales como el concurso de piano Blanca Uribe. El edificio también fue sede de una escuela normal y de un convento de los Hermanos Maristas.\n\nLa mejor forma de conocerlo es asistir a un concierto: revisá la agenda en la web y las redes del Conservatorio, porque la programación cambia seguido. Combinalo con un paseo por el centro, la Plaza de Bolívar y la Catedral, que quedan cerca.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Ibagué, a pocas cuadras de la Plaza de Bolívar"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; la agenda de conciertos es más intensa durante el semestre académico"
+        },
+        {
+          "label": "Entrada",
+          "value": "La fachada y el entorno se ven gratis; los conciertos tienen precio según el evento y no hay tarifa general publicada (fuente: conservatoriodeltolima.edu.co, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas (con concierto)"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo Panóptico de Ibagué",
+      "desc": "Una antigua cárcel de planta en cruz, que funcionó 98 años, convertida en museo gratuito sobre la memoria y el arte del Tolima.",
+      "detalle": "El Panóptico es el museo más llamativo de la ciudad. Es un edificio carcelario de planta cruciforme, construido según el modelo panóptico: desde un punto central se vigilaban todos los pabellones. Funcionó como prisión durante 98 años y, tras una larga restauración, abrió como complejo cultural en 2022. Según la prensa nacional, es el segundo panóptico del país convertido en museo, después del que hoy ocupa el Museo Nacional en Bogotá.\n\nLas antiguas celdas se transformaron en salas: hay decenas de exposiciones permanentes sobre la identidad tolimense, con espacios dedicados a los 47 municipios del departamento, además de muestras temporales y un auditorio. En 2026 se exhibió 'Provincia Viva', con obras de 35 mujeres artistas en homenaje a la maestra Beatriz González.\n\nAl público general abre de martes a domingo de 2 a 5 de la tarde; por la mañana atiende grupos con reserva. Hay un recorrido guiado diario a las 3:15 p. m. con mediadores del museo, que conviene no perderse porque explican la historia carcelaria del edificio. En festivos y temporadas especiales el horario cambia: chequeá la cuenta oficial del museo antes de ir.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Ibagué, zona urbana; se llega en taxi o buseta desde el centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año, de martes a domingo por la tarde"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis. Martes a domingo de 14 a 17 h; recorrido guiado diario a las 15:15 (fuente: El Nuevo Día, enero 2026, y El Cronista, mayo 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Nevado del Tolima (Parque Nacional Natural Los Nevados)",
+      "desc": "Volcán nevado de 5.250 metros, la cumbre más técnica de Los Nevados, al que se sube sólo con guía avalado, reserva y póliza.",
+      "detalle": "El Nevado del Tolima es el volcán de cumbre blanca que se ve desde Ibagué en los días despejados. Forma parte del Parque Nacional Natural Los Nevados, junto con el Nevado del Ruiz y el de Santa Isabel, y su cumbre ronda los 5.250 metros. Los operadores que suben lo hacen en expediciones de cuatro días: desde el Valle de Cocora (Salento) o desde el lado del Tolima, con noches en refugio y campamento base y salida a la cumbre de madrugada.\n\nLas reglas son estrictas. Según el protocolo de reservas del parque para la zona sur (Tolima y Quindío), sólo se asignan cupos a operadores, agencias y guías avalados por Parques Nacionales; la reserva se pide con al menos cinco días hábiles de anticipación, con póliza de asistencia y rescate. Cada sendero tiene un tope diario de visitantes: la travesía Juntas–Termales del Cañón–Valle de Cocora admite 82 personas por día y el sendero de Arenales a la cumbre, 76. No se puede subir por tu cuenta.\n\nNo hace falta ser escalador, pero sí estar muy en forma y aclimatarse. El parque puede cerrar temporalmente por clima o por la actividad volcánica de la zona: confirmá el estado con Parques Nacionales antes de pagar.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "La travesía sur arranca en Juntas (Cañón del Combeima) o en el Valle de Cocora, Salento"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Temporadas secas; los operadores recomiendan reservar con uno o dos meses de anticipación"
+        },
+        {
+          "label": "Entrada",
+          "value": "Expedición de 4 días desde Salento: COP 2.100.000 por persona, con ingreso al parque, guías y seguro (fuente: Aventureros Colombia, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "4 días (expedición a la cumbre)"
+        }
+      ]
+    },
+    {
+      "nombre": "Jardín Botánico San Jorge",
+      "desc": "Sesenta hectáreas de bosque subandino en los cerros de Ibagué, con colecciones de palmas, orquídeas, aves y tres miradores.",
+      "detalle": "El Jardín Botánico San Jorge ocupa unas 60 hectáreas de bosque en los cerros noroccidentales de Ibagué, en la antigua Granja San Jorge de la comunidad salesiana, que en 1999 cedió el terreno en comodato a la Corporación San Jorge. Está a pocos minutos del centro, sobre la calle 19, vía Calambeo.\n\nEl recorrido combina senderos por bosque nativo con colecciones de plantas vivas organizadas por familias y usos. Hay cerca de 200 especies de palmas, entre ellas la palma de cera, árbol nacional de Colombia, y orquídeas como la Cattleya trianae y la Epidendrum ibaguense, planta insignia del jardín. Se registraron más de 224 especies de aves, así que conviene llevar binoculares. Los senderos llevan a tres miradores, Sindamanoy, Arrayanes y Fiques, con vista sobre la ciudad.\n\nHay subidas y bajadas, así que andá con calzado cómodo, agua y repelente. Queda lejos de las paradas de buseta, por lo que lo más práctico es ir en taxi. El jardín organiza también recorridos nocturnos y noches de astronomía con tarifa aparte. Confirmá precio y horario por WhatsApp antes de ir, porque las tarifas cambian cada año.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Calle 19, vía Calambeo, cerros noroccidentales de Ibagué, a unos 5 minutos en auto del centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano, para ver aves y evitar el calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "COP 20.000 visitante nacional; COP 30.000 extranjero; menores de 5 años en grupo familiar gratis (fuente: cuenta oficial del jardín, febrero 2025, verificado octubre 2026). Un usuario reporta para 2026 COP 25.000 adulto y COP 35.000 extranjero: confirmalo antes"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Festival Folclórico Colombiano (junio)",
+      "desc": "La fiesta grande de Ibagué desde 1959: desfiles de San Juan y San Pedro, reinados, conciertos, Día del Tamal y Día de la Lechona.",
+      "detalle": "El Festival Folclórico Colombiano nació en 1959 para celebrar las fiestas de San Juan y San Pedro y las tradiciones del Tolima, y hoy es el evento que más visitantes trae a Ibagué. Durante una semana la ciudad se llena de cabalgatas, tablados populares, desfiles con carrozas y comparsas de todo el país, concursos de duetos y bambucos, y un encuentro nacional del folclor con embajadoras de distintas regiones.\n\nLa edición 52, en 2026, se hizo del 22 al 29 de junio. Los momentos centrales fueron el Gran Desfile de San Juan (miércoles 24, 10 de la mañana) y el Gran Desfile Nacional de San Pedro (domingo 28, 10 de la mañana), más conciertos de artistas de música popular y vallenato. La comida tiene sus propios días: el Día del Tamal, con precio oficial acordado con los productores y venta en el Parque Murillo Toro, y el Día de la Lechona Tolimense, también en el Murillo Toro.\n\nSi vas en esa semana, reservá alojamiento con tiempo y movete a pie o en taxi, porque hay cierres de calles. Los desfiles en la calle son gratuitos; algunos conciertos y espectáculos en coliseos pueden cobrar entrada.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Toda la ciudad; Parque Murillo Toro, Plazoleta Darío Echandía y avenidas del centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Última semana de junio (fechas exactas cambian cada año)"
+        },
+        {
+          "label": "Entrada",
+          "value": "Desfiles gratis. Día del Tamal 2026: tamal $12.000 sin bebida, $13.000 con bebida (fuente: Alcaldía de Ibagué, junio 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 7 días"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo de Arte del Tolima (MAT)",
+      "desc": "Museo de arte colombiano y latinoamericano abierto en 2003 en el barrio Belén, con unas 600 obras y exposiciones temporales.",
+      "detalle": "El Museo de Arte del Tolima abrió en diciembre de 2003 y es el principal museo de arte de la región. Su colección reúne unas 600 obras de arte colombiano y latinoamericano, con peso de los artistas tolimenses, y se completa con exposiciones temporales, una biblioteca especializada y una pequeña sala de teatro. Las muestras suelen dialogar con la historia local: en 2024 dedicó una exposición a la historia del Festival Folclórico y en 2025 conmemoró los 40 años de la tragedia de Armero.\n\nEs un museo chico y bien cuidado, que se recorre en una hora o un poco más. De martes a sábado ofrece visitas comentadas para grupos y colegios, y cada tanto se suma a las Noches de Museos, con entrada libre en horario nocturno.\n\nAbre de martes a domingo y festivos, de 10 a 12:30 y de 14 a 18 h, con último ingreso a las salas a las 12 y a las 17:30. Si el lunes es feriado, cierra el martes. Queda en la Carrera 7 No. 5-93, en el barrio Belén, a pocas cuadras del centro.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Carrera 7 No. 5-93, barrio Belén, cerca del centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año, de martes a domingo"
+        },
+        {
+          "label": "Entrada",
+          "value": "$5.500 entrada general (fuente: El Cronista, febrero 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Termales El Rancho (Cañón del Combeima)",
+      "desc": "Pozos de agua termal a 2.600 metros en lo alto del Cañón del Combeima, a los que se llega caminando unas dos horas.",
+      "detalle": "Los termales de El Rancho son el premio de la caminata más popular del Cañón del Combeima. Están a unos 2.600 metros sobre el nivel del mar, rodeados de bosque de montaña, y sus pozos de agua caliente son un buen lugar para relajar las piernas después de la subida.\n\nSegún la prensa local, se puede ir en vehículo hasta el puesto de control de El Palmar; desde ahí sólo se permite seguir a pie o en bicicleta. Algunos suben en bicicleta hasta El Silencio y otros arrancan a caminar desde Juntas. La caminata dura unas dos horas por un camino de montaña con barro según la época. La tarifa se cobra en El Silencio, antes de llegar a los pozos.\n\nLlevá traje de baño, toalla, ropa de abrigo para la bajada, agua y algo de comer. Salí temprano para volver antes de que caiga la tarde, porque arriba el clima cambia rápido. Este sector es parte de la travesía hacia el Nevado del Tolima, así que vas a cruzarte con grupos de montañistas. En temporada de lluvias consultá el estado del camino y del río antes de salir.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Arriba de Juntas, en el extremo alto del Cañón del Combeima; caminata de unas 2 horas desde El Palmar o Juntas"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Temporadas secas, saliendo temprano"
+        },
+        {
+          "label": "Entrada",
+          "value": "$5.000 a $10.000 por persona, se paga en El Silencio (fuente: El Nuevo Día, abril 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo desde Ibagué"
+        }
+      ]
+    },
+    {
+      "nombre": "Parque Centenario y Concha Acústica Garzón y Collazos",
+      "desc": "El parque más querido del centro, con lago, árboles grandes y la concha acústica donde se presentan duetos y grupos folclóricos.",
+      "detalle": "El Parque Centenario es el gran espacio verde del centro de Ibagué, al que la guía oficial de turismo de Colombia llama 'el pulmón de la ciudad'. Tiene árboles enormes, un arroyo con patos y senderos donde a la mañana sale a correr la gente del barrio; a la tarde es un buen lugar para ver el atardecer.\n\nAdentro está la Concha Acústica Garzón y Collazos, inaugurada en junio de 1983 y bautizada en honor al dueto tolimense de Darío Garzón y Eduardo Collazos, una de las voces más recordadas de la música andina colombiana. Es escenario de presentaciones del Festival Folclórico y del Festival Nacional de la Música Colombiana, creado en 1987 en homenaje al dueto. Tras años de deterioro y una inundación en agosto de 2021, la concha volvió a abrirse en 2026 después de obras de recuperación.\n\nEs un paseo gratuito y corto. Combinalo con el Conservatorio y el Panóptico en el mismo día. Si querés ver un espectáculo en la concha, revisá la agenda de la Alcaldía y del Festival, especialmente en junio.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Ibagué"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano o al atardecer; junio para ver espectáculos"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (parque público)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Parque Museo La Martinica y Mirador de las Tres Cruces",
+      "desc": "Cerro de 50 hectáreas en el borde de la ciudad, con senderos, quebradas y un mirador que abarca casi todo Ibagué.",
+      "detalle": "La Martinica es el cerro que se levanta en el borde de Ibagué y la guía oficial de turismo de Colombia lo propone como el mejor punto para empezar la visita: desde arriba se entiende cómo la ciudad se acomoda en el valle del Combeima, con la cordillera detrás. El Parque Museo La Martinica tiene unas 50 hectáreas para caminatas, quebradas, balneario y actividades como rappel.\n\nEn la cima está el Mirador del Cerro de las Tres Cruces, con vista panorámica de la ciudad y las montañas, y puestos de comida y bebida. Los fines de semana es un clásico de ciclistas y caminantes: la subida es dura y los visitantes advierten que el camino no es para autos bajos. A veces hay misa arriba, con bendición de bicicletas incluida.\n\nAndá con agua, gorra y protector solar, porque el sol pega fuerte en la subida, y preferí la mañana temprano. Por seguridad, subí en grupo o en horarios con movimiento de gente y no te quedes hasta que oscurezca. No encontramos una tarifa de ingreso publicada: preguntá en el lugar si hay cobros por actividades.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Borde de la ciudad, en la salida de Ibagué; se sube a pie, en bici o en vehículo alto"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano, días despejados"
+        },
+        {
+          "label": "Entrada",
+          "value": "Sin tarifa publicada; los puestos de arriba cobran consumo (fuente: colombia.travel y reseñas de visitantes, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 4 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Plazas de mercado y lechonerías (La 28, El Salado, La 21)",
+      "desc": "Donde se come la lechona tolimense sin arroz y el tamal de libra, en mesas compartidas y desde temprano.",
+      "detalle": "La cocina es una de las razones para ir a Ibagué, y el mejor lugar para probarla son las plazas de mercado. La lechona tolimense es un cerdo entero relleno con su carne, arveja amarilla seca y especias, asado unas doce horas en horno; los productores locales insisten en que la versión auténtica no lleva arroz. Se sirve con su cuero crocante, arepa y el insulso, un dulce tradicional. El tamal tolimense es grande, de una libra, envuelto en hoja de plátano, y se come sobre todo en el desayuno.\n\nLa Mona Sixta, en la Plaza de Mercado de la 28, es una de las lechonerías más antiguas de la ciudad. En el Pueblito Tolimense de la plaza de El Salado están La Tradicional, La Sabrosita y Martín Chello, y sobre la avenida Ambalá, Lechonería Eduvina. Las plazas de La 21, La 14 y El Jardín suman tamales, sancocho, amasijos, avena casera y masato.\n\nAndá temprano, sobre todo el fin de semana: los tamales y la lechona se terminan antes del mediodía. Llevá efectivo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Plaza de la 28, Plaza de El Salado (comuna 7), Plaza de la 21 y avenida Ambalá"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañanas, en especial sábados y domingos"
+        },
+        {
+          "label": "Entrada",
+          "value": "Tamal en plazas y lechonerías ~ $9.000; con lechona ~ $12.000 (fuente: Pulzo/El Nuevo Día, febrero 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Honda, la ciudad de los puentes (excursión)",
+      "desc": "Antiguo puerto colonial sobre el río Magdalena, con calles empedradas, el Puente Navarro y el Museo del Río Magdalena.",
+      "detalle": "Honda fue durante siglos el puerto fluvial clave del interior de Colombia: hasta ahí llegaban los barcos que subían por el río Magdalena y desde ahí seguían las mercancías y los viajeros a lomo de mula hacia Bogotá. De esa época le quedan un casco histórico de calles empedradas y casas coloniales, y una cantidad de puentes que le valieron el apodo de ciudad de los puentes.\n\nLo más visitado es la Calle de las Trampas, una de las calles mejor conservadas, el Puente Navarro, que cruza el río hacia Cundinamarca y que la promoción oficial presenta como el puente de acero en ménsula más antiguo de América Latina, y el Museo del Río Magdalena, en un antiguo depósito junto al malecón, que cuenta la historia del río. También están la Casa Museo Alfonso López Pumarejo y la plaza de mercado. Es famosa por el pescado de río.\n\nHace mucho calor, así que caminá temprano o al atardecer. Desde Ibagué hay micros directos desde la terminal; también hay tours de día completo con paseo en lancha por el Magdalena.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Norte del Tolima; unas 2,5 horas en micro desde la Terminal de Ibagué (fuente: Rome2Rio, agregador)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; temprano o al atardecer por el calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "Recorrer el centro es gratis. Tour privado de 2 horas en Honda desde US$ 46,67 por grupo (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo desde Ibagué"
+        }
+      ]
+    },
+    {
+      "nombre": "Ruinas de Armero (excursión)",
+      "desc": "Los restos del pueblo arrasado por el lodo del Nevado del Ruiz en 1985, hoy un lugar de memoria con calles, cruces y el sitio de Omayra.",
+      "detalle": "Armero era un pueblo próspero del norte del Tolima hasta la noche del 13 de noviembre de 1985. La erupción del Nevado del Ruiz derritió parte de su glaciar y las avalanchas de lodo bajaron por los ríos y sepultaron el pueblo: murieron unas 25.000 personas. Las autoridades habían recibido advertencias de los vulcanólogos sobre la actividad del volcán en los meses anteriores. La imagen de Omayra Sánchez, una nena de 13 años atrapada entre los escombros durante unas 60 horas, recorrió el mundo y es hoy el símbolo de la tragedia.\n\nLa visita es a lo que quedó: restos de casas y calles entre la vegetación, el antiguo parque de Los Fundadores, monumentos, cruces y el lugar donde murió Omayra, que la gente visita y llena de ofrendas. No es un parque temático, es un sitio de memoria, y conviene ir con respeto. Desde 2013 el 13 de noviembre es el Día Nacional de la Memoria y la Solidaridad, con misas y actos en el cementerio.\n\nAndá con agua, gorra y protector solar: la zona es muy calurosa. Lo más cómodo es ir en auto o con tour, o combinarlo con Honda en transporte público.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Norte del Tolima, a unos 94 km de Ibagué (fuente: EcuRed)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano; el 13 de noviembre hay actos de conmemoración"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (sitio abierto, sin tarifa publicada; verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día (con traslado, día completo)"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Museo Panóptico de Ibagué",
+      "precio": "Gratis para todo público, martes a domingo de 14 a 17 h; recorrido guiado diario 15:15 (fuente: El Nuevo Día, enero 2026, verificado octubre 2026). Por la mañana sólo grupos con reserva a info@panopticodeibague.gov.co"
+    },
+    {
+      "tipo": "Museo de Arte del Tolima (MAT)",
+      "precio": "$5.500 entrada general (fuente: El Cronista, febrero 2026, verificado octubre 2026). La última tarifa reducida publicada fue $3.500 niños y estudiantes con carné (El Cronista, junio 2024): confirmala en taquilla. Se paga en el museo, Carrera 7 No. 5-93"
+    },
+    {
+      "tipo": "Jardín Botánico San Jorge",
+      "precio": "COP 20.000 nacionales; COP 30.000 extranjeros; menores de 5 años en grupo familiar gratis; grupos escolares y universitarios COP 15.000 c/u (fuente: cuenta oficial del jardín, febrero 2025, verificado octubre 2026). Un usuario de TripAdvisor reporta 2026 a COP 25.000 adulto y COP 35.000 extranjero. Se paga en la entrada; consultá por WhatsApp +57 313 378 3055"
+    },
+    {
+      "tipo": "Termales El Rancho (Cañón del Combeima)",
+      "precio": "$5.000 a $10.000 por persona, se cobra en El Silencio antes de los pozos (fuente: El Nuevo Día, abril 2026, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Nevado del Tolima – senderos zona sur del PNN Los Nevados",
+      "precio": "El protocolo del parque (agosto 2023) recomienda no cobrar derecho de ingreso en la zona sur como medida transitoria; ingreso sólo con operador o guía avalado, reserva 5 días hábiles antes y póliza de asistencia (fuente: parquesnacionales.gov.co, verificado octubre 2026). Expedición guiada de 4 días: COP 2.100.000 (fuente: Aventureros Colombia, tarifa 2026-2027)"
+    },
+    {
+      "tipo": "PNN Los Nevados – sector Brisas (Nevado del Ruiz, desde Manizales)",
+      "precio": "Colombianos, residentes y ciudadanos CAN de 5 a 25 años COP 12.500; de 25 a 65 años COP 24.500; extranjeros no residentes COP 68.000; más COP 22.000 de servicios ecoturísticos y COP 5.000 de seguro (fuente: La Patria, febrero 2026, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Día del Tamal (Festival Folclórico)",
+      "precio": "Precio oficial 2026: tamal $12.000 sin bebida, $13.000 con bebida, en el Parque Murillo Toro y 132 puntos autorizados (fuente: Alcaldía de Ibagué, junio 2026, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Día de la Lechona Tolimense (Festival Folclórico)",
+      "precio": "Plato oficial 2026: $20.000 (en 2025 era $18.000), en el Parque Murillo Toro (fuente: Q'hubo Ibagué, junio 2026, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Parque Centenario, Concha Acústica, Plaza de Bolívar, Catedral y ruinas de Armero",
+      "precio": "Gratis (espacios públicos; verificado octubre 2026)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Senderismo por el Cañón del Combeima, mirador Los Sauces y cascada Guamal, con almuerzo",
+      "precio": "Desde US$ 43 por persona, precio publicado en dólares (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "11 horas (9 a 20 h)",
+      "operador": "Operador local vendido por Civitatis; incluye traslado desde el hotel, guía en español y almuerzo"
+    },
+    {
+      "actividad": "Tour en 4x4 por Ibagué y el Cañón del Combeima",
+      "precio": "US$ 145,30 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "6 a 7 horas",
+      "operador": "Operador local vendido por Civitatis; incluye 4x4, guía, entrada al mirador Los Sauces y almuerzo típico en finca"
+    },
+    {
+      "actividad": "Senderismo a la cascada La Plata (Villa Restrepo)",
+      "precio": "US$ 85,72 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "5 h 30 min",
+      "operador": "Operador local vendido por Civitatis"
+    },
+    {
+      "actividad": "Excursión al volcán Cerro Machín y Termales La Florida",
+      "precio": "US$ 100,80 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "12 horas",
+      "operador": "Operador local vendido por Civitatis"
+    },
+    {
+      "actividad": "Excursión al santuario de palmas de cera de Toche",
+      "precio": "US$ 149,34 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "11 a 12 horas",
+      "operador": "Operador local vendido por Civitatis"
+    },
+    {
+      "actividad": "Excursión a Honda con paseo en barco por el Magdalena",
+      "precio": "US$ 174,23 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "10 a 11 horas",
+      "operador": "Operador local vendido por Civitatis"
+    },
+    {
+      "actividad": "Ascenso al Nevado del Tolima (5.250 m) desde Salento",
+      "precio": "COP 2.100.000 sin descuento; COP 1.890.000 reservando con 60 días (fuente: aventureroscolombia.co, tarifa 2026-2027, verificado octubre 2026)",
+      "duracion": "4 días más briefing",
+      "operador": "Aventureros Colombia; incluye guías WFR, ingreso al parque, mulas, equipo de alta montaña y seguro"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Buseta urbana",
+      "precio": "$3.300 de lunes a sábado; $3.400 domingos y festivos (desde el 1 de enero de 2026; fuente: Alcaldía de Ibagué vía Infobae y El Cronista, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Es el transporte público de la ciudad: busetas por rutas fijas que se pagan en efectivo al conductor. Sirven para moverse entre el centro, los centros comerciales y la terminal. Pedí que te avisen dónde bajar y tené monedas."
+    },
+    {
+      "medio": "Taxi con taxímetro",
+      "precio": "Carrera mínima $6.600; banderazo $4.500; recargo nocturno (20 a 5 h) $1.000; dominical y festivo $850; pedido por plataforma o radio $800 (Decreto 0749, desde el 16 de diciembre de 2025; fuente: El Tiempo y El Cronista, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Es la forma más práctica de llegar al Jardín Botánico, al Panóptico o a la terminal. Exigí que el taxímetro esté actualizado: los que no lo actualizaron no pueden cobrar la tarifa nueva."
+    },
+    {
+      "medio": "Taxi desde/hacia el Aeropuerto Perales",
+      "precio": "Taxímetro más recargo aeropuerto de $6.500 (Decreto 0749, desde diciembre 2025; fuente: El Cronista, verificado octubre 2026)",
+      "duracion": "Variable (el aeropuerto está a unos 9 km del centro)",
+      "notas": "No hay un precio total fijo publicado: se suma lo que marca el taxímetro y el recargo. Hay que sumar recargo nocturno si llegás después de las 20 h."
+    },
+    {
+      "medio": "Transporte rural al Cañón del Combeima (Villa Restrepo, Juntas)",
+      "precio": "La Alcaldía acordó no subir la tarifa rural en 2026 (fuente: Infobae, enero 2026, verificado octubre 2026); el valor del trayecto a Juntas no está publicado",
+      "duracion": "Variable",
+      "notas": "Preguntá en tu alojamiento el punto de salida y el horario de vuelta del último vehículo, porque en la parte alta la frecuencia es baja. La alternativa es un tour o un taxi contratado por horas."
+    },
+    {
+      "medio": "Micro intermunicipal a Honda y al norte del Tolima",
+      "precio": "US$ 10–14 estimado (fuente: Rome2Rio, agregador, verificado octubre 2026)",
+      "duracion": "Unas 2,5 horas a Honda",
+      "notas": "Sale de la Terminal de Transportes de Ibagué; Rome2Rio lista a Coomotor con salidas cada 4 horas. Confirmá horario y precio en la terminal, porque el agregador no es oficial."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Bogotá (Terminal Salitre o Terminal Sur) → Terminal de Ibagué en micro",
+      "empresas": "Expreso Bolivariano, Velotax, Expreso Palmira y otras",
+      "precio": "Bolivariano desde $43.000; Velotax desde $45.000; Expreso Palmira desde $47.000 (fuente: Pinbus, agregador, precios semanales, verificado octubre 2026)",
+      "duracion": "4 h 10 min a 5 h 30 min según empresa y tráfico"
+    },
+    {
+      "ruta": "Bogotá (El Dorado) → Aeropuerto Perales (IBE) en avión",
+      "empresas": "Avianca",
+      "precio": "Tarifa variable según fecha, sin precio fijo publicado; desde la última semana de octubre de 2026 el vuelo de la tarde sale de Bogotá a las 17:15 y de Ibagué a las 18:55 (fuente: Pulzo/El Nuevo Día, septiembre 2026, verificado octubre 2026)",
+      "duracion": "Vuelo corto; el aeropuerto queda a unos 9 km del centro"
+    },
+    {
+      "ruta": "Medellín → Ibagué en avión o en micro",
+      "empresas": "Clic (avión desde Olaya Herrera); Coomotor y Rápido Tolima (micro)",
+      "precio": "Micro: Coomotor desde $113.900, Rápido Tolima desde $100.000 (fuente: Pinbus, verificado octubre 2026). Avión: tarifa variable en la web de Clic",
+      "duracion": "Avión unos 50 min; micro 7 h 30 min a 8 h, nocturno"
+    },
+    {
+      "ruta": "Armenia / Eje Cafetero → Ibagué por La Línea",
+      "empresas": "Coomotor, Expreso Bolivariano, Expreso Palmira",
+      "precio": "Coomotor desde $44.100 (fuente: Pinbus, verificado octubre 2026)",
+      "duracion": "1 h 50 min a 3 h 20 min; puede alargarse por el paso restringido en La Línea (julio-agosto 2026)"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Económico y hostales",
+      "nivel": 2,
+      "opciones": "Ayenda Danilo desde COP 50.275, Hotel Bolivariano COP 85.000 y Ayenda Gold Plaza COP 86.948 la noche (fuente: hospedaje.com.co, agregador, verificado octubre 2026). Para mochileros, Aima Ibagué es un hostal con dormitorios compartidos frente a la Catedral y la Plaza de Bolívar; el precio sale al elegir fechas y no incluye el 19% de impuesto (fuente: Hostelworld, verificado octubre 2026). En la semana del Festival Folclórico, a fines de junio, reservá con tiempo"
+    },
+    {
+      "categoria": "Intermedio en el centro y zonas comerciales",
+      "nivel": 3,
+      "opciones": "Hotel Escorial Ibagué COP 121.000, Ayenda Ambeima COP 121.149 y el aparthotel City Star COP 137.500 la noche (fuente: hospedaje.com.co, agregador, verificado octubre 2026). Son opciones sencillas y bien ubicadas para moverse en taxi o buseta. Revisá si el precio es por habitación doble y si incluye desayuno"
+    },
+    {
+      "categoria": "Superior",
+      "nivel": 4,
+      "opciones": "Hotel F25 COP 272.269 (puntaje 9,2) y Hotel Estelar Altamira COP 293.040 (puntaje 8,6 con 492 reseñas) la noche (fuente: hospedaje.com.co, agregador, verificado octubre 2026). Para algo campestre, Club Campestre El Despertar de las Aves aparece a COP 270.000. Conviene comparar con la web de cada hotel, que a veces tiene tarifas directas"
+    },
+    {
+      "categoria": "Alta gama y casas campestres",
+      "nivel": 5,
+      "opciones": "Sonesta Hotel Ibagué COP 350.000 la noche (puntaje 9 con 334 reseñas); su restaurante Senda ofrece cocina de autor. Para grupos o familias hay casas quintas y villas campestres con piscina entre COP 643.500 y COP 1.275.000 la noche, como Casa Quinta Torena o El Guadual Casa Campestre (fuente: hospedaje.com.co, agregador, verificado octubre 2026)"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Tamal tolimense (desayuno de plaza)",
+      "nivel": 1,
+      "opciones": "Tamal de una libra envuelto en hoja de plátano, el desayuno clásico del fin de semana. En lechonerías y plazas de mercado (La 21, La 28, El Jardín, El Salado) ronda los $9.000; con lechona, unos $12.000 (fuente: Pulzo/El Nuevo Día, febrero 2026, verificado octubre 2026). En el Día del Tamal 2026 el precio oficial fue $12.000, o $13.000 con bebida (fuente: Alcaldía de Ibagué, junio 2026)"
+    },
+    {
+      "tipo": "Lechona tolimense (sin arroz)",
+      "nivel": 2,
+      "opciones": "Cerdo relleno con su carne y arveja amarilla, asado unas doce horas, servido con cuero, arepa e insulso. La Mona Sixta (Plaza de la 28), La Tradicional, La Sabrosita y Martín Chello (Pueblito Tolimense, plaza de El Salado) y Lechonería Eduvina (avenida Ambalá) (fuente: El Nuevo Día, febrero 2026, verificado octubre 2026). El plato oficial del Día de la Lechona 2026 costó $20.000 (fuente: Q'hubo Ibagué, junio 2026)"
+    },
+    {
+      "tipo": "Almuerzo corriente (corrientazo) y menú ejecutivo",
+      "nivel": 2,
+      "opciones": "Sopa, seco con arroz, carne y acompañante, jugo y postre. En 2023 se pagaba entre $10.000 y $15.000 en Ibagué (fuente: El Nuevo Día vía Pulzo, agosto 2023, verificado octubre 2026); el sitio colaborativo Expatistan estima el menú del mediodía con bebida en la zona de negocios en COL$ 22.658 (agregador, pocos datos, verificado octubre 2026). Buscá los locales llenos de oficinistas al mediodía"
+    },
+    {
+      "tipo": "Restaurantes de la Milla de Oro y campestres del Combeima",
+      "nivel": 4,
+      "opciones": "En la calle 60, entre la avenida Ambalá y la carrera Quinta, se concentran Salvador y Milagros, Don Pedro, Paz Restaurante y DeRegio Casual Food, con carnes, cocina peruana, italiana y mexicana. En el Cañón del Combeima, 9K Cocina Gourmet, KÁLA, El Barril Steak y El Peñón sirven trucha y parrilla en ambiente de finca (fuente: El Nuevo Día vía Pulzo, julio 2026, verificado octubre 2026). Ninguno publica carta con precios: consultalos en sus redes antes de ir"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa para viajar a Ibagué si soy latinoamericano?",
+      "a": "No, si sos argentino, uruguayo, chileno, peruano, mexicano, brasileño, boliviano, ecuatoriano o paraguayo: según la lista de la Cancillería de Colombia actualizada en mayo de 2026, Colombia no les exige visa de turismo. Los ciudadanos del Mercosur y de la Comunidad Andina pueden entrar con su documento nacional de identidad vigente; los argentinos, con el DNI de la versión más reciente, y conviene llevar el pasaporte de respaldo. Al entrar te dan un permiso de hasta 90 días. Migración Colombia recomienda llenar el formulario Check-MIG, que es gratuito, entre 72 horas y 1 hora antes del vuelo: hacelo sólo en el sitio oficial .gov.co, porque hay páginas que cobran. Si tenés otra nacionalidad, revisá la lista de la Cancillería."
+    },
+    {
+      "q": "¿Es seguro Ibagué?",
+      "a": "Ibagué es una ciudad intermedia sin los problemas de las grandes capitales, pero hay que tomar las precauciones de cualquier ciudad colombiana. Según la Policía, entre enero y marzo de 2025 los hurtos a personas bajaron un 37% frente a 2024, aunque siguen siendo el delito más común. No andes con el celular en la mano en el centro, usá taxis con taxímetro o pedidos por aplicación y evitá caminar de noche por zonas vacías. Para La Martinica y las caminatas del Combeima, andá en grupo y de día. En la montaña el riesgo real es otro: crecientes del río, derrumbes y cambios de clima. La línea de emergencias es el 123."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse?",
+      "a": "Con dos días completos ves lo esencial: uno para la ciudad (Panóptico por la tarde, Museo de Arte del Tolima, Conservatorio, Parque Centenario y una plaza de mercado para desayunar tamal) y otro para el Cañón del Combeima, con caminata a una cascada o a los termales de El Rancho. Con un tercer día podés sumar el Jardín Botánico San Jorge y La Martinica, o salir a Honda y Armero. El ascenso al Nevado del Tolima es otra historia: son cuatro días de expedición con operador. Si coincidís con el Festival Folclórico, a fines de junio, sumá un día más para los desfiles."
+    },
+    {
+      "q": "¿Cómo llego desde Bogotá y cuánto cuesta?",
+      "a": "La forma más barata es el micro. Salen desde las terminales de Bogotá (Salitre y Sur) empresas como Expreso Bolivariano, Velotax y Expreso Palmira, con pasajes desde $43.000 a $47.000 según Pinbus, y el viaje tarda entre 4 y 5 horas y media. En avión, Avianca vuela de El Dorado al aeropuerto Perales; desde fines de octubre de 2026 el vuelo de la tarde sale de Bogotá a las 17:15. El aeropuerto queda a unos 9 km del centro y el taxi cobra taxímetro más un recargo de $6.500. Comprá el pasaje de micro con anticipación en puentes y en la semana del Festival."
+    },
+    {
+      "q": "¿Conviene alquilar auto?",
+      "a": "Para la ciudad no hace falta: las busetas cuestan $3.300 y el taxi arranca en $6.600. El auto sirve si querés recorrer el norte del Tolima (Honda, Armero) a tu ritmo o subir el Combeima sin depender del transporte rural, aunque en la parte alta la vía es angosta y en temporada de lluvias hay derrumbes. Ibagué tiene pico y placa, que cambia cada semana: revisá la rotación antes de salir. Ojo con la vía Ibagué–Cajamarca–La Línea hacia Armenia: en 2026 tuvo paso restringido a un carril por un deslizamiento en Calle Larga, con demoras. Consultá el estado con Invías."
+    },
+    {
+      "q": "¿Puedo subir al Nevado del Tolima por mi cuenta?",
+      "a": "No. Según el protocolo de reservas de Parques Nacionales para la zona sur del PNN Los Nevados, los cupos sólo se asignan a operadores, agencias y guías avalados por el parque, que deben pedir la reserva con al menos cinco días hábiles de anticipación y presentar una póliza de asistencia y rescate. Cada sendero tiene un tope diario: 82 personas en la travesía Juntas–Cocora y 76 en el sendero de Arenales a la cumbre. Las expediciones duran cuatro días y cuestan alrededor de COP 2.100.000 con un operador como Aventureros Colombia. No se exige experiencia técnica, pero sí muy buen estado físico."
+    },
+    {
+      "q": "¿Puedo pagar con tarjeta o necesito efectivo?",
+      "a": "Las dos cosas. Hoteles, supermercados, centros comerciales y la mayoría de los restaurantes de la Milla de Oro aceptan tarjeta, y en el centro hay cajeros automáticos. Pero en las plazas de mercado, lechonerías, busetas, transporte rural, termales de El Rancho y puestos del Cañón del Combeima se paga en efectivo. Llevá billetes chicos y monedas: el pasaje de buseta es de $3.300 y un tamal ronda los $9.000. Si sacás plata, preferí cajeros dentro de bancos o centros comerciales."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Ibagué»: https://es.wikipedia.org/wiki/Ibagu%C3%A9",
+      "Wikipedia (EN) — «Conservatory of Tolima»: https://en.wikipedia.org/wiki/Conservatory_of_Tolima",
+      "EcuRed — «Conservatorio del Tolima»: https://www.ecured.cu/Conservatorio_del_Tolima",
+      "Infobae — «From prison to museum: the Panopticon of Ibagué opened its doors as a cultural complex»: https://www.infobae.com/en/2022/04/06/from-prison-to-museum-the-panopticon-of-ibague-opened-its-doors-as-a-cultural-complex",
+      "EcuRed — «Armero (Colombia)»: https://www.ecured.cu/Armero"
+    ],
+    "que_ver_atracciones": [
+      "Colombia Travel (ProColombia) — «La Capital Musical de Colombia»: https://colombia.travel/es/ibague",
+      "Corporación San Jorge — «Jardín Botánico de Ibagué»: https://corporacionsanjorge.com/jardin-botanico-ibague/",
+      "Museo de Arte del Tolima — «Sitio oficial»: https://museodeartedeltolima.com.co/",
+      "El Nuevo Día — «Así puede visitar el Museo Panóptico de Ibagué durante 2026»: https://www.elnuevodia.com.co/ibague/asi-puede-visitar-el-museo-panoptico-de-ibague-durante-2026-534312",
+      "El Cronista — «Panóptico de Ibagué: un viaje por la historia y el arte del Tolima»: https://elcronista.co/actualidad/panoptico-de-ibague-un-viaje-por-la-historia-y-el-arte-del-tolima",
+      "El Nuevo Día — «Termales El Rancho, en Ibagué»: https://www.elnuevodia.com.co/especiales/termales-el-rancho-un-paraiso-natural-en-ibague-525375",
+      "El Espectador — «Fiestas en Ibagué en junio de 2026: programación, conciertos e invitados»: https://www.elespectador.com/turismo/fiestas-en-ibague-en-junio-de-2026-programacion-conciertos-e-invitados/",
+      "El Espectador — «Festival Folclórico Colombiano: el renacer de la Concha Acústica de Ibagué»: https://www.elespectador.com/colombia/mas-regiones/festival-folclorico-colombiano-el-renacer-de-la-concha-acustica-de-ibague/",
+      "Parques Nacionales Naturales — «Protocolo de reservas Nevado del Tolima»: https://www.parquesnacionales.gov.co/wp-content/uploads/2024/02/Protocolo-de-reservas-nevado-del-Tolima.pdf",
+      "Aventureros Colombia — «Cumbre Nevado del Tolima»: https://aventureroscolombia.co/nevado-del-tolima"
+    ],
+    "como_llegar_transporte": [
+      "Pinbus — «Pasajes de bus de Bogotá a Ibagué»: https://pinbus.com/pasajes-de-bus/bogota-ibague",
+      "Pinbus — «Pasajes de bus de Armenia a Ibagué»: https://pinbus.com/pasajes-de-bus/armenia-ibague",
+      "Pinbus — «Pasajes de bus de Medellín a Ibagué»: https://pinbus.com/pasajes-de-bus/medellin-ibague",
+      "Pulzo — «Avianca modificará horarios de vuelos vespertinos entre Bogotá e Ibagué a partir de octubre de 2026»: https://www.pulzo.com/vivir-bien/avianca-cambia-horarios-de-vuelos-bogota-ibague-desde-octubre-2026-nuevos-itinerarios-clave-PP5308913A",
+      "Wikipedia (EN) — «Perales Airport»: https://en.wikipedia.org/wiki/Perales_Airport",
+      "Infobae — «Pasaje de buseta en Ibagué sube $400 en 2026»: https://www.infobae.com/colombia/2026/01/04/pasaje-de-buseta-en-ibague-sube-400-en-2026-nuevas-tarifas-urbanas-y-sin-aumento-para-transporte-rural/",
+      "El Tiempo — «Suben las tarifas de taxi en Colombia para 2026: Cali, Ibagué y Tunja»: https://www.eltiempo.com/colombia/otras-ciudades/actualizacion-de-las-tarifas-de-taxi-en-las-principales-ciudades-de-colombia-para-el-periodo-2026-3520450",
+      "El Cronista — «Las nuevas tarifas para taxis entran en vigencia en Ibagué a partir del 16 de diciembre»: https://elcronista.co/destacadas/las-nuevas-tarifas-para-taxis-entran-en-vigencia-en-ibague-a-partir-del-16-de-diciembre",
+      "Rome2Rio — «Bogotá → Ibagué: precios y horarios»: https://www.rome2rio.com/s/Bogot%C3%A1/Ibagu%C3%A9",
+      "Q'hubo Ibagué — «Tres meses de paso restringido en la vía Cajamarca-La Línea»: https://www.qhuboibague.com/tres-meses-de-paso-restringido-en-la-via-cajamarca-la-linea/200260/"
+    ],
+    "requisitos_ingreso": [
+      "Cancillería de Colombia — «Lista de países que exigen visa de turismo a colombianos y nacionalidades a las que Colombia les exige visa (mayo 2026)»: https://www.cancilleria.gov.co/sites/default/files/atencion-ciudadano/2026-09/lista-paises-exigen-visa-mayo-2026.pdf",
+      "Cancillería de Colombia — «Países que exigen o eximen»: https://www.cancilleria.gov.co/atencion-y-servicio-al-ciudadano/tramites-y-servicios/visa/paises-que-exigen-o-eximen",
+      "Migración Colombia — «Respuesta a petición sobre Check-MIG (abril 2026)»: https://portal.migracioncolombia.gov.co/fileadmin/user_upload/informes-garc/2026/Abril/172669.pdf",
+      "Assist Card — «Requisitos para viajar a Colombia desde Argentina»: https://www.assistcard.com/ar/requisitos-viajar-colombia-argentina"
+    ],
+    "precios_2026": [
+      "Alcaldía de Ibagué — «Conozca el precio establecido para el Día del Tamal en Ibagué»: https://ibague.gov.co/portal/noticias/22504-conozca-el-precio-establecido-para-el-dia-del-tamal-en-ibague",
+      "Q'hubo Ibagué — «Día de la Lechona 2026 en Ibagué: precio y fecha confirmada»: https://www.qhuboibague.com/dia-de-la-lechona-2026-en-ibague-precio-y-fecha-confirmada/197854/",
+      "Pulzo — «¿Cuál es el precio promedio de un tamal en Ibagué 2026?»: https://www.pulzo.com/economia/cual-es-precio-promedio-tamal-ibague-2026-PP5046867",
+      "El Cronista — «El Museo de Arte del Tolima conmemora 40 años de la tragedia de Armero»: https://elcronista.co/actualidad/el-museo-de-arte-del-tolima-conmemora-40-anos-de-la-tragedia-de-armero",
+      "La Patria — «Parque Nacional Natural Los Nevados: estas son las tarifas 2026»: https://www.lapatria.com/medioambiente/parque-nacional-natural-los-nevados-estas-son-las-tarifas-2026-para-ingresar-al",
+      "Civitatis — «Excursiones y tours en Ibagué»: https://www.civitatis.com/ar/ibague/",
+      "Jardín Botánico San Jorge — «Cuenta oficial en X»: https://x.com/jardinsanjorge"
+    ],
+    "alojamiento_gastronomia": [
+      "Hospedaje.com.co — «Hospedaje y hoteles en Ibagué»: https://www.hospedaje.com.co/ibague-region-colombia",
+      "Hostelworld — «Aima Ibagué»: https://www.hostelworld.com/hostels/p/311230/aima-ibague/",
+      "Pulzo / El Nuevo Día — «Ibagué: mejores zonas gastronómicas, restaurantes y comida típica»: https://www.pulzo.com/vivir-bien/ibague-mejores-zonas-gastronomicas-restaurantes-y-comida-tipica-para-visitar-PP5262459A",
+      "Pulzo / El Nuevo Día — «Ibagué: almuerzo corrientazo con sopa, seco y jugo»: https://www.pulzo.com/economia/ibague-almuerzo-corrientazo-con-sopa-seco-jugo-menos-10000-PP2968248A",
+      "Expatistan — «Precio del menú del mediodía en Ibagué»: https://expatistan.com/price/daily-menu/ibague/EUR",
+      "La FM — «¿Por qué la verdadera lechona no debe llevar arroz?»: https://www.lafm.com.co/colombia/por-que-la-verdadera-lechona-no-debe-llevar-arroz"
+    ],
+    "seguridad": [
+      "Radio Nacional de Colombia — «Disminución de la criminalidad en Ibagué»: https://radionacional.co/noticias-colombia/disminucion-de-la-criminalidad-en-ibague",
+      "Pulzo — «Derrumbe en vía Cajamarca-La Línea»: https://www.pulzo.com/nacion/derrumbe-via-cajamarca-linea-alerta-por-economia-caso-gualanday-PP5260666"
+    ]
+  }
+}
