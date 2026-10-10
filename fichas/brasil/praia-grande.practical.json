@@ -1,0 +1,619 @@
+{
+  "slug": "praia-grande",
+  "name": "Praia Grande",
+  "region": "Santa Catarina",
+  "lat": -29.1969,
+  "lon": -49.95,
+  "datosRapidos": [
+    {
+      "label": "Estado",
+      "value": "Praia Grande es un municipio del extremo sur de Santa Catarina, en el sur de Brasil, pegado al límite con Rio Grande do Sul. No hay que confundirlo con Praia Grande de São Paulo, la ciudad de playa del litoral paulista: este es un pueblo agrícola de valle, sin mar, a 45 metros de altura, al pie de los paredones de la Serra Geral. Según el censo del IBGE de 2022 tiene 8.270 habitantes, y el IBGE estima 8.696 para 2025, en un territorio de unos 284 km². El nombre viene de los tropeiros (arrieros), que llamaron 'praia grande' (playa grande) a los bancos de canto rodado de sus ríos. Se presenta como la 'Capital dos Canyons' porque desde acá se entra por abajo a los cañones de los Parques Nacionales de Aparados da Serra y da Serra Geral: la Trilha do Rio do Boi, que recorre el interior del Cânion Itaimbezinho, sale de su territorio, y los cañones Malacara, Índios Coroados y Molha Coco quedan a minutos del centro. Forma parte del Geoparque Caminhos dos Cânions do Sul, reconocido por la Unesco en 2022. En los últimos años sumó otro imán: los vuelos en globo al amanecer frente a los cañones, una actividad que pasó a tener reglas nuevas de la ANAC después del accidente de junio de 2025. Los bordes superiores de Itaimbezinho y Fortaleza se visitan desde Cambará do Sul, del lado gaúcho, subiendo la sierra."
+    },
+    {
+      "label": "Moneda",
+      "value": "Real brasileño (R$). Las entradas de Urbia a los cañones se pagan con PIX, débito o crédito, y en la boletería física también en efectivo; online se pueden pagar en hasta 3 cuotas (fuente: Política de Ingressos y web de Urbia, verificado octubre 2026). Para comprar online o en boletería te piden CPF (el número fiscal brasileño); si sos extranjero y no tenés, consultá a Urbia antes de viajar o comprá a través de una agencia. En pousadas y restaurantes del pueblo se usa mucho PIX y tarjeta, pero en cascadas privadas y caminos rurales llevá algo de efectivo"
+    },
+    {
+      "label": "Mejor época",
+      "value": "Se puede ir todo el año, pero el clima de la sierra cambia de golpe. Urbia advierte que la neblina ('cerração' y 'viração') puede tapar los cañones en minutos y que eso no da derecho a reembolso. Para el Rio do Boi conviene el verano: un blog recomienda de diciembre a marzo y otro de octubre a abril, porque en invierno el agua está muy fría; con lluvias fuertes el ICMBio cierra la trilha por riesgo de crecidas repentinas. Para ver los bordes desde arriba, un día despejado vale más que la estación: tené un día de margen en el itinerario por si amanece cerrado"
+    },
+    {
+      "label": "Visado",
+      "value": "Argentinos, uruguayos, paraguayos, chilenos, colombianos y peruanos entran a Brasil como turistas con su documento nacional de identidad vigente o con pasaporte, por el acuerdo de documentos de viaje del Mercosur y Estados Asociados. Los mexicanos no necesitan visa de turismo desde mayo de 2013, pero entran con pasaporte. Llevá el documento original: en la boletería de los parques te piden documento con foto (RG, pasaporte, DNI) a partir de los 12 años, y la partida de nacimiento o equivalente para menores de 12"
+    }
+  ],
+  "intro": [
+    "Praia Grande es el lado de abajo de los cañones del sur de Brasil. Mientras casi todos miran el Itaimbezinho y el Fortaleza desde el borde, en Cambará do Sul, acá el plan es entrar por el fondo: caminar por el lecho del Rio do Boi entre paredes verticales, bañarse en las pozas del Malacara o ver amanecer desde un globo con la sierra enfrente. Es un pueblo chico y tranquilo, rodeado de bananales y arrozales, con pousadas desparramadas por Vila Rosa y la Serra do Faxinal.",
+    "La ventaja de dormir acá es que tenés las dos caras de los parques nacionales a mano: el interior de los cañones desde el valle y, cuando la ruta lo permite, los bordes de Itaimbezinho y Fortaleza subiendo la sierra. Hay trilhas para todos los niveles, desde 300 metros hasta el Morro dos Cabritos hasta los 14 km del Rio do Boi, que exigen guía acreditado y buen estado físico. Y muchas cascadas privadas que se visitan pagando una tasa chica en la tranquera.",
+    "Conviene venir con tiempo y sin ansiedad. La neblina puede borrar un cañón entero en minutos, el Rio do Boi se cierra cuando llueve fuerte y la subida de la Serra do Faxinal sigue en obra con horarios restringidos. Con dos o tres días tenés margen para que el clima te deje ver lo que viniste a ver. A cambio, el lugar te da paredones de basalto, mata atlántica, bosques de araucaria y campos de altura juntos en pocos kilómetros, el paisaje por el que la Unesco reconoció el geoparque."
+  ],
+  "historia_corta": "Antes de los europeos, el valle y la meseta fueron territorio de guaraníes, xokleng y kaingang, que abrieron los primeros caminos entre la costa y los campos de arriba. En el siglo XVIII aparecieron las primeras haciendas, trabajadas por peones, agregados y personas esclavizadas que bajaban de las estancias de la sierra. Los tropeiros, que llevaban ganado entre la meseta y el litoral, bautizaron el lugar 'Praia Grande' por los grandes bancos de piedras redondeadas de sus ríos. En el siglo XIX llegaron colonos alemanes y portugueses desde Rio Grande do Sul, y más tarde italianos. Vila Rosa se volvió un punto comercial sobre el camino de los tropeiros y el pueblo creció a orillas del río Mampituba. En la década de 1940 se abrió la primera ruta hacia el norte catarinense (SC-108). Praia Grande se emancipó en 1958: su fecha de fundación municipal es el 19 de julio de 1958. Un año después, el 17 de diciembre de 1959, se creó el Parque Nacional de Aparados da Serra para proteger el Itaimbezinho; en 1972 se revisaron sus límites y en 1992 se creó al lado el Parque Nacional da Serra Geral, que incluye el Fortaleza y el Malacara. En 2021 el ICMBio concesionó la visita de los dos parques a Urbia Cânions Verdes, que empezó a cobrar entrada el 1 de octubre de ese año. En abril de 2022 la Unesco reconoció el Geoparque Caminhos dos Cânions do Sul. El globo se volvió la otra marca del pueblo, hasta que el 21 de junio de 2025 un globo con 21 personas se incendió y cayó: murieron ocho. La ANAC dictó reglas transitorias desde diciembre de 2025 y Praia Grande fue el primer municipio con empresas habilitadas. En 2026 avanza el asfaltado de la Serra do Faxinal (SC-290), que estuvo cerrada de abril a agosto y reabrió en forma parcial.",
+  "queVer": [
+    {
+      "nombre": "Cânion Itaimbezinho (bordes y trilhas do Vértice y do Cotovelo)",
+      "desc": "El cañón insignia del Parque Nacional de Aparados da Serra: 5,8 km de largo y paredes de más de 700 metros, con miradores sobre cascadas.",
+      "detalle": "El Itaimbezinho es el cañón que dio origen al Parque Nacional de Aparados da Serra, creado en 1959 para protegerlo. Su nombre viene del tupí-guaraní y junta las palabras 'piedra' y 'afilada'. Según Urbia, la concesionaria, tiene unos 5,8 km de extensión y desfiladeros de más de 700 metros; el folleto oficial habla de 600 a 750 m de profundidad y 2 km de ancho.\n\nLa visita por arriba sale del núcleo Itaimbezinho, a 18 km del centro de Cambará do Sul por camino de ripio. Hay tres trilhas señalizadas: la do Vértice (corta, para ver las cascadas del arroyo Perdizes cayendo al cañón), la do Cotovelo (llana, unos 6 km ida y vuelta, se puede hacer también en bici) y la do Camisas, que sigue desde el Cotovelo. Las duraciones oficiales varían según la fuente de Urbia: Vértice 1 h a 1 h 30, Cotovelo 2 h 30 a 3 h, Camisas 3 a 4 h.\n\nDesde Praia Grande se llega subiendo la Serra do Faxinal, que en 2026 sigue en obra y sólo abre en franjas horarias: revisá el horario antes de salir. La misma entrada sirve para Fortaleza: permite 3 accesos en 7 días. Llevá abrigo aunque haga calor abajo: arriba hay viento y el tiempo cambia rápido.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Núcleo a 18 km de Cambará do Sul (ripio); desde Praia Grande por la Serra do Faxinal"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días despejados; la neblina puede tapar todo"
+        },
+        {
+          "label": "Entrada",
+          "value": "R$ 97 adulto; mayores de 60 años R$ 68; gratis menores de hasta 6 años y residentes registrados de Cambará do Sul, Praia Grande, Jacinto Machado y Mampituba (fuente: urbiaparques.com.br y Política de Ingressos de Urbia, verificado octubre 2026). Un blog de enero de 2026 informa R$ 107 y R$ 75 (fuente: viagensecaminhos.com, enero 2026): confirmá el valor del día en canionsverdes.urbiapass.com.br. Estacionamiento aparte: auto R$ 20, moto R$ 13 (fuente: viagensecaminhos.com, enero 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día; abre 8 a 17 h"
+        }
+      ]
+    },
+    {
+      "nombre": "Trilha do Rio do Boi (el Itaimbezinho por dentro)",
+      "desc": "14 km ida y vuelta por el lecho del río, dentro del Itaimbezinho, con guía acreditado obligatorio y más de 20 cruces de agua.",
+      "detalle": "Es la caminata que hizo famosa a Praia Grande: en vez de mirar el Itaimbezinho desde arriba, entrás por el fondo siguiendo el Rio do Boi entre paredes enormes. Urbia la describe como un recorrido de unos 14 km ida y vuelta, por tramos de mata y por el propio lecho del río, de alto grado de dificultad y unas 7 horas con paradas. Un blog cuenta más de 20 cruces de río.\n\nLas reglas son estrictas. Es obligatorio ir con un guía o conductor acreditado por el ICMBio, la edad mínima es 12 años, el cupo es limitado y hay que reservar. El acceso al PIC Rio do Boi (el puesto de entrada) es de 8 a 11 h y hay que salir antes del final de la tarde; el término de riesgo de 2026 fija la salida hasta las 18 h. Son obligatorias las polainas (perneiras) y el calzado de trekking. Urbia advierte sobre crecidas súbitas ('trombas d'água'), caída de rocas en el tramo final y víboras.\n\nEl puesto queda a 18 km del centro de Praia Grande por camino sin asfaltar. Si el ICMBio cierra la trilha por lluvia, podés pedir reprogramación ese mismo día hasta las 16 h. El ingreso del Rio do Boi no incluye los núcleos Itaimbezinho y Fortaleza.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "PIC Rio do Boi, 18 km del centro de Praia Grande (camino de tierra)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Verano (diciembre a marzo según un blog); se cierra con lluvia fuerte"
+        },
+        {
+          "label": "Entrada",
+          "value": "Ingreso aparte de R$ 97 según un blog (fuente: viagensecaminhos.com, enero 2026) más el guía, que se paga por separado; Urbia no publica el valor fuera de su sistema de venta (verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Unas 7 horas; entrada 8 a 11 h"
+        }
+      ]
+    },
+    {
+      "nombre": "Cânion Fortaleza (Parque Nacional da Serra Geral)",
+      "desc": "Paredones de basalto a lo largo de 7,5 km, el Mirante con vista al cañón y la Pedra do Segredo, una roca de 30 toneladas en equilibrio.",
+      "detalle": "El Fortaleza es el otro gran núcleo de visita: Urbia habla de 7,5 km de extensión, 2 km de ancho y paredones que se elevan a más de 1.000 metros. Está en el Parque Nacional da Serra Geral, en el límite entre Cambará do Sul (RS) y Jacinto Machado (SC), a 23 km del centro de Cambará.\n\nLas trilhas oficiales son la do Mirante (unos 3,5 km ida y vuelta según un blog, con subida), la da Pedra do Segredo, la da Borda Sul (larga, conviene guía), la da Borda do Estacionamento y la Quebra-Cangalha, que sale del Alto do Mirante. La Pedra do Segredo es un bloque de basalto de unos 5 metros y 30 toneladas apoyado sobre una base mínima. Cerca está el mirador de la Cachoeira do Tigre Preto, que cae en tres niveles; desde el borde sólo se ve la parte de arriba.\n\nEl acompañamiento de guía es sugerido pero no obligatorio y no hay edad mínima. Hay boletería, estacionamiento, comida y baños. Urbia vende además un 'Amanhecer no Cânion Fortaleza' para ver salir el sol y hay una tirolesa de 720 metros. La entrada es la misma que la del Itaimbezinho.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "23 km del centro de Cambará do Sul; desde Praia Grande, subiendo la sierra"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañanas despejadas; amanecer con el producto especial de Urbia"
+        },
+        {
+          "label": "Entrada",
+          "value": "R$ 97 adulto; mayores de 60 años R$ 68; gratis menores de hasta 6 años y residentes registrados de Cambará do Sul, Praia Grande, Jacinto Machado y Mampituba (fuente: urbiaparques.com.br y Política de Ingressos de Urbia, verificado octubre 2026). Un blog de enero de 2026 informa R$ 107 y R$ 75 (fuente: viagensecaminhos.com, enero 2026): confirmá el valor del día en canionsverdes.urbiapass.com.br"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o día entero; abre 8 a 17 h"
+        }
+      ]
+    },
+    {
+      "nombre": "Cânion Malacara (trilha por el río)",
+      "desc": "Caminata corta con guía desde Vila Rosa hasta pozas de agua transparente entre las paredes del Malacara, a 6 km del centro.",
+      "detalle": "El Malacara es el cañón más cercano al centro de Praia Grande entre los que tienen trilha por dentro con guía. Un blog le da 3,5 km de largo y paredes de 780 a 1.000 metros. La trilha arranca en la localidad de Vila Rosa, frente a la entrada de la Pousada Pedra Afiada, a 6 km del centro.\n\nSon unos 2 km de ida (4 km ida y vuelta) siguiendo el río, con nivel fácil a moderado. Con paradas y baño se calculan 3 a 4 horas. Al final hay pequeñas cascadas y piscinas naturales de agua transparente. Es obligatorio ir con guía acreditado por el parque, que se contrata en las agencias del pueblo; los blogs dicen que los precios son parecidos entre agencias, pero no los publican.\n\nEs la opción ideal si no te da el físico para el Rio do Boi o si viajás con chicos grandes. En verano el baño es lo mejor del paseo; en invierno el agua está helada. La visita por el borde de arriba del Malacara no estaba habilitada según el mismo blog. El Restô do Pedra Afiada se presenta como el único restaurante dentro del cañón.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "6 km del centro de Praia Grande (Vila Rosa)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Verano, para bañarse en las pozas"
+        },
+        {
+          "label": "Entrada",
+          "value": "Sin precio publicado: se paga el guía acreditado, contratado en agencias de Praia Grande (fuente: viagensecaminhos.com, marzo 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "3 a 4 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Cânion Índios Coroados y sus Cachoeiras Gêmeas",
+      "desc": "Cañón en el límite entre SC y RS con una cascada de unos 100 metros que se parte en dos caídas paralelas; el mirador está a 600 metros.",
+      "detalle": "El Índios Coroados queda en la subida de la Serra do Faxinal, cerca de la divisa entre Santa Catarina y Rio Grande do Sul. Su atracción son las Cachoeiras Gêmeas (cascadas gemelas): una caída de unos 100 metros en total que empieza como un solo salto de 10 metros y después se divide en dos caídas paralelas.\n\nSegún un blog, una trilha de 600 metros lleva al mirador principal, con vista de frente a las cascadas; otra trilha de 2 km por la parte de arriba, con vista lateral, exige guía. Otra guía describe el acceso por el lado sur: unos 15 minutos de caminata fácil desde el puesto de fiscalización abandonado de la divisa, sin señalización. Las fuentes no coinciden en si hace falta guía para el lado sur, así que preguntá en tu pousada antes de ir solo.\n\nEl acceso es por la Serra do Faxinal (SC-290 en Santa Catarina, RS-427 del lado gaúcho), a unos 15 km de Praia Grande. Como la ruta está en obra con horarios de paso limitados en 2026, combiná la visita con la subida hacia Cambará y chequeá el horario de apertura del día.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 15 km de Praia Grande, por la Serra do Faxinal"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Después de días de lluvia las cascadas tienen más agua"
+        },
+        {
+          "label": "Entrada",
+          "value": "No encontramos tarifa publicada (fuente: viagensecaminhos.com y maladeaventuras.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Serra do Faxinal y Morro dos Cabritos",
+      "desc": "La subida de 13 km de curvas cerradas entre Praia Grande y Cambará do Sul, con el mirador del Morro dos Cabritos a 300 metros de la ruta.",
+      "detalle": "La Serra do Faxinal es el camino que une Praia Grande con Cambará do Sul y los bordes de los cañones. Un blog describe su tramo de montaña como 13 km de curvas muy cerradas, con vistas sobre todo del Malacara. Durante años fue de tierra y piedra; ahora el gobierno de Santa Catarina la está asfaltando (SC-290), con una inversión que la prensa ubica entre R$ 70 y 76 millones.\n\nOjo con el estado en 2026: estuvo totalmente cerrada del 13 de abril al 18 de agosto por la construcción de un viaducto en el Morro dos Cabritos. Desde el 18 de agosto abrió en media pista con sistema 'pare e siga', sólo para autos y motos. Según la Secretaría de Infraestructura (SIE): lunes a viernes de 7:30 a 8:30 y de 16:30 a 17:30, sábados de 7:30 a 8:30 y de 11 a 12, domingos cerrada. Otros medios publicaron horarios un poco distintos y la apertura se suspende con lluvia o niebla.\n\nEl Morro dos Cabritos está en medio de la sierra: una trilha de 300 metros sube a una cima plana, unos 300 metros sobre el valle, con vista de 360° de los valles del Rio do Boi y de la Pedra Branca.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Arranca a pocos km del centro de Praia Grande"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días despejados; respetá las franjas de paso de la obra"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (ruta pública; horarios de paso según SIE/Gobierno de SC, agosto 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Cruce de la sierra: según la franja; mirador 30 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Vuelo en globo al amanecer (voo de balão)",
+      "desc": "Unos 45 minutos de vuelo sobre el valle frente a los paredones de la Serra Geral, con salida casi siempre al amanecer.",
+      "detalle": "El globo es la otra marca de Praia Grande. Los vuelos salen casi siempre al amanecer, cuando el viento está calmo, y duran en promedio 45 minutos en el aire; con armado, vuelo y desarme la experiencia ronda 1 h 30, y unas 2 h 30 con los traslados, según un blog. Al aterrizar suele haber brindis con espumante. Los globos llevan de 2 a 24 pasajeros según el tamaño.\n\nHay que saber lo que pasó: el 21 de junio de 2025 un globo con 21 personas se incendió y cayó en Praia Grande; murieron ocho. Los vuelos se suspendieron unos días y se retomaron el 2 de julio de 2025. Después la ANAC aprobó reglas transitorias, vigentes desde el 1 de diciembre de 2025 hasta diciembre de 2026: seguro obligatorio, equipamiento mínimo a bordo, licencias específicas para pilotos y certificación firmada por un ingeniero aeronáutico. Praia Grande fue el primer municipio del país con empresas habilitadas por la ANAC.\n\nAntes de pagar, pedile a la empresa la matrícula del globo en la ANAC y la licencia del piloto. El vuelo se cancela si el clima no acompaña, así que reservalo para tu primera mañana y dejá margen.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Salidas desde Praia Grande (traslado incluido según operador)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañanas calmas y despejadas"
+        },
+        {
+          "label": "Entrada",
+          "value": "Desde R$ 498 por persona (fuente: viagensecaminhos.com, valor 2025); en Civitatis desde US$ 130,13 (precio mostrado en dólares, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos de vuelo; unas 3 horas en total"
+        }
+      ]
+    },
+    {
+      "nombre": "Trilha do Morro do Campestre",
+      "desc": "Subida desde Vila Rosa a una cima de pasto entre tres cañones, con vista de 360° sobre los paredones y el pueblo.",
+      "detalle": "Si querés una vista amplia de los cañones sin subir a Cambará, el Morro do Campestre es la caminata. Según un blog, la trilha sube a una cima abierta, de pasto, ubicada entre tres cañones, y ofrece vistas de 360° de los paredones y de la ciudad. Desde arriba se ve en parte el Molha Coco, el cañón chico y salvaje que queda entre el Malacara y el Índios Coroados y que no tiene estructura turística.\n\nLa caminata empieza y termina en Vila Rosa, la zona de pousadas a pocos kilómetros del centro. El recorrido normal lleva unas 3 horas y el circuito completo, que suma la Cachoeira da Rosinha, unas 4 horas. Otro relato la ubica como de dificultad media y con guía obligatorio; el blog menciona que la agencia Grota Turismo la lleva.\n\nConviene hacerla temprano, antes de que suba la neblina del valle, con agua, gorra y protector solar: la parte de arriba es abierta y sin sombra. Es un buen plan para el día que llegás o para un día en que la Serra do Faxinal está cerrada, porque no depende de esa ruta.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sale de Vila Rosa, cerca del centro de Praia Grande"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañanas despejadas, todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Sin precio publicado: se contrata con agencias locales como Grota (fuente: viagensecaminhos.com, marzo 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "3 a 4 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Cachoeira dos Borges",
+      "desc": "Cascada de 70 metros en un parque privado con cabañas y camping, en las nacientes del Mampituba, a 18 km del centro.",
+      "detalle": "La Cachoeira dos Borges es una cascada de 70 metros dentro de un parque privado. Técnicamente queda en Mampituba, ya del lado de Rio Grande do Sul, en las nacientes del río Mampituba, pero el acceso más cómodo es por Praia Grande: está a unos 18 km del centro.\n\nHay dos trilhas para verla: una por arriba (unos 45 minutos) y otra por abajo (unos 40 minutos), según un blog de viajes. El parque abre de 9 a 17 h y pide reservar la visita con al menos 24 horas de anticipación. Se cobra entrada, pero el valor no estaba publicado en las fuentes que revisamos.\n\nEl mismo lugar funciona como alojamiento: Cachoeira dos Borges Cabanas tiene cabañas y camping, y un restaurante con wifi. Si te quedás a dormir, la visita a la cascada es mucho más tranquila. Combinala en el mismo día con el Malacara o con la Cachoeira dos Ventura, que quedan en la misma zona rural.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "18 km del centro de Praia Grande"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y verano; después de lluvias tiene más caudal"
+        },
+        {
+          "label": "Entrada",
+          "value": "Entrada paga, valor no publicado; reserva con 24 h de anticipación (fuente: viagensecaminhos.com, marzo 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "40 a 45 minutos cada trilha; 9 a 17 h"
+        }
+      ]
+    },
+    {
+      "nombre": "Cascata da Magia das Águas",
+      "desc": "Cascada de 40 metros en mata nativa al inicio de la Serra do Faxinal, a 3 km del centro, con trilha autoguiada de 600 metros.",
+      "detalle": "Es la cascada más cerca del centro: la Cascata da Magia das Águas tiene 40 metros de altura y está en un área de mata nativa al comienzo de la Serra do Faxinal, a 3 km de Praia Grande. Queda en terreno privado de la Pousada Itambé.\n\nSe llega por una trilha autoguiada y bien señalizada de 600 metros. Se cobra una tasa de visita, cuyo valor no estaba publicado en las fuentes que revisamos. La cascada es además uno de los puntos de rapel del circuito de canyoning 'Goteira' que opera la agencia Grota.\n\nEs un buen paseo para la tarde del día de llegada o para un día con niebla en la sierra, porque no hace falta subir. Llevá calzado que se pueda mojar y algo de efectivo para la tasa. Si te interesa el rapel, consultá a las agencias del pueblo, que ofrecen descensos por cascadas de la zona.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "3 km del centro de Praia Grande"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Tasa de visita, valor no publicado (fuente: viagensecaminhos.com, marzo 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Cachoeira dos Ventura",
+      "desc": "Cascada de 35 metros en tierras de la familia Ventura, en la comunidad del Rio do Boi, con 1,5 km de trilha por mata atlántica y bananales.",
+      "detalle": "La Cachoeira dos Ventura tiene 35 metros de altura y queda en la propiedad particular de la familia Ventura, en la comunidad del Rio do Boi, a 8 km del centro de Praia Grande. Es una de las favoritas para hacer rapel.\n\nSe llega por una trilha autoguiada de alrededor de 1,5 km de ida, que pasa por mata atlántica y bananales; ida y vuelta lleva unas 2 horas, según un blog de viajes. La tasa se paga en el lugar, y el valor no estaba publicado en las fuentes que revisamos.\n\nComo está sobre el mismo camino que lleva al puesto del Rio do Boi, se puede sumar en un día de paseo por el valle, aunque no el mismo día de la trilha larga. Ir con calzado de trekking: con lluvia el sendero se pone barroso. Y llevá tu basura de vuelta, como en cualquier propiedad rural.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "8 km del centro de Praia Grande (comunidad Rio do Boi)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y verano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Tasa en el lugar, valor no publicado (fuente: viagensecaminhos.com, marzo 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Unas 2 horas ida y vuelta"
+        }
+      ]
+    },
+    {
+      "nombre": "Cambará do Sul (la base del lado gaúcho)",
+      "desc": "El pueblo de la meseta, en Rio Grande do Sul, desde donde se llega a los bordes de Itaimbezinho (18 km) y Fortaleza (23 km).",
+      "detalle": "Cambará do Sul es la contracara de Praia Grande: queda arriba, en los campos de altura de Rio Grande do Sul, y es la puerta de los núcleos Itaimbezinho y Fortaleza. Según Urbia, el Itaimbezinho está a 18 km de su centro por camino de ripio y el Fortaleza a 23 km. La sede de Urbia Cânions Verdes está en la Avenida Getúlio Vargas 1140.\n\nPara quien llega desde Porto Alegre (185 km) o desde Gramado (113 km), Cambará es la base natural. Para quien quiere hacer el Rio do Boi, el Malacara y el globo, conviene Praia Grande. Muchos viajeros dividen las noches entre los dos. Un blog cuenta 36 km entre ambos pueblos por la Serra do Faxinal, que en 2026 tiene horarios restringidos de paso por obras.\n\nLa trucha (truta) es plato típico y se sirve en la mayoría de los restaurantes, y en invierno aparece el piñón de araucaria. Si vas a subir desde Praia Grande para un solo día, salí con la primera franja de paso de la mañana y calculá volver en la de la tarde.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "36 km de Praia Grande por la Serra do Faxinal (según un blog)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (el pueblo); los cañones se pagan aparte (fuente: urbiaparques.com.br, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Una noche o una excursión de día"
+        }
+      ]
+    },
+    {
+      "nombre": "Parque Municipal Poço do Bira y centro de Praia Grande",
+      "desc": "La playa de río que le dio nombre al pueblo, a orillas del Mampituba, y la plaza con la Igreja São Sebastião en el centro.",
+      "detalle": "El Parque Municipal Poço do Bira, también llamado Balneário Mampituba, es la playa fluvial que, según un blog local, originó el nombre de la ciudad: los bancos de piedras del río Mampituba que los tropeiros llamaron 'praia grande'. Queda muy cerca del centro y el acceso es gratuito. En verano se llena de vecinos que bajan a refrescarse en el agua fría del río.\n\nEn el centro está la Igreja Matriz de São Sebastião y, enfrente, la plaza São Sebastião, con árboles, bancos y juegos para chicos; es un buen lugar para el final de la tarde. En el centro están también algunos de los restaurantes del pueblo, como el Black House 414, en la Rua Irineu Bornhausen, y el Casarão, en la Rua Ricardo Inácio.\n\nNo es un lugar para viajar especialmente, pero sí para el rato libre entre trilhas: un baño de río después de un día de caminata, un helado en la plaza o una cerveza artesanal en la Grota Bier, que está a pocas cuadras, en la Rua Abel Esteves de Aguiar.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En el centro de Praia Grande"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Verano, para bañarse en el río"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Cânions Itaimbezinho y Fortaleza (entrada única de Urbia, 3 accesos en 7 días)",
+      "precio": "R$ 97 adulto; mayores de 60 años R$ 68; gratis menores de hasta 6 años y residentes registrados de Cambará do Sul, Praia Grande, Jacinto Machado y Mampituba (fuente: urbiaparques.com.br y Política de Ingressos de Urbia, verificado octubre 2026). Un blog de enero de 2026 informa R$ 107 y R$ 75 (fuente: viagensecaminhos.com, enero 2026): confirmá el valor del día en canionsverdes.urbiapass.com.br. Se compra online (hasta 3 cuotas) o en las boleterías de los núcleos"
+    },
+    {
+      "tipo": "Trilha do Rio do Boi (ingreso de Urbia, aparte del guía)",
+      "precio": "R$ 97 por persona según un blog (fuente: viagensecaminhos.com, enero 2026); el guía acreditado por el ICMBio es obligatorio y se paga aparte. Edad mínima 12 años. No incluye Itaimbezinho ni Fortaleza (fuente: urbiaparques.com.br, verificado octubre 2026). Comprar en canionsverdes.urbiapass.com.br"
+    },
+    {
+      "tipo": "Estacionamiento en Itaimbezinho y Fortaleza",
+      "precio": "Auto R$ 20; moto R$ 13; motorhome y van R$ 34 por acceso (fuente: viagensecaminhos.com, enero 2026). Se paga aparte de la entrada"
+    },
+    {
+      "tipo": "Estacionamiento del Rio do Boi",
+      "precio": "Gratis por ahora: 'no momento não há cobrança de estacionamento no Rio do Boi' (fuente: Política de Ingressos de Urbia, julio 2025, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Tirolesa del Cânion Fortaleza (720 metros)",
+      "precio": "R$ 220 por persona (fuente: viagensecaminhos.com, enero 2026). Funciona de miércoles a lunes, 9 a 17 h"
+    },
+    {
+      "tipo": "Alquiler de bicicleta para la trilha do Cotovelo (Itaimbezinho)",
+      "precio": "R$ 35 (fuente: viagensecaminhos.com, enero 2026). Se alquila en el núcleo Itaimbezinho"
+    },
+    {
+      "tipo": "Cânion Malacara (trilha por el río)",
+      "precio": "Sin tarifa publicada: se paga el guía acreditado, contratado en agencias de Praia Grande (fuente: viagensecaminhos.com, marzo 2026)"
+    },
+    {
+      "tipo": "Cachoeira dos Borges (parque privado)",
+      "precio": "Entrada paga, valor no publicado; reservar con 24 h de anticipación, abre 9 a 17 h (fuente: viagensecaminhos.com, marzo 2026)"
+    },
+    {
+      "tipo": "Cascata da Magia das Águas y Cachoeira dos Ventura (propiedades privadas)",
+      "precio": "Tasa de visita en el lugar, valor no publicado (fuente: viagensecaminhos.com, marzo 2026). Llevá efectivo"
+    },
+    {
+      "tipo": "Parque Municipal Poço do Bira, Morro dos Cabritos y plaza central",
+      "precio": "Gratis (Poço do Bira de acceso gratuito según viagensecaminhos.com, marzo 2026)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Vuelo en globo al amanecer frente a los cañones",
+      "precio": "Desde R$ 498 por persona (fuente: viagensecaminhos.com, valor 2025); en Civitatis desde US$ 130,13, precio mostrado en dólares (fuente: civitatis.com, verificado octubre 2026). En 2025 la prensa citaba R$ 490 a R$ 1.500 según paquete",
+      "duracion": "45 minutos de vuelo; 3 horas con traslados",
+      "operador": "Empresas habilitadas por la ANAC en Praia Grande (pedí matrícula y licencia del piloto); reserva online vía Civitatis"
+    },
+    {
+      "actividad": "Trilha do Rio do Boi con guía acreditado",
+      "precio": "Paquete con guía, traslado, seguro, equipo e ingreso: R$ 400 por persona (fuente: maladeaventuras.com, artículo de diciembre 2023); hoy el ingreso solo ronda R$ 97 (fuente: viagensecaminhos.com, enero 2026). Pedí cotización actual",
+      "duracion": "Día entero (unas 7 horas de caminata)",
+      "operador": "Agencias de Praia Grande con guías ICMBio, como Canyons e Balões o Grota"
+    },
+    {
+      "actividad": "Tour en cuatriciclo y trilha (cañones Chapecó/Tajuvas)",
+      "precio": "Desde US$ 198,51 (fuente: civitatis.com, precio mostrado en dólares, verificado octubre 2026)",
+      "duracion": "4 horas",
+      "operador": "Operador local vía Civitatis (encuentro en R. Mario Bordignon, 600)"
+    },
+    {
+      "actividad": "Canyoning por la Via do Café (cinco cascadas)",
+      "precio": "Desde US$ 128,12 (fuente: civitatis.com, precio mostrado en dólares, verificado octubre 2026)",
+      "duracion": "5 horas",
+      "operador": "Operador local vía Civitatis"
+    },
+    {
+      "actividad": "Paseo a caballo con vista a la entrada del Itaimbezinho",
+      "precio": "Desde US$ 45,91 (fuente: civitatis.com, precio mostrado en dólares, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Operador local vía Civitatis"
+    },
+    {
+      "actividad": "Tirolesa, Balanço do Infinito y Skybike con vista a los cañones",
+      "precio": "Tirolesa desde US$ 33,88; Balanço do Infinito US$ 16,04; Skybike US$ 49,92 (fuente: civitatis.com, precios mostrados en dólares, verificado octubre 2026)",
+      "duracion": "10 minutos a 1 hora",
+      "operador": "Canyons e Balões y otros operadores locales"
+    },
+    {
+      "actividad": "Boia cross en el río Canoa",
+      "precio": "Desde US$ 40,10 (fuente: civitatis.com, precio mostrado en dólares, verificado octubre 2026)",
+      "duracion": "3 horas",
+      "operador": "Operador local vía Civitatis"
+    },
+    {
+      "actividad": "Paseo 4x4 y trilha por los cañones",
+      "precio": "Desde US$ 78,95 (fuente: civitatis.com, precio mostrado en dólares, verificado octubre 2026)",
+      "duracion": "4 horas",
+      "operador": "Operador local vía Civitatis"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Auto propio o alquilado",
+      "precio": "Sin transporte público a los parques. Estacionamiento en Itaimbezinho/Fortaleza: auto R$ 20 por acceso (fuente: viagensecaminhos.com, enero 2026); en el Rio do Boi gratis (Política de Ingressos de Urbia, 2025)",
+      "duracion": "Praia Grande–Rio do Boi: 18 km de tierra",
+      "notas": "Es la forma más práctica de moverse. Los caminos a los cañones son de ripio o tierra: manejá despacio y no salgas con el tanque justo. Un blog recomienda alquilar auto porque no hay buses regulares a los parques."
+    },
+    {
+      "medio": "Serra do Faxinal (SC-290) en sistema pare e siga",
+      "precio": "Gratis (ruta pública; horarios de la SIE vigentes desde el 18 de agosto de 2026)",
+      "duracion": "Abre sólo en franjas de una hora",
+      "notas": "Sólo autos y motos. Lunes a viernes 7:30–8:30 y 16:30–17:30; sábados 7:30–8:30 y 11–12; domingos cerrada (SIE, agosto 2026). Otros medios publicaron 7–8 y 17–18. Se suspende con lluvia o niebla. Confirmá antes de salir con la Prefeitura o la SIE."
+    },
+    {
+      "medio": "Traslado de agencia (Rio do Boi, Malacara, cañones)",
+      "precio": "Incluido en paquetes como el del Rio do Boi de R$ 400 (fuente: maladeaventuras.com, diciembre 2023); hoy, a cotizar",
+      "duracion": "Según el paseo",
+      "notas": "Para el Rio do Boi un blog recomienda pagar el traslado: el camino al puesto es pedregoso. Las agencias del pueblo buscan en la pousada."
+    },
+    {
+      "medio": "Bicicleta en el Itaimbezinho",
+      "precio": "R$ 35 el alquiler para la trilha do Cotovelo (fuente: viagensecaminhos.com, enero 2026)",
+      "duracion": "Unas 2 a 3 horas",
+      "notas": "Urbia ofrece bicis en el núcleo Itaimbezinho. La trilha do Cotovelo es llana, unos 6 km ida y vuelta."
+    },
+    {
+      "medio": "Bus regional (Sombrio, Araranguá, Criciúma ↔ Praia Grande)",
+      "precio": "Sombrio R$ 24; Araranguá R$ 38; Criciúma R$ 59 (fuente: Buson, agregador, verificado octubre 2026)",
+      "duracion": "49 minutos a 2 h 14",
+      "notas": "Una salida por día hacia Praia Grande en cada tramo (Criciúma 15:30, Araranguá 16:15, Sombrio 16:55). Operan Empresa União y Expresso São Marcos según Buson. Sirve para llegar al pueblo, no para ir a los cañones."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Porto Alegre → Praia Grande en auto (BR-290, BR-101 y SC-290)",
+      "empresas": "Auto propio o alquilado desde el Aeropuerto Salgado Filho o la ciudad",
+      "precio": "Sin tarifa: combustible y peajes por tu cuenta. Distancia 227 km (fuente: maladeaventuras.com, 2023, verificado octubre 2026)",
+      "duracion": "Unas 3 horas"
+    },
+    {
+      "ruta": "Porto Alegre → Sombrio en bus + Sombrio → Praia Grande",
+      "empresas": "Varias salidas diarias desde la Rodoviária de Porto Alegre; tramo final con Empresa União o Expresso São Marcos",
+      "precio": "R$ 85 a R$ 136 hasta Sombrio + R$ 24 hasta Praia Grande (fuente: Buson, agregador, verificado octubre 2026)",
+      "duracion": "Unas 3 horas + 49 minutos (sale de Sombrio a las 16:55)"
+    },
+    {
+      "ruta": "Florianópolis → Praia Grande en auto (BR-101 y SC-290)",
+      "empresas": "Auto propio o alquilado desde el Aeropuerto Hercílio Luz",
+      "precio": "Sin tarifa: combustible y peajes por tu cuenta. Distancia 285 km (fuente: folleto oficial de Urbia, 2025, verificado octubre 2026)",
+      "duracion": "Unas 3 a 4 horas"
+    },
+    {
+      "ruta": "Florianópolis → Araranguá en bus + Araranguá → Praia Grande",
+      "empresas": "Seis salidas diarias desde la Rodoviária de Florianópolis; tramo final con Empresa União",
+      "precio": "R$ 122 hasta Araranguá + R$ 38 hasta Praia Grande (fuente: Buson, agregador, verificado octubre 2026)",
+      "duracion": "Unas 3 h 45 + 1 h 29 (sale de Araranguá a las 16:15)"
+    },
+    {
+      "ruta": "Criciúma → Praia Grande en bus directo",
+      "empresas": "Empresa União / Expresso São Marcos",
+      "precio": "R$ 59 (fuente: Buson, agregador, verificado octubre 2026)",
+      "duracion": "2 h 14 (salida 15:30, llega 17:44)"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Económico (pousadas simples en el centro y alrededores)",
+      "nivel": 2,
+      "opciones": "Hotel Aparados desde R$ 145, Chalés Pousada Malacara desde R$ 175, Pousada Vó Celina desde R$ 205 y Pousada Itaimbe desde R$ 220 la noche (fuente: Kayak, verificado octubre 2026). Precios de temporada baja: en enero, Carnaval y feriados largos suben y se agotan"
+    },
+    {
+      "categoria": "Intermedio (pousadas con desayuno en Vila Rosa y el valle)",
+      "nivel": 3,
+      "opciones": "Pousada & Camping Nativos dos Canyons desde R$ 270, Pousada Vó Liane desde R$ 285, Pousada Equilíbrio dos Canyons desde R$ 348 para pareja y Pousada Índios Coroados desde R$ 404 (fuente: Kayak, verificado octubre 2026; Mala de Aventuras, abril 2026). Vila Rosa queda cerca del Malacara y del Campestre"
+    },
+    {
+      "categoria": "Superior (cabañas y pousadas con vista a los cañones)",
+      "nivel": 4,
+      "opciones": "Discovery Canyon, en la Serra do Faxinal, desde R$ 644 a R$ 759; Cachoeira dos Borges Cabanas desde R$ 652; Cabanas Jardim dos Canyons desde R$ 799 (fuente: Kayak, verificado octubre 2026; Mala de Aventuras, abril 2026). Ojo: los que están en la sierra dependen del horario de la obra de la SC-290"
+    },
+    {
+      "categoria": "Lujo y refugios de naturaleza",
+      "nivel": 5,
+      "opciones": "Refúgio Ecológico Pedra Afiada, al pie del Malacara, desde R$ 850; Vistta SC desde R$ 1.110; Reserva Caeté desde R$ 1.268 la noche (fuente: Kayak, verificado octubre 2026; Mala de Aventuras, abril 2026). Morada dos Canyons (SC-290 km 28) no publica tarifa en las fuentes consultadas. Reservá con tiempo para fines de semana"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Buffet regional y sándwiches",
+      "nivel": 2,
+      "opciones": "Sabor dos Aparados sirve buffet libre y por kilo de comida regional con isla de pastas, de 11:30 a 15 h (precio no publicado; fuente: Pousada Índios Coroados, verificado octubre 2026). En la Grota Bier, choripán R$ 45, pancho R$ 50 y porción de polenta R$ 40 (fuente: carta en Deliway, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Pizzería y gastrobar en el centro",
+      "nivel": 3,
+      "opciones": "Casarão Pizzaria (R. Ricardo Inácio 260, martes a domingo 18 a 23 h), con pizza a la leña, ronda R$ 40–120 por persona (fuente: RestaurantGuru, agregador, 2025). Pizzas napolitanas de la Grota Bier R$ 55–75 (Deliway, verificado octubre 2026). Black House 414 (R. Irineu Bornhausen 553) hace mariscos, carnes y risotos"
+    },
+    {
+      "tipo": "Trucha y parrilla (truta y cortes)",
+      "nivel": 4,
+      "opciones": "Filé de truta con legumbres R$ 85 e iscas de alcatra R$ 75 en el Gastro Pub Grota Bier (R. Abel Esteves de Aguiar 588), con chopp pilsen de la casa R$ 12 (fuente: carta en Deliway, verificado octubre 2026). Entrerios Parrilla y Bar, junto al río del Molha Coco, hace parrilla uruguaya y sulbrasileña (precios no publicados, 2026)"
+    },
+    {
+      "tipo": "Cocina de altura con vista al Malacara",
+      "nivel": 5,
+      "opciones": "Vistta, en el Sítio Azimuth (Rota dos Tropeiros 1.700, Serra do Faxinal), con menú del chef Marcos Livi: R$ 121–180 por persona, martes a domingo 10 a 22 h (fuente: GetIn, verificado octubre 2026). El Restô do Pedra Afiada, dentro del Malacara, abre almuerzo 12–15 h y cena 19–21:30 (precios no publicados, 2026)"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Qué documento necesito para entrar a Brasil?",
+      "a": "Argentinos, uruguayos, paraguayos, chilenos, colombianos y peruanos pueden entrar como turistas con su documento nacional de identidad vigente o con pasaporte, por el acuerdo de documentos de viaje del Mercosur y Estados Asociados. Los mexicanos no necesitan visa de turismo desde mayo de 2013, pero entran con pasaporte. No sirven fotocopias ni licencia de conducir. En los parques te van a pedir documento con foto a partir de los 12 años para validar la entrada, y para el Rio do Boi el formulario del guía pide CPF, DNI o pasaporte de cada caminante. Si viajás con menores, revisá la autorización que exige tu país."
+    },
+    {
+      "q": "¿Conviene dormir en Praia Grande o en Cambará do Sul?",
+      "a": "Depende de lo que quieras hacer. Praia Grande es la base para el Rio do Boi, el Malacara, las cascadas del valle y el globo. Cambará do Sul queda más cerca de los bordes: el Itaimbezinho a 18 km y el Fortaleza a 23 km, según Urbia. Hasta que terminen las obras de la Serra do Faxinal, que en 2026 abre sólo en franjas de una hora y cierra los domingos, cruzar de un pueblo al otro en el día exige planificar. Lo más cómodo es repartir las noches: dos en Praia Grande para el valle y una o dos en Cambará para los bordes. Si tenés un solo día, priorizá el Rio do Boi o el Fortaleza según tu estado físico."
+    },
+    {
+      "q": "¿Puedo hacer la Trilha do Rio do Boi por mi cuenta?",
+      "a": "No. Es obligatorio ir con un guía o conductor acreditado por el ICMBio, la edad mínima es 12 años, el cupo es limitado y hay que reservar el ingreso en el sistema de Urbia. Se entra al puesto entre las 8 y las 11 h. Son unos 14 km ida y vuelta, con más de 20 cruces de río, y lleva cerca de 7 horas. Urbia la califica de alta dificultad y advierte sobre crecidas repentinas y caída de rocas. Si llueve fuerte, el ICMBio la cierra; en ese caso podés pedir reprogramación el mismo día hasta las 16 h. Usá polainas y botas de trekking, que son obligatorias, y llevá comida y agua para todo el día."
+    },
+    {
+      "q": "¿Cuántos días necesito?",
+      "a": "Con tres días completos se puede ver lo principal sin correr: uno para el Rio do Boi, otro para el Malacara o el Morro do Campestre y las cascadas, y otro para subir al Fortaleza y al Itaimbezinho. Sumá la madrugada del globo si te interesa. Dejá además un día de margen: la neblina puede tapar los cañones y el Rio do Boi se suspende con lluvia. La entrada de Urbia te permite volver hasta tres veces en siete días, así que si un día amanece cerrado podés intentar otra vez sin pagar de nuevo. Con dos días hacé el Rio do Boi y un borde; con uno solo, elegí uno de los dos."
+    },
+    {
+      "q": "¿Necesito auto?",
+      "a": "Prácticamente sí. No hay transporte público a los parques ni a la mayoría de las cascadas, y los caminos son de tierra o ripio. Llegar a Praia Grande en bus se puede: hay una salida diaria desde Criciúma, Araranguá y Sombrio, que conectan con Florianópolis y Porto Alegre. Pero una vez en el pueblo vas a depender de las agencias, que incluyen traslado en paseos como el Rio do Boi. Con auto propio, tené en cuenta el estacionamiento en Itaimbezinho y Fortaleza (auto R$ 20 por acceso según un blog de enero de 2026) y los horarios de paso de la Serra do Faxinal. Camiones, buses y motorhomes no pueden pasar por la sierra mientras dure la obra."
+    },
+    {
+      "q": "¿Es seguro el vuelo en globo?",
+      "a": "En junio de 2025 un globo se incendió y cayó en Praia Grande y murieron ocho personas. Desde entonces la ANAC dictó reglas transitorias (vigentes desde el 1 de diciembre de 2025 hasta diciembre de 2026) que exigen seguro obligatorio, equipamiento mínimo a bordo, licencia específica del piloto y certificación de un ingeniero aeronáutico. Praia Grande fue el primer municipio con empresas habilitadas por la ANAC. Antes de pagar, pedí la matrícula del globo, la licencia del piloto y la constancia de habilitación, y desconfiá de precios muy por debajo del resto. El vuelo se cancela si el viento o la niebla no acompañan, así que reservalo para tu primera mañana y preguntá la política de reprogramación antes de pagar."
+    },
+    {
+      "q": "¿Qué pasa si está nublado o llueve?",
+      "a": "Es habitual. Urbia avisa que la 'cerração' y la 'viração', las neblinas típicas de la región, pueden quitar la vista de los cañones de golpe, y que eso no da derecho a reembolso. Sí podés reprogramar una vez sin costo si avisás con 12 horas de anticipación, y la entrada sirve para tres accesos en siete días. Para el Rio do Boi la regla es distinta: si el ICMBio la cierra por clima hay reprogramación y hay excepciones de reembolso. Los días de niebla son buenos para las cascadas del valle, el Poço do Bira o un almuerzo largo. Llevá siempre campera impermeable y abrigo: arriba puede hacer bastante más frío que en el pueblo."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (PT) — «Praia Grande (Santa Catarina)»: https://pt.wikipedia.org/wiki/Praia_Grande_(Santa_Catarina)",
+      "Wikipedia (PT) — «Parque Nacional de Aparados da Serra»: https://pt.wikipedia.org/wiki/Parque_Nacional_de_Aparados_da_Serra",
+      "IBGE — «Praia Grande (SC): panorama»: https://www.ibge.gov.br/cidades-e-estados/sc/praia-grande.html",
+      "Catraca Livre — «Saiba quanto custa visitar os cânions de Cambará do Sul»: https://catracalivre.com.br/viagem-livre/saiba-quanto-custa-visitar-os-canions-de-cambara-do-sul/",
+      "Jornal do Comércio — «Cobrança em parques nacionais do Rio Grande do Sul começa nesta sexta-feira»: https://www.jornaldocomercio.com/economia/2021/09/813787-cobranca-em-parques-nacionais-do-rio-grande-do-sul-comeca-nesta-sexta-feira.html"
+    ],
+    "que_ver_atracciones": [
+      "Urbia Cânions Verdes — «Fortaleza, Itaimbezinho e Rio do Boi»: https://canionsverdes.com.br/",
+      "Urbia Cânions Verdes — «Visite los cañones (folleto en español)»: https://canionsverdes.com.br/wp-content/uploads/2025/11/SHOWCASE-VISITE-OS-CANIONS-ESPANHOL.pdf",
+      "Urbia Parques — «Itaimbezinho Cânions Verdes – Área de visitação»: https://urbiaparques.com.br/parques/sobre/area-de-visitacao/itaimbezinho",
+      "Urbia Parques — «Fortaleza – Área de visitação»: https://urbiaparques.com.br/parques/sobre/area-de-visitacao/fortaleza",
+      "Urbia Parques — «Rio do Boi – Área de visitação»: https://urbiaparques.com.br/parques/sobre/area-de-visitacao/rio-do-boi",
+      "Urbia Cânions Verdes — «Termo de Reconhecimento de Risco – Rio do Boi (2026)»: https://urbia-cms-assets.s3.sa-east-1.amazonaws.com/prod/TERMO_DE_RECONHECIMENTO_DE_RISCO_RIO_DO_BOI_VERSAO_2026_5d34af37a0.pdf",
+      "Viagens e Caminhos (blog) — «O que fazer em Praia Grande SC: 26 passeios e atrações»: https://www.viagensecaminhos.com/praia-grande-sc/",
+      "Viagens e Caminhos (blog) — «Trilha do Cânion Malacara – Praia Grande»: https://www.viagensecaminhos.com/trilha-do-canion-malacara/",
+      "Viagens e Caminhos (blog) — «Trilha do Rio do Boi – Cânion Itaimbezinho por dentro»: https://www.viagensecaminhos.com/trilha-do-rio-do-boi/",
+      "Mala de Aventuras (blog) — «O que fazer em Praia Grande (SC)»: https://maladeaventuras.com/praia-grande-sc/"
+    ],
+    "precios_2026": [
+      "Urbia Cânions Verdes — «Política de Ingressos (15/07/2025)»: https://urbia-cms-assets.s3.sa-east-1.amazonaws.com/prod/Politica_de_Ingressos_UCV_Versao_15_07_25_vf_d5c2a93124.pdf",
+      "Viagens e Caminhos (blog) — «Cânion Itaimbezinho: Trilhas e dicas de visitação»: https://www.viagensecaminhos.com/trilhas-do-canion-itaibezinho/",
+      "Viagens e Caminhos (blog) — «Cânion Fortaleza: Trilhas e dicas de visitação»: https://www.viagensecaminhos.com/trilha-do-canyon-fortaleza/",
+      "Mala de Aventuras (blog) — «Trilha do Rio do Boi: nível de dificuldade, valor, guias e dicas»: https://www.maladeaventuras.com/trilha-do-rio-do-boi-sc/",
+      "Civitatis (agregador) — «Passeios e atividades em Praia Grande»: https://www.civitatis.com/br/praia-grande/",
+      "Viagens e Caminhos (blog) — «Passeio de balão em Praia Grande»: https://www.viagensecaminhos.com/passeio-de-balao-em-praia-grande/"
+    ],
+    "como_llegar_transporte": [
+      "Buson (agregador) — «Rodoviária de Praia Grande»: https://www.buson.com.br/rodoviaria/praia-grande-sc",
+      "Buson (agregador) — «Porto Alegre a Sombrio»: https://www.buson.com.br/passagem-de-onibus/porto-alegre-rs/sombrio-sc",
+      "Buson (agregador) — «Florianópolis a Araranguá»: https://www.buson.com.br/passagem-de-onibus/florianopolis-sc/ararangua-sc",
+      "Buson (agregador) — «Criciúma a Praia Grande»: https://www.buson.com.br/passagem-de-onibus/criciuma-sc/praia-grande-sc",
+      "Caros Amigos (con datos de la SIE) — «Trânsito na Serra do Faxinal será liberado no sistema Pare e Siga»: https://carosamigos.com.br/2026/08/18/transito-na-serra-do-faxinal-sera-liberado-no-sistema-pare-e-siga-a-partir-desta-terca-feira/",
+      "ND Mais — «Após quatro meses de interdição total, serra é aberta parcialmente»: https://ndmais.com.br/infraestrutura/serra-do-faxinal-deve-mudar-o-transito-entre-sc-e-rs/"
+    ],
+    "seguridad_balonismo": [
+      "Poder360 — «Passeio em balão que caiu custava R$ 550 por pessoa»: https://www.poder360.com.br/poder-brasil/passeio-em-balao-que-caiu-custava-r-550-por-pessoa/",
+      "SBT News — «Voos de balões são retomados 11 dias após mortes em acidente»: https://sbtnews.sbt.com.br/noticia/brasil/tragedia-em-sc-voos-de-baloes-sao-retomados-11-dias-apos-mortes-em-acidente",
+      "SCTODODIA — «Praia Grande se torna o primeiro município do país com empresas habilitadas pela Anac»: https://sctd.com.br/geral/praia-grande-se-torna-o-primeiro-municipio-do-pais-com-empresas-habilitadas-pela-anac-para-voos-de-balao/",
+      "Gazeta do Povo — «Anac aprova regras para prevenir acidentes de balões no Brasil»: https://www.gazetadopovo.com.br/brasil/anac-aprova-regras-para-prevenir-acidentes-balonismo/"
+    ],
+    "visados": [
+      "Grupo Animal (verificación) — «Brasil suprimió la visa de turismo para mexicanos desde 2013»: https://grupoanimal.mx/verificacion-viral/brasil-suprimio-visa-mexicanos-2013",
+      "Cancillería Argentina — «Estatuto de la Ciudadanía del Mercosur»: https://eoirs.cancilleria.gob.ar/userfiles/2018/estatuto-ciudadania-mercosur-es-final-v2.pdf"
+    ],
+    "alojamiento_gastronomia": [
+      "Kayak — «Hotéis em Praia Grande, Santa Catarina»: https://www.kayak.com.br/Praia-Grande-Hoteis.80186.hotel.ksp",
+      "Mala de Aventuras (blog) — «Melhores pousadas em Praia Grande (SC)»: https://www.maladeaventuras.com/pousadas-praia-grande-sc/",
+      "Deliway — «Gastropub Grota Bier – Praia Grande, SC»: https://www.deliway.com.br/gastropub-grota-bier-delivery-praia-grande-sc",
+      "GetIn — «Vistta – Praia Grande»: https://www.getin.app/praia-grande/vistta",
+      "Pousada Índios Coroados — «Gastronomia em Praia Grande SC»: https://pousadaindioscoroados.com.br/gastronomia-em-praia-grande-sc/",
+      "RestaurantGuru (agregador) — «Casarão do Duda Pizzaria, Praia Grande»: https://restaurantguru.com.br/Casarao-Pizzaria-Praia-Grande-State-of-Santa-Catarina",
+      "Morada dos Canyons — «The Best Restaurants in Praia Grande, SC»: https://www.moradadoscanyons.com/en/?p=9419",
+      "Viciada em Viajar (blog) — «Restaurantes em Cambará do Sul (RS): veja onde comer na cidade»: https://www.viciadaemviajar.com/restaurantes-em-cambara-do-sul-onde-comer"
+    ]
+  }
+}
