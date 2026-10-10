@@ -45,3 +45,4 @@ FOTO portugal/angra-do-heroismo | https://upload.wikimedia.org/wikipedia/commons
 FOTO italia/bari | https://upload.wikimedia.org/wikipedia/commons/4/44/Bari_-_Lungomare_Imperatore_Augusto_%26_Mare.jpg | Bari - Lungomare Imperatore Augusto & Mare.jpg | CC BY-SA 4.0 | Benjamin Smith
 FOTO espana/alicante | https://upload.wikimedia.org/wikipedia/commons/9/93/Castillo_de_Santa_B%C3%A1rbara_y_Playa_del_Postiguet_%28Alicante%29.jpg | Castillo de Santa Bárbara y Playa del Postiguet (Alicante).jpg | CC BY-SA 4.0 | Frayter
 FOTO turquia/alanya | https://upload.wikimedia.org/wikipedia/commons/9/96/View_to_Alanya_from_Castle.jpg | View to Alanya from Castle.jpg | CC BY-SA 3.0 | Bestalex
+FOTO italia/cagliari | https://upload.wikimedia.org/wikipedia/commons/e/e5/Castello_-_Cagliari%2C_Italy_2024-03-28_%2805%29.jpg | Castello - Cagliari, Italy 2024-03-28 (05).jpg | CC BY-SA 4.0 | Ryan Hodnett

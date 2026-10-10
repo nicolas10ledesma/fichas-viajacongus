@@ -1,0 +1,645 @@
+{
+  "slug": "cagliari",
+  "name": "Cagliari",
+  "region": "Cerdeña",
+  "lat": 39.2238,
+  "lon": 9.1217,
+  "datosRapidos": [
+    {
+      "label": "Región",
+      "value": "Cagliari (Casteddu en sardo, Cerdeña, Italia). Es la capital de la región autónoma de Cerdeña y su municipio más poblado, con 145.981 habitantes al 1 de enero de 2026 según datos de Istat publicados por Tuttitalia. Queda en el sur de la isla, sobre el golfo de los Ángeles, entre lagunas y colinas. La fundaron los fenicios: el poeta Claudiano, en el siglo IV, la describe como fundada por gente de Tiro, en el actual Líbano. Los romanos la llamaron Carales. En la Edad Media los pisanos levantaron sobre la colina el barrio amurallado de Castello, con torres como la de San Pancrazio y la del Elefante (1307). En 1326 la tomó la Corona de Aragón, que la pobló con catalanes, y en el siglo XVIII pasó a los Saboya. Hoy se la conoce por el barrio de Castello y el Bastión de Saint Remy, por la playa urbana del Poetto, de unos 8 km, por los flamencos de las lagunas de Molentargius y por el Museo Arqueológico Nacional, que guarda parte de los gigantes de Mont'e Prama, estatuas nurágicas halladas en 1974. Es la base natural para Nora, Su Nuraxi de Barumini (Unesco desde 1997), Villasimius y Chia."
+    },
+    {
+      "label": "Moneda y pagos",
+      "value": "Euro (€). La tarjeta se acepta en museos estatales y en la mayoría de los hoteles y restaurantes. Los boletos de colectivo CTM se compran en los CTM Point, máquinas automáticas, kioscos autorizados y la app Busfinder; si lo comprás a bordo pagás un recargo de € 0,50. Llevá algo de efectivo para puestos chicos y bares."
+    },
+    {
+      "label": "Visado",
+      "value": "Con pasaporte de Argentina, Uruguay, Chile, México, Colombia o Perú no necesitás visa para turismo: hasta 90 días dentro de cualquier período de 180 en el espacio Schengen. En la primera entrada el sistema EES registra huellas y foto. El ETIAS, la autorización online previa, todavía no se pide en octubre de 2026: la UE anunciará la fecha con meses de anticipación en su web oficial."
+    },
+    {
+      "label": "Ciudad de servicio",
+      "value": "La propia Cagliari concentra todo. El aeropuerto de Cagliari-Elmas (CAG) tiene estación de tren a pasos de la terminal, con regionales de Trenitalia a la estación central en 7 a 9 minutos. El puerto recibe los ferries de Grimaldi desde Civitavecchia, Nápoles y Palermo. Desde la estación salen trenes a Sassari y Olbia, y desde la terminal ARST de Piazza Matteotti los micros a Villasimius, Pula y el resto del sur."
+    }
+  ],
+  "intro": [
+    "Cagliari es una capital chica que se recorre a pie y que mira al mar desde una colina amurallada. Arriba está Castello, el barrio medieval de pisanos y catalanes, con torres, la catedral y miradores como el Bastión de Saint Remy. Abajo, la Marina y Stampace tienen trattorias, calles con ropa colgada y bares abiertos hasta tarde. Y a pocos minutos de colectivo está el Poetto, una playa urbana de unos 8 km.",
+    "Lo que la hace distinta es la mezcla de ciudad y naturaleza. Las lagunas de Molentargius, a un costado del Poetto, reciben miles de flamencos rosados, y la Sella del Diavolo (Silla del Diablo) es un promontorio con senderos libres sobre el golfo. En el Museo Arqueológico Nacional te esperan los gigantes de Mont'e Prama y miles de piezas de la cultura nurágica, única de Cerdeña.",
+    "También funciona como base barata para conocer el sur de la isla sin cambiar de hotel. En un día podés ir a las ruinas fenicio-romanas de Nora, al poblado nurágico de Su Nuraxi en Barumini, Patrimonio de la Unesco, o a las playas de Villasimius y Chia. Llegar es simple: el tren del aeropuerto cuesta € 1,30 y en menos de diez minutos estás en el centro."
+  ],
+  "historia_corta": "La zona de Cagliari estuvo habitada desde la prehistoria y en el área hay restos que muestran contactos entre la civilización nurágica y el mundo micénico, como en Nora y en el nuraghe Antigori de Sarroch. Según el poeta Claudiano, que la describe en el siglo IV, la ciudad fue fundada por fenicios de Tiro, en el actual Líbano. Pasó después a Cartago y luego a Roma, que la llamó Carales y le dio un anfiteatro con lugar para entre 8.000 y 10.000 espectadores. En la Alta Edad Media se desarrolló un centro religioso en torno a la basílica de San Saturnino, el patrono de la ciudad. Los ataques de piratas sarracenos empujaron a la población hacia la laguna de Santa Gilla, donde nació Santa Igia, capital del Giudicato de Cagliari. En el siglo XIII los mercaderes pisanos levantaron en la colina Castel di Castro, el actual Castello, y en 1258 Santa Igia fue arrasada. Pisa reforzó el barrio con torres como la del Elefante, construida en 1307 por el arquitecto sardo Giovanni Capula. En 1323 la Corona de Aragón desembarcó en la isla y el 19 de junio de 1326 expulsó a los pisanos de Castello, que fue repoblado con catalanes. Siguieron siglos de dominio ibérico. En el siglo XVIII Cerdeña pasó a la casa de Saboya y Cagliari fue capital del Reino de Sardegna. Las fortificaciones militares se abolieron en 1866 y sobre los antiguos baluartes españoles se construyó el Bastión de Saint Remy, dedicado al primer virrey saboyano. En el siglo XX la ciudad sufrió bombardeos durante la Segunda Guerra Mundial y creció como capital de la región autónoma. En 1974 aparecieron en Cabras los gigantes de Mont'e Prama, y en 1997 Su Nuraxi de Barumini entró en la lista de la Unesco.",
+  "queVer": [
+    {
+      "nombre": "Barrio de Castello (Casteddu 'e Susu)",
+      "desc": "El barrio amurallado sobre la colina, con calles angostas, palacios, torres pisanas y los mejores miradores de la ciudad.",
+      "detalle": "Castello es el corazón histórico de Cagliari: el barrio que los pisanos fortificaron en el siglo XIII sobre la colina y que los catalano-aragoneses repoblaron a partir de 1326. Todavía conserva buena parte de sus murallas, y adentro se concentran la catedral de Santa María, el Palacio Real, la Ciudadela de los Museos y las dos torres pisanas de San Pancrazio y del Elefante.\n\nSe recorre a pie en una o dos horas, sin apuro. Hay subidas fuertes y adoquines, así que conviene calzado cómodo. Los miradores sobre la Marina, el puerto y las lagunas son gratis y valen sobre todo al atardecer.\n\nPara subir sin cansarte, hay ascensores públicos desde la parte baja; algunas guías los describen como gratuitos, pero otras los encontraron cerrados, así que tomalo como una ayuda posible y no segura.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Cagliari, sobre la colina"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mejor al atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (barrio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Bastión de Saint Remy (Bastione di Saint Remy)",
+      "desc": "La gran terraza neoclásica sobre la ciudad, símbolo de Cagliari, con vistas al puerto y al golfo.",
+      "detalle": "El Bastión de Saint Remy es un baluarte monumental construido sobre las fortificaciones españolas del siglo XVI que protegían el lado sur de Castello. Está entre la Via Mario De Candia y Piazza Costituzione, en el límite con el barrio de Villanova, y lleva el nombre del primer virrey saboyano del Reino de Cerdeña. Se lo considera uno de los símbolos de la ciudad.\n\nDesde Piazza Costituzione una escalinata sube a la terraza Umberto I, el gran mirador sobre los techos de la Marina, el puerto y el golfo. Es un espacio público y en general abierto a cualquier hora.\n\nEs el lugar clásico para ver el atardecer y punto de encuentro de la ciudad. Combinalo con el paseo por Castello.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Piazza Costituzione, entre Castello y Villanova"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público, siempre abierto según museionline.info, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo Arqueológico Nacional y gigantes de Mont'e Prama",
+      "desc": "El gran museo de la Cerdeña antigua: bronces nurágicos, piezas fenicias y romanas y estatuas de Mont'e Prama.",
+      "detalle": "El Museo Arqueológico Nacional de Cagliari, en la Ciudadela de los Museos (Piazza Arsenale 1), es la parada obligada para entender la isla. Recorre la prehistoria, la civilización nurágica, el mundo fenicio-púnico y el romano.\n\nUna de sus piezas más conocidas son los gigantes de Mont'e Prama: esculturas nurágicas de piedra de entre 2 y 2,5 metros que representan arqueros, guerreros y boxeadores. Aparecieron por casualidad en marzo de 1974 en el Sinis de Cabras, en el centro-oeste de la isla, y durante décadas sólo unos fragmentos se exhibieron en Cagliari. Hoy parte del conjunto se ve también en el museo de Cabras.\n\nAbre todos los días de 8:30 a 19:30 y la boletería cierra a las 18:45. La entrada es combinada con la Pinacoteca Nacional. Calculá dos horas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Piazza Arsenale 1, en lo alto de Castello"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; buena opción para días de calor o lluvia"
+        },
+        {
+          "label": "Entrada",
+          "value": "Biglietto único Museo Arqueológico + Pinacoteca: € 10 entero; € 5 reducido; € 2 ciudadanos UE de 18 a 24 años; menores de 18 gratis; pase anual € 36 (fuente: museinazionalicagliari.cultura.gov.it, verificado octubre 2026). Se compra en la boletería o en la app/portal Musei Italiani"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Catedral de Santa María (Cattedrale di Santa Maria)",
+      "desc": "La catedral de Castello, con fachada sobre Piazza Palazzo y una cripta excavada en la roca con reliquias de mártires.",
+      "detalle": "La catedral de Santa María, en Piazza Palazzo, es el principal templo católico de la ciudad y uno de sus monumentos más visitados. Allí se celebran las grandes ceremonias del año presididas por el arzobispo.\n\nDesde el interior se baja al Santuario de los Mártires, una cripta excavada en la roca bajo el presbiterio, inaugurada en 1618 para custodiar las reliquias de mártires cagliaritanos en cientos de nichos. Las fuentes no coinciden en la cantidad exacta.\n\nA un costado está el Museo del Duomo, con horarios propios. Como es una iglesia activa, respetá las misas y vestite con hombros cubiertos. La visita lleva entre media hora y una hora.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Piazza Palazzo, barrio de Castello"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año, fuera del horario de misa"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis la catedral (fuente: museionline.info, guía de museos, verificado octubre 2026); el Museo del Duomo cobra aparte"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Torres de San Pancrazio y del Elefante",
+      "desc": "Las dos torres pisanas que custodiaban las puertas de Castello; hoy se ven desde afuera.",
+      "detalle": "Las torres de San Pancrazio y del Elefante son las dos grandes torres medievales de Castello. La del Elefante, la segunda más alta después de San Pancrazio, se construyó en 1307 por orden de los cónsules pisanos y la diseñó el arquitecto sardo Giovanni Capula. Debe su nombre a la pequeña escultura de un elefante en uno de sus muros. Está junto a la iglesia de San Giuseppe Calasanzio y se llega por la Via Università o la Via Santa Croce.\n\nOjo: la Torre del Elefante está cerrada al público desde el 30 de agosto de 2024 por obras de seguridad, financiadas en marzo de 2026 con unos € 400.000, y a fines de agosto de 2026 tenía andamios sin fecha de reapertura. La de San Pancrazio también figura cerrada.\n\nIgual valen el desvío: las dos son puertas de entrada a Castello y se ven muy bien desde la calle.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Barrio de Castello"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Cerradas al público en octubre de 2026 (fuentes: CagliariToday, agosto 2026; Cagliari Turismo, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "15 a 30 minutos por fuera"
+        }
+      ]
+    },
+    {
+      "nombre": "Poetto",
+      "desc": "La playa urbana de Cagliari: unos 8 km de arena entre la Sella del Diavolo y Quartu Sant'Elena.",
+      "detalle": "El Poetto es la playa de la ciudad: una franja de arena de unos 8 km sobre el golfo de los Ángeles, que va desde la Sella del Diavolo hasta el municipio de Quartu Sant'Elena. La llaman la playa de los Cien Mil por su tamaño. En verano es también el centro de la vida nocturna, con bares y chiringuitos.\n\nDel otro lado de la avenida están las lagunas de Molentargius, así que podés combinar playa y flamencos en el mismo día.\n\nCómo llegar: las líneas PF y PQ de CTM salen de Piazza Matteotti, frente a la estación, y llegan en unos 20 minutos a la parada Lungosaline (angolo via Ischia). Con un boleto de 90 minutos de € 1,30 alcanza.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al este del centro; unos 20 minutos en colectivo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre para bañarse; todo el año para caminar"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública); las sombrillas y reposeras de los balnearios se pagan aparte"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Sella del Diavolo (Silla del Diablo)",
+      "desc": "El promontorio que cierra el Poetto, con senderos libres, un faro y vistas sobre todo el golfo.",
+      "detalle": "La Sella del Diavolo es el promontorio calcáreo que separa el Poetto de la cala de Calamosca. Su nombre viene de una leyenda: la batalla entre Lucifer y el arcángel Miguel, que habría dejado la marca de la montura del diablo en la roca.\n\nEl acceso habitual es desde la playa de Calamosca o la vecina Marina Piccola, por senderos señalizados de dificultad media. El punto más alto ronda los 135 metros. Las guías hablan de unos 40 minutos hasta arriba y de 2 a 3 horas ida y vuelta con paradas. Parte del cerro es zona militar, así que respetá los carteles.\n\nLlevá agua, gorra y calzado cerrado: casi no hay sombra. Evitá el mediodía de verano.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Entre el Poetto y Calamosca"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño; temprano o al atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (senderos libres)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Parque de Molentargius y los flamencos (Parco naturale Molentargius-Saline)",
+      "desc": "Lagunas y salinas en plena ciudad donde anidan miles de flamencos rosados.",
+      "detalle": "El Parque Natural Regional Molentargius-Saline protege las lagunas y antiguas salinas que quedan entre Cagliari, Quartu Sant'Elena y el Poetto. Es uno de los sitios del Mediterráneo donde anidan los flamencos: L'Unione Sarda informó de unas 9.000 parejas en una temporada de nidificación.\n\nLa entrada al parque es libre. Hay senderos para caminar y andar en bici, y operadores que hacen visitas guiadas en bote o en minibús eléctrico, que se pagan aparte. El punto de información está en Via La Palma 9, en el edificio Sali Scelti.\n\nLlevá binoculares si tenés y mantené distancia de las aves. Los flamencos se ven todo el año, pero la primavera es la época de nidificación.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Entre el centro y el Poetto"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera (nidificación) y otoño"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: nomadotravel.app, guía, verificado octubre 2026); visitas guiadas en bote o minibús, pagas según operador"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Anfiteatro romano",
+      "desc": "El anfiteatro de la Carales romana, excavado en parte en la roca, hoy en restauración.",
+      "detalle": "El anfiteatro romano de Cagliari está excavado en parte en la roca de la colina de Buon Cammino; el resto era de piedra caliza blanca y la fachada sur superaba los 20 metros de altura. Podía recibir entre 8.000 y 10.000 espectadores, casi un tercio de la población de la Carales romana. Allí se hacían luchas de gladiadores y de animales, ejecuciones y espectáculos.\n\nEstá en restauración. Según CagliariToday, en 2026 se prepara una reapertura parcial con visitas guiadas por tres recorridos, entre ellos la arena y los subterráneos, mientras que para volver a hacer conciertos faltarían unos tres años.\n\nAntes de ir, confirmá si las visitas ya se reanudaron.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Viale Sant'Ignazio, al pie de Castello"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño"
+        },
+        {
+          "label": "Entrada",
+          "value": "Tarifa histórica del Comune: € 3 entero, € 2 reducido; boleto combinado de sitios municipales € 8 por una semana (fuente: cagliariturismo.comune.cagliari.it, verificado octubre 2026). Confirmá precio y apertura de 2026"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Marina y Stampace",
+      "desc": "Los barrios bajos del centro: trattorias, iglesias barrocas, la Via Roma porticada y vida de bar.",
+      "detalle": "La Marina es el barrio entre Castello y el puerto, con la Via Roma y sus pórticos frente al mar. Es la zona más densa en restaurantes de cocina sarda, sobre todo en la Via Sardegna y alrededores. Stampace, al oeste de Castello, es otro de los barrios históricos, más local, con iglesias como la de Sant'Anna y calles que suben hacia la colina.\n\nLos dos se recorren a pie desde la estación y Piazza Matteotti. Son ideales para la tarde y la noche: aperitivo, cena y caminata hasta Piazza Yenne, el punto de encuentro de los jóvenes.\n\nComo en todo centro turístico, cuidá el celular y la billetera en las zonas con mucha gente.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro, junto al puerto y la estación"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mejor de tarde y noche"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas o más"
+        }
+      ]
+    },
+    {
+      "nombre": "Mercado de San Benedetto (sede provisoria en Piazza Nazzari)",
+      "desc": "El mercado de pescado y productos sardos de la ciudad, mudado a una sede temporal mientras se reconstruye.",
+      "detalle": "El mercado cívico de San Benedetto, abierto en 1957, fue durante décadas el gran mercado de pescado, carnes, quesos y verduras de Cagliari. Cerró su sede histórica el 1 de marzo de 2025 por obras y los puestos, incluidos los de pescado, se mudaron a una estructura provisoria en Piazza Nazzari, inaugurada el 18 de marzo de 2025.\n\nEn julio de 2026 empezó la demolición y reconstrucción del edificio, con una inversión de unos € 31 millones. Según la oposición municipal, la reapertura recién llegaría en 2028.\n\nPara el viajero, el mercado provisorio sigue siendo el lugar para ver el pescado del día, la bottarga y los quesos sardos. Andá temprano a la mañana: los puestos trabajan sobre todo de mañana.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Piazza Nazzari, barrio San Benedetto"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Por la mañana, de lunes a sábado"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Su Nuraxi de Barumini (Unesco)",
+      "desc": "El poblado nurágico más famoso de Cerdeña, Patrimonio Mundial de la Unesco desde 1997.",
+      "detalle": "Su Nuraxi es un poblado de la Edad Nurágica en el municipio de Barumini, en el interior de la isla. Creció alrededor de un nuraghe de cuatro torres más una central, del siglo XVI-XIV a. C., y el poblado se desarrolló entre los siglos XIII y VI a. C. La torre central llegó a 18,60 metros. Es uno de los poblados nurágicos más grandes de la isla y desde 1997 es Patrimonio Mundial de la Unesco.\n\nLa visita a Su Nuraxi es sólo guiada: salen grupos cada 30 minutos y dura alrededor de una hora. La entrada incluye también el complejo museístico Casa Zapata y el Centro Giovanni Lilliu. Abre todos los días del año en horario corrido. Con lluvia fuerte el área puede cerrar.\n\nSin auto, lo más simple es una excursión desde Cagliari.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Barumini, en el interior; excursión de día completo o medio día"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño (en verano hace mucho calor)"
+        },
+        {
+          "label": "Entrada",
+          "value": "€ 16 entero (desde 18 años); € 14 de 13 a 17 años; € 12 de 7 a 12 años; € 8 si por lluvia sólo se ve el exterior; gratis de 0 a 6 años (fuente: Tariffario 2026, fondazionebarumini.it, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día con el viaje"
+        }
+      ]
+    },
+    {
+      "nombre": "Sitio arqueológico de Nora (Pula)",
+      "desc": "Ruinas fenicias, púnicas y romanas sobre una punta frente al mar, con teatro y mosaicos.",
+      "detalle": "Nora fue una de las ciudades más antiguas de Cerdeña. Ocupa la punta del cabo de Pula, al sur de Cagliari, y conserva restos fenicio-púnicos y, sobre todo, romanos: calles, termas, casas con mosaicos y un teatro. Parte de la ciudad quedó bajo el mar.\n\nEl recorrido tiene 28 paneles con infografías y códigos QR con imágenes 3D y audioguías. La visita guiada está incluida en la entrada, pero hay que coordinarla con la boletería por mail o teléfono. Horarios 2026: de noviembre a febrero de 9 a 17; marzo de 9 a 18; abril, mayo y octubre de 9 a 19; de junio a septiembre de 9 a 20.\n\nPodés sumarle la playa de Nora, al lado del sitio, y seguir hacia Chia.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Pula, al sur de Cagliari"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño; en verano, primera hora"
+        },
+        {
+          "label": "Entrada",
+          "value": "€ 10 adulto, visita guiada incluida; cruceristas y socios FAI € 7,50 (fuente: fondazionepulacultura.it, válido desde el 20/04/2026, verificado octubre 2026). Compra online, con PDF y código QR"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Villasimius y Capo Carbonara",
+      "desc": "El pueblo de playas del sudeste, con aguas claras y calas a una excursión de distancia.",
+      "detalle": "Villasimius (Crabonaxa en sardo) es un municipio de unos 3.766 habitantes en el extremo sudeste del golfo, conocido como destino de playa. Alrededor del cabo de Capo Carbonara hay playas y calas de agua muy clara, como Porto Giunco o Cala Sinzias, que suelen aparecer en las excursiones de un día desde Cagliari.\n\nSin auto, el micro ARST sale de Piazza Matteotti (líneas 101 y 135). En verano el pueblo tiene además un colectivo local, el Villasimius Summer Bus, que sale cada hora de 9 a 21 y conecta las playas: € 3 el viaje y € 4 dos viajes por app o en la oficina de turismo, € 1 más a bordo.\n\nEn julio y agosto se llena: andá temprano.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sudeste de la provincia; micros ARST desde Piazza Matteotti"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre"
+        },
+        {
+          "label": "Entrada",
+          "value": "Playas gratis; Summer Bus € 3 el viaje (fuente: sardegnatoujours.com, guía, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Chia",
+      "desc": "Dunas, lagunas y playas de arena clara en la costa sudoeste, a una excursión de Cagliari.",
+      "detalle": "Chia es una localidad del municipio de Domus de Maria, en la costa sudoeste. Se la conoce por sus playas de arena clara y dunas, como Su Giudeu, y por la torre costera que domina la bahía. Junto a Tuerredda, más al oeste, es una de las playas que las excursiones de día desde Cagliari combinan con el sudoeste de la isla.\n\nLo más cómodo es ir en auto o en excursión organizada. Hay colectivos ARST hacia la zona de Pula y Chia, pero no pudimos confirmar en la web oficial la tarifa ni la frecuencia actuales; consultalas en arst.sardegna.it antes de salir.\n\nPodés combinarla con Nora el mismo día.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Costa sudoeste, municipio de Domus de Maria"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playas públicas)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Museo Arqueológico Nacional + Pinacoteca Nacional (boleto único)",
+      "precio": "Biglietto único Museo Arqueológico + Pinacoteca: € 10 entero; € 5 reducido; € 2 ciudadanos UE de 18 a 24 años; menores de 18 gratis; pase anual € 36 (fuente: museinazionalicagliari.cultura.gov.it, verificado octubre 2026). Se compra en la boletería o en la app/portal Musei Italiani. Abre todos los días de 8:30 a 19:30"
+    },
+    {
+      "tipo": "Su Nuraxi de Barumini + Casa Zapata + Centro Giovanni Lilliu",
+      "precio": "€ 16 entero; € 14 de 13 a 17 años y grupos de 20 o más; € 12 de 7 a 12 años; € 8 con lluvia (sólo exterior); gratis de 0 a 6 años y personas con discapacidad con acompañante (fuente: Tariffario 2026, fondazionebarumini.it, verificado octubre 2026). Se compra en la boletería de Barumini; visita guiada obligatoria cada 30 minutos"
+    },
+    {
+      "tipo": "Sitio arqueológico de Nora (Pula)",
+      "precio": "€ 10 adulto con visita guiada; € 7,50 cruceristas y socios FAI; acompañante de persona con discapacidad gratis (fuente: fondazionepulacultura.it, válido desde 20/04/2026, verificado octubre 2026). Compra online"
+    },
+    {
+      "tipo": "Anfiteatro romano",
+      "precio": "Tarifa publicada por el Comune: € 3 entero; € 2 reducido (menores de 26, mayores de 65, grupos de 15+); escuelas € 1; boleto combinado municipal € 8 por una semana (fuente: cagliariturismo.comune.cagliari.it, verificado octubre 2026). En restauración: confirmá la reapertura de 2026"
+    },
+    {
+      "tipo": "Torre del Elefante",
+      "precio": "Cerrada al público desde el 30/08/2024 por obras, sin fecha de reapertura (fuente: CagliariToday, agosto 2026; Comune di Cagliari, verificado octubre 2026). La última tarifa publicada era € 3 entero y € 2 reducido"
+    },
+    {
+      "tipo": "Catedral de Santa María",
+      "precio": "Gratis (fuente: museionline.info, guía, verificado octubre 2026). El Museo del Duomo cobra aparte"
+    },
+    {
+      "tipo": "Bastión de Saint Remy y barrio de Castello",
+      "precio": "Gratis (espacio público)"
+    },
+    {
+      "tipo": "Poetto, Villasimius y Chia",
+      "precio": "Gratis (playas públicas); los balnearios cobran sombrilla y reposera aparte"
+    },
+    {
+      "tipo": "Parque de Molentargius",
+      "precio": "Entrada libre (fuente: nomadotravel.app, guía, verificado octubre 2026); visitas en bote o minibús eléctrico, pagas según operador"
+    },
+    {
+      "tipo": "Sella del Diavolo",
+      "precio": "Gratis (senderos libres)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Visita guiada por Cagliari en español (Castello, catedral, murallas)",
+      "precio": "€ 28 por persona (fuente: civitatis.com, precio publicado, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Guías locales vía Civitatis"
+    },
+    {
+      "actividad": "Tour por los subterráneos de Cagliari (túneles, criptas y canteras)",
+      "precio": "€ 30 por persona (fuente: civitatis.com, precio publicado, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Guías locales vía Civitatis (en inglés e italiano)"
+    },
+    {
+      "actividad": "Paseo en barco por el golfo de Cagliari",
+      "precio": "Desde € 50 por persona (fuente: civitatis.com, precio publicado, verificado octubre 2026). En gozzo tradicional, € 42,90",
+      "duracion": "2 a 3,5 horas",
+      "operador": "Operadores náuticos locales vía Civitatis"
+    },
+    {
+      "actividad": "Tour en kayak o senderismo por la Sella del Diavolo",
+      "precio": "Kayak € 75; senderismo guiado € 50 por persona (fuente: civitatis.com, precio publicado, verificado octubre 2026). Por cuenta propia, el sendero es gratis",
+      "duracion": "3 a 3,5 horas",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Excursión a Su Nuraxi de Barumini",
+      "precio": "€ 85 por persona; con Domus de Janas € 70; con la Giara di Gesturi (caballitos salvajes) € 90 (fuente: civitatis.com, precio publicado, verificado octubre 2026)",
+      "duracion": "4 a 7 horas",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Excursión al sitio arqueológico de Nora",
+      "precio": "€ 75 por persona (fuente: civitatis.com, precio publicado, verificado octubre 2026). Entrada por cuenta propia € 10",
+      "duracion": "4 horas",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Excursión a las playas del sudoeste (Tuerredda y Chia) o del sudeste (Porto Giunco y Cala Sinzias)",
+      "precio": "Desde € 85 por persona (fuente: civitatis.com, precio publicado, verificado octubre 2026)",
+      "duracion": "8 horas",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Tour gastronómico por Cagliari",
+      "precio": "€ 65 por persona; cata de vino, quesos y embutidos € 48 (fuente: civitatis.com, precio publicado, verificado octubre 2026)",
+      "duracion": "1 a 3 horas",
+      "operador": "Operadores locales vía Civitatis"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Colectivo urbano CTM (boleto de 90 minutos)",
+      "precio": "€ 1,30; a bordo € 0,50 más, sólo de lunes a viernes de 7 a 20 y en cabecera (fuente: ctmcagliari.it, tarifas vigentes desde el 1/9/2016, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Vale 90 minutos desde la validación en toda la red, salvo MetroCagliari. Se compra en CTM Point, máquinas, kioscos y la app Busfinder. Carnet de 12 viajes € 13."
+    },
+    {
+      "medio": "Boleto integrado CTM diario y semanal",
+      "precio": "Diario (24 horas) € 3,30; 2 horas integrado € 2; semanal (7 días) € 12, todos válidos también en MetroCagliari (fuente: ctmcagliari.it, verificado octubre 2026)",
+      "duracion": "24 horas o 7 días desde la primera validación",
+      "notas": "El semanal conviene si te quedás varios días y vas al Poetto o a Molentargius."
+    },
+    {
+      "medio": "Colectivo al Poetto (líneas PF y PQ)",
+      "precio": "€ 1,30 con boleto de 90 minutos (fuente: ctmcagliari.it, verificado octubre 2026)",
+      "duracion": "Unos 20 minutos",
+      "notas": "Salen de Piazza Matteotti, frente a la estación. Parada en el Poetto: Lungosaline (angolo via Ischia). En verano algunas líneas se extienden pasada la medianoche."
+    },
+    {
+      "medio": "Micros ARST a la provincia (Villasimius, Pula, Chia)",
+      "precio": "Tarifa por tramo según distancia; no pudimos leer la tabla oficial (consultá el calculador de tarifas en arst.sardegna.it). A bordo, recargo de € 1 en servicio extraurbano (fuente: arst.sardegna.it, vía resultados de búsqueda, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Salen de la terminal de Piazza Matteotti. A Villasimius van las líneas 101 y 135."
+    },
+    {
+      "medio": "A pie",
+      "precio": "Gratis",
+      "duracion": "Castello, Marina y Stampace se recorren caminando",
+      "notas": "Hay subidas fuertes hacia Castello. Calzado cómodo."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto Cagliari-Elmas (CAG) → estación de Cagliari (tren)",
+      "empresas": "Trenitalia, regionales desde la estación Elmas Aeroporto, a pocos pasos de la terminal",
+      "precio": "€ 1,30 por tramo (fuente: lefrecce.it/Trenitalia, consulta para octubre 2026, verificado octubre 2026)",
+      "duracion": "7 a 9 minutos"
+    },
+    {
+      "ruta": "Tren Sassari u Olbia → Cagliari",
+      "empresas": "Trenitalia regional",
+      "precio": "Desde Sassari € 16,50; desde Olbia € 18 (fuente: lefrecce.it/Trenitalia, verificado octubre 2026)",
+      "duracion": "Sassari unas 3 h; Olbia 3,5 a 4 h"
+    },
+    {
+      "ruta": "Ferry Civitavecchia (Roma) → Cagliari",
+      "empresas": "Grimaldi Lines",
+      "precio": "Pasaje en cubierta desde € 63; camarote desde € 85 (fuente: traghetti.com, agregador, verificado octubre 2026)",
+      "duracion": "13 a 16 horas, salida nocturna a las 20"
+    },
+    {
+      "ruta": "Ferry Nápoles → Cagliari y Cagliari → Palermo",
+      "empresas": "Grimaldi Euromed (línea de continuidad territorial, reasignada en septiembre de 2026 por cinco años)",
+      "precio": "Tarifa no confirmada en fuente oficial: consultá grimaldi-lines.com",
+      "duracion": "Nápoles unas 15 h (3 salidas semanales); Palermo unas 12 h (1 salida semanal) (fuente: netferry.com, agregador; Shipping Italy, septiembre 2026)"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Económico: B&B y habitaciones",
+      "nivel": 2,
+      "opciones": "B&B Sorcinelli desde € 41, Piazza Martiri Rooms desde € 48, Cagliari da Lorenz desde € 49 la noche; en hoteles, la habitación más barata hallada rondó € 50 (fuente: Kayak, verificado octubre 2026). Noviembre es el mes más barato y mayo el más caro"
+    },
+    {
+      "categoria": "Hoteles 3 estrellas y medios en el centro",
+      "nivel": 3,
+      "opciones": "Hotel Residence Ulivi e Palme desde € 75-90, Hotel Quadrifoglio desde € 83-88, Hotel Poetto desde € 87, Hotel Italia desde € 93-130 la noche (fuente: Kayak, verificado octubre 2026). Sumá la tasa de estadía de € 3 por persona y noche en 3 estrellas"
+    },
+    {
+      "categoria": "Hoteles 4 estrellas",
+      "nivel": 4,
+      "opciones": "Hotel 4 Mori desde € 110, Holiday Inn Cagliari desde € 117, UNA Hotels T Hotel desde € 129, Hotel Flora desde € 147, Hotel Regina Margherita desde € 178 la noche (fuente: Kayak, verificado octubre 2026). Tasa de estadía € 4 por persona y noche"
+    },
+    {
+      "categoria": "Lujo y boutique",
+      "nivel": 5,
+      "opciones": "Hotel Villa Fanny desde € 208, Palazzo Tirso MGallery desde € 217, Hotel Palazzo Doglio desde € 245, Hotel D H Lawrence (Castello) desde € 250, Casa Clat desde € 422 la noche (fuente: Kayak, verificado octubre 2026). Tasa de estadía € 5 por persona y noche en 5 estrellas"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Cocina sarda en la Marina",
+      "nivel": 3,
+      "opciones": "Fregola con arselle (sémola tostada con almejas) € 15, culurgiones (ravioles de papa y menta) de Ogliastra € 13 y seadas (masa frita con queso y miel) € 7 en Ristorante 51 (fuente: carta en TheFork, verificado octubre 2026). En la ciudad la fregola con arselle suele costar € 14-18 (fuente: Sluurpy, guía, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Comida rápida y pizza",
+      "nivel": 2,
+      "opciones": "Locales de comida al paso y pizzerías con gasto medio de unos € 10-20 por persona (fuente: Sluurpy, guía, verificado octubre 2026). Una cena completa de pescado ronda € 28-42"
+    },
+    {
+      "tipo": "Postres sardos",
+      "nivel": 2,
+      "opciones": "Seadas con miel € 5-7 en la mayoría de las trattorias (fuente: Sluurpy, guía, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Alta cocina de atún y pescado",
+      "nivel": 5,
+      "opciones": "Luigi Pomata (Viale Regina Margherita 18), chef conocido por el atún de Carloforte: gasto medio de unos € 60 por persona (fuente: Gambero Rosso); comensales citan un menú degustación de € 85 (fuente: reseñas en Wanderlog, verificado octubre 2026). Confirmá que esté abierto y reservá"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa? ¿Qué son el EES y el ETIAS?",
+      "a": "Con pasaporte de Argentina, Uruguay, Chile, México, Colombia o Perú no necesitás visa para turismo en Italia: podés estar hasta 90 días dentro de cualquier período de 180 en todo el espacio Schengen. En tu primera entrada, el sistema EES te toma huellas y foto y ya no sellan el pasaporte. El ETIAS, una autorización online previa, todavía no se pide en octubre de 2026; la UE dijo que avisará la fecha con varios meses de anticipación en su web oficial. No pagues trámites en webs no oficiales. Si tenés otro pasaporte de la región, consultá en el consulado italiano."
+    },
+    {
+      "q": "¿Cuánto es la tasa de estadía en Cagliari?",
+      "a": "El Comune cobra la imposta di soggiorno por persona y por noche, hasta 5 noches seguidas. En hoteles va de € 1 (1 estrella) a € 5 (5 estrellas); en B&B, casas y otros alojamientos es de € 2 de enero a junio y de octubre a diciembre, y € 3 de julio a septiembre; en hostels, € 1,50. Están exentos los menores de 12 años y los mayores de 70, entre otros casos. Se paga en el alojamiento. Fuente: cagliariturismo.comune.cagliari.it, verificado octubre 2026. La prensa local informó un ajuste aprobado a fines de 2025 con vigencia desde el 1 de abril de 2026: confirmá el monto con tu alojamiento."
+    },
+    {
+      "q": "¿Cómo llego del aeropuerto al centro?",
+      "a": "Lo más simple es el tren. La estación Elmas Aeroporto está a pocos pasos de la terminal y los regionales de Trenitalia llegan a la estación de Cagliari en 7 a 9 minutos por € 1,30 (fuente: Trenitalia, verificado octubre 2026). El boleto se saca en las máquinas, online o en la app. La estación de Cagliari queda en Piazza Matteotti, junto a la terminal de micros ARST y a la parada de los colectivos CTM al Poetto. También hay taxis frente a la salida de arribos."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse?",
+      "a": "Con dos días completos ves la ciudad: uno para Castello, el Bastión de Saint Remy, la catedral y el Museo Arqueológico, y otro para el Poetto, la Sella del Diavolo y los flamencos de Molentargius, con la noche en la Marina. Con cuatro o cinco días sumás excursiones: Nora y Chia por el sudoeste, Su Nuraxi de Barumini en el interior y Villasimius por el sudeste. Si no manejás, las excursiones organizadas desde Cagliari resuelven el transporte."
+    },
+    {
+      "q": "¿Conviene alquilar auto?",
+      "a": "Para la ciudad, no: el centro se camina y los colectivos CTM llegan al Poetto por € 1,30. El auto sí sirve para las excursiones, porque los micros ARST a Barumini, Chia o Villasimius tienen menos frecuencia, sobre todo fuera del verano. En Italia necesitás licencia de tu país y, en general, el permiso internacional de conducir: consultalo con tu automóvil club antes de viajar. En las playas de verano el estacionamiento se llena temprano."
+    },
+    {
+      "q": "¿Cuál es la mejor época para ir?",
+      "a": "Para playa, de junio a septiembre, aunque julio y agosto son los meses más llenos y caros. La primavera y el otoño son ideales para caminar Castello, subir a la Sella del Diavolo y ver los flamencos, que anidan en primavera. Según Kayak, noviembre es el mes más barato para dormir y mayo el más caro. En invierno la ciudad es tranquila y los museos estatales abren igual."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (IT) — «Storia di Cagliari»: https://it.wikipedia.org/wiki/Storia_di_Cagliari",
+      "Wikipedia (IT) — «Cagliari»: https://it.wikipedia.org/wiki/Cagliari",
+      "Wikipedia (IT) — «Torre dell'Elefante»: https://it.wikipedia.org/wiki/Torre_dell%27Elefante",
+      "Wikipedia (IT) — «Su Nuraxi»: https://it.wikipedia.org/wiki/Su_Nuraxi",
+      "Tuttitalia — «Cagliari»: https://www.tuttitalia.it/sardegna/89-cagliari/"
+    ],
+    "que_ver_atracciones": [
+      "Musei Nazionali di Cagliari — «Orari e Biglietteria»: https://museinazionalicagliari.cultura.gov.it/visita/orari-e-biglietteria/orari-e-biglietteria/",
+      "Fondazione Barumini — «Biglietti»: https://www.fondazionebarumini.it/biglietti/",
+      "Fondazione Barumini — «Tariffario 2026»: https://www.fondazionebarumini.it/wp-content/uploads/2026/02/Tariffario-2026.pdf",
+      "Fondazione Pula Cultura — «Adulti»: https://www.fondazionepulacultura.it/prodotto/adulti/",
+      "Cagliari Turismo — «Torre dell'Elefante»: https://cagliariturismo.comune.cagliari.it/en/vivicagliari/elephant-tower",
+      "Cagliari Turismo — «Anfiteatro Romano»: https://cagliariturismo.comune.cagliari.it/en/vivicagliari/roman-amphitheatre",
+      "CagliariToday — «Torre dell'Elefante ancora chiusa»: https://www.cagliaritoday.it/cronaca/torre-elefante-cagliari.html",
+      "Museionline — «Bastione di Saint Remy»: https://www.museionline.info/cagliari-musei-e-monumenti/bastione-di-saint-remy",
+      "Wikipedia (IT) — «Giganti di Mont'e Prama»: https://it.wikipedia.org/wiki/Giganti_di_Mont%27e_Prama",
+      "Vistanet — «Il Mercato di San Benedetto volta pagina»: https://www.vistanet.it/cagliari/2026/07/31/nato-nel-1957-demolito-nel-2026-il-mercato-di-san-benedetto-volta-pagina-e-la-sua-trasformazione-divide-cagliari/"
+    ],
+    "como_llegar_transporte": [
+      "CTM — «Titoli di Viaggio»: https://www.ctmcagliari.it/tariffe/titoli_di_viaggio/",
+      "CTM — «Tariffe e Abbonamenti»: https://www.ctmcagliari.it/tariffe/",
+      "Trenitalia — «Integrazione tariffaria Sardegna»: https://www.trenitalia.com/it/regionale/sardegna/integrazione-tariffaria-sardegna.html",
+      "ARST — «Titoli di viaggio»: https://www.arst.sardegna.it/tariffe-abbonamenti/titoli-di-viaggio/",
+      "Traghetti.com — «Traghetti Civitavecchia Cagliari»: https://www.traghetti.com/traghetti-sardegna/traghetti-civitavecchia-cagliari",
+      "Shipping Italy — «Continuità marittima: ancora a Grimaldi»: https://www.shippingitaly.it/2026/09/17/continuita-marittima-ancora-a-grimaldi-le-linee-civitavecchia-arbatax-cagliari-e-napoli-cagliari-palermo",
+      "Sardegnatoujours — «Villasimius Summer Bus»: https://www.sardegnatoujours.com/villasimius-summer-bus-orari-e-prezzi/"
+    ],
+    "precios_2026": [
+      "Cagliari Turismo — «Imposta di soggiorno»: https://cagliariturismo.comune.cagliari.it/en/tourist-tax",
+      "L'Unione Sarda — «Aumenta la tassa di soggiorno a Cagliari»: https://www.unionesarda.it/en/sardinia/cagliari39-s-tourist-tax-increases-here39-s-all-the-news-mrd2lgj3",
+      "Civitatis — «Excursiones en Cagliari»: https://www.civitatis.com/es/cagliari/"
+    ],
+    "alojamiento_gastronomia": [
+      "Kayak — «Hoteles en Cagliari»: https://www.kayak.es/Hoteles-en-Cagliari.9377.hotel.ksp",
+      "Kayak — «Hotel di lusso a Cagliari»: https://www.kayak.it/Hotel-a-Cagliari_Lusso.Hlu.9377.hotel.ksp",
+      "TheFork — «Ristorante 51 menù»: https://www.thefork.it/ristorante/ristorante-51-r497579/menu",
+      "Sluurpy — «Ristoranti Cagliari»: https://www.sluurpy.it/cagliari/ristoranti",
+      "Gambero Rosso — «Luigi Pomata»: https://www.gamberorosso.it/luoghi/locali/ristorante/luigi-pomata"
+    ],
+    "naturaleza": [
+      "Nomadotravel — «Parco Naturale Molentargius-Saline»: https://www.nomadotravel.app/it/attractions/parco-molentargius-saline",
+      "L'Unione Sarda — «Molentargius, nidificano 9.000 coppie»: https://www.unionesarda.it/news-sardegna/cagliari/cagliari-molentargius-ripete-spettacolo-fenicotteri-rosa-nidificano-9000-coppie-lw26q39i",
+      "Cultura.gov.it — «Sella del Diavolo»: https://idese.cultura.gov.it/en/place/sella-del-diavolo/"
+    ]
+  }
+}
