@@ -1,0 +1,645 @@
+{
+  "slug": "cayo-hueso",
+  "name": "Cayo Hueso",
+  "region": "Florida",
+  "lat": 24.5551,
+  "lon": -81.78,
+  "datosRapidos": [
+    {
+      "label": "Estado",
+      "value": "Cayo Hueso (Key West, Florida, Estados Unidos). Es la ciudad del extremo sur de los Cayos de Florida, la cadena de islas que cuelga de la punta de la península entre el golfo de México y el océano Atlántico. La isla principal tiene unos 11 km² y está unida al continente por la Overseas Highway, la ruta 1 que salta de cayo en cayo sobre 42 puentes. Según el censo de Estados Unidos de 2020 vivían 26.444 personas en la ciudad. El nombre español, Cayo Hueso, viene según la tradición de los restos humanos que los primeros exploradores encontraron en la isla, usada como cementerio por los pueblos originarios; los angloparlantes lo deformaron en 'Key West'. Se la conoce por su casco antiguo de casas de madera del siglo XIX, por la calle Duval y sus bares, por la casa donde vivió Ernest Hemingway entre 1931 y 1939, por la residencia de invierno del presidente Truman y por el atardecer que se festeja cada noche en Mallory Square. La boya del 'punto más austral' recuerda que Cuba queda a unos 150 km. Es también la puerta de entrada al Parque Nacional Dry Tortugas, a unos 113 km al oeste, al que sólo se llega en barco o hidroavión"
+    },
+    {
+      "label": "Moneda",
+      "value": "Dólar estadounidense (US$). La tarjeta se acepta en casi todos lados, pero ojo con dos detalles: muchos comercios y museos (como la Casa de Hemingway o el Hogfish Bar) suman un recargo de 3% por pagar con tarjeta, y el Parque Nacional Dry Tortugas no acepta efectivo. Los precios se publican sin impuestos y en los restaurantes con mesa se espera propina. Cayo Hueso es caro para dormir y comer: lo gratis es caminar el casco viejo, ver el atardecer en Mallory Square y sacarte la foto en la boya del punto más austral"
+    },
+    {
+      "label": "Mejor época",
+      "value": "El invierno y la primavera (diciembre a abril) son los meses más secos y frescos, y también los más caros: los hoteles suben y hay que reservar con tiempo. La temporada de huracanes del Atlántico va del 1 de junio al 30 de noviembre, con más riesgo entre agosto y octubre; en esos meses conviene sacar seguro de viaje y seguir los avisos del condado de Monroe. Septiembre es, según Momondo, el mes más barato para el hotel. En octubre se hace Fantasy Fest, un carnaval adulto que llena la isla y dispara los precios"
+    },
+    {
+      "label": "Visado",
+      "value": "Depende del pasaporte. Los chilenos entran con el Programa de Exención de Visa: pasaporte electrónico y una autorización ESTA aprobada antes de volar, que cuesta US$ 40,27 hasta el 15 de octubre de 2026 y sube a US$ 40,62 desde el 16 de octubre (vale 2 años o hasta que vence el pasaporte). Argentinos, uruguayos, mexicanos, colombianos y peruanos necesitan visa de turista B1/B2: tasa de US$ 185, formulario DS-160 y entrevista en el consulado. Además existe una 'visa integrity fee' de US$ 250 por ley de 2025, que los consulados empezaron a cobrar de forma despareja durante 2026: confirmalo con la embajada de tu país"
+    }
+  ],
+  "intro": [
+    "Cayo Hueso es el final de la ruta 1 y el final de Estados Unidos: después de manejar horas sobre puentes con mar turquesa a los dos lados, llegás a una isla chica de casas de madera con galerías, gallos sueltos por la calle y gatos de seis dedos. Se recorre entera a pie o en bici, y su casco viejo conserva la mezcla de pasado marinero, influencia cubana y espíritu bohemio que atrajo a Hemingway, a Tennessee Williams y a Truman.",
+    "El plan del día se arma solo: museos chicos y bien cuidados a la mañana, la boya del punto más austral antes de que llegue la fila, una siesta de playa en Fort Zachary Taylor y, al caer el sol, Mallory Square, donde cada noche se junta gente a aplaudir el atardecer entre malabaristas y músicos. A la noche, la calle Duval se convierte en un pasillo de bares con música en vivo. Si te gusta el mar, el arrecife de coral está a minutos en barco.",
+    "La excursión estrella está lejos: el Parque Nacional Dry Tortugas, un fuerte de ladrillo del siglo XIX en medio del mar, a unos 113 km, con agua transparente para hacer snorkel. Hay que avisar lo otro: Cayo Hueso es caro, sobre todo para dormir, y en temporada alta se llena. Con un poco de planificación (reservar el ferry con tiempo, moverte en bici o en el transporte de la ciudad, comer en lugares cubanos) se puede disfrutar sin fundirse."
+  ],
+  "historia_corta": "La isla aparece en los registros europeos con la expedición de Juan Ponce de León en 1513, pero no tuvo un asentamiento español estable. Los marinos la llamaron Cayo Hueso por los restos humanos que encontraron, de los pueblos originarios que la usaban como cementerio. En 1763, cuando Florida pasó de España a Gran Bretaña, los últimos calusas fueron llevados a Cuba. En 1815 el gobernador español de Cuba le cedió la isla a Juan Pablo Salas, que la vendió dos veces: John W. Simonton cerró la compra en un café de La Habana en enero de 1822, y el 25 de marzo de ese año Matthew C. Perry izó la bandera de Estados Unidos. En 1823 la Marina instaló una base para combatir la piratería. En la década de 1830 el salvamento de barcos naufragados en el arrecife la convirtió en una de las ciudades más ricas del país por habitante. Desde 1868 los exiliados cubanos de la Guerra de los Diez Años levantaron una gran industria de cigarros, y en 1886 un incendio destruyó 18 fábricas y 614 casas. En 1898 el acorazado Maine zarpó de acá hacia La Habana. En 1912 llegó el Ferrocarril de Ultramar de Henry Flagler; el huracán del Día del Trabajo de 1935 lo destruyó, y en 1938 se abrió sobre sus puentes la Overseas Highway. Hemingway vivió en la isla de 1931 a 1939 y Truman pasó 175 días en la Pequeña Casa Blanca entre 1946 y 1952. En 1982, en protesta por un control fronterizo en la ruta, la ciudad se declaró en broma 'República de la Concha', fiesta que se celebra cada 23 de abril. En 2017 el huracán Irma golpeó los Cayos con categoría 4.",
+  "queVer": [
+    {
+      "nombre": "Parque Nacional Dry Tortugas y Fuerte Jefferson",
+      "desc": "Un fuerte hexagonal del siglo XIX en un islote a 113 km de Cayo Hueso, con agua turquesa para snorkel; se llega sólo en ferry o hidroavión.",
+      "detalle": "Dry Tortugas es un parque nacional de unos 260 km² donde más del 99% es agua: siete islotes en medio del golfo, a casi 113 km al oeste de Cayo Hueso. En Garden Key está el Fuerte Jefferson, construido entre 1846 y 1875, una mole de ladrillo con unos 2.000 arcos que nunca se terminó del todo. Fue monumento nacional desde 1935 y parque nacional desde 1992.\n\nHay dos formas de llegar. El ferry Yankee Freedom sale a las 8 de la terminal de 100 Grinnell Street, llega al fuerte a las 10:15 y vuelve a las 15, con regreso a Cayo Hueso a las 17:15. Incluye desayuno liviano, almuerzo en caja, equipo de snorkel, visita guiada de 45 minutos al fuerte y la tasa del parque. La otra opción es el hidroavión de Key West Seaplane Adventures: unos 40 minutos de vuelo por tramo, más caro pero espectacular.\n\nUna vez ahí, se camina el fuerte y el foso, y se hace snorkel junto a los muros, donde hay coral y peces. No hay tiendas ni agua potable para comprar: llevá protector solar apto para arrecife. Los cupos son limitados, así que reservá con semanas de anticipación, sobre todo en invierno y primavera. El mar puede cancelar la salida.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 113 km al oeste de Cayo Hueso; ferry desde 100 Grinnell Street"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Diciembre a mayo, con mar más calmo; reservar con semanas de anticipación"
+        },
+        {
+          "label": "Entrada",
+          "value": "Tasa del parque US$ 15 por persona de 16 años o más, válida 7 días; menores de 16 gratis; el parque no acepta efectivo (fuente: nps.gov/drto, verificado octubre 2026). Ferry Yankee Freedom desde US$ 260, tasa incluida (fuente: drytortugas.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo (ferry de 8 a 17:15) o medio día en hidroavión"
+        }
+      ]
+    },
+    {
+      "nombre": "Casa y Museo de Ernest Hemingway (Ernest Hemingway Home and Museum)",
+      "desc": "La casa de piedra donde Hemingway vivió y escribió entre 1931 y 1939, hoy museo con decenas de gatos de seis dedos sueltos por el jardín.",
+      "detalle": "La casa, de 1851, fue el hogar de Ernest Hemingway y de su segunda esposa, Pauline Pfeiffer, entre 1931 y 1939. Acá escribió o terminó obras como 'Las verdes colinas de África', los cuentos 'Las nieves del Kilimanjaro' y 'La corta vida feliz de Francis Macomber', y 'Tener y no tener'. Es museo desde 1964 e Hito Histórico Nacional desde 1968.\n\nLa visita es guiada: salen tours cada 15 minutos desde las 9:15, y el guía cuenta anécdotas de la vida del escritor en la isla. Se ven los muebles de la época, el estudio donde escribía y los jardines tropicales donde descansan los gatos.\n\nLos protagonistas, para muchos, son los gatos: un capitán le regaló a Hemingway un gato blanco de seis dedos llamado Snow White, y parte de los que viven hoy en el museo descienden de él. Las entradas se compran sólo en el portón, sin reserva. Llegá temprano para evitar los grupos de cruceros. Queda frente al faro: conviene combinarlos.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Whitehead Street, Old Town, frente al faro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; a primera hora para evitar los grupos de cruceros"
+        },
+        {
+          "label": "Entrada",
+          "value": "US$ 19 adulto; niños de 6 a 12 US$ 7; menores de 5 gratis; 3% de recargo con tarjeta; se compra sólo en la puerta (fuente: hemingwayhome.com, verificado octubre 2026). Abre todos los días de 9 a 17"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Mallory Square y el festejo del atardecer (Sunset Celebration)",
+      "desc": "La plaza del muelle donde cada noche se junta gente a mirar el sol caer sobre el golfo, entre malabaristas, músicos y puestos de comida.",
+      "detalle": "Mallory Square es la vieja plaza portuaria del noroeste de la isla, frente al canal por donde entran los barcos. Desde fines de la década de 1960, cada noche se arma ahí el Sunset Celebration: la tradición local dice que Tennessee Williams empezó la costumbre de aplaudir al sol cuando se hunde en el horizonte.\n\nEl festejo arranca unas dos horas antes de la puesta. Hay artistas callejeros (magos, malabaristas, payasos, adivinos), músicos locales, vendedores de artesanías y puestos de comida. Es gratis, pero los artistas viven de la gorra: llevá billetes chicos. La web oficial de la plaza publica la hora del atardecer del día.\n\nConviene llegar 45 minutos antes para conseguir lugar en el borde del muelle, sobre todo en temporada alta. Cuando hay cruceros amarrados, el barco puede tapar parte de la vista; en ese caso, la alternativa es el muelle de Fort Zachary Taylor o un paseo en velero. Alrededor están las tiendas de la plaza, el Museo de Arte e Historia y el Museo del Tesoro de los Naufragios.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Extremo norte de la calle Duval, Old Town"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año, todas las noches desde dos horas antes del atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (plaza pública; los artistas aceptan propina)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Calle Duval y el casco viejo (Old Town)",
+      "desc": "La calle principal de Cayo Hueso, de golfo a océano: bares históricos, galerías, casas victorianas y la vida nocturna de la isla.",
+      "detalle": "La calle Duval cruza la isla de punta a punta, desde Mallory Square en el golfo hasta el Atlántico. Es el eje del Old Town, el casco viejo de casas de madera con galerías, persianas y jardines tropicales, muchas del siglo XIX.\n\nDe día se camina por las tiendas, las galerías de arte y las heladerías; de noche se llena de bares con música en vivo, despedidas de soltero y gente que va y viene con el vaso en la mano. Es también el corazón de la vida nocturna y de la escena LGBT+ de la isla, con bares y espectáculos durante todo el año.\n\nLo mejor es salirse de Duval: las calles paralelas, como Whitehead, Simonton o las cortas de Bahama Village, muestran el Cayo Hueso residencial, con gallos sueltos y casas de colores. Al sur, en la explanada del 1400 de Duval, está la réplica de la boya del punto más austral mientras duran las obras de la esquina original. Ojo: es zona de mucho alcohol, mejor cuidar el celular y la billetera de noche.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Atraviesa Old Town desde Mallory Square (norte) hasta el Atlántico (sur)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; de día para pasear, de noche para los bares"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (calle pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas caminando, o la noche entera"
+        }
+      ]
+    },
+    {
+      "nombre": "Boya del punto más austral (Southernmost Point Buoy)",
+      "desc": "La boya de concreto pintada que marca el 'punto más austral' de Estados Unidos continental, a '90 millas de Cuba': la foto obligada.",
+      "detalle": "La boya de concreto de unos 3,7 metros, pintada de rojo, negro y amarillo, se instaló el 10 de septiembre de 1983 en la esquina de las calles South y Whitehead. Dice 'Southernmost point continental U.S.A.' y '90 miles to Cuba'. Es un símbolo más que un dato exacto: el punto más austral verdadero de la isla queda dentro de terreno militar, y Cuba está a unos 150 km en línea recta.\n\nLa foto con la boya es la más repetida de Cayo Hueso, y la fila puede durar media hora o más a media mañana. Andá temprano o al atardecer.\n\nAtención en 2026: desde septiembre de 2025 la ciudad reconstruye el malecón y la plaza de esa esquina, en una obra prevista de alrededor de un año, y la boya original se retiró para restaurarla. Mientras tanto hay una réplica en la explanada peatonal del extremo sur de la calle Duval (1400 Duval Street), a una cuadra. A fines de 2026 todavía no había fecha oficial de reapertura de la esquina, según la prensa local: chequealo antes de ir.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Esquina de South y Whitehead (original, en obra); réplica en 1400 Duval Street"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Temprano a la mañana o al atardecer, para evitar la fila"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "20 a 40 minutos, según la fila"
+        }
+      ]
+    },
+    {
+      "nombre": "Parque Estatal Histórico Fuerte Zachary Taylor (Fort Zachary Taylor Historic State Park)",
+      "desc": "Un fuerte de la Guerra Civil con la mejor playa de la isla para snorkel desde la orilla, sombra de pinos y vista al atardecer.",
+      "detalle": "La construcción del fuerte empezó en 1845 y siguió durante la década de 1850; en 1850 se le puso el nombre del presidente Zachary Taylor. En enero de 1861, al empezar la Guerra Civil, un capitán de la Unión ocupó el fuerte con 44 hombres para que no cayera en manos confederadas, y desde acá se controló el bloqueo naval del Sur. En 1898 se enterraron cañones como relleno; en 1968 un grupo de voluntarios encabezado por Howard England desenterró esos cañones y municiones de la Guerra Civil. El estado lo recibió en 1976 y lo abrió al público en 1985.\n\nEl parque tiene 87 acres (unas 35 hectáreas) y una playa formada sobre relleno. Es el lugar más cómodo de la isla para hacer snorkel desde la costa, y se alquilan sombrillas, reposeras y equipo en el quiosco de playa.\n\nEl fuerte abre de 10 a 17; el parque, de 8 hasta la puesta del sol, y ver el atardecer desde acá es más tranquilo que en Mallory Square. Tiene cafetería de playa (Cayo Hueso Cafe) y alquiler de equipo de playa.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Extremo suroeste de la isla, entrando por el Truman Annex (601 Howard England Way)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañanas para snorkel con el agua calma"
+        },
+        {
+          "label": "Entrada",
+          "value": "A pie o en bici US$ 2,50; en auto US$ 4,50 con una persona, US$ 7 con dos y US$ 0,50 por persona adicional (fuente: fortzacharytaylor.com, web del parque, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Pequeña Casa Blanca de Truman (Truman Little White House)",
+      "desc": "La casa de la base naval donde el presidente Truman pasó 175 días de trabajo y descanso; se visita con guía y conserva sus muebles.",
+      "detalle": "El edificio se construyó en 1890 como residencia de oficiales de la base naval de Cayo Hueso. Desde 1946 fue la casa de invierno del presidente Harry S. Truman, que entre 1946 y 1952 pasó 175 días acá, en viajes registrados en bitácoras oficiales, trabajando y jugando al póquer. Más tarde la usaron Eisenhower, que se recuperó acá de su infarto en 1956, y otros presidentes; durante la Primera Guerra Mundial se alojó Thomas Edison.\n\nLa visita es guiada y recorre los ambientes con los muebles y objetos personales de Truman y de su esposa Bess, incluidas las habitaciones donde vivían. Los guías cuentan historias de la Guerra Fría y de cómo funcionaba la presidencia a distancia.\n\nLa casa está dentro del Truman Annex, el antiguo predio naval, hoy barrio residencial con jardines tranquilos para caminar entre Whitehead Street y el fuerte Zachary Taylor. Comprá la entrada online, que suele salir más barata que en la puerta. Combina bien con la Casa de Hemingway, a pocas cuadras.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Dentro del Truman Annex, a pocas cuadras de Mallory Square"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; ideal un día de lluvia o calor fuerte"
+        },
+        {
+          "label": "Entrada",
+          "value": "Visita guiada desde US$ 24 comprando online; tour VIP privado desde US$ 600 (fuente: trumanlittlewhitehouse.org, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Faro de Cayo Hueso y casa del farero (Key West Lighthouse & Keeper's Quarters)",
+      "desc": "El faro de 1848, frente a la casa de Hemingway: 88 escalones hasta una de las mejores vistas panorámicas de la isla.",
+      "detalle": "La Marina se instaló en Cayo Hueso en 1823 y enseguida hizo falta un faro para guiar a los barcos entre los arrecifes. La primera torre se terminó en 1825 y la actual en 1848. Medía 50 pies y se fue elevando hasta los 73 pies (unos 22 metros). La Guardia Costera la apagó en 1969 y hoy la administra como museo la Sociedad de Arte e Historia de Key West.\n\nSe suben 88 escalones hasta el balcón superior, desde donde se ve todo el casco viejo, los techos de chapa, el jardín de la Casa de Hemingway y el mar a los dos lados. En la casa del farero, al pie, hay una exhibición sobre la vida de los fareros y sus familias en el siglo XIX.\n\nLa escalera es angosta y empinada, y arriba puede soplar mucho viento. Subí en las horas más frescas. Comprar la entrada online sale más barato que en la puerta. Está justo enfrente de la Casa de Hemingway, en Whitehead Street, así que las dos visitas se hacen en una misma mañana.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "938 Whitehead Street, frente a la Casa de Hemingway"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; temprano o a última hora por el calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "US$ 17 adulto (US$ 15,50 online); jubilados, estudiantes y locales US$ 13; 7 a 18 años US$ 9; menores de 7 gratis (fuente: kwahs.org, verificado octubre 2026). Abre de 10 a 17"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Snorkel en el arrecife de coral de los Cayos",
+      "desc": "Salidas en barco de medio día hasta el arrecife de coral que corre frente a Cayo Hueso, con equipo incluido y peces tropicales.",
+      "detalle": "Frente a Cayo Hueso corre el arrecife de coral de los Cayos de Florida, protegida dentro del Santuario Marino Nacional de los Cayos de Florida. Desde el puerto salen todos los días barcos de snorkel que llevan a dos puntos del arrecife en una misma salida, con equipo incluido y una charla de seguridad.\n\nFury, uno de los operadores grandes, ofrece la salida 'Double Dip' (dos arrecifes, unas 3 horas) a las 10 y a las 14, y combinaciones con el atardecer en temporada. Para quien no quiere meterse al agua, hay barcos con fondo de vidrio que recorren el arrecife en unas 2 horas. Otra opción es combinar snorkel con kayak y banco de arena.\n\nEl agua es cálida casi todo el año, pero con viento el mar se pica y la visibilidad baja: si podés, dejá un día libre por si se cancela. Usá protector solar apto para arrecife o remera de lycra, no toques ni pises el coral y avisá si no sabés nadar bien: te dan chaleco. Si ya vas a Dry Tortugas, ahí también hay snorkel incluido.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Salidas desde la marina de la Historic Seaport y Mallory Square"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Abril a septiembre, con agua más calma; evitar días de viento"
+        },
+        {
+          "label": "Entrada",
+          "value": "Snorkel Double Dip US$ 63–84; fondo de vidrio US$ 55–73 (fuente: furycat.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Overseas Highway y el puente de las Siete Millas (Seven Mile Bridge)",
+      "desc": "La ruta 1 sobre el mar: 113 millas y 42 puentes entre la península y Cayo Hueso, con el famoso Seven Mile Bridge en la mitad.",
+      "detalle": "La Overseas Highway es el tramo final de la ruta 1 de Estados Unidos: 113 millas (unos 182 km) y 42 puentes que van saltando de cayo en cayo hasta Cayo Hueso. Se inauguró en 1938 sobre los puentes del viejo Ferrocarril de Ultramar de Flagler, que el huracán de 1935 había destruido.\n\nEl puente más conocido es el Seven Mile Bridge, entre Marathon y los Cayos Bajos: el actual, de 1982, mide unos 6,79 millas (casi 11 km). Al lado corre el viejo puente de 1912; un tramo restaurado de 2,2 millas está abierto sólo a peatones y ciclistas y lleva a Pigeon Key, un islote de 5 acres donde vivían los obreros del ferrocarril.\n\nManejar la ruta es parte del viaje: hay paradas para fotos, playas como la del parque estatal Bahia Honda y cayos con pueblos chicos. Calculá un día entero con paradas. Si no tenés auto, el Lower Keys Shuttle de la ciudad hace el tramo Cayo Hueso–Marathon, con parada en Bahia Honda, por US$ 4.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "De Florida City/Key Largo hasta Cayo Hueso; Seven Mile Bridge en Marathon, a unos 80 km de Cayo Hueso"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; de día y con buen tiempo para ver el color del agua"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (ruta sin peaje); Lower Keys Shuttle US$ 4 por tramo (fuente: cityofkeywest-fl.gov, tarifas desde julio 2025, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o un día entero con paradas"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo de Arte e Historia en la Aduana (Key West Museum of Art & History at the Custom House)",
+      "desc": "El edificio de ladrillo rojo frente a Mallory Square, hoy museo con dos pisos de historia de la isla, arte y exposiciones temporales.",
+      "detalle": "El edificio de la Aduana, de ladrillo rojo y estilo románico, domina el viejo puerto junto a Mallory Square. Fue aduana, correo y juzgado federal. La Sociedad de Arte e Historia de Key West lo restauró entre 1993 y 1999 (la obra costó casi 9 millones de dólares) y lo reabrió como museo.\n\nTiene dos pisos de exposiciones que cuentan dos siglos de historia: los naufragios y el negocio del salvamento, las fábricas de cigarros cubanas, el ferrocarril de Flagler, la Depresión y los artistas que se instalaron en la isla. Además hay muestras de arte que cambian varias veces al año.\n\nEs un buen lugar para entender Cayo Hueso antes de salir a recorrerlo, y un refugio con aire acondicionado en las horas de más calor. La Sociedad vende además el Culture Pass, que incluye este museo, el faro, el Fuerte East Martello y el Museo de Tennessee Williams: si pensás ver varios, conviene. Online la entrada sale más barata.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "281 Front Street, junto a Mallory Square"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; ideal en las horas de calor o un día de lluvia"
+        },
+        {
+          "label": "Entrada",
+          "value": "US$ 17 adulto (US$ 13,95 online); jubilados, estudiantes y locales US$ 13 (US$ 10,35 online); 7 a 18 años US$ 9 (US$ 6,75 online); menores de 7 gratis (fuente: kwahs.org, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Mariposario y Conservatorio de la Naturaleza (Key West Butterfly & Nature Conservatory)",
+      "desc": "Un domo de vidrio climatizado con cientos de mariposas vivas y aves de colores que vuelan libres entre plantas tropicales.",
+      "detalle": "El conservatorio está en el extremo sur de la calle Duval, cerca de la réplica de la boya del punto más austral. Es un domo de vidrio con plantas tropicales, cascadas y senderos donde vuelan libres cientos de mariposas de distintas partes del mundo, junto con aves pequeñas y de colores.\n\nAdentro se camina despacio por senderos entre flores; si te quedás quieto, alguna mariposa se te puede posar encima. Es un plan muy bueno con chicos y para fotógrafos: llevá lente macro si tenés.\n\nConviene ir temprano, cuando las mariposas están más activas, y combinarlo con la boya y con la caminata por el sur de Duval. Para quien piensa volver, venden pases de varias visitas. No hace falta reservar. Adentro hace calor y hay humedad: llevá agua.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Extremo sur de la calle Duval, cerca de la réplica de la boya"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; temprano a la mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "US$ 17,50 general; mayores de 65 y militares US$ 14,50; 4 a 12 años US$ 12,50; 3 años o menos gratis (fuente: keywestbutterfly.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo del Tesoro de los Naufragios (Key West Shipwreck Treasure Museum)",
+      "desc": "Museo junto a Mallory Square sobre los 'wreckers', los salvadores de barcos que hicieron rica a la isla, con torre mirador de 65 pies.",
+      "detalle": "En el siglo XIX, el arrecife que rodea los Cayos hundía barcos con frecuencia, y el negocio de rescatar cargas (el 'wrecking') hizo de Cayo Hueso, en la década de 1830, una de las ciudades más ricas del país por habitante. Este museo cuenta esa historia ambientada en el Cayo Hueso de 1856, con relatos en vivo y objetos recuperados del fondo del mar.\n\nLa pieza central es la historia del Isaac Allerton, un barco que naufragó frente a Cayo Hueso. Se puede levantar una barra de plata de verdad de un galeón español. Al final se sube a una torre de observación de 65 pies, una réplica de las que usaban los salvadores para avistar naufragios, con vista sobre el puerto.\n\nEs un museo comercial, más show que colección, pero entretenido para chicos y para entender por qué la isla prosperó. Está frente a Mallory Square: queda bien antes del atardecer. Se vende en combos con el Acuario y con el tranvía turístico.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En Mallory Square, Old Town"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; antes del atardecer en Mallory Square"
+        },
+        {
+          "label": "Entrada",
+          "value": "Desde US$ 18 comprando online (fuente: keywestshipwreck.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Fuerte East Martello y la muñeca Robert (Fort East Martello Museum)",
+      "desc": "Un fuerte de la época de la Guerra Civil cerca de la playa Smathers, hoy museo de historia local y casa de Robert, la muñeca 'embrujada'.",
+      "detalle": "El Fuerte East Martello es una fortificación de la época de la Guerra Civil sobre la costa sur de la isla. Hoy lo administra la Sociedad de Arte e Historia de Key West como museo, con muros gruesos de ladrillo.\n\nAdentro hay exposiciones sobre el salvamento de naufragios y la industria del cigarro, y las esculturas de metal del artista local Stanley Papio. Pero la atracción más famosa es Robert, una muñeca que según la leyenda local está 'embrujada' y que tiene su propia experiencia guiada.\n\nQueda lejos del casco viejo, cerca del aeropuerto y de la playa Smathers, así que conviene combinarlo con un rato de playa. Se llega en bici o con el servicio Key West Rides. Es parte del Culture Pass de la Sociedad, junto al faro y el museo de la Aduana.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "3501 South Roosevelt Boulevard, cerca del aeropuerto y de Smathers Beach"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; combinado con Smathers Beach"
+        },
+        {
+          "label": "Entrada",
+          "value": "US$ 17 adulto (US$ 15,50 online); jubilados, estudiantes y locales US$ 13; 7 a 18 años US$ 9; menores de 7 gratis (fuente: kwahs.org, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Parque Nacional Dry Tortugas (tasa de entrada)",
+      "precio": "US$ 15 por persona de 16 años o más, válida 7 días consecutivos; menores de 16 gratis, también extranjeros. El ferry la incluye; en hidroavión la cobra el operador antes de salir. Pase anual para no residentes US$ 250. El parque no acepta efectivo (fuente: nps.gov/drto, verificado octubre 2026). Se compra en Recreation.gov"
+    },
+    {
+      "tipo": "Ferry Yankee Freedom a Dry Tortugas (día completo)",
+      "precio": "Desde US$ 260 por persona, con tasa del parque, desayuno liviano, almuerzo, equipo de snorkel y tour del fuerte incluidos; camping desde US$ 265 (fuente: drytortugas.com, verificado octubre 2026). Reserva online con mucha anticipación"
+    },
+    {
+      "tipo": "Casa y Museo de Ernest Hemingway",
+      "precio": "US$ 19 adulto; niños de 6 a 12 US$ 7; 5 años o menos gratis; 3% de recargo por pago con tarjeta (fuente: hemingwayhome.com, verificado octubre 2026). Se compra sólo en la puerta, sin reserva"
+    },
+    {
+      "tipo": "Faro de Cayo Hueso y casa del farero",
+      "precio": "US$ 17 adulto (US$ 15,50 online); jubilados, estudiantes, locales y militares retirados US$ 13 (US$ 11,50 online); 7 a 18 años US$ 9 (US$ 7,50 online); menores de 7 y militares activos gratis (fuente: kwahs.org, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Museo de Arte e Historia en la Aduana",
+      "precio": "US$ 17 adulto (US$ 13,95 online); jubilados, estudiantes y locales US$ 13 (US$ 10,35 online); 7 a 18 años US$ 9 (US$ 6,75 online); menores de 7 gratis (fuente: kwahs.org, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Fuerte East Martello",
+      "precio": "US$ 17 adulto (US$ 15,50 online); jubilados, estudiantes y locales US$ 13 (US$ 11,50 online); 7 a 18 años US$ 9 (US$ 7,50 online); menores de 7 gratis (fuente: kwahs.org, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Pequeña Casa Blanca de Truman",
+      "precio": "Visita guiada desde US$ 24 comprando online; combos con tranvía y Museo de los Naufragios desde US$ 80,89 (fuente: trumanlittlewhitehouse.org, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Parque Estatal Fuerte Zachary Taylor",
+      "precio": "A pie o en bici US$ 2,50; auto con 1 persona US$ 4,50, con 2 personas US$ 7, cada persona adicional US$ 0,50 (fuente: fortzacharytaylor.com, web del parque, verificado octubre 2026). Se paga en la entrada"
+    },
+    {
+      "tipo": "Mariposario (Key West Butterfly & Nature Conservatory)",
+      "precio": "US$ 17,50 general; locales del condado US$ 15; mayores de 65 y militares US$ 14,50; 4 a 12 años US$ 12,50; 3 años o menos gratis (fuente: keywestbutterfly.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Acuario de Key West y Museo del Tesoro de los Naufragios",
+      "precio": "Acuario desde US$ 15,99 y Museo de los Naufragios desde US$ 18 comprando online; combo de ambos desde US$ 34,98 (fuente: keywestaquarium.com y keywestshipwreck.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Mallory Square, calle Duval y boya del punto más austral",
+      "precio": "Gratis (espacios públicos; los artistas del atardecer viven de la propina)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Hidroavión a Dry Tortugas (medio día o día completo)",
+      "precio": "Medio día US$ 527 adulto y US$ 421,60 menores de 12; día completo US$ 910 adulto y US$ 728 menores de 12; tasa del parque US$ 15 aparte (fuente: keywestseaplanecharters.com, verificado octubre 2026)",
+      "duracion": "Medio día: casi 4 horas con 2,5 en la isla; día completo: casi 8 horas con 6,5 en la isla",
+      "operador": "Key West Seaplane Adventures"
+    },
+    {
+      "actividad": "Snorkel en dos puntos del arrecife (Double Dip)",
+      "precio": "US$ 63–84 por persona, con equipo (fuente: furycat.com, verificado octubre 2026)",
+      "duracion": "3 horas; salidas a las 10 y a las 14",
+      "operador": "Fury Water Adventures"
+    },
+    {
+      "actividad": "Crucero al atardecer con música en vivo",
+      "precio": "US$ 63–84 por persona (fuente: furycat.com, verificado octubre 2026)",
+      "duracion": "2 horas; sale a las 17:30",
+      "operador": "Fury Water Adventures (Commotion on the Ocean)"
+    },
+    {
+      "actividad": "Barco con fondo de vidrio sobre el arrecife",
+      "precio": "US$ 55–73 por persona (fuente: furycat.com, verificado octubre 2026)",
+      "duracion": "Unas 2 horas; salidas a las 12, 14 y 17",
+      "operador": "Fury Water Adventures"
+    },
+    {
+      "actividad": "Tranvía turístico Old Town Trolley (sube y baja)",
+      "precio": "Desde US$ 50,30 el pase de 1 día y US$ 77,90 el de 2 días comprando online (fuente: trolleytours.com, verificado octubre 2026)",
+      "duracion": "Recorrido narrado de 90 minutos con 12 paradas",
+      "operador": "Old Town Trolley Tours"
+    },
+    {
+      "actividad": "Conch Tour Train (trencito narrado por el casco viejo)",
+      "precio": "Desde US$ 40,80 comprando online (fuente: conchtourtrain.com, verificado octubre 2026)",
+      "duracion": "Alrededor de 1,5 horas",
+      "operador": "Conch Tour Train (Historic Tours of America)"
+    },
+    {
+      "actividad": "Tour nocturno de fantasmas (Ghosts & Gravestones)",
+      "precio": "Desde US$ 37,05 comprando online (fuente: trolleytours.com, verificado octubre 2026)",
+      "duracion": "Noche, unas 1,5 horas",
+      "operador": "Historic Tours of America"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Key West Rides (transporte a demanda de la ciudad, por app)",
+      "precio": "US$ 2 el viaje, tarifa de la ciudad; reducido US$ 1; pase de 1 día US$ 4 y de 7 días US$ 8 (fuente: cityofkeywest-fl.gov, tarifas desde el 7 de julio de 2025, verificado octubre 2026)",
+      "duracion": "Según demanda; de 6 a 20 todos los días",
+      "notas": "Desde el 2 de enero de 2026 reemplaza al Duval Loop y a las líneas Norte y Sur. Se pide por la app gratuita Key West Rides, te junta con otros pasajeros y te lleva de parada a parada dentro de Cayo Hueso y Stock Island. Se paga con tarjeta vía Token Transit o en efectivo. No funciona en Acción de Gracias, Navidad ni Año Nuevo"
+    },
+    {
+      "medio": "Duval Loop (colectivo circular del centro)",
+      "precio": "Suspendido desde el 2 de enero de 2026; costaba US$ 1 desde julio de 2025 y antes era gratis (fuente: keysnews.com y cityofkeywest-fl.gov, verificado octubre 2026)",
+      "duracion": "Sin servicio",
+      "notas": "Muchas guías siguen diciendo que hay un colectivo gratis por el centro: ya no es así. La ciudad lo suspendió por recortes de fondos y lo reemplazó con Key West Rides, que cubre sus paradas. La prensa local menciona una posible vuelta en el año fiscal 2027, sin confirmar"
+    },
+    {
+      "medio": "Lower Keys Shuttle (colectivo Cayo Hueso–Marathon)",
+      "precio": "US$ 4 el tramo; reducido US$ 2; jubilados US$ 1; pase de 1 día US$ 8; Super Pass ciudad + Cayos US$ 12 (fuente: cityofkeywest-fl.gov, tarifas desde el 7 de julio de 2025, verificado octubre 2026)",
+      "duracion": "Unos 1,5 horas hasta Marathon; 1 hora hasta Bahia Honda",
+      "notas": "Diez salidas diarias por sentido, todos los días, desde Whitehead y Eaton. Para en Stock Island, Big Pine Key y el parque Bahia Honda. En Marathon conecta con la línea 301 de Miami-Dade Transit hacia el continente. Sirve para una excursión barata a la playa de Bahia Honda"
+    },
+    {
+      "medio": "Taxi desde el aeropuerto",
+      "precio": "Tarifas por zona para varios pasajeros: US$ 9 por persona al oeste de White Street (Old Town), US$ 7 a 8 en el resto; con un solo pasajero, taxímetro con bajada de US$ 3,95 y US$ 0,70 cada quinto de milla (fuente: eyw.com, verificado octubre 2026)",
+      "duracion": "10 a 15 minutos al centro",
+      "notas": "La parada está a la salida de la zona de equipaje. En el resto de la isla los taxis cobran por taxímetro, y también funcionan Uber y Lyft (el aeropuerto tiene una zona para apps)"
+    },
+    {
+      "medio": "A pie o en bicicleta",
+      "precio": "Gratis a pie; el alquiler de bici varía por comercio (sin tarifa oficial; fuente: consulta en comercios locales, verificado octubre 2026)",
+      "duracion": "Old Town se cruza a pie en 20 a 30 minutos",
+      "notas": "La isla es plana y chica: la bici es el medio de los locales. Usá luces de noche, candado siempre y respetá el sentido de las calles. El auto complica: el estacionamiento en Old Town es escaso y caro"
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Avión al Aeropuerto Internacional de Key West (EYW)",
+      "empresas": "American (desde Miami, Charlotte, Dallas, Chicago, Filadelfia, Nueva York y Washington), Delta (Atlanta y Nueva York), United (Newark, Washington-Dulles y Chicago), JetBlue (Boston y Nueva York) y Breeze (Tampa y Orlando)",
+      "precio": "Variable según aerolínea y fecha; taxi al centro US$ 7–9 por persona en tarifa por zona (fuente: eyw.com, verificado octubre 2026)",
+      "duracion": "Desde Miami, vuelo de menos de 1 hora; aeropuerto a 10–15 minutos del centro"
+    },
+    {
+      "ruta": "Miami → Cayo Hueso en micro (Greyhound)",
+      "empresas": "Greyhound, con salidas desde la Miami Airport Intermodal Station",
+      "precio": "Desde US$ 28 el tramo (fuente: Omio, agregador, verificado octubre 2026); confirmá en greyhound.com",
+      "duracion": "Unas 4,5 horas"
+    },
+    {
+      "ruta": "Miami / Fort Lauderdale → Cayo Hueso en van compartida",
+      "empresas": "Keys Shuttle (puerta a puerta desde los aeropuertos de Miami y Fort Lauderdale)",
+      "precio": "Tarifa por cotización: no publica un precio fijo en su web; guías de viaje reportan US$ 80–140 por persona (fuente: keysshuttle.com y guías, agregador, verificado octubre 2026)",
+      "duracion": "4 a 5 horas"
+    },
+    {
+      "ruta": "Fort Myers Beach → Cayo Hueso en ferry rápido",
+      "empresas": "Key West Express",
+      "precio": "Ida y vuelta US$ 194 adulto, US$ 184 mayores de 62, US$ 135 de 5 a 12 años; ida sola US$ 145 adulto; tarifa anticipada no reembolsable desde US$ 170 (fuente: keywestexpress.net, verificado octubre 2026). Estacionamiento en Fort Myers Beach US$ 20 por día",
+      "duracion": "Unas 3,5 horas; sale a las 8 de Fort Myers Beach y vuelve a la tarde"
+    },
+    {
+      "ruta": "Auto por la Overseas Highway (ruta 1) desde Miami",
+      "empresas": "Rentadoras de los aeropuertos de Miami y Fort Lauderdale",
+      "precio": "Sin peaje en la Overseas Highway; el alquiler varía por rentadora y temporada (fuente: visitfloridakeys.com, verificado octubre 2026)",
+      "duracion": "Variable según tránsito y paradas; la Overseas Highway sola tiene 113 millas y 42 puentes"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Hostel y motel económico",
+      "nivel": 2,
+      "opciones": "La opción más barata de la isla es el Seashell Motel & Key West Hostel, con camas en dormitorio compartido y cuartos privados: Kayak lo muestra desde US$ 110 la noche en cuarto, y huéspedes reportaron cerca de US$ 99 por cama en dormitorio en 2024 (fuente: Kayak y reseñas, agregador, verificado octubre 2026). Momondo da un mínimo de US$ 79 en hostels de la ciudad. En temporada alta (diciembre a abril) sube"
+    },
+    {
+      "categoria": "Hotel de 1 a 3 estrellas y guesthouses",
+      "nivel": 3,
+      "opciones": "Según Momondo, un hotel de 1 o 2 estrellas va de US$ 183 a 402 la noche y uno de 3 estrellas de US$ 265 a 495 (fuente: Momondo, verificado octubre 2026). Para gastar menos, mirá Stock Island o New Town, conectados por Key West Rides. Septiembre es el mes más barato y en Fantasy Fest (octubre) y Navidad se dispara"
+    },
+    {
+      "categoria": "Resort frente al mar en el sur de Duval",
+      "nivel": 4,
+      "opciones": "Southernmost Beach Resort, sobre el Atlántico al final de Duval: Kayak lo muestra desde US$ 178 en julio y sus guesthouses promedian US$ 555 entre semana en diciembre, su mes más caro (fuente: Kayak, verificado octubre 2026). Momondo pone los 4–5 estrellas de la isla entre US$ 365 y 593. Ojo con las 'resort fees' diarias"
+    },
+    {
+      "categoria": "Resort histórico de lujo",
+      "nivel": 5,
+      "opciones": "Casa Marina Key West (Curio Collection by Hilton), el gran resort frente al Atlántico: Momondo reporta un promedio de US$ 465–636 la noche y mínimos de US$ 367; en marzo, Kayak mostró US$ 481–768 con cargos, más una resort fee de unos US$ 33,75 diarios (fuente: Momondo/Kayak, verificado octubre 2026). Pier House, junto a Mallory Square, desde US$ 437 en Hopper"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Cocina cubana (sándwich cubano y ropa vieja)",
+      "nivel": 2,
+      "opciones": "Cayo Hueso tiene raíz cubana desde el siglo XIX. El Siboney (900 Catherine Street) es el clásico de barrio: un blog de viajes en español reportó sándwich cubano a US$ 9 y ropa vieja a US$ 13,95 (fuente: blog Viajeros Callejeros, verificado octubre 2026; los precios pueden haber subido). Probá también el café cubano en las ventanitas de la isla"
+    },
+    {
+      "tipo": "Pescado local en Stock Island (sándwich de hogfish)",
+      "nivel": 3,
+      "opciones": "El hogfish (pez cerdo) es el pescado emblema de los Cayos, de carne blanca y suave. En Hogfish Bar & Grill, sobre el puerto pesquero de Stock Island, el sándwich de hogfish con queso suizo, cebolla y hongos en pan cubano sale US$ 25 y los buñuelos de caracol (conch fritters) US$ 15; suman 3% con tarjeta (fuente: hogfishbar.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Desayuno caribeño y key lime pie en Bahama Village",
+      "nivel": 3,
+      "opciones": "Blue Heaven (729 Thomas Street) sirve en un patio al aire libre. Desayuno completo con huevos, papas y panqueques US$ 16; camarones con grits (polenta) US$ 19; benedictinos con langosta a precio de mercado; key lime pie (tarta de lima de los Cayos con merengue) US$ 13 (fuente: menús de blueheavenkw.com 2026, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Cocina de autor frente al mar",
+      "nivel": 4,
+      "opciones": "Louie's Backyard, con terraza sobre el Atlántico: chowder de caracol bahamés US$ 14, conch fritters US$ 18, sándwich de pargo US$ 23 y platos principales de US$ 27 a 32 en el menú de mediodía (fuente: louiesbackyard.com, verificado octubre 2026). Reservá para la terraza a la tarde"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa para ir a Cayo Hueso si soy argentino, uruguayo, chileno, mexicano, colombiano o peruano?",
+      "a": "Cayo Hueso es Estados Unidos, así que rigen las reglas federales. Chile está en el Programa de Exención de Visa: los chilenos con pasaporte electrónico viajan con una autorización ESTA, que se pide online antes de volar en esta.cbp.dhs.gov. Cuesta US$ 40,27 y desde el 16 de octubre de 2026 pasa a US$ 40,62; vale 2 años o hasta que venza el pasaporte. Argentinos, uruguayos, mexicanos, colombianos y peruanos necesitan visa de turista B1/B2: se paga la tasa de US$ 185, se completa el DS-160 y se hace la entrevista. Además, la ley de 2025 creó una 'visa integrity fee' de US$ 250 al emitir la visa, que los consulados aplican de forma despareja en 2026. Confirmá con tu embajada y pedí turno con tiempo."
+    },
+    {
+      "q": "¿Cuántos días necesito?",
+      "a": "Con dos días completos ves lo principal: uno para el casco viejo (Casa de Hemingway, faro, Pequeña Casa Blanca, boya del punto más austral y atardecer en Mallory Square) y otro para playa en Fort Zachary Taylor y una salida de snorkel al arrecife. Si querés ir a Dry Tortugas, sumá un tercer día entero: el ferry sale a las 8 y vuelve a las 17:15. Con cuatro o cinco días podés agregar museos, un crucero al atardecer y una excursión a Bahia Honda en el Lower Keys Shuttle. Si venís manejando desde Miami, el viaje por la Overseas Highway ya es medio día de paseo."
+    },
+    {
+      "q": "¿Es muy caro? ¿Qué se puede hacer gratis o barato?",
+      "a": "Sí, es de los destinos más caros de Florida, sobre todo para dormir: un hotel de 3 estrellas va de US$ 265 a 495 la noche según Momondo, y en temporada alta más. Para compensar, mucho de lo mejor es gratis: caminar Old Town y la calle Duval, el atardecer en Mallory Square, la foto con la boya y las playas públicas como Smathers. Fort Zachary Taylor cuesta US$ 2,50 entrando a pie o en bici. Movete con Key West Rides (US$ 2) o en bici, comé en lugares cubanos y en los puestos de pescado, y comprá las entradas de museos online, que salen más baratas. Septiembre es el mes más barato para el hotel, pero es temporada de huracanes."
+    },
+    {
+      "q": "¿Conviene alquilar auto?",
+      "a": "Para llegar, puede ser: manejar la Overseas Highway desde Miami, con sus 113 millas y 42 puentes sobre el mar, es parte del viaje, y no tiene peajes. Pero dentro de Cayo Hueso el auto molesta: las calles de Old Town son angostas, el estacionamiento es escaso y caro, y muchos hoteles cobran aparte por guardarlo. Lo práctico es dejarlo quieto y moverte a pie, en bici o con Key West Rides. Si no querés manejar, hay micros de Greyhound desde Miami, vans compartidas de Keys Shuttle, vuelos cortos al aeropuerto EYW y el ferry Key West Express desde Fort Myers Beach."
+    },
+    {
+      "q": "¿Qué pasa con los huracanes? ¿Cuándo conviene ir?",
+      "a": "La temporada de huracanes del Atlántico va del 1 de junio al 30 de noviembre, con el pico entre agosto y octubre. No quiere decir que vaya a pasar algo, pero en esos meses conviene sacar seguro de viaje con cobertura por cancelación, reservar tarifas flexibles y seguir los avisos del condado de Monroe, que puede ordenar evacuar a los turistas. Irma golpeó los Cayos en 2017. La mejor época por clima es de diciembre a abril, seca y templada, aunque es la más cara y llena. Mayo y principios de junio son un buen punto medio, con mar calmo para snorkel."
+    },
+    {
+      "q": "¿Cómo reservo la excursión a Dry Tortugas y vale la pena?",
+      "a": "Vale la pena si te gusta el mar y la historia: el Fuerte Jefferson en medio del agua turquesa no se parece a nada. El ferry Yankee Freedom cuesta desde US$ 260, con tasa del parque, desayuno, almuerzo, snorkel y visita guiada incluidos, y se reserva en drytortugas.com. Los cupos son limitados por el Servicio de Parques, así que en invierno y primavera se agotan con semanas de anticipación. El hidroavión es más rápido pero mucho más caro (US$ 527 medio día, más US$ 15 de tasa). Llevá ropa de baño puesta, protector solar apto para arrecife, gorro y efectivo no: en el parque no se acepta. Si el mar está bravo pueden cancelar la salida."
+    },
+    {
+      "q": "¿Es seguro Cayo Hueso?",
+      "a": "Para el turista, en general sí: es una ciudad chica, muy turística y con mucha gente en la calle hasta tarde. Lo más común son los descuidos: bicis sin candado, cosas dejadas en la playa y excesos de alcohol en la calle Duval de noche. Poné candado a la bici siempre, no dejes cosas solas en la arena y cuidá el celular en los bares. En el mar, respetá las banderas, usá chaleco si no nadás bien en las salidas de snorkel y protegete del sol, que pega fuerte todo el año. Manejando por la Overseas Highway, respetá los límites de velocidad y no te detengas en la banquina de los puentes para sacar fotos."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (EN) — «Key West»: https://en.wikipedia.org/wiki/Key_West",
+      "Wikipedia (EN) — «Ernest Hemingway House»: https://en.wikipedia.org/wiki/Ernest_Hemingway_House",
+      "Wikipedia (EN) — «Fort Zachary Taylor»: https://en.wikipedia.org/wiki/Fort_Zachary_Taylor",
+      "Wikipedia (EN) — «Key West Lighthouse»: https://en.wikipedia.org/wiki/Key_West_Lighthouse",
+      "Wikipedia (EN) — «Southernmost Point Buoy»: https://en.wikipedia.org/wiki/Southernmost_Point_Buoy"
+    ],
+    "que_ver_atracciones": [
+      "National Park Service — «Dry Tortugas National Park»: https://www.nps.gov/drto/index.htm",
+      "National Park Service — «Dry Tortugas: History & Culture»: https://www.nps.gov/drto/learn/historyculture/index.htm",
+      "Ernest Hemingway Home and Museum — «Rates/Info»: https://www.hemingwayhome.com/rates-info",
+      "Key West Art & Historical Society — «Key West Lighthouse & Keeper's Quarters»: https://www.kwahs.org/key-west-lighthouse-keepers-quarters/",
+      "Key West Art & Historical Society — «Key West Museum of Art & History at the Custom House»: https://www.kwahs.org/key-west-museum-of-art-history-at-the-custom-house/",
+      "Key West Art & Historical Society — «Fort East Martello Museum»: https://www.kwahs.org/fort-east-martello-museum/",
+      "Truman Little White House — «Home»: https://www.trumanlittlewhitehouse.org/",
+      "Mallory Square — «Sunset Celebration»: https://www.mallorysquare.com/sunset-celebration/",
+      "Fort Zachary Taylor State Park — «Park Entrance Fees»: https://www.fortzacharytaylor.com/",
+      "Key West Butterfly & Nature Conservatory — «Plan Your Visit»: https://www.keywestbutterfly.com/plan-your-visit/",
+      "Keys Weekly — «And the point is? Substitute southernmost buoy shifts to new spot, temporarily»: https://keysweekly.com/?p=98719",
+      "Florida Keys & Key West — «Seven Mile Bridge»: https://visitfloridakeys.com/plan-your-trip/plan-book/getting-here-around/seven-mile-bridge"
+    ],
+    "precios_2026": [
+      "National Park Service — «Dry Tortugas: Fees & Passes»: https://www.nps.gov/drto/planyourvisit/fees.htm",
+      "Yankee Freedom — «Rates & Reservations»: https://www.drytortugas.com/rates-reservations/",
+      "Key West Seaplane Adventures — «Rates»: https://keywestseaplanecharters.com/rates/",
+      "Fury Water Adventures — «Key West Tours»: https://www.furycat.com/",
+      "Old Town Trolley Tours — «Key West»: https://www.trolleytours.com/key-west",
+      "Conch Tour Train — «Tickets»: https://www.conchtourtrain.com/",
+      "Key West Shipwreck Treasure Museum — «Tickets»: https://www.keywestshipwreck.com/",
+      "Key West Aquarium — «Tickets»: https://www.keywestaquarium.com/"
+    ],
+    "como_llegar_transporte": [
+      "City of Key West — «Bus Fares»: https://cityofkeywest-fl.gov/350/Bus-Fares",
+      "City of Key West — «Key West Rides On-Demand Bus Service»: https://cityofkeywest-fl.gov/888/Key-West-Rides-On-Demand-Bus-Service",
+      "City of Key West — «Lower Keys Shuttle Schedule (PDF)»: https://cityofkeywest-fl.gov/DocumentCenter/View/1097/-Lower-Keys-Shuttle-Schedule-PDF",
+      "Key West Citizen — «Key West Rides on-demand service to replace Duval Loop»: https://www.keysnews.com/news/local/key-west-rides-on-demand-service-to-replace-duval-loop/article_41a786dd-9fc3-4c5a-9570-bfb2657b902a.html",
+      "Key West International Airport — «Airlines»: https://eyw.com/airlines",
+      "Key West International Airport — «Taxi»: https://eyw.com/taxi",
+      "Key West Express — «Fares, Fees & Schedule»: https://www.keywestexpress.net/fares/",
+      "Keys Shuttle — «Airport Schedule»: https://www.keysshuttle.com/airport-schedule/",
+      "Omio (agregador) — «Miami, FL to Key West, FL bus with Greyhound»: https://www.omio.com/buses/miami/key-west-fl-micfo"
+    ],
+    "visas_entrada": [
+      "U.S. Customs and Border Protection — «Official ESTA Application Website»: https://esta.cbp.dhs.gov/",
+      "U.S. Customs and Border Protection — «Frequently Asked Questions about the Visa Waiver Program and ESTA»: https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel",
+      "U.S. Department of State — «Visitor Visa»: https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html",
+      "Buch dein Visum — «U.S.: ESTA fee to rise slightly to $40.62 starting October 16, 2026»: https://www.buch-dein-visum.de/en/news/usa/usa-esta-gebuehr-steigt-ab-16-oktober-2026-leicht-auf-40-62-us-dollar-64a7d7",
+      "Ellis — «Visa Integrity Fee»: https://www.ellis.com/resources/visa-integrity-fee"
+    ],
+    "alojamiento_gastronomia": [
+      "Momondo — «Hotels in Key West»: https://momondo.com/hotels/key-west",
+      "Kayak — «Seashell Motel & Key West Hostel»: https://www.kayak.com/Key-West-Hotels-Seashell-Motel-Key-West-Hostel.211436.ksp",
+      "Kayak — «Southernmost Beach Resort»: https://www.kayak.com/Key-West-Hotels-Southernmost-Beach-Resort.24494.ksp",
+      "Kayak — «Casa Marina Key West, Curio Collection by Hilton»: https://www.kayak.com/Key-West-Hotels-Casa-Marina-Key-West-Curio-Collection-by-Hilton.31741.ksp",
+      "Hopper — «Key West hotels»: https://www.hopper.com/hotels/us/florida/key-west",
+      "Blue Heaven — «Menus»: https://blueheavenkw.com/menus/",
+      "Hogfish Bar & Grill — «Menu»: https://www.hogfishbar.com/menu",
+      "Louie's Backyard — «Menu»: https://www.louiesbackyard.com/menu-1",
+      "Viajeros Callejeros (blog) — «Dónde comer en Key West»: https://www.viajeroscallejeros.com/donde-comer-en-key-west/"
+    ]
+  }
+}

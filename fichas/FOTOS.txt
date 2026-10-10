@@ -13,3 +13,4 @@ FOTO ecuador/banos-agua-santa | https://upload.wikimedia.org/wikipedia/commons/f
 FOTO espana/benidorm | https://upload.wikimedia.org/wikipedia/commons/1/14/Vista_de_Benidorm%2C_Espa%C3%B1a%2C_2014-07-02%2C_DD_63.JPG | Vista de Benidorm, España, 2014-07-02, DD 63.JPG | CC BY-SA 3.0 | Diego Delso
 FOTO indonesia/ubud | https://upload.wikimedia.org/wikipedia/commons/f/f8/Rice_terraces%2C_Ubud%2C_Bali.jpg | Rice terraces, Ubud, Bali.jpg | CC BY 4.0 | Vyacheslav Argenberg
 FOTO brasil/barreirinhas | https://upload.wikimedia.org/wikipedia/commons/8/82/Lagoa_Azul_no_Len%C3%A7%C3%B3is_Maranhenses.jpg | Lagoa Azul no Lençóis Maranhenses.jpg | CC BY-SA 3.0 | Esquilo
+FOTO estados-unidos/cayo-hueso | https://upload.wikimedia.org/wikipedia/commons/4/46/Buildings_on_the_Corner_of_Front_and_Duval_Street%2C_Key_West%2C_Florida.jpg | Buildings on the Corner of Front and Duval Street, Key West, Florida.jpg | CC0 | Julian Lupyan
