@@ -1,0 +1,674 @@
+{
+  "slug": "palma-mallorca",
+  "name": "Palma de Mallorca",
+  "region": "Mallorca, Islas Baleares",
+  "lat": 39.5667,
+  "lon": 2.6497,
+  "datosRapidos": [
+    {
+      "label": "Isla",
+      "value": "Palma (oficialmente 'Palma' desde 2016; casi todos le siguen diciendo Palma de Mallorca) es la capital de la isla de Mallorca y de la comunidad autónoma de las Islas Baleares, en el Mediterráneo occidental, frente a la costa este de España. Según el INE tenía 434.786 habitantes en 2025, lo que la convierte en la ciudad que concentra casi todo el movimiento de la isla. Se levanta sobre una bahía amplia, con el casco antiguo pegado al mar y protegido por murallas renacentistas. La conocen por la Catedral de Santa María, La Seu, una mole gótica que se ve desde el agua y que tuvo reformas de Antoni Gaudí entre 1904 y 1914. Al lado está el Palacio Real de La Almudaina, que fue alcázar musulmán, y en la colina del oeste el Castell de Bellver, un castillo gótico de planta circular. La ciudad fue romana, después musulmana con el nombre de Madina Mayurqa, y cristiana desde que Jaime I la conquistó el 31 de diciembre de 1229. Hoy vive del turismo: su aeropuerto movió 33,8 millones de pasajeros en 2025, según Aena. Pero tiene vida propia todo el año, con mercados, barrios de bares y museos de arte que valen la visita aunque no vengas por la playa."
+    },
+    {
+      "label": "Moneda e idioma",
+      "value": "Se paga en euros y la tarjeta se acepta en casi todos lados, incluidos los colectivos urbanos de la EMT. Los idiomas oficiales son el catalán (en su variante mallorquina) y el castellano. Vas a ver los carteles y los nombres de calles en catalán: 'carrer' es calle, 'plaça' es plaza, 'mercat' es mercado. Con castellano te arreglás sin problemas en cualquier lado."
+    },
+    {
+      "label": "Mejor época",
+      "value": "Mayo, junio, septiembre y octubre son los meses más equilibrados: hace calor para playa y los precios todavía no son los de agosto. Según Kayak, agosto es el mes más caro para dormir en Palma y noviembre el más barato. Ojo con el impuesto de turismo sostenible: la temporada alta va del 1 de mayo al 31 de octubre y en ese período la tasa es cuatro veces más cara que en invierno. En invierno muchos hoteles de playa cierran, pero la ciudad sigue abierta y los museos funcionan normal."
+    },
+    {
+      "label": "Visado y entrada",
+      "value": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos no necesitan visa para estadías de turismo de hasta 90 días dentro del espacio Schengen. Desde el 10 de abril de 2026 funciona a pleno el EES (Entry/Exit System): en el primer control Schengen te sacan huellas y foto en lugar de sellar el pasaporte. Si llegás vía Madrid o Barcelona, ese control lo hacés ahí, no en Palma. El ETIAS (autorización previa online, 20 €) todavía no se cobra: la UE lo postergó a 2027 sin fecha firme."
+    }
+  ],
+  "intro": [
+    "Palma es la puerta de entrada a Mallorca, pero quedarse sólo con la idea de 'ciudad de paso hacia la playa' es perderse la mitad. Tiene un casco antiguo de calles angostas y patios señoriales, una catedral gótica que se asoma al mar y barrios como Santa Catalina donde la gente sale a comer y tomar algo hasta tarde. Todo queda cerca: en un día caminando ves la Catedral, la Almudaina, la Lonja y el Born sin tomar un colectivo.",
+    "Para el que viaja con presupuesto ajustado, Palma tiene trucos. El Castell de Bellver es gratis los domingos. La Almudaina es gratis para ciudadanos iberoamericanos los miércoles y domingos a la tarde. La Fundació Miró no cobra los sábados desde las 15 h. Es Baluard tiene los viernes de 'pagá lo que quieras'. Las playas urbanas son públicas, y el menú del día a mediodía es la mejor forma de comer bien sin pagar precios de turista.",
+    "Además es una base cómoda para conocer la isla. Desde la estación de Plaça d'Espanya sale el tren de madera a Sóller, que atraviesa la Serra de Tramuntana. Hay excursiones a las Cuevas del Drach, a Valldemossa y a calas del sur. Y la conexión aérea es enorme: decenas de vuelos diarios a Madrid y Barcelona, y ferris nocturnos a la península. Si te toca entrar a Europa por España, Palma es un buen lugar para empezar o terminar el viaje."
+  ],
+  "historia_corta": "Los romanos fundaron la ciudad en el año 123 a. C., cuando el cónsul Quinto Cecilio Metelo conquistó las Baleares; la llamaron Palma. Tras siglos de decadencia, vándalos y bizantinos, en el año 903 la tomó el general Isam al-Jaulani y la ciudad pasó a llamarse Madina Mayurqa. Durante más de tres siglos fue un puerto musulmán próspero: de esa época quedan los Banys Àrabs (Baños Árabes) y la base de la Almudaina, el antiguo alcázar. El 31 de diciembre de 1229 Jaime I de Aragón entró en la ciudad y la convirtió en Ciutat de Mallorca, capital de un reino propio. Ese mismo período arrancó la Catedral, sobre la antigua mezquita mayor; se consagró en 1346 y las obras siguieron hasta 1601. Jaime II mandó construir el Castell de Bellver entre 1300 y 1311, y en el siglo XV Guillem Sagrera levantó la Lonja de los mercaderes. El Reino de Mallorca terminó absorbido por la Corona de Aragón en el siglo XIV y la ciudad perdió peso político. Bellver funcionó como prisión durante siglos: ahí estuvo preso Gaspar Melchor de Jovellanos entre 1802 y 1808. A principios del siglo XX, Antoni Gaudí reformó el interior de la Catedral (1904-1914). El gran cambio llegó en los años 60 con el turismo de masas: la isla pasó de unos 500.000 visitantes en 1960 a más de 6,7 millones en 1997. Joan Miró vivió y pintó en Palma sus últimas décadas, y su taller hoy es museo. En 2016 el Ayuntamiento fijó 'Palma' como nombre oficial. Hoy la ciudad discute cómo convivir con el turismo: el impuesto de turismo sostenible, vigente desde 2016, financia proyectos ambientales y patrimoniales.",
+  "queVer": [
+    {
+      "nombre": "Catedral de Mallorca (La Seu)",
+      "desc": "La catedral gótica frente al mar: el símbolo de Palma, con reformas de Gaudí y una capilla de cerámica de Miquel Barceló.",
+      "detalle": "La Catedral de Santa María, que en Mallorca todos llaman La Seu (así se dice 'catedral' en catalán), es la imagen de Palma. Jaime I decidió levantarla después de la conquista de 1229 sobre la mezquita mayor; se consagró en 1346 y las obras terminaron en 1601. Es gótico levantino, con una nave central de unos 44 metros de altura interior y un rosetón de unos 13 metros de diámetro.\n\nAdentro hay dos intervenciones modernas que sorprenden. Entre 1904 y 1914 Antoni Gaudí reordenó el presbiterio y colgó el baldaquino de hierro sobre el altar. Y entre 2001 y 2006 el artista mallorquín Miquel Barceló cubrió la capilla del Santísimo con un mural de cerámica que representa la multiplicación de los panes y los peces.\n\nLa visita turística es de lunes a sábado; el domingo es para culto. Además existe el recorrido por las terrazas (los techos), con visitas cada 30 minutos, sólo para mayores de 9 años. La mejor foto exterior se saca desde el Parc de la Mar, con la catedral reflejada en el lago. Comprá online en catedraldemallorca.org para no hacer fila.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En el borde sur del casco antiguo, junto a la Almudaina y el Parc de la Mar"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano (abre a las 10) o al atardecer para la foto desde el Parc de la Mar"
+        },
+        {
+          "label": "Entrada",
+          "value": "Visita general 10 €; menores de 8 años gratis (fuente: The Calendar Mallorca, agenda local, verificado octubre 2026). Combinada catedral + terrazas + Museo de Arte Sacro 25 €; residentes en Baleares 8 € (fuente: Majorca Daily Bulletin, marzo 2026). Hasta el 30 de noviembre: lunes a viernes 10 a 17:15, sábados 10 a 14:15, domingo cerrado"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas; 2 horas si sumás terrazas"
+        }
+      ]
+    },
+    {
+      "nombre": "Palacio Real de La Almudaina (Palau de l'Almudaina)",
+      "desc": "El antiguo alcázar musulmán convertido en palacio de los reyes de Mallorca, reabierto en 2026 con un recorrido nuevo.",
+      "detalle": "Enfrente de la Catedral está La Almudaina, que fue alcázar de los gobernantes musulmanes de Madina Mayurqa y después palacio de los reyes de Mallorca a partir de la conquista de 1229. Hoy lo administra Patrimonio Nacional y sigue siendo residencia oficial del Rey de España para actos en la isla.\n\nEl palacio cerró en enero de 2026 para una reforma de la visita y reabrió al público el 29 de julio de 2026, con un recorrido renovado. Se ven salones reales con tapices y muebles, la capilla gótica de Santa Ana y los patios con vistas a la bahía.\n\nEl dato clave para latinoamericanos: la entrada es gratuita para ciudadanos iberoamericanos y de la Unión Europea los miércoles y domingos de 15 a 19 h (de octubre a marzo hasta las 18 h). Esas entradas gratis sólo se sacan en la taquilla, mostrando pasaporte o documento. El resto del tiempo cuesta 8 €. Cierra los lunes y la taquilla cierra una hora antes que el palacio. Hay visita guiada en horarios fijos.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Frente a la Catedral, sobre el Parc de la Mar"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Miércoles o domingo a la tarde si sos latinoamericano (gratis); fuera de esos horarios, a primera hora"
+        },
+        {
+          "label": "Entrada",
+          "value": "Básica 8 €; reducida 5 € (mayores de 65, de 5 a 16 años y estudiantes hasta 25); online suma 0,77 € de gestión; visita guiada 16 € (fuente: tickets.patrimonionacional.es, verificado octubre 2026). Gratis miércoles y domingos 15-19 h (oct-mar hasta 18 h) para iberoamericanos y ciudadanos UE, sólo en taquilla"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Castillo de Bellver (Castell de Bellver)",
+      "desc": "Castillo gótico de planta circular en lo alto de un bosque, con la mejor vista de la bahía y el Museo de Historia de Palma.",
+      "detalle": "El Castell de Bellver se construyó entre 1300 y 1311 por orden de Jaime II de Mallorca, con proyecto del maestro Pere Salvà. Lo llamativo es la forma: muralla, patio, torres y torre del homenaje son circulares. Está a 112 metros sobre el nivel del mar, en una colina boscosa a unos 3 km del centro.\n\nFue residencia real y después prisión durante siglos. Gaspar Melchor de Jovellanos estuvo preso acá entre 1802 y 1808. Hoy adentro funciona el Museo de Historia de la Ciudad, con piezas que van de la época romana a la moderna. Pero lo que la mayoría viene a buscar es la terraza: desde arriba se ve toda la bahía, el puerto, la Catedral y la Serra de Tramuntana.\n\nPara subir hay dos opciones: colectivo de la EMT hasta la zona de El Terreno y después caminata en subida por el bosque, o taxi hasta la puerta. La subida a pie es empinada: llevá calzado cómodo y agua. El bus turístico también para cerca. Es gratis los domingos y para menores de 14. Los lunes cierra todo el año.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "A unos 3 km del centro, en la colina de Bellver, sobre el barrio de El Terreno"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Domingo (gratis) o al atardecer en temporada de primavera-verano"
+        },
+        {
+          "label": "Entrada",
+          "value": "General 4 €; reducida 2 € (jubilados, 14 a 18 años); residentes en Palma 2,50 €; menores de 14 gratis; domingos gratis (fuente: castelldebellver.palma.es, última actualización marzo 2025, verificado octubre 2026). Oct-mar: martes a sábado 10-18 h, domingos 10-15 h; lunes cerrado"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas con la subida"
+        }
+      ]
+    },
+    {
+      "nombre": "Casco antiguo, patios y Baños Árabes (Banys Àrabs)",
+      "desc": "Laberinto de calles medievales con patios señoriales y uno de los pocos restos de la Palma musulmana: los baños del siglo X.",
+      "detalle": "El casco antiguo de Palma se recorre a pie y sin apuro. Detrás de la Catedral empieza el barrio de Calatrava y el antiguo barrio judío (el Call), con calles angostas, conventos y casas nobles. Muchas de esas casas tienen 'patios mallorquines': entradas amplias con escaleras de piedra y columnas, que se pueden espiar desde la puerta cuando el portón está abierto. Cada tanto el Ayuntamiento organiza jornadas de patios abiertos.\n\nDentro de este barrio están los Banys Àrabs (Baños Árabes), en el Carrer de Can Serra. Son una sala abovedada con columnas, parte de un antiguo baño de la época musulmana, rodeada de un jardín. Es chico: se ve en media hora leyendo los carteles. Para los que se interesan por el pasado islámico de la ciudad vale la parada, y la entrada es barata.\n\nConsejo: perdete sin mapa entre la Catedral, la Plaça de Santa Eulàlia y la iglesia de Sant Francesc. Si querés contexto, hay free tours diarios por el casco antiguo que funcionan a la gorra.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Detrás de la Catedral; los Baños Árabes, a unos 3 minutos a pie de La Seu"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; en verano, a la mañana temprano o a la tarde por el calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "Calles gratis. Baños Árabes: 3,50 € adultos; gratis hasta 10 años (fuente: guías de viaje online, agregador, verificado octubre 2026; confirmar en el lugar)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día para el barrio; 30 minutos para los Baños Árabes"
+        }
+      ]
+    },
+    {
+      "nombre": "Parc de la Mar y murallas",
+      "desc": "Lago artificial y paseo junto a las murallas, con la vista más fotografiada de la Catedral. Gratis y abierto todo el día.",
+      "detalle": "El Parc de la Mar es el espacio verde que separa la Catedral del mar. Se creó en el siglo XX sobre terrenos ganados al agua y tiene un gran lago artificial que refleja la fachada sur de La Seu y la Almudaina. Es la foto clásica de Palma, sobre todo al atardecer, cuando la piedra se pone dorada.\n\nArriba del parque corren las murallas renacentistas que protegían la ciudad. Hay un camino sobre ellas que conecta la zona de la Catedral con Es Baluard y otro hacia el este, hacia el barrio de Portixol. En el parque hay un mural de cerámica de Joan Miró y espacios donde en verano se hacen conciertos y cine al aire libre.\n\nDesde acá arranca el Passeig Marítim, el paseo costero que bordea el puerto hasta la zona de los yates. Se puede caminar o andar en bici por la ciclovía hasta Portixol y Ciutat Jardí, por la costa este. Es un plan gratis para cualquier momento del día; llevá agua en verano porque hay poca sombra.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al pie de la Catedral, entre el casco antiguo y el mar"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Atardecer, todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos a 2 horas, según cuánto camines"
+        }
+      ]
+    },
+    {
+      "nombre": "Es Baluard Museu d'Art Contemporani",
+      "desc": "Museo de arte moderno y contemporáneo dentro de un baluarte renacentista, con terrazas abiertas sobre la bahía de Palma.",
+      "detalle": "Es Baluard ocupa el Baluard de Sant Pere, uno de los bastiones de la muralla renacentista de Palma, en el extremo oeste del casco antiguo. El edificio mezcla la piedra antigua con arquitectura moderna, y ya sólo recorrer las terrazas y el antiguo aljibe vale la visita.\n\nLa colección cubre arte moderno y contemporáneo con foco en artistas vinculados a las Baleares, y se completa con muestras temporales. En 2026 el programa incluyó una gran exposición de Jannis Kounellis, y el museo colabora con la intervención de Katharina Grosse en la Lonja.\n\nLo mejor para el bolsillo: los viernes funciona el «Tú decides», donde pagás lo que quieras desde 0,10 €. Si llegás en bicicleta, la entrada cuesta 2 €. Abre de martes a sábado de 10 a 20 h y los domingos de 10 a 15 h; los lunes cierra. El complejo cultural (terrazas y café) abre todos los días hasta la noche, así que podés subir a ver el atardecer aunque no entres al museo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Plaça de la Porta de Santa Catalina, extremo oeste del casco antiguo, a pasos de Santa Catalina"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Viernes (pagás lo que quieras) o al atardecer por las terrazas"
+        },
+        {
+          "label": "Entrada",
+          "value": "General 8 €; reducida 5,50 €; llegando en bici 2 €; viernes «Tú decides» desde 0,10 € (fuente: esbaluard.org, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Fundació Miró Mallorca",
+      "desc": "Los talleres donde Joan Miró pintó sus últimas décadas, conservados con pinceles y lienzos, más un edificio de Rafael Moneo.",
+      "detalle": "Joan Miró se instaló en Palma en 1956 y trabajó acá hasta su muerte en 1983. La Fundació Pilar i Joan Miró conserva los espacios donde pintaba: el Taller Sert, un estudio luminoso diseñado por su amigo el arquitecto Josep Lluís Sert, que se ve como Miró lo dejó, con caballetes, pinceles y obras sin terminar; y Son Boter, una casa mallorquina del siglo XVIII donde el artista hizo bocetos de carbón directamente sobre las paredes.\n\nAdemás hay un edificio de exposiciones, el Espai Estrella, obra de Rafael Moneo, con muestras rotativas de la colección y de artistas contemporáneos. En 2026 hubo una muestra dedicada a Pilar Juncosa, la esposa de Miró.\n\nEstá en Cala Major, al oeste del centro, y se llega en colectivo de la EMT. La entrada es gratis los sábados desde las 15 h y el primer domingo de cada mes de 10 a 15 h, y siempre para menores de 16. Cierra los lunes. Dejá de vender entradas 45 minutos antes del cierre.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En Cala Major, al oeste del centro de Palma; se llega en colectivo urbano"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Sábado desde las 15 h o primer domingo del mes (gratis)"
+        },
+        {
+          "label": "Entrada",
+          "value": "General 10 €; reducida 6,50 € (mayores de 66, carnet joven); residentes en Palma 4 €; menores de 16 gratis; gratis sábados desde 15 h y primer domingo de mes (fuente: miromallorca.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "La Lonja (Sa Llotja)",
+      "desc": "La antigua bolsa de comercio gótica del siglo XV, obra de Guillem Sagrera, hoy sala de exposiciones con entrada libre.",
+      "detalle": "Sa Llotja (La Lonja) es el edificio civil gótico más importante de Palma. La construyó el arquitecto mallorquín Guillem Sagrera entre 1426 y 1452 para que los mercaderes cerraran negocios cuando Mallorca era una potencia comercial del Mediterráneo. Por fuera parece un castillo, con torres en las esquinas; por dentro es una sola sala enorme con columnas helicoidales que se abren como palmeras hacia la bóveda.\n\nHoy se usa como sala de exposiciones del gobierno balear. Desde el 27 de mayo de 2026 y hasta el 31 de enero de 2027 aloja 'Arrels', una intervención inmersiva de la artista alemana Katharina Grosse en colaboración con Es Baluard. La entrada es gratuita.\n\nOjo: cuando no hay muestra, el edificio puede estar cerrado. Al lado está el Consolat de Mar, sede de la presidencia del gobierno balear, y alrededor el barrio de La Llotja, lleno de bares y restaurantes para la noche.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Passeig de Sagrera, frente al puerto, entre la Catedral y Es Baluard"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Cuando haya exposición abierta; consultá antes de ir"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: planomato, agenda cultural, verificado octubre 2026). Abre de martes a domingo; cierra los lunes"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Basílica de Sant Francesc",
+      "desc": "Iglesia gótica del siglo XIII con un claustro de naranjos y el sepulcro de Ramon Llull, el gran filósofo mallorquín.",
+      "detalle": "La Basílica de Sant Francesc es una de las iglesias más antiguas de Palma, levantada por los franciscanos después de la conquista cristiana. La fachada es sobria, con un gran rosetón, y adentro el templo mezcla la estructura gótica con altares barrocos muy recargados.\n\nLo más valioso son dos cosas. Primero, el sepulcro de Ramon Llull, el filósofo, escritor y místico mallorquín de la Edad Media, en un sarcófago de alabastro tallado del siglo XV. Segundo, el claustro gótico, con arcos finos, naranjos y limoneros y un pozo en el centro: uno de los rincones más tranquilos del casco antiguo. Ojo que hay un colegio al lado y en horario escolar puede haber ruido.\n\nEn la plaza de enfrente hay una estatua de fray Junípero Serra, el misionero mallorquín que fundó misiones en California. Se cobra entrada para la basílica y el claustro. Vestí con hombros cubiertos y evitá shorts muy cortos. Los domingos a la tarde suele estar cerrada al turismo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Plaça de Sant Francesc, en pleno casco antiguo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "A la mañana, de lunes a sábado"
+        },
+        {
+          "label": "Entrada",
+          "value": "Se cobra entrada para basílica y claustro; el monto no está publicado en una web oficial (los agregadores dan cifras distintas, verificado octubre 2026). Confirmá en la taquilla o al teléfono 971 712 695"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Passeig des Born, Plaça Major y Plaça de Cort",
+      "desc": "El eje urbano de Palma: el paseo arbolado del Born, la plaza mayor porticada y el Ayuntamiento con su olivo milenario.",
+      "detalle": "Para entender cómo vive Palma hay que caminar su eje central. El Passeig des Born es un bulevar con plátanos y bancos de piedra que sube desde el mar hacia la Plaça del Rei Joan Carles I; a los costados hay palacios, comercios y el Palau Solleric, que alberga exposiciones. De ahí sale la Avinguda de Jaume III, la calle de las tiendas de marca.\n\nSubiendo por calles peatonales llegás a la Plaça Major, una plaza porticada cerrada, con terrazas de bares y artistas callejeros. Muy cerca está la Plaça de Cort, frente al Ayuntamiento, con un olivo enorme y retorcido que todos fotografían. En la zona también están los edificios modernistas de la Plaça del Mercat, como el Gran Hotel y las casas Casasayas, de principios del siglo XX.\n\nDesde la Plaça Major nace La Rambla, con puestos de flores. Todo es gratis y se recorre en una tarde. Si vas a sentarte en una terraza de la Plaça Major, mirá la carta antes: los precios son de zona turística.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Palma, caminando desde la Catedral"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Tarde y primeras horas de la noche"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas caminando"
+        }
+      ]
+    },
+    {
+      "nombre": "Mercat de l'Olivar",
+      "desc": "El mercado municipal más grande de Palma: pescados, embutidos mallorquines, frutas y barras para comer tapas al mediodía.",
+      "detalle": "El Mercat de l'Olivar es el mercado cubierto central de Palma, a pocas cuadras de la Plaça d'Espanya. Es donde compran los palmesanos: puestos de pescado y mariscos, carnicerías con sobrasada y botifarrón, quesos de Mahón, frutas y verduras de la isla, aceitunas y almendras.\n\nPara el viajero es interesante por dos motivos. Primero, para ver y probar productos locales: la sobrasada (embutido de cerdo untable con pimentón), el queso de Menorca, la ensaimada. Segundo, porque tiene barras de tapas y puestos de comida para comer al paso o sentarse, como las ostras y los pescados a la plancha, y en general salen más baratos que los restaurantes del casco antiguo.\n\nAbre de lunes a sábado desde las 7 de la mañana hasta la primera hora de la tarde; el domingo cierra. La zona de tapas suele estirar un poco más el horario y algunos viernes abre parte del mercado a la tarde. Andá antes de las 13 h, que después se llena.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Plaça de l'Olivar, cerca de la Plaça d'Espanya y la estación de tren"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana o mediodía, de lunes a sábado"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis la entrada; pagás lo que consumas"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora, o más si comés ahí"
+        }
+      ]
+    },
+    {
+      "nombre": "Barrio de Santa Catalina",
+      "desc": "Antiguo barrio de pescadores convertido en el centro gastronómico de Palma, con mercado propio y bares para salir.",
+      "detalle": "Santa Catalina está pegado al casco antiguo, del otro lado de Es Baluard. Era un barrio humilde de pescadores y marineros, con casas bajas y molinos de viento en la zona alta de Es Jonquet. Hoy es la zona de moda para comer y salir: la calle Fàbrica y alrededores están llenos de restaurantes de cocinas de todo el mundo, bares de vinos y cafés.\n\nEl corazón del barrio es el Mercat de Santa Catalina, un mercado más chico que el del Olivar pero con mucho ambiente, donde los puestos de comida se llenan a la hora del vermut. Es buen lugar para un desayuno o un almuerzo informal.\n\nPara alojarse es una opción práctica: está a pasos del casco antiguo y del Passeig Marítim, y tiene hostels y apartamentos. La contra es el ruido nocturno en algunas calles los fines de semana. Subí a Es Jonquet a ver los molinos y la vista del puerto; es un rincón tranquilo y gratis.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al oeste del casco antiguo, pasando Es Baluard"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mediodía para el mercado; noche para bares y restaurantes"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (barrio y mercado de acceso libre)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 4 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Palau March",
+      "desc": "Palacio de la familia March con terraza de esculturas de Rodin y Henry Moore y murales de Josep Maria Sert, al lado de la Catedral.",
+      "detalle": "El Palau March es el palacio que mandó construir la familia del banquero Juan March en el siglo XX, en la cuesta que sube de la Almudaina hacia el centro. Hoy lo gestiona la Fundación Bartolomé March y funciona como museo y biblioteca.\n\nLo más atractivo es la gran terraza al aire libre, con esculturas de artistas como Auguste Rodin, Henry Moore y Barbara Hepworth, y una vista directa sobre la Catedral y la bahía. Adentro se ven los murales de Josep Maria Sert en la escalera y en la sala de música, una colección de cartografía mallorquina, y un belén napolitano del siglo XVIII con cientos de figuras, que es de las piezas más comentadas.\n\nOjo con el horario: según Visit Palma, de abril a octubre abre de lunes a viernes hasta la tarde y de noviembre a marzo sólo de mañana; domingos y feriados cierra. Los precios publicados no coinciden entre fuentes, así que confirmá en la boletería. Se combina perfecto con la Catedral y la Almudaina, que están enfrente.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Carrer del Palau Reial 18, frente a la Almudaina"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana de día de semana, sobre todo de noviembre a marzo, cuando cierra a mediodía"
+        },
+        {
+          "label": "Entrada",
+          "value": "10 € adultos; 6 € mayores y niños de 7 a 12; menores de 7 gratis (fuente: Fever, agregador, temporada junio-agosto 2026, verificado octubre 2026). Visit Palma publica una tarifa general más baja: confirmá en taquilla"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Museu Fundación Juan March",
+      "desc": "Museo gratuito de arte español del siglo XX en un palacete del centro: Picasso, Miró, Dalí, Tàpies y Barceló.",
+      "detalle": "El Museu Fundación Juan March de Palma ocupa un edificio del siglo XVIII en la calle Sant Miquel, una de las calles comerciales peatonales del centro. Expone la colección de arte español contemporáneo de la Fundación Juan March, que se empezó a formar en los años 70.\n\nEn pocas salas se recorre buena parte del arte español del siglo XX: hay obra de Pablo Picasso, Joan Miró, Salvador Dalí, Juan Gris, Antoni Tàpies, Antonio Saura y Miquel Barceló, entre otros. Suma exposiciones temporales a lo largo del año.\n\nEs un museo chico y tranquilo, ideal para una hora entre otras visitas, y su gran ventaja es que la entrada es libre y gratuita. Abre de lunes a viernes durante el día y los sábados sólo a la mañana; domingos y feriados cierra. Queda a pocos minutos a pie de la Plaça Major y del Mercat de l'Olivar, así que se encadena fácil con una mañana de mercado.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Carrer de Sant Miquel 11, cerca de la Plaça Major"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Cualquier día de semana; sirve como plan para un día de lluvia"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: folletos de la Fundación Juan March y avygeo.com, verificado octubre 2026). Lunes a viernes 10 a 18:30 h, sábados 10:30 a 14 h; domingo cerrado"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Tren de Sóller (Ferrocarril de Sóller)",
+      "desc": "El tren de madera de 1912 que cruza la Serra de Tramuntana desde Palma hasta Sóller, con conexión al tranvía del puerto.",
+      "detalle": "El Ferrocarril de Sóller une Palma con el pueblo de Sóller, del otro lado de la Serra de Tramuntana, la cordillera del noroeste de Mallorca que es Patrimonio Mundial de la Unesco. Funciona desde 1912 con vagones de madera y conserva el aire de época. La estación de Palma está en la Plaça d'Espanya, junto a la estación intermodal.\n\nEl viaje dura alrededor de una hora y cruza campos de olivos y almendros y varios túneles; antes de bajar a Sóller hay un mirador con vista al valle. En Sóller podés pasear por la plaza y la iglesia, y tomar el tranvía histórico que baja hasta el Port de Sóller, sobre el mar.\n\nNo es barato: el ida y vuelta cuesta 30 € y el combinado con el tranvía, 40 €. Una alternativa más económica es ir en tren y volver en el colectivo TIB por el túnel, que es más rápido. Comprá online en trendesoller.com o en las taquillas de Palma, Bunyola o Sóller. En verano las salidas de la mañana se llenan: andá temprano.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Estación en la Plaça d'Espanya (Palma); Sóller está del otro lado de la Tramuntana"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño, salida de la mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "Palma-Sóller ida 23 €; ida y vuelta 30 €; tranvía Sóller-Puerto 10 € por trayecto; tren + tranvía ida y vuelta 40 € (fuente: trendesoller.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo con Sóller y el puerto"
+        }
+      ]
+    },
+    {
+      "nombre": "Playas urbanas: Can Pere Antoni, Ciutat Jardí y Platja de Palma",
+      "desc": "Playas de arena dentro de la ciudad, a las que se llega en colectivo urbano o caminando por el paseo marítimo.",
+      "detalle": "Palma tiene playas propias a lo largo de la bahía, al este del centro. La más cercana es Can Pere Antoni, una playa de arena a la que se llega caminando desde el Parc de la Mar por el paseo costero; tiene vista a la Catedral y es la que usan los que se alojan en el centro.\n\nSiguiendo hacia el este está Portixol, un antiguo barrio de pescadores con un puertito y restaurantes de pescado, y después Ciutat Jardí, una playa más de barrio, frecuentada por familias palmesanas. Más lejos empieza la Platja de Palma, la larga playa turística que llega hasta S'Arenal, con hoteles y balnearios; en verano se llena y el ambiente es de vacaciones masivas.\n\nTodas son públicas y gratuitas; pagás sólo si alquilás reposeras o sombrilla. Las calas de agua turquesa de las fotos de Mallorca no están en Palma: para eso hay que salir en auto o en excursión hacia el sur o el este de la isla.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Can Pere Antoni, caminando desde el Parc de la Mar por el paseo costero; el resto, en colectivo de la EMT hacia el este"
+        },
+        {
+          "label": "Mejor época",
+          "value": "De junio a septiembre; en julio y agosto, temprano para conseguir lugar"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playas públicas)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Catedral de Mallorca (La Seu)",
+      "precio": "Visita general 10 €; menores de 8 años gratis (fuente: The Calendar Mallorca, agenda local, verificado octubre 2026). Catedral + terrazas + Museo de Arte Sacro 25 €; residentes en Baleares 8 €; residentes de la diócesis gratis los viernes en taquilla (fuente: Majorca Daily Bulletin, marzo 2026). Comprar en catedraldemallorca.org o en taquilla"
+    },
+    {
+      "tipo": "Palacio Real de La Almudaina",
+      "precio": "Básica 8 €; reducida 5 € (65+, 5 a 16 años, estudiantes hasta 25); visita guiada 16 € / 13 € reducida; online +0,77 € de gestión. Gratis miércoles y domingos de 15 a 19 h (oct-mar hasta 18 h) para ciudadanos iberoamericanos y de la UE, sólo en taquilla con documento (fuente: tickets.patrimonionacional.es, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Castell de Bellver",
+      "precio": "General 4 €; reducida 2 € (jubilados, 14 a 18 años); residentes en Palma 2,50 €; menores de 14 gratis; domingos gratis para todos (fuente: castelldebellver.palma.es, página actualizada en marzo 2025, verificado octubre 2026). Se paga en la taquilla del castillo"
+    },
+    {
+      "tipo": "Es Baluard Museu d'Art Contemporani",
+      "precio": "General 8 €; reducida 5,50 €; llegando en bicicleta 2 €; viernes «Tú decides» desde 0,10 € (fuente: esbaluard.org, verificado octubre 2026). Taquilla del museo"
+    },
+    {
+      "tipo": "Fundació Miró Mallorca",
+      "precio": "General 10 €; reducida 6,50 € (66+, carnet joven); residentes en Palma 4 €; menores de 16 gratis; gratis para todos los sábados desde las 15 h y el primer domingo de cada mes de 10 a 15 h (fuente: miromallorca.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Palau March",
+      "precio": "10 € adultos; 6 € mayores y niños de 7 a 12; menores de 7 gratis (fuente: Fever, agregador, temporada 2026, verificado octubre 2026). Visit Palma publica una tarifa general más baja: confirmar en la taquilla del palacio"
+    },
+    {
+      "tipo": "Baños Árabes (Banys Àrabs)",
+      "precio": "3,50 € adultos; gratis hasta 10 años (fuente: guías de viaje online, agregador, verificado octubre 2026). Se paga en la entrada, en el Carrer de Can Serra 7"
+    },
+    {
+      "tipo": "Tren de Sóller",
+      "precio": "Palma-Sóller ida 23 €; ida y vuelta 30 €; tranvía Sóller-Port de Sóller 10 € por trayecto; tren + tranvía 40 € (fuente: trendesoller.com, verificado octubre 2026). Comprar online o en las estaciones de Palma, Bunyola y Sóller"
+    },
+    {
+      "tipo": "Palma Aquarium",
+      "precio": "Entrada 30,50 € (fuente: Civitatis, verificado octubre 2026). También se vende en la web del acuario"
+    },
+    {
+      "tipo": "Museu Fundación Juan March, Sa Llotja y Parc de la Mar",
+      "precio": "Gratis (fuente: Fundación Juan March y agenda cultural de Palma, verificado octubre 2026). La Lonja sólo abre cuando hay exposición"
+    },
+    {
+      "tipo": "Impuesto de turismo sostenible (ecotasa), por persona y noche",
+      "precio": "Temporada alta (1 mayo-31 octubre): hoteles 5 estrellas y 4 superior 4 €; hoteles 4 estrellas y 3 superior 3 €; hoteles de 1 a 3 estrellas, apartamentos de 1 a 3 llaves y viviendas turísticas 2 €; hostales, pensiones y albergues 1 €. Temporada baja (1 noviembre-30 abril): 1 €, 0,75 €, 0,50 € y 0,25 €. Más 10 % de IVA. Menores de 16 exentos; 50 % menos desde la novena noche (fuente: illessostenibles.travel, Govern de les Illes Balears, verificado octubre 2026). Se paga en el alojamiento"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Free tour por el casco antiguo de Palma",
+      "precio": "Gratis (a la gorra; fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Guías locales vía Civitatis y otras plataformas de free tours"
+    },
+    {
+      "actividad": "Visita guiada a la Catedral de Palma",
+      "precio": "29 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "1 h 45 min",
+      "operador": "Guías locales vía Civitatis"
+    },
+    {
+      "actividad": "Tren a Sóller y barco a Sa Calobra (Serra de Tramuntana)",
+      "precio": "65 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "7 horas",
+      "operador": "Operadores locales con salida desde Palma, vía Civitatis"
+    },
+    {
+      "actividad": "Excursión a Sóller y Valldemossa",
+      "precio": "Desde 50 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "4 a 7 horas",
+      "operador": "Operadores de excursiones de un día, vía Civitatis"
+    },
+    {
+      "actividad": "Cuevas del Drach con concierto en el lago subterráneo",
+      "precio": "59 € por persona (fuente: Civitatis, verificado octubre 2026); hay versión para cruceristas desde el puerto de Palma a 54 €",
+      "duracion": "4 a 9 horas según punto de salida",
+      "operador": "Operadores de excursiones de un día, vía Civitatis"
+    },
+    {
+      "actividad": "Paseo en catamarán por la bahía de Palma con baño y barbacoa",
+      "precio": "59 € por persona (fuente: Civitatis, verificado octubre 2026). Otras webs de operadores dan 50-120 € según duración (fuente: Palma Weekly, verificado octubre 2026)",
+      "duracion": "5 horas",
+      "operador": "Navieras de paseo del puerto de Palma"
+    },
+    {
+      "actividad": "Barco turístico por la bahía (vista de Bellver y la Catedral)",
+      "precio": "Desde 19 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "55 minutos",
+      "operador": "Barcos turísticos del Passeig Marítim"
+    },
+    {
+      "actividad": "Coasteering (escalada, saltos al mar y cuevas)",
+      "precio": "79 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "5 horas",
+      "operador": "Empresas de aventura con recogida en zonas turísticas de Mallorca"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Colectivos urbanos EMT Palma",
+      "precio": "2 € el viaje en efectivo para no residentes; se puede pagar con tarjeta bancaria a bordo (fuente: mallorca.com, guía actualizada septiembre 2026, verificado octubre 2026). El Ayuntamiento tramita subirlo a 3 € para no residentes, todavía no vigente",
+      "duracion": "Variable según línea y tráfico",
+      "notas": "Es la forma más práctica de moverse entre el centro, la Fundació Miró, Bellver y las playas urbanas. Los residentes viajan gratis en 2026 con tarjeta; los turistas pagan. Si viajan en grupo, pagar con tarjeta bancaria tiene descuentos por acompañante según anunció la EMT."
+    },
+    {
+      "medio": "Taxi",
+      "precio": "Bajada de bandera unos 2,50 € y unos 1,20 € por km de día; de noche y feriados unos 2,85 € y 1,35 €/km (fuente: mallorca.com sobre el Decreto 20/2025, verificado octubre 2026)",
+      "duracion": "Según tráfico",
+      "notas": "Los taxis son blancos con franja; se toman en paradas o por teléfono/app. Desde el aeropuerto o el puerto se suma un suplemento por viaje. El equipaje no paga extra."
+    },
+    {
+      "medio": "Colectivos interurbanos TIB",
+      "precio": "Entre 3 € y 13,50 € el pasaje sencillo según ruta, pagando sin tarjeta de residente (fuente: mallorca.com, verificado octubre 2026)",
+      "duracion": "Variable según destino",
+      "notas": "Salen de la Estació Intermodal de Plaça d'Espanya hacia Valldemossa, Sóller, Alcúdia y el resto de la isla. Varias líneas aceptan pago con tarjeta bancaria, que sale más barato que comprar al chofer."
+    },
+    {
+      "medio": "Tren SFM y metro de Palma",
+      "precio": "Entre 1,60 € y 4,10 € el billete sencillo según distancia (fuente: mallorcard.es, guía 2026, verificado octubre 2026)",
+      "duracion": "Variable según destino",
+      "notas": "Salen de la Estació Intermodal en Plaça d'Espanya. El tren va a Inca, Sa Pobla y Manacor; el metro llega a la universidad. Sirve para ir al interior, no para moverse dentro del centro."
+    },
+    {
+      "medio": "Bus turístico (hop-on hop-off)",
+      "precio": "Desde 27 € el pase de un día (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "1 día con subidas y bajadas libres",
+      "notas": "Recorre el centro, el puerto, el Castell de Bellver y el Poble Espanyol. Sirve sobre todo para subir a Bellver sin caminar; para el casco antiguo conviene ir a pie."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto de Palma (PMI) → centro en colectivo A1",
+      "empresas": "EMT Palma, línea A1 (aeropuerto - Plaça d'Espanya - Passeig Marítim)",
+      "precio": "5 € el viaje en efectivo (fuente: mallorca.com, guía actualizada septiembre 2026, verificado octubre 2026); también se paga con tarjeta bancaria",
+      "duracion": "Unos 30 minutos según tráfico"
+    },
+    {
+      "ruta": "Aeropuerto de Palma (PMI) → centro en taxi",
+      "empresas": "Taxis de la parada oficial del aeropuerto",
+      "precio": "Unos 25-35 € de día y 30-40 € de noche, con suplemento de aeropuerto de unos 4,65 € por viaje incluido; mínimo desde el aeropuerto unos 16,95 € (fuente: mallorca.com, verificado octubre 2026)",
+      "duracion": "Unos 10 km; el tiempo depende del tráfico"
+    },
+    {
+      "ruta": "Vuelo Madrid → Palma (o Barcelona → Palma)",
+      "empresas": "Ryanair, Iberia, Iberia Express, Air Europa, Vueling, Wizz Air",
+      "precio": "Desde 20 € ida en ofertas; ida y vuelta habitual 48-146 € (fuente: Momondo, datos del 9 de octubre de 2026, verificado octubre 2026)",
+      "duracion": "1 h 25 min a 1 h 30 min de vuelo; unos 67 vuelos diarios"
+    },
+    {
+      "ruta": "Ferry Barcelona → Palma",
+      "empresas": "Baleària, GNV (Grandi Navi Veloci) y Trasmed",
+      "precio": "Desde unos 13-17 € pasajero a pie en butaca básica; camarotes 70-500 € (fuente: Ferryhopper, agregador, verificado octubre 2026)",
+      "duracion": "6 h 15 min a 8 h 30 min; hay salidas nocturnas"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Hostel / albergue (mochileros)",
+      "nivel": 2,
+      "opciones": "Urban Hostel Palma, en Santa Catalina a 1,3 km del centro, con cocina compartida: promedio de US$ 24 la noche en enero y US$ 74 en julio (Kayak muestra los precios en dólares; fuente: Kayak, verificado octubre 2026). En verano reservá con semanas de anticipación. Sumá la ecotasa de albergue: 1 € por noche en temporada alta más IVA"
+    },
+    {
+      "categoria": "Hotel 3 estrellas en el centro o Santa Catalina",
+      "nivel": 3,
+      "opciones": "Según Kayak, la habitación de 3 estrellas más barata de las últimas semanas costó 76 € y la más cara 203 € la noche (fuente: Kayak, verificado octubre 2026). Hay oferta en el casco antiguo, Santa Catalina y la zona de Plaça d'Espanya. Agosto es el mes más caro; noviembre, el más barato. Ecotasa: 2 € por persona y noche en temporada alta"
+    },
+    {
+      "categoria": "Hotel boutique 4 estrellas en el casco antiguo",
+      "nivel": 4,
+      "opciones": "Promedio de 4 estrellas en Palma: unos 156 € la noche. Ejemplos: Boutique Hotel Posada Terra Santa 153-707 €, Sant Jaume Design Hotel 180-933 € (fuente: Kayak, verificado octubre 2026). Muchos ocupan casonas restauradas con patio. Ecotasa: 3 € por persona y noche en temporada alta"
+    },
+    {
+      "categoria": "Lujo 5 estrellas (palacios del casco antiguo y Son Vida)",
+      "nivel": 5,
+      "opciones": "Promedio de 5 estrellas en Palma: unos 189 € la noche, pero los boutique del centro cuestan bastante más: Can Cera 291-1.067 €, Sant Francesc Hotel Singular 256-1.052 €, Castillo Hotel Son Vida 293-4.140 € (fuente: Kayak, verificado octubre 2026). Ecotasa: 4 € por persona y noche en temporada alta"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Ensaimada y chocolate en una granja histórica",
+      "nivel": 1,
+      "opciones": "La ensaïmada (ensaimada) es la masa en espiral de hojaldre con manteca de cerdo, el dulce emblema de Mallorca. En Ca'n Joan de s'Aigo, cafetería abierta desde el siglo XVIII en el casco antiguo, una ensaimada sola cuesta alrededor de 1,40 € (fuente: guía gastronómica online, verificado octubre 2026); también tienen chocolate espeso, helados caseros y cuarto (bizcocho)"
+    },
+    {
+      "tipo": "Menú del día (almuerzo de lunes a viernes)",
+      "nivel": 2,
+      "opciones": "Entrada, principal, postre, bebida y a veces café a precio fijo. En Baleares el promedio es 16 € (fuente: Majorca Daily Bulletin, noviembre 2025). Ejemplos en Palma: Bar Sion (Carrer d'Alfons el Magnànim) 16 €, Bruixes Café 13 € (fuente: Ultima Hora, diciembre 2025, verificado octubre 2026). Es la forma más barata de comer cocina casera"
+    },
+    {
+      "tipo": "Cocina mallorquina tradicional en un celler",
+      "nivel": 3,
+      "opciones": "Platos para probar: frit mallorquí (salteado de menudos de cordero o cerdo con papa y pimientos), tumbet (berenjena, papa y morrón fritos con tomate), llom amb col (lomo envuelto en repollo) y caracoles. Celler Sa Premsa, un comedor clásico con barricas, ronda los 20-30 € por persona (fuente: Gastroranking y guías gastronómicas, verificado octubre 2026); no toma reservas"
+    },
+    {
+      "tipo": "Alta cocina con estrella Michelin",
+      "nivel": 4,
+      "opciones": "Marc Fosh, en el hotel Convent de la Missió, tiene estrella Michelin y cocina mediterránea de autor. Sus últimos precios publicados (2022) eran menú de mediodía 49 € y menús degustación 84-89 €; Gastroranking estima hoy 60-100 € por persona sin vino (fuente: Gastroranking/guías, verificado octubre 2026). Abre de martes a sábado; reservá con tiempo"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa, EES o ETIAS para ir a Palma desde Latinoamérica?",
+      "a": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos no necesitan visa para turismo de hasta 90 días en un período de 180 dentro del espacio Schengen. Desde el 10 de abril de 2026 funciona completo el EES (Sistema de Entradas y Salidas): en el primer control fronterizo Schengen te registran huellas y foto, y ya no te sellan el pasaporte. Si volás a Madrid o Barcelona y después a Palma, ese registro lo hacés en la primera escala. El ETIAS, una autorización online de 20 € que valdrá tres años, todavía no se exige: la UE lo pasó a 2027 sin fecha firme. Llevá pasaje de vuelta, reserva de alojamiento y seguro médico, porque pueden pedírtelos en migraciones."
+    },
+    {
+      "q": "¿Cuánto pago de ecotasa (impuesto de turismo sostenible)?",
+      "a": "Se cobra por persona y por noche en el alojamiento, y depende de la categoría y la temporada. Entre el 1 de mayo y el 31 de octubre: 4 € en hoteles de 5 estrellas, 3 € en 4 estrellas, 2 € en hoteles de 1 a 3 estrellas y viviendas turísticas, y 1 € en hostales y albergues. Entre noviembre y abril baja a la cuarta parte (1 €, 0,75 €, 0,50 € y 0,25 €). A eso se suma el 10 % de IVA. Los menores de 16 no pagan y desde la novena noche en el mismo lugar se paga la mitad. Ejemplo: una pareja en un 3 estrellas siete noches en julio paga 28 € más IVA. Los datos son de la web oficial illessostenibles.travel."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse en Palma?",
+      "a": "Para la ciudad en sí alcanzan dos días completos: uno para el casco antiguo (Catedral, Almudaina, Lonja, Born, Mercat de l'Olivar) y otro para Bellver, Es Baluard, Santa Catalina y la Fundació Miró. Con un tercer día sumás el tren de Sóller o una excursión a Valldemossa. Si querés conocer calas y pueblos de la isla, Palma funciona bien como base para cuatro o cinco días, combinando colectivos TIB o un auto alquilado. Organizá las visitas según los días gratis: Bellver los domingos, la Almudaina los miércoles y domingos a la tarde para iberoamericanos, Miró los sábados desde las 15 h y Es Baluard los viernes."
+    },
+    {
+      "q": "¿Cómo voy del aeropuerto al centro?",
+      "a": "La opción barata es el colectivo A1 de la EMT, que sale frente a la terminal y llega a la Plaça d'Espanya y al Passeig Marítim. Cuesta 5 € en efectivo y también acepta tarjeta bancaria. Tarda unos 30 minutos según el tráfico. Ojo que en los últimos años la parada en el aeropuerto cambió de lugar por obras; seguí los carteles de 'Bus'. En taxi el viaje al centro sale unos 25-35 € de día y 30-40 € de noche, con el suplemento de aeropuerto incluido. Si llegás de madrugada con mucho equipaje y viajan dos o más, el taxi compensa. Las líneas interurbanas TIB conectan el aeropuerto con otras zonas de la isla sin pasar por el centro."
+    },
+    {
+      "q": "¿Conviene alquilar auto?",
+      "a": "Para Palma no. El centro es chico y se camina, el estacionamiento es caro y escaso, y hay zonas de acceso restringido en el casco antiguo. Los colectivos de la EMT cubren Bellver, la Fundació Miró y las playas urbanas. El auto sí sirve si querés recorrer la isla por tu cuenta: calas del sur y del este, la Serra de Tramuntana, pueblos del interior. Una buena estrategia es pasar los primeros días en Palma sin auto y alquilar sólo para los días de excursión. Para manejar en España con licencia latinoamericana conviene llevar el permiso internacional de conducir además de tu licencia."
+    },
+    {
+      "q": "¿Palma es cara? ¿Cómo ahorrar?",
+      "a": "Es más cara que el promedio de España, sobre todo en julio y agosto: según Kayak, agosto es el mes más caro para dormir y noviembre el más barato. Para ahorrar: viajá en mayo, junio, septiembre u octubre; comé el menú del día al mediodía (13-16 € en Palma) en vez de cenar en zonas turísticas; usá los días gratis de los museos; movete en colectivo y a pie. Comprá en el Mercat de l'Olivar o en supermercados para algunas comidas. Las playas urbanas son gratis. Y si dormís más de ocho noches en el mismo alojamiento, la ecotasa baja a la mitad desde la novena."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Palma de Mallorca»: https://es.wikipedia.org/wiki/Palma_de_Mallorca",
+      "Wikipedia (ES) — «Catedral de Santa María de Palma de Mallorca»: https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_de_Palma_de_Mallorca",
+      "Wikipedia (ES) — «Castillo de Bellver»: https://es.wikipedia.org/wiki/Castillo_de_Bellver"
+    ],
+    "que_ver_atracciones": [
+      "Majorca Daily Bulletin — «Mallorca cathedral terraces reopen with stunning views»: https://amp.majorcadailybulletin.com/news/local/2026/03/09/140779/mallorca-cathedral-terraces-reopen-with-stunning-views-palma.html",
+      "The Calendar Mallorca — «Catedral de Mallorca (Palma)»: https://thecalendarmallorca.com/events/catedral-de-mallorca-palma/",
+      "Patrimonio Nacional — «Palacio Real de La Almudaina, entradas»: https://tickets.patrimonionacional.es/es/tickets/palacio-almudaina",
+      "Hola — «Felipe VI estrena la nueva Almudaina»: https://www.hola.com/realeza/casa_espanola/20260729915471/el-rey-felipe-vi-estrena-la-nueva-almudaina-tras-su-regreso-de-peru-asi-es-por-dentro-el-palacio-que-inaugura-el-verano-real/",
+      "Ajuntament de Palma — «Horaris i preus del Castell de Bellver»: https://castelldebellver.palma.es/-/horaris-i-preus-del-castell-de-bellver-/de/",
+      "Es Baluard Museu — «Visita»: https://www.esbaluard.org/es/visita/",
+      "Fundació Miró Mallorca — «Visítanos»: https://miromallorca.com/es/visitanos/",
+      "Planomato — «Exposición Arrels de Katharina Grosse en Palma»: https://planomato.com/es/palma-de-mallorca/p/exposicion-arrels-katharina-grosse-palma",
+      "Visit Palma — «Palau March: art, history and Balearic library»: https://www.visitpalma.com/en/discover/what-to-see-and-what-to-do/palma-in-2-days/pln601/palau-march-a-flagship-library",
+      "Visit Palma — «Mercat de l'Olivar, an experience with plenty of flavour»: https://visitpalma.com/en/food/pln690/mercat-de-l-olivar-an-experience-with-plenty-of-flavour",
+      "Avygeo — «Fundación Juan March: opiniones y consejos prácticos»: https://www.avygeo.com/es/guia/actividades/20610-fundacion-juan-march"
+    ],
+    "como_llegar_transporte": [
+      "Ferrocarril de Sóller — «Tren de Sóller, billetes»: https://trendesoller.com/",
+      "Mallorca.com — «Transporte público en Mallorca»: https://www.mallorca.com/es/consejos/vivir-en-mallorca/vivienda-dia-a-dia/transporte-publico-mallorca",
+      "Mallorca.com — «Tarifas de taxi en Mallorca»: https://www.mallorca.com/es/consejos/vivir-en-mallorca/coche-y-trafico/tarifas-taxi-mallorca",
+      "Mallorcard — «Public transport in Mallorca: complete 2026 guide»: https://mallorcard.es/es/posts/public-transport-in-mallorca-complete-2026-guide-to-buses-trains-and-airport/",
+      "Forbes España — «Tarifas EMT Palma 2026»: https://forbes.es/?p=990471",
+      "Ferryhopper — «Ferry de Barcelona a Palma»: https://www.ferryhopper.com/es/ferry-routes/direct/barcelona-palma",
+      "Momondo — «Vuelos de Palma de Mallorca a Madrid»: https://www.momondo.es/vuelos/palma-de-mallorca/madrid",
+      "Aena — «El Aeropuerto de Palma de Mallorca cierra 2025 con 33,8 millones de pasajeros»: https://www.aena.es/es/prensa/el-aeropuerto-de-palma-de-mallorca-cierra-2025-con-338-millones-de---pasajeros.html"
+    ],
+    "precios_2026": [
+      "Illes Sostenibles (Govern de les Illes Balears) — «Calculadora ITS»: https://illessostenibles.travel/es/calculadora-its",
+      "Civitatis — «Excursiones y actividades en Palma de Mallorca»: https://www.civitatis.com/es/palma-mallorca/",
+      "Palma Weekly — «Boat Trips from Palma»: https://www.palmaweekly.com/?p=1754"
+    ],
+    "visados_entrada": [
+      "InsideFlyer — «EU postpones ETIAS travel authorization to 2027»: https://insideflyer.com/posts/eu-postpones-etias-travel-authorization-to-2027/",
+      "Gobierno de Polonia — «Entry/Exit System (EES) fully operational from 10 April 2026»: https://www.gov.pl/web/qatar/entryexit-system-ees-fully-operational-from-10-april-2026",
+      "AXA Schengen — «¿Necesito un visado para viajar a España?»: https://www.axa-schengen.com/es/visa/requisitos/necesita-visa"
+    ],
+    "alojamiento_gastronomia": [
+      "Kayak — «Hoteles en Palma»: https://www.kayak.es/Hoteles-en-Palma.12458.hotel.ksp",
+      "Kayak — «Urban Hostel Palma»: https://www.es.kayak.com/Palma-de-Mallorca-Hoteles-Urban-Hostel-Palma-Albergue-Juvenil.822793.ksp",
+      "Ultima Hora — «Los mejores sitios de Mallorca para comer un menú del día»: https://www.ultimahora.es/xaloc/gastronomia/2025/12/13/2519081/estos-son-mejores-sitios-mallorca-para-comer-menu-del-dia-economico-sabroso.html",
+      "Majorca Daily Bulletin — «Mallorca tops the list for Spain's most expensive menú del día»: https://amp.majorcadailybulletin.com/news/local/2025/11/25/138333/mallorca-tops-the-list-for-spain-most-expensive-menu-del-dia.html",
+      "Gastroranking — «Cellar Sa Premsa»: https://gastroranking.es/r/cellar-sa-premsa_42925/",
+      "Gastroranking — «Marc Fosh»: https://gastroranking.es/r/marc-fosh_132348/",
+      "Mallorca.com — «Ca'n Joan de s'Aigo»: https://www.mallorca.com/es/gastronomia/cafes-y-bares/can-joan-de-saigo"
+    ]
+  }
+}
