@@ -1,0 +1,644 @@
+{
+  "slug": "marbella",
+  "name": "Marbella",
+  "region": "Andalucía (Costa del Sol, Málaga)",
+  "lat": 36.5061,
+  "lon": -4.8936,
+  "datosRapidos": [
+    {
+      "label": "Ciudad",
+      "value": "Marbella es un municipio de la provincia de Málaga, en Andalucía, sobre la Costa del Sol occidental. Queda a 57 km de Málaga capital y a 63 km de Ronda, entre el mar Mediterráneo y Sierra Blanca, la montaña cuyo pico más visible, La Concha (1.215 m), se ve desde todo el municipio. Tiene 116,8 km² y 27,9 km de costa repartidos en 24 playas. Según el padrón municipal publicado a comienzos de 2026 viven 173.420 personas, sin contar la población flotante del verano; más de un tercio son extranjeros. El municipio se divide en cinco distritos: Las Chapas, Marbella Este, Marbella Oeste, Nueva Andalucía y San Pedro Alcántara. Se la conoce desde los años cincuenta como destino de la alta sociedad internacional, por el Marbella Club, la Milla de Oro y Puerto Banús, con sus yates y tiendas de lujo. Pero tiene otra cara más accesible: un casco antiguo de calles blancas alrededor de la Plaza de los Naranjos, restos romanos con mosaicos, museos gratuitos o baratos y un paseo marítimo de varios kilómetros que se recorre a pie. La oficina de turismo habla de unos 320 días de sol al año y una temperatura media cercana a los 18,5 °C, gracias a que la sierra frena los vientos del norte."
+    },
+    {
+      "label": "Moneda e idioma",
+      "value": "Se paga en euros. La tarjeta se acepta en casi todos los comercios, pero llevá algo de efectivo: en los colectivos interurbanos que se paran en ruta (como la L-79 a Estepona o la M-220 a Fuengirola) al chofer se le paga en efectivo y no aceptan billetes de más de 20 €. El idioma es el castellano, con el acento andaluz que se 'come' las eses. En Puerto Banús y la Milla de Oro vas a escuchar mucho inglés, ruso y árabe, y las cartas suelen estar en varios idiomas."
+    },
+    {
+      "label": "Mejor época",
+      "value": "Mayo, junio, septiembre y octubre son los meses más equilibrados: hay calor para la playa y los precios no son los de agosto. Julio y agosto son los más caros: según datos del INE, en julio de 2026 Marbella tuvo las tarifas hoteleras más altas de España. De noviembre a marzo hace templado de día, el mar está frío y algunos hoteles chicos cierran o reducen servicios, pero los museos y el casco antiguo funcionan normal. Diciembre y enero son los meses con más lluvia."
+    },
+    {
+      "label": "Visado y entrada",
+      "value": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos entran a España sin visa como turistas por hasta 90 días dentro de un período de 180 en el espacio Schengen. Desde el 10 de abril de 2026 funciona completo el EES (Sistema de Entradas y Salidas): en el primer control Schengen te toman huellas y foto en lugar de sellarte el pasaporte. Si llegás a Málaga con escala en Madrid u otra ciudad europea, ese control lo hacés ahí. El ETIAS, la autorización previa online, a octubre de 2026 todavía no se pide: la UE anunció el arranque para el último trimestre de 2026 sin fecha firme."
+    }
+  ],
+  "intro": [
+    "Marbella tiene fama de ciudad de yates, fiestas y relojes caros, y esa Marbella existe: está en Puerto Banús y en la Milla de Oro. Pero si venís con presupuesto ajustado, la ciudad te devuelve bastante. El casco antiguo es un laberinto de casas blancas con macetas, plazas chicas y la Plaza de los Naranjos en el centro. El paseo marítimo se camina entero sin gastar un euro y las playas son públicas. Y detrás de todo está Sierra Blanca, con La Concha marcando el horizonte.",
+    "Lo que más sorprende al que llega es la cantidad de historia gratuita o casi. Hay una villa romana del siglo II con mosaicos de comida y una cabeza de Medusa, unas termas romanas abovedadas, una basílica paleocristiana del siglo V y un museo de arte latinoamericano, el Ralli, que no cobra entrada. El Museo del Grabado, en un hospital del siglo XVI, tiene obras de Picasso, Miró y Tàpies. En la Avenida del Mar, camino a la playa, te cruzás con diez esculturas de Dalí.",
+    "Marbella además es una buena base. Con los colectivos de Avanza llegás a Ronda y su puente sobre el Tajo, a los pueblos blancos como Mijas u Ojén y hasta La Línea, la puerta a Gibraltar, que desde julio de 2026 se cruza sin control de pasaportes rutinario. Del aeropuerto de Málaga se llega en 40 minutos de micro. Si te quedás tres o cuatro días, podés combinar playa por la mañana, casco antiguo a la tarde y una excursión por día sin alquilar auto."
+  ],
+  "historia_corta": "En las laderas de Sierra Blanca se encontraron restos del Paleolítico y el Neolítico, y hacia el siglo VII a. C. fenicios y púnicos se instalaron junto al río Real. Los romanos dejaron su huella en todo el término: la villa de Río Verde y las termas de Las Bóvedas son del siglo II d. C., y en el casco antiguo aparecieron capiteles y cerámica de esa época. Del período paleocristiano queda la basílica de Vega del Mar, del siglo V. En la etapa islámica la ciudad, llamada Marbal·la, se amuralló y tuvo un castillo de traza califal con murallas de los siglos XI y XII. En 1286 se firmó allí el Tratado de Marbella entre meriníes y nazaríes. El 11 de junio de 1485, en plena guerra de Granada, pasó a la Corona de Castilla sin derramamiento de sangre. Los Reyes Católicos le dieron título de ciudad y en el siglo XVI se demolió el centro de la medina para abrir la Plaza Mayor, hoy de los Naranjos. En el siglo XIX Manuel Agustín Heredia fundó los altos hornos de Marbella para aprovechar el hierro de Sierra Blanca, y en 1860 el marqués del Duero creó la colonia agrícola de San Pedro Alcántara. A mediados del siglo XX era un pueblo agrícola, pesquero y minero de unos 10.000 habitantes. Todo cambió en 1946, cuando Ricardo Soriano levantó el complejo El Rodeo, y en 1954, cuando la finca de Alfonso de Hohenlohe se convirtió en el Marbella Club. En mayo de 1970 se inauguró Puerto Banús. En 1991 llegó a la alcaldía Jesús Gil, y en abril de 2006 el Gobierno disolvió el ayuntamiento por los escándalos de corrupción. Hoy supera los 170.000 habitantes y es uno de los destinos más caros de España.",
+  "queVer": [
+    {
+      "nombre": "Casco antiguo y Plaza de los Naranjos",
+      "desc": "El corazón histórico: calles blancas con flores, restos de la muralla árabe y la plaza que abrieron los cristianos en el siglo XVI.",
+      "detalle": "El casco antiguo de Marbella ocupa lo que fue la medina musulmana. Tras la conquista de 1485 se demolió su centro para abrir una plaza, primero llamada Plaza Mayor, que se convirtió en el eje de la vida social. Ahí se levantaron el Ayuntamiento, la Casa del Corregidor y varias mansiones, junto a la ermita de Santiago, que ya existía. Cambió de nombre muchas veces; el actual viene de los naranjos plantados en 1941, que reemplazaron a unas palmeras.\n\nAlrededor de la plaza se abren callejones angostos de casas encaladas con macetas. Buscá los restos del castillo: su perímetro lo marcan las calles Solano, Portada, Arte, Salinas y Trinidad, y en una de sus torres hay capiteles romanos empotrados. Las murallas son de los siglos XI y XII y tuvieron diez u once torres.\n\nLa plaza está llena de mesas de bares. Un café con tostada ronda los 3-5 € y una cerveza 3,50-4,50 € según una guía local; en las calles de atrás suele ser más barato. Conviene ir temprano o al atardecer, cuando baja el calor y la luz es más linda.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Marbella, a pocos minutos a pie del paseo marítimo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; en verano, a primera hora o al atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Iglesia de Nuestra Señora de la Encarnación",
+      "desc": "El templo mayor del casco antiguo, levantado probablemente sobre la mezquita principal, con portada rococó y un órgano famoso.",
+      "detalle": "La iglesia de la Encarnación está en la Plaza de la Iglesia, a pocos pasos de la de los Naranjos y pegada a los restos del castillo. Se cree que fue construida sobre la mezquita mayor de la Marbella musulmana. Su advocación viene de la devoción de los Reyes Católicos por el misterio de la Encarnación. Las obras empezaron en el siglo XVI y siguieron en el XVII; una lápida en la fachada lateral con la fecha 1618 sirvió para datar el templo.\n\nPor fuera, mirá la Puerta del Sol, la principal, tallada en piedra ocre en estilo rococó en la segunda mitad del siglo XVIII. Por dentro es grande para el tamaño del pueblo: planta basilical de tres naves, bóveda de medio cañón y ábside semicircular. Destaca el Órgano del Sol Mayor, de 1975, que la oficina de turismo considera el más importante construido en España en el último siglo.\n\nSegún las guías, normalmente se puede entrar gratis fuera del horario de misa. A veces hay conciertos de música clásica con entrada paga. Vestite con respeto: hombros y piernas cubiertos.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Plaza de la Iglesia, casco antiguo (Tel. +34 952 77 31 36)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año, fuera del horario de misa"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis la visita según la guía Malaga Travel Guide (verificado octubre 2026); conciertos 15-25 € según la misma fuente"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Avenida del Mar (esculturas de Dalí) y Parque de la Alameda",
+      "desc": "El paseo peatonal que une la Alameda con la playa, decorado con diez esculturas en bronce diseñadas por Salvador Dalí.",
+      "detalle": "La Avenida del Mar es un bulevar peatonal de mármol que baja desde el Parque de la Alameda hasta el paseo marítimo. Tiene fuentes, pérgolas y jardineras, pero lo que la hace distinta es su colección de diez esculturas diseñadas por Salvador Dalí y fundidas en bronce por la fundición Bonvicini, en Verona. Son piezas de su universo surrealista que se pueden ver de cerca, rodear y fotografiar sin pagar nada, a cualquier hora del día.\n\nArriba está el Parque de la Alameda, que la oficina de turismo define como el paseo más antiguo de la ciudad y su 'zona verde histórica', donde generaciones de marbellíes salieron a pasear y descansar. Es un buen lugar para hacer una pausa a la sombra entre el casco antiguo y la playa.\n\nSi te interesa Dalí, hasta el 15 de noviembre de 2026 el Museo del Grabado tiene la muestra 'Dalí. Diez recetas de inmortalidad'. La avenida se recorre en diez minutos, pero se disfruta más a la tarde, cuando se llena de gente que va y viene de la playa.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Entre la Alameda y el paseo marítimo, a pocos minutos a pie de la Plaza de los Naranjos"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; tarde y noche en verano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Paseo marítimo y playas urbanas",
+      "desc": "Varios kilómetros de paseo junto al mar y 24 playas públicas en el municipio, con chiringuitos, duchas y servicios.",
+      "detalle": "Marbella tiene 27,9 km de costa divididos en 24 playas, la mayoría urbanas o semiurbanas. Frente al centro están La Venus, junto al puerto deportivo, El Faro, La Fontanilla y La Bajadilla, todas a un paso del casco antiguo. Hacia el oeste, camino a Puerto Banús, aparecen Casablanca y Nagüeles, frente a la Milla de Oro, y hacia el este Las Chapas, Cabopino y las dunas de Artola.\n\nUn paseo marítimo largo une buena parte de esas playas y forma parte de la Senda Litoral, el proyecto de la Diputación de Málaga para poder caminar toda la costa de la provincia, desde Manilva hasta Nerja. Caminar o andar en bici desde el centro hasta Puerto Banús por el borde del mar es una de las mejores actividades gratis de la ciudad.\n\nLas playas son públicas: llevar tu toalla no cuesta nada. Las reposeras y sombrillas de los clubes de playa se pagan aparte. Los chiringuitos sirven espetos de sardinas (sardinas ensartadas en una caña y asadas junto al fuego) y pescaíto frito. Y en verano, cuando baja el sol, la arena se llena de familias locales.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "El paseo arranca a 5 minutos a pie del casco antiguo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "De junio a octubre para bañarse; el paseo, todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playas públicas)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o más"
+        }
+      ]
+    },
+    {
+      "nombre": "Puerto Banús",
+      "desc": "La marina de lujo inaugurada en 1970: yates enormes, autos de alta gama, tiendas de marca y vida nocturna, al oeste del centro.",
+      "detalle": "Puerto Banús es la postal de la Marbella de lujo. Se inauguró en mayo de 1970 y lleva el nombre del promotor José Banús. El diseño, de Noldi Schreck, buscó parecerse a un pueblo andaluz con marina y no a una torre de departamentos. Tiene 915 amarres para barcos de hasta 50 metros y más de 250 locales entre tiendas, bancos y restaurantes.\n\nEl plan barato es pasear por el muelle mirando los yates, los autos de alta gama estacionados y las vidrieras de las marcas de moda. Después, cruzar a la playa de Puerto Banús. Comer o tomar algo frente a los barcos es caro; en las calles de atrás y en Nueva Andalucía hay opciones más razonables.\n\nDe noche es una de las zonas de bares y discotecas más conocidas de la Costa del Sol. Desde el centro llegás en colectivo urbano (1,18 €) o caminando por el paseo marítimo. Desde el muelle salen paseos en catamarán y en velero.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al oeste del centro, camino a San Pedro; colectivo urbano o caminata por la costa"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; de noche en verano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis pasear (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo del Grabado Español Contemporáneo",
+      "desc": "Un hospital renacentista del siglo XVI convertido en museo de grabado, con obras de Picasso, Miró, Tàpies y Chillida.",
+      "detalle": "El museo funciona en el antiguo Hospital Bazán, fundado por voluntad de Alonso de Bazán, alcalde de la fortaleza, que en su testamento de 1570 pidió crear un hospital en sus casas. Es un edificio renacentista con fuerte influencia gótico-mudéjar: dos patios, uno con arcos sobre columnas con bolas de tipo segoviano, techos mudéjares de madera y una torre mirador con arcos enmarcados por alfiz. La restauración empezó en 1989 y desde entonces es sede del museo.\n\nLa colección reúne grabado español contemporáneo, con obras de Picasso, Miró, Tàpies y Chillida. Del 28 de mayo al 15 de noviembre de 2026 presenta la exposición temporal 'Dalí. Diez recetas de inmortalidad'.\n\nOjo con los horarios, porque la web oficial de turismo da dos distintos: en la ficha de la muestra, sábado y lunes de 11 a 14 h y de martes a viernes de 11 a 18 h; en la de la sede, lunes a viernes de 10 a 14 h. El último pase es 20 minutos antes del cierre. Llamá antes al +34 952 765 741. En junio de 2026 el municipio aprobó una ampliación hacia el edificio vecino.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Calle Hospital Bazán, casco antiguo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; ideal en las horas de más calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "Entrada única 5 € durante la muestra de Dalí (fuente: turismo.marbella.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo Ralli",
+      "desc": "Museo privado gratuito con una de las colecciones de arte latinoamericano contemporáneo más importantes de Europa.",
+      "detalle": "El Museo Ralli es una sorpresa para el viajero latinoamericano. Es un museo privado, ubicado en la urbanización Coral Beach, sobre la antigua N-340 (km 176), en plena Milla de Oro. Según su web, guarda una de las colecciones más importantes de arte contemporáneo latinoamericano que hay en Europa, además de una colección permanente de arte europeo.\n\nTiene diez salas que recorren las vanguardias de los dos continentes, con especial énfasis en el surrealismo europeo y latinoamericano. Para el que viene de América Latina es una buena forma de ver a sus artistas dialogando con los europeos. Entre octubre y diciembre de 2026 tiene programación especial de exposiciones y actividades.\n\nLa entrada es gratis. Abre de martes a viernes de 10 a 17 h y los sábados de 10 a 15 h, incluidos feriados. Cierra domingos y lunes, y del 22 de diciembre al 31 de enero. Queda a unos pasos de la villa romana de Río Verde, así que conviene combinar las dos visitas un viernes o sábado por la mañana.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Urbanización Coral Beach, N-340 km 176, entre el centro y Puerto Banús"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año excepto del 22 de diciembre al 31 de enero"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: museoralli.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Villa romana de Río Verde",
+      "desc": "Restos de una villa romana del siglo II con mosaicos únicos: comida, utensilios de cocina y una cabeza de Medusa a color.",
+      "detalle": "La villa romana de Río Verde se descubrió y se excavó en parte a principios de los años sesenta. Lo que se ve es un patio interior porticado, rectangular, con pasillos cubiertos en tres de sus lados; de las doce columnas que sostenían el techo sólo quedan las bases. El valor está en el piso: los pasillos y algunas habitaciones conservan mosaicos que la oficina de turismo ubica entre los más importantes que se conservan.\n\nEn el pasillo sur hay una serie de comidas y objetos de cocina que muestran qué se comía y con qué se cocinaba en la época. En el lado oeste aparece una composición simétrica con anclas, delfines y timones. Y en una sala que se abre desde el pasillo norte está la imagen más fuerte: una cabeza de Medusa policromada rodeada de aves acuáticas y cráteras.\n\nLa entrada es libre, pero sólo abre viernes, sábados, domingos y feriados de 10.30 a 13.30. Los grupos coordinan con la Delegación de Cultura (952 76 87 10/11). Está en la urbanización Río Verde Playa, cerca de Puerto Banús y del Museo Ralli.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "CN-340 km 176, urbanización Río Verde Playa, cerca de Puerto Banús"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Viernes, sábados, domingos y feriados por la mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis, entrada libre (fuente: turismo.marbella.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 a 45 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Termas romanas de Las Bóvedas",
+      "desc": "Edificio termal romano del siglo II de planta octogonal, con siete salas abovedadas que conservan buena parte del techo.",
+      "detalle": "Las termas de Las Bóvedas, también llamadas de Guadalmina, están en San Pedro Alcántara, cerca del mar. Son un edificio termal del siglo II d. C. con una planta geométrica muy precisa: un núcleo central octogonal, abierto con nichos, y siete salas también ochavadas dispuestas alrededor como rayos. Todas están abovedadas a gran altura.\n\nLo que impresiona es lo bien que resistió. Gracias al hormigón romano y al uso de arcos, bóvedas y cúpulas, buena parte de la cubierta sigue en pie. Se ve la trama de estructuras subterráneas de la calefacción, y en el piso alto, alrededor del óculo de la sala central, se supone que había un depósito de agua donde llegaba un acueducto hoy desaparecido.\n\nLa entrada es libre, pero las visitas se hacen sábados y domingos de 9 a 11 h, con reserva en el Centro Cultural Rosa Verde (+34 952 76 87 67). Llamá antes de ir, porque el horario es corto. Se puede combinar con la basílica de Vega del Mar, también en San Pedro.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Calle 6, urbanización Guadalmina, San Pedro Alcántara, al oeste del municipio"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Sábados y domingos temprano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis, entrada libre con reserva (fuente: turismo.marbella.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Basílica paleocristiana de Vega del Mar",
+      "desc": "Basílica del siglo V con dos ábsides enfrentados, pila bautismal en forma de cruz y pez, y una necrópolis de unas 200 tumbas.",
+      "detalle": "La basílica de Vega del Mar, en San Pedro Alcántara, es una de las muestras arqueológicas más destacadas del cristianismo primitivo en la zona, con más de 1.500 años. El conjunto tiene una iglesia de planta cuadrangular, con tres naves separadas por pilares, y una necrópolis asociada.\n\nSu rasgo más raro son los dos ábsides enfrentados, uno de altar y otro de martyrium; según la oficina de turismo hay muy pocos paralelos en la península ibérica. Junto al ábside occidental está el baptisterio, con varias pilas. Una combina en planta la cruz griega y la forma de un pez y servía para el bautismo por inmersión.\n\nAlrededor se excavaron unos doscientos enterramientos, fechados entre los siglos III y VII. Las visitas se hacen los sábados y domingos de 11.15 a 13 h con reserva en el Centro Cultural Rosa Verde (+34 952 76 87 67). La web oficial no publica precio, así que consultalo al reservar. Con las termas de Las Bóvedas arma una buena mañana arqueológica en San Pedro.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "A7 km 171, urbanización Linda Vista Baja, San Pedro Alcántara"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Sábados y domingos por la mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "Sin precio publicado; reservar en el Centro Cultural Rosa Verde (fuente: turismo.marbella.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Sierra Blanca y el pico de La Concha",
+      "desc": "La montaña que protege a Marbella del viento norte. Subir a La Concha (1.215 m) regala vistas de toda la costa y, con suerte, de África.",
+      "detalle": "Sierra Blanca se extiende entre Marbella, Istán, Ojén y Monda y forma parte de la Red Natura 2000. Es de caliza y mármol, con picos de más de 1.200 m: el Lastonar (1.279 m) es el más alto y La Concha (1.215 m) el más reconocible desde la costa. En la cara norte crecen pinsapos, un abeto relicto de la glaciación, y hay un centro de referencia de la cabra montés.\n\nLa ruta más usada a La Concha arranca en el Refugio de Juanar, en Ojén. Una guía de la Mancomunidad de Municipios de la Costa del Sol Occidental la clasifica como de dificultad moderada, con unas 3 horas de ida y una altitud máxima de 1.275 m. Desde Istán es más dura: el último tramo no tiene sendero marcado y hay riesgo de perderse. El tramo final por la cresta pide buen pie y no tener vértigo.\n\nEvitá el verano y las horas de calor. Llevá mucha agua, abrigo para la cumbre y el recorrido descargado en el celular. Sin auto, también podés caminar por el pinar de Nagüeles, más cerca del centro.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Refugio de Juanar, en el término de Ojén; se necesita auto"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Otoño y primavera; evitar julio y agosto"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio natural)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Excursión a Ronda",
+      "desc": "La ciudad del Tajo, a 63 km: el Puente Nuevo de 98 metros sobre el río Guadalevín y un casco histórico entre barrancos.",
+      "detalle": "Ronda es la excursión clásica desde Marbella. La ciudad está partida en dos por el Tajo, una garganta excavada por el río Guadalevín, y las dos mitades se unen por el Puente Nuevo. Las obras empezaron en 1759, tardaron 34 años y el puente se inauguró en mayo de 1793; el arquitecto más destacado fue José Martín de Aldehuela. Tiene unos 98 metros de altura desde el fondo del barranco.\n\nSobre el arco central hay una cámara que se usó incluso como prisión y hoy tiene un centro de interpretación sobre la historia del puente. Mirar el puente desde arriba o desde los miradores es gratis. Además del puente vale recorrer la Ciudad, el barrio antiguo del otro lado, y pasar por la plaza de toros de la Real Maestranza.\n\nDesde la estación de Marbella sale el colectivo de Avanza a Ronda: 8,23 € el pasaje según la tarifa oficial vigente desde junio de 2026, y alrededor de 1 h 30 min de viaje según Omio, por una ruta de montaña con curvas. Si te mareás, sentate adelante. También hay excursiones organizadas desde 65 €.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "63 km al norte por la A-397"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño; en verano hace calor fuerte al mediodía"
+        },
+        {
+          "label": "Entrada",
+          "value": "Colectivo Marbella-Ronda 8,23 € (fuente: tabla oficial de tarifas Avanza vigente desde el 1 de junio de 2026, verificado octubre 2026); mirar el Puente Nuevo es gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Excursión a Mijas Pueblo",
+      "desc": "Un pueblo blanco andaluz a 428 m sobre el mar, con ermita excavada en la roca, burro-taxis y vistas a la Costa del Sol.",
+      "detalle": "Mijas Pueblo es el núcleo histórico del municipio de Mijas, sobre la sierra que mira a Fuengirola, a 428 metros de altura. Conserva el aspecto del típico pueblo blanco andaluz: calles empinadas, casas encaladas con macetas y miradores sobre la costa. Ahí están el ayuntamiento y la mayoría de los edificios históricos.\n\nLa parada obligada es la ermita de la Virgen de la Peña, patrona de Mijas, excavada en la roca por un fraile carmelita entre 1656 y 1682. El pueblo también es conocido por los burro-taxis: el servicio nació a fines de los años cincuenta, cuando los turistas empezaron a pedirles fotos y paseos a los trabajadores de las canteras que volvían en burro. Hoy los carros se guardan en la avenida del Compás.\n\nSin auto, el camino es en dos tramos: colectivo de Marbella a Fuengirola (M-220 o M-060; 4,05 € según la tarifa oficial de Avanza vigente desde junio de 2026) y en Fuengirola la línea 122 hasta Mijas Pueblo. En auto se sube por la A-387. Es un buen plan de medio día.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al este, dentro del radio de 60 km que marca la oficina de turismo; colectivo a Fuengirola y desde ahí línea 122"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mejor por la mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis recorrer el pueblo; colectivo Marbella-Fuengirola 4,05 € (fuente: tabla oficial de tarifas Avanza vigente desde el 1 de junio de 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Excursión a Gibraltar",
+      "desc": "El Peñón británico, a una hora larga de micro: monos de Berbería, cuevas y túneles. Desde julio de 2026, sin control rutinario en la frontera.",
+      "detalle": "Gibraltar es territorio británico de ultramar y se llega desde Marbella en colectivo de Avanza hasta La Línea de la Concepción (9,33 € el servicio común según la tarifa oficial de junio de 2026). Desde la estación de La Línea se cruza a pie.\n\nLo importante para el lector latinoamericano: desde el 15 de julio de 2026 se aplica en forma provisoria el acuerdo entre la UE y el Reino Unido sobre Gibraltar. Se terminaron los controles rutinarios de personas en la frontera terrestre con España, y los controles Schengen pasaron al aeropuerto y al puerto. Desde esa fecha, quien necesita visa precisa una visa Schengen de corta estancia. Los argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos que entran sin visa a Schengen no la necesitan, pero llevá igual el pasaporte: la policía puede hacer controles puntuales.\n\nArriba del Peñón está la Upper Rock Nature Reserve, con los monos de Berbería, la cueva de San Miguel y los túneles del Gran Sitio. La entrada sale £30 adultos y £22 niños de 5 a 11 años según la guía gibraltar.com. En Gibraltar se usa la libra.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 80 km al oeste; colectivo a La Línea y cruce a pie"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño; evitar el mediodía de verano en el Peñón"
+        },
+        {
+          "label": "Entrada",
+          "value": "Reserva natural: £30 adultos, £22 niños 5-11, menores de 5 gratis (fuente: gibraltar.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Museo del Grabado Español Contemporáneo (con la muestra 'Dalí. Diez recetas de inmortalidad')",
+      "precio": "Entrada única 5 € (fuente: turismo.marbella.es, verificado octubre 2026). Muestra hasta el 15 de noviembre de 2026. Se paga en el museo, Calle Hospital Bazán; confirmá horario al +34 952 765 741"
+    },
+    {
+      "tipo": "Museo Ralli (arte latinoamericano y europeo)",
+      "precio": "Gratis (fuente: museoralli.es, verificado octubre 2026). Martes a viernes 10-17 h y sábados 10-15 h; cerrado del 22 de diciembre al 31 de enero"
+    },
+    {
+      "tipo": "Villa romana de Río Verde",
+      "precio": "Gratis, entrada libre (fuente: turismo.marbella.es, verificado octubre 2026). Viernes, sábados, domingos y feriados de 10.30 a 13.30"
+    },
+    {
+      "tipo": "Termas romanas de Las Bóvedas (San Pedro Alcántara)",
+      "precio": "Gratis, entrada libre (fuente: turismo.marbella.es, verificado octubre 2026). Sábados y domingos de 9 a 11 h, reservando en el Centro Cultural Rosa Verde (+34 952 76 87 67)"
+    },
+    {
+      "tipo": "Iglesia de Nuestra Señora de la Encarnación",
+      "precio": "Gratis la visita; conciertos de música clásica 15-25 € (fuente: guía Malaga Travel Guide, agregador, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Gibraltar: Upper Rock Nature Reserve (monos, cueva de San Miguel, túneles)",
+      "precio": "£30 adultos; £22 niños de 5 a 11 años; menores de 5 gratis (fuente: gibraltar.com, verificado octubre 2026)."
+    },
+    {
+      "tipo": "Colectivo a Ronda para la excursión (ida)",
+      "precio": "8,23 € Marbella-Ronda (fuente: tabla oficial de tarifas Avanza vigente desde el 1 de junio de 2026, verificado octubre 2026). Se compra en la estación de Marbella o en avanzabus.com"
+    },
+    {
+      "tipo": "Playas, paseo marítimo y Avenida del Mar (esculturas de Dalí)",
+      "precio": "Gratis (espacios públicos). Reposeras y sombrillas de los clubes de playa se pagan aparte"
+    },
+    {
+      "tipo": "Casco antiguo, Plaza de los Naranjos y restos del castillo",
+      "precio": "Gratis (espacio público)"
+    },
+    {
+      "tipo": "Sierra Blanca, La Concha y pinar de Nagüeles",
+      "precio": "Gratis (espacio natural)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Paseo en catamarán con avistamiento de delfines desde Puerto Banús",
+      "precio": "60 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Paseo en velero por Puerto Banús",
+      "precio": "Desde 49 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "2 a 3 horas",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Tour en kayak por la costa de Marbella",
+      "precio": "39 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Operadores de turismo activo vía Civitatis"
+    },
+    {
+      "actividad": "Paddle surf al atardecer",
+      "precio": "49 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "2 h 30 min",
+      "operador": "Operadores de turismo activo vía Civitatis"
+    },
+    {
+      "actividad": "Visita guiada por el casco antiguo de Marbella",
+      "precio": "25 € por persona; también hay free tour a la gorra (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "1 h 30 min a 1 h 45 min",
+      "operador": "Guías locales vía Civitatis"
+    },
+    {
+      "actividad": "Excursión organizada a Ronda",
+      "precio": "Desde 65 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "10 a 11 horas",
+      "operador": "Agencias de la Costa del Sol vía Civitatis"
+    },
+    {
+      "actividad": "Excursión al Caminito del Rey",
+      "precio": "Desde 80 € por persona (fuente: Civitatis, agregador, verificado octubre 2026)",
+      "duracion": "Unas 12 horas",
+      "operador": "Agencias de la Costa del Sol vía Civitatis"
+    },
+    {
+      "actividad": "Excursión de un día a Tánger (Marruecos)",
+      "precio": "Desde 148,50 € por persona (fuente: Civitatis, agregador, verificado octubre 2026). Revisá si tu pasaporte necesita visa para Marruecos",
+      "duracion": "Unas 15 horas",
+      "operador": "Agencias de la Costa del Sol vía Civitatis"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Colectivo urbano de Marbella (Avanza)",
+      "precio": "1,18 € el billete sencillo, se paga a bordo (fuente: marbella.avanzagrupo.com y tabla oficial de tarifas Avanza vigente desde el 1 de junio de 2026, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Red de líneas que une el centro, Puerto Banús, Nueva Andalucía y San Pedro Alcántara, más un servicio nocturno. Es la forma más barata de ir del centro a Puerto Banús. Horarios y próximos pasos en marbella.avanzagrupo.com. Los empadronados viajan gratis, pero eso no aplica al turista."
+    },
+    {
+      "medio": "Tarjebus (tarjeta recargable del urbano)",
+      "precio": "0,50 € por viaje con el descuento del 40 % aplicado (0,83 € sin descuento); la tarjeta cuesta 1,22 € y se carga de 5 a 50 € (fuente: marbella.avanzagrupo.com, verificado octubre 2026). Avanza informa que el descuento en bonos rige hasta el 31 de diciembre de 2026",
+      "duracion": "Variable",
+      "notas": "Conviene si te quedás varios días y usás el colectivo seguido. Se compra en las taquillas de la estación de Marbella, en San Pedro y en algunos kioscos de tabaco (expendedurías) del centro, y se recarga a bordo."
+    },
+    {
+      "medio": "Interurbano Marbella-San Pedro Alcántara (Avanza)",
+      "precio": "1,52 € (fuente: tabla oficial de tarifas Avanza vigente desde el 1 de junio de 2026, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Útil para ir a las termas de Las Bóvedas y la basílica de Vega del Mar. También sirve la línea L-79, que para en Puerto Banús y sigue hasta Estepona (3,98 € según la misma tabla). En las paradas en ruta se paga en efectivo al chofer, con billetes de hasta 20 €."
+    },
+    {
+      "medio": "Interurbano Marbella-Fuengirola (M-220 y M-060, Avanza)",
+      "precio": "4,05 € (fuente: tabla oficial de tarifas Avanza vigente desde el 1 de junio de 2026, verificado octubre 2026)",
+      "duracion": "Variable (la M-220 para en todas las paradas)",
+      "notas": "La M-220 para en todas las urbanizaciones de la costa cada media hora; la M-060 es semidirecta. En Fuengirola combinás con la línea 122 a Mijas Pueblo o con el tren de Cercanías a Málaga."
+    },
+    {
+      "medio": "Interurbano Marbella-Ojén (Avanza, L-82 y L-80)",
+      "precio": "1,47 € (fuente: tabla oficial de tarifas Avanza vigente desde el 1 de junio de 2026, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Para conocer Ojén, un pueblo blanco a los pies de la sierra. Para llegar al Refugio de Juanar y subir a La Concha vas a necesitar auto o taxi desde Ojén."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto de Málaga (AGP) → Estación de autobuses de Marbella",
+      "empresas": "Avanza (servicio común, Exprés y Multimedia). Parada en planta 0, llegadas, frente al intercambiador",
+      "precio": "6,48 € servicio común; 8,70 € Multimedia; 9,30 € Exprés (fuente: tabla oficial de tarifas Avanza vigente desde el 1 de junio de 2026, verificado octubre 2026). Venta en taquilla del aeropuerto (7.45 a 23 h) o en avanzabus.com",
+      "duracion": "40 minutos. Con el horario vigente desde el 14 de septiembre de 2026 salen micros entre las 8.45 y las 23.59"
+    },
+    {
+      "ruta": "Málaga ciudad (estación de autobuses) → Marbella",
+      "empresas": "Avanza (líneas común, directa, Multimedia y Exprés)",
+      "precio": "7,81 € común; 8,00 € directo; 9,25 € Multimedia; 9,80 € Exprés (fuente: tabla oficial de tarifas Avanza vigente desde el 1 de junio de 2026, verificado octubre 2026)",
+      "duracion": "Variable según el servicio; el Exprés es el más rápido. Marbella no tiene tren: si llegás en AVE a Málaga María Zambrano, la estación de micros está al lado"
+    },
+    {
+      "ruta": "Ronda → Marbella",
+      "empresas": "Avanza",
+      "precio": "8,23 € (fuente: tabla oficial de tarifas Avanza vigente desde el 1 de junio de 2026, verificado octubre 2026)",
+      "duracion": "Alrededor de 1 h 30 min (fuente: Omio, agregador), por una ruta de montaña con curvas"
+    },
+    {
+      "ruta": "Algeciras / La Línea (Gibraltar) → Marbella",
+      "empresas": "Avanza",
+      "precio": "La Línea 9,33 € común y 12,30 € Exprés; Algeciras 11,22 € común y 13,50 € Exprés (fuente: tabla oficial de tarifas Avanza vigente desde el 1 de junio de 2026, verificado octubre 2026)",
+      "duracion": "Variable según la parada y el servicio. Algeciras conecta en ferry con Ceuta y Tánger"
+    },
+    {
+      "ruta": "Madrid → Marbella en micro",
+      "empresas": "Interbus (ahora parte de Damas)",
+      "precio": "Unos 26 € el tramo (fuente: andalucia.com, guía, verificado octubre 2026)",
+      "duracion": "Unas 7 horas según la oficina de turismo de Marbella. Volar a Málaga suele ser más rápido"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Económico: hostales en el casco antiguo",
+      "nivel": 2,
+      "opciones": "La oferta barata es escasa y se agota en verano. Hostal del Pilar, en el casco antiguo a 5 minutos de la Plaza de los Naranjos: 60-90 € la doble en verano (fuente: guía Malaga Travel Guide, verificado octubre 2026). En Momondo se vio The Monkey Room, de 2 estrellas, desde 70 € la noche (fuente: Momondo, agregador, verificado octubre 2026). Kayak da un promedio de unos USD 88 por noche en hostales, con noviembre como el mes más barato (fuente: Kayak, agregador, verificado octubre 2026)"
+    },
+    {
+      "categoria": "Intermedio: aparthoteles en Nueva Andalucía",
+      "nivel": 3,
+      "opciones": "Detrás de Puerto Banús hay complejos de departamentos con cocina, como los de Pierre & Vacances: 80-130 € la noche por un dormitorio en julio (fuente: guía Malaga Travel Guide, verificado octubre 2026). Sirven para familias o grupos que quieren cocinar, pero conviene tener auto o usar el colectivo urbano. En julio y agosto los precios suben entre 40 y 60 % frente a la primavera, según la misma guía"
+    },
+    {
+      "categoria": "Superior: hoteles 4 estrellas y boutique en el centro",
+      "nivel": 4,
+      "opciones": "Hotel Lima, 4 estrellas en el centro a 550 m de la playa: 150-250 € en temporada alta. Hotel Claude, boutique en el casco antiguo: 130-220 € según la época. Fuerte Marbella, frente a la playa de La Fontanilla: desde unos 180 € en temporada media (fuente: guía Malaga Travel Guide, verificado octubre 2026). Reservá con tiempo para julio y agosto"
+    },
+    {
+      "categoria": "Lujo: Milla de Oro",
+      "nivel": 5,
+      "opciones": "Marbella Club Hotel, nacido en 1954 en la finca de Alfonso de Hohenlohe: desde unos 450 € la noche en julio y agosto y unos 250 € en mayo u octubre; el desayuno puede sumar unos 40 € por persona. Puente Romano Beach Resort: desde unos 400 € en temporada media y 800 € o más en pleno verano (fuente: guía Malaga Travel Guide, verificado octubre 2026). En julio de 2026 Marbella tuvo las tarifas hoteleras más altas de España según el INE (fuente: Travel Extra, verificado octubre 2026)"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Menú del día en el casco antiguo",
+      "nivel": 2,
+      "opciones": "Es la forma más barata de comer bien: tres pasos y bebida por unos 15-20 € al mediodía en los alrededores de la Plaza de los Naranjos (fuente: guía Malaga Travel Guide, verificado octubre 2026). En La Barbacana un comensal reportó en febrero de 2026 un menú de 15 € (fuente: Gastroranking, reseñas, verificado octubre 2026). Un café con tostada para el desayuno sale 3-5 € (misma guía)"
+    },
+    {
+      "tipo": "Tapas andaluzas: boquerones fritos, gambas al pil pil y tortilla",
+      "nivel": 2,
+      "opciones": "Bar El Estrecho, en la calle San Lázaro, es un clásico del casco antiguo: 3-5 € la tapa (fuente: guía Malaga Travel Guide, verificado octubre 2026). Pedí boquerones fritos (anchoas frescas rebozadas), gambas al pil pil (langostinos en aceite con ajo y guindilla) y tortilla española. En Bodeguita del Barrio, calle Aduar, probá las mollejas. Una caña de cerveza en la plaza ronda 3,50-4,50 € (misma guía)"
+    },
+    {
+      "tipo": "Cocina tradicional: rabo de toro y pescado",
+      "nivel": 3,
+      "opciones": "El Patio de Mariscal, en la calle Bermeja: platos principales de 18-25 €, con rabo de toro (guiso de cola de vaca) como especialidad. Restaurante Santiago, justo afuera del casco antiguo: 30-50 € por persona con vino (fuente: guía Malaga Travel Guide, verificado octubre 2026). En los chiringuitos de playa probá los espetos de sardinas, asados en caña junto al fuego; no encontramos precios publicados para Marbella"
+    },
+    {
+      "tipo": "Alta cocina y dulces",
+      "nivel": 5,
+      "opciones": "Restaurante Messina, de autor: menú degustación desde unos 100 € por persona. Para algo dulce y barato, la Confitería Daver, en la avenida Miguel Cano: café con milhoja o palmera por 4-6 € (fuente: guía Malaga Travel Guide, verificado octubre 2026). En la Heladería Pura Vida, calle Alderete, una o dos bochas cuestan 3-5 € (misma guía)"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa, EES o ETIAS para ir a Marbella desde Latinoamérica?",
+      "a": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos no necesitan visa para turismo de hasta 90 días en un período de 180 dentro del espacio Schengen. Desde el 10 de abril de 2026 funciona completo el EES (Sistema de Entradas y Salidas): en el primer control fronterizo Schengen te registran huellas y foto, y ya no te sellan el pasaporte. Si volás a Málaga con escala en Madrid, París o Lisboa, ese registro lo hacés en la escala. El ETIAS, una autorización previa online, a octubre de 2026 todavía no se exige: la UE habló del último trimestre de 2026 sin anunciar una fecha concreta, y cuando arranque habrá un período de transición. Llevá pasaje de vuelta, reserva de alojamiento, seguro médico y fondos suficientes, porque pueden pedírtelos en migraciones."
+    },
+    {
+      "q": "¿Hay tasa turística en Marbella o en Andalucía?",
+      "a": "No. A octubre de 2026 Andalucía no cobra impuesto turístico y Marbella tampoco tiene uno propio. El tema está en debate: el alcalde de Sevilla pidió en septiembre de 2026 al nuevo consejero de Turismo de la Junta que autorice la tasa, y sindicatos y vecinos también la reclaman. Pero la Junta, que es la que tiene la competencia, no la aprobó, y Vox, que integra el gobierno andaluz, mantiene su rechazo. A diferencia de Cataluña o Baleares, entonces, en la factura del hotel no vas a ver ese cargo. Si el tema cambia, sería por una ley autonómica, así que antes de un viaje en 2027 conviene volver a chequear."
+    },
+    {
+      "q": "¿Cómo voy del aeropuerto de Málaga a Marbella?",
+      "a": "Lo más barato es el micro de Avanza, que sale de la planta 0 de llegadas, frente al intercambiador de transportes, y llega a la estación de autobuses de Marbella en unos 40 minutos. Según la tarifa oficial vigente desde junio de 2026, el servicio común cuesta 6,48 €, el Multimedia 8,70 € y el Exprés 9,30 €. Con el horario vigente desde el 14 de septiembre de 2026 hay salidas entre las 8.45 y las 23.59. La taquilla del aeropuerto abre de 7.45 a 23 h; los últimos servicios de la noche conviene comprarlos online en avanzabus.com. Ojo: la estación de Marbella queda a un kilómetro del centro, del otro lado de la autovía; desde ahí tomás un colectivo urbano (1,18 €) o caminás hasta el centro."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse?",
+      "a": "Para la ciudad en sí alcanzan dos días: uno para el casco antiguo, la Encarnación, el Museo del Grabado, la Avenida del Mar y la playa del centro; otro para caminar el paseo marítimo hasta Puerto Banús, con parada en el Museo Ralli y la villa romana de Río Verde. Ojo que la villa y las termas abren sólo algunos días: organizá esa jornada un viernes o un sábado. Con cuatro o cinco días sumás excursiones en colectivo: Ronda (8,23 € el pasaje), Mijas Pueblo vía Fuengirola y Gibraltar vía La Línea. Si te gusta caminar, reservá una mañana de otoño o primavera para subir a La Concha."
+    },
+    {
+      "q": "¿Conviene alquilar auto?",
+      "a": "Para moverte por Marbella no hace falta: el centro se camina, el colectivo urbano cuesta 1,18 € y los micros de Avanza llegan a Puerto Banús, San Pedro, Estepona, Fuengirola, Ronda y La Línea. Estacionar en el centro es caro y escaso. El auto sí sirve para subir a Sierra Blanca por el Refugio de Juanar, para recorrer pueblos blancos del interior como Istán o Benahavís y para quedarte en Nueva Andalucía o en urbanizaciones lejos del centro. Una estrategia es pasar los primeros días sin auto y alquilarlo sólo para las excursiones. Para manejar en España con licencia latinoamericana conviene llevar el permiso internacional de conducir además de tu licencia."
+    },
+    {
+      "q": "¿Marbella es muy cara? ¿Cómo ahorro?",
+      "a": "Es de los destinos más caros de España, sobre todo en verano: según datos del INE, en julio de 2026 tuvo las tarifas hoteleras más altas del país. Pero se puede ahorrar. Viajá en mayo, junio, septiembre u octubre; comé el menú del día al mediodía (15-20 € en el casco antiguo) en lugar de cenar frente a los yates; tapeá en bares de las calles de atrás de la Plaza de los Naranjos. Muchas visitas son gratis: el Museo Ralli, la villa romana de Río Verde, las termas de Las Bóvedas, la Avenida del Mar con las esculturas de Dalí, la Encarnación y todas las playas. Movete en colectivo y a pie, y dormí en hostal o aparthotel."
+    },
+    {
+      "q": "¿Es seguro? ¿Y qué tengo que saber para ir a Gibraltar?",
+      "a": "Como en cualquier zona turística muy concurrida, el riesgo principal son los robos menores. Tomá las precauciones de siempre: celular y billetera guardados en playas, en Puerto Banús de noche y en el micro. Para Gibraltar: desde el 15 de julio de 2026 rige en forma provisoria el acuerdo UE-Reino Unido, se levantaron los controles rutinarios en la frontera de La Línea y Gibraltar sigue la política de visas Schengen. Si entrás a Schengen sin visa, no necesitás otra. Llevá igual el pasaporte, porque puede haber controles puntuales. Allá se paga en libras y la reserva natural del Peñón sale £30 por adulto."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Turismo de Marbella — «Historia de la ciudad»: https://turismo.marbella.es/descubre/historia-de-la-ciudad.html",
+      "Wikipedia (ES) — «Marbella»: https://es.wikipedia.org/wiki/Marbella",
+      "Wikipedia (ES) — «Puerto Banús»: https://es.wikipedia.org/wiki/Puerto_Ban%C3%BAs",
+      "Turismo de Marbella — «Sobre Marbella: datos geográficos y administrativos»: https://turismo.marbella.es/descubre/sobre-marbella.html",
+      "The Local — «9 in 10 new residents on the padrón in Marbella are foreign»: https://www.thelocal.es/20260205/today-in-spain-a-roundup-of-the-latest-news-on-thursday-64"
+    ],
+    "que_ver_atracciones": [
+      "Turismo de Marbella — «Plaza de los Naranjos»: https://turismo.marbella.es/vive/cultura/patrimonio-historico/casco-historico/plaza-de-los-naranjos.html",
+      "Turismo de Marbella — «Castillo de Marbella: Alcazaba y Muralla»: https://turismo.marbella.es/vive/cultura/patrimonio-historico/casco-historico/castillo-de-marbella-alcazaba-y-muralla.html",
+      "Turismo de Marbella — «Iglesia de Ntra. Sra. de la Encarnación»: https://turismo.marbella.es/vive/cultura/patrimonio-historico/casco-historico/iglesia-de-ntra-sra-de-la-encarnacion.html",
+      "Turismo de Marbella — «Hospital Bazán - Museo del Grabado»: https://turismo.marbella.es/vive/cultura/patrimonio-historico/casco-historico/hospital-bazan-museo-del-grabado.html",
+      "Turismo de Marbella — «Dalí - Diez recetas de inmortalidad»: https://turismo.marbella.es/agenda/dali-diez-recetas-de-inmortalidad.html",
+      "Turismo de Marbella — «Villa Romana de Río Verde»: https://turismo.marbella.es/vive/cultura/patrimonio-historico/arqueologia/villa-romana-de-rio-verde.html",
+      "Turismo de Marbella — «Termas Romanas de las Bóvedas»: https://turismo.marbella.es/vive/cultura/patrimonio-historico/arqueologia/termas-romanas-de-las-bovedas.html",
+      "Turismo de Marbella — «Basílica Paleocristiana de Vega del Mar»: https://turismo.marbella.es/vive/cultura/patrimonio-historico/arqueologia/basilica-paleocristiana-de-vega-del-mar.html",
+      "Turismo de Marbella — «Avenida del Mar»: https://turismo.marbella.es/vive/naturaleza/parques-y-jardines/avenida-del-mar.html",
+      "Turismo de Marbella — «Puerto Banús»: https://turismo.marbella.es/vive/mar/puertos/puerto-banus.html",
+      "Turismo de Marbella — «Playas»: https://turismo.marbella.es/vive/mar/playas.html",
+      "Turismo de Marbella — «Sierra Blanca»: https://turismo.marbella.es/vive/naturaleza/sierra-blanca.html",
+      "Museo Ralli — «Museo Ralli Marbella»: https://museoralli.es/",
+      "Mancomunidad de Municipios Costa del Sol Occidental — «Ruta a La Concha»: https://mancomunidad.org/wp-content/documentos/1554.pdf",
+      "Wikipedia (ES) — «Puente Nuevo (Ronda)»: https://es.wikipedia.org/wiki/Puente_Nuevo_(Ronda)",
+      "Wikipedia (ES) — «Mijas»: https://es.wikipedia.org/wiki/Mijas",
+      "Gibraltar.com — «The Upper Rock Nature Reserve»: https://gibraltar.com/en/travel/see-and-do/upper-rock-nature-reserve/the-upper-rock-nature-reserve.php"
+    ],
+    "como_llegar_transporte": [
+      "Avanza Málaga — «Tarifas Marbella Estación Bus (vigentes desde 1 de junio de 2026)»: https://malaga.avanzagrupo.com/archivos/files/Tarifas/tarifas_20260601%20Marbella%20Estacion%20Bus.pdf",
+      "Avanza Málaga — «Horarios Aeropuerto (desde 14 de septiembre de 2026)»: https://malaga.avanzagrupo.com/archivos/files/Horarios%202026/Horarios%20Aeropuerto.pdf",
+      "Avanza Málaga — «Destinos: Aeropuerto»: https://malaga.avanzagrupo.com/es/destinos/aeropuerto",
+      "Urbanos de Marbella (Avanza) — «Información sobre tarifas y títulos de transporte»: https://marbella.avanzagrupo.com/es/tarifas-y-titulos-de-transporte/informacion-sobre-tarifas-y-titulos-de-transporte",
+      "Aena — «Aeropuerto de Málaga-Costa del Sol: autobús»: https://www.aena.es/es/malaga-costa-del-sol/como-llegar/autobus.html",
+      "Turismo de Marbella — «Movilidad»: https://turismo.marbella.es/descubre/movilidad.html",
+      "Turismo de Marbella — «Cómo llegar»: https://turismo.marbella.es/descubre/como-llegar.html",
+      "Turismo de Mijas — «How to get there»: https://turismo.mijas.es/en/basic-information/how-to-get-there",
+      "Andalucia.com — «Marbella bus services»: https://andalucia.com/travel/bus/marbella.htm"
+    ],
+    "visado_fronteras": [
+      "France Diplomatie — «EES: the new European border Entry/Exit System goes live on 10 April 2026»: https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/ees-le-nouveau-systeme-europeen-de-gestion-des-frontieres-entre-en-service-le-10-avril-2026",
+      "HM Government of Gibraltar — «Technical Notice: reminder concerning visa arrangements (558/2026)»: https://www.gibraltar.gov.gi/press-releases/technical-notice-reminder-concerning-visa-arrangements-5582026-12201",
+      "HM Government of Gibraltar — «Government statement on entry requirements and travel (582/2026)»: https://www.gibraltar.gov.gi/press-releases/government-statement-on-entry-requirements-and-travel-5822026-12228",
+      "Al Jazeera — «Gibraltar border controls lifted: Is it part of Schengen, the UK – or both?»: https://aljazeera.com/news/2026/7/15/gibraltar-border-controls-lifted-is-it-part-of-schengen-the-uk-or-both"
+    ],
+    "tasa_turistica": [
+      "El Español — «El alcalde de Sevilla se reúne con el nuevo consejero de Turismo para pedir la tasa turística»: https://www.elespanol.com/sevilla/20260918/alcalde-sevilla-reune-nuevo-consejero-turismo-pedir-tasa-turistica/1003744388454_0.html",
+      "elDiario.es — «El alcalde de Sevilla llamará a la puerta de Vox en la Junta para reclamarle la tasa turística»: https://www.eldiario.es/sevilla/alcalde-sevilla-pp-llamara-puerta-vox-junta-reclamarle-tasa-turistica-ciudad-necesita_1_13429113.html",
+      "Moncloa.com — «El Ayuntamiento de Sevilla impulsa la tasa turística y la patronal hotelera la rechaza: la Junta tiene la última palabra»: https://www.moncloa.com/2026/08/06/tasa-turistica-sevilla-ayuntamiento-patronal-3411627/"
+    ],
+    "alojamiento_gastronomia": [
+      "Malaga Travel Guide — «Best hotels in Marbella 2026»: https://www.malagatravelguide.net/marbella/best-hotels-in-marbella-2026/",
+      "Malaga Travel Guide — «Marbella Old Town: things to do, see & eat»: https://www.malagatravelguide.net/marbella/old-town/",
+      "Travel Extra — «Marbella posts highest hotel rates in Spain»: https://www.travelextra.ie/marbella-posts-highest-hotel-rates-in-spain/",
+      "Momondo — «Hoteles en Marbella»: https://www.momondo.es/hoteles/marbella",
+      "Kayak — «Los hostales de Marbella»: https://www.es.kayak.com/Hoteles-en-Marbella_Albergue.Thostel.19758.hotel.ksp",
+      "Gastroranking — «La Barbacana en Marbella»: https://gastroranking.es/r/la-barbacana_59565/",
+      "Civitatis — «Excursiones y actividades en Marbella»: https://www.civitatis.com/es/marbella/"
+    ]
+  }
+}
