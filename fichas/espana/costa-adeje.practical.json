@@ -1,0 +1,553 @@
+{
+  "slug": "costa-adeje",
+  "name": "Costa Adeje",
+  "region": "Tenerife (Canarias)",
+  "lat": 28.0868,
+  "lon": -16.7376,
+  "datosRapidos": [
+    {
+      "label": "Municipio e isla",
+      "value": "Costa Adeje es la franja turística del municipio de Adeje, en el suroeste de la isla de Tenerife, provincia de Santa Cruz de Tenerife, comunidad autónoma de Canarias (España). No es una ciudad aparte: es una entidad de población formada por núcleos como La Caleta, El Duque, Fañabé, Torviscas, San Eugenio, El Beril, Playa Paraíso y Callao Salvaje, a unos 7 km del pueblo de Adeje, que está más arriba, a 295 m sobre el mar. El municipio entero tiene 50.021 habitantes (INE 2025) y es el quinto más poblado de Tenerife, aunque en temporada alta la población real se dispara por los turistas alojados. Tiene unos 26 km de costa y varias playas de arena aptas para el baño, unidas por un paseo marítimo. Se la conoce por su concentración de hoteles de cinco estrellas, por el parque acuático Siam Park y por ser una de las tres grandes zonas turísticas de la isla, junto a Playa de las Américas-Los Cristianos y Puerto de la Cruz. Detrás de los hoteles queda la parte que mucha gente no ve: el Barranco del Infierno, la Casa Fuerte del siglo XVI y el casco viejo de Adeje, que fue cabeza de uno de los nueve menceyatos (reinos guanches) de la isla antes de la conquista castellana."
+    },
+    {
+      "label": "Moneda e idioma",
+      "value": "Se paga en euros. El idioma es el castellano, con acento y palabras canarias: a los colectivos les dicen 'guaguas' y a las papas, 'papas', como en el Río de la Plata. En la zona turística vas a escuchar mucho inglés y alemán, y muchas cartas están en varios idiomas. Ojo con las guaguas de TITSA: en su web oficial avisa que por el momento no se admiten pagos en efectivo a bordo, así que llevá tarjeta bancaria o comprá la tarjeta ten+."
+    },
+    {
+      "label": "Mejor época",
+      "value": "Es un destino de todo el año: el clima del sur es agradable en cualquier época. Lo que cambia es el precio. Según Kayak, mayo es el mes más barato para dormir en Adeje (promedio de 203 € la noche) y diciembre el más caro (456 €). Si querés subir al Teide, revisá el pronóstico de montaña: arriba hace frío aunque abajo estés en malla, y el teleférico cierra por viento o hielo. En julio y agosto Siam Park abre de noche con la Siam Night."
+    },
+    {
+      "label": "Visado y entrada",
+      "value": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos no necesitan visa para turismo de hasta 90 días dentro del espacio Schengen, y Canarias forma parte de él. Desde el 10 de abril de 2026 el EES (Entry/Exit System) funciona a pleno: en tu primer control Schengen te toman huellas y foto en lugar de sellar el pasaporte. Si llegás con conexión en Madrid, ese control lo hacés en Madrid. El ETIAS (permiso previo online, 20 €) todavía no se cobra: la UE lo postergó a 2027."
+    }
+  ],
+  "intro": [
+    "Costa Adeje es el sur de Tenerife en versión cómoda: playas de arena clara con hamacas, un paseo marítimo que une una playa con otra y hoteles para todos los bolsillos, aunque abundan los caros. Muchos la eligen sólo para tirarse al sol, y está bien. Pero si la usás como base, en un radio corto tenés el pico más alto de España, acantilados de más de 600 metros, ballenas piloto frente a la costa y un barranco con cascada que sale del mismo pueblo de Adeje.",
+    "Lo que más vale la pena es combinar. Una mañana caminás el Barranco del Infierno, que sale del pueblo viejo de Adeje. Otro día subís al Teide en teleférico hasta los 3.555 metros, o madrugás para sacar el permiso del pico. Otro, salís desde Puerto Colón a ver delfines y calderones en un barco acreditado. Y a la tarde volvés a la playa del Duque o de Fañabé. Todo eso se puede hacer en guagua con la tarjeta turística de TITSA, sin alquilar auto.",
+    "También es un lugar que se puede hacer barato si sabés dónde mirar. Las playas son públicas y gratis, el paseo marítimo también, y una ración de pollo al ajillo en el restaurante donde arranca el sendero del Barranco del Infierno costaba 8,20 € según Diario de Avisos. La clave es reservar con tiempo lo que tiene cupo —el barranco, el pico del Teide, Masca— y dejar los días sueltos para la playa y el paseo."
+  ],
+  "historia_corta": "Antes de la conquista castellana, Tenerife estaba habitada por los guanches. Según las fuentes históricas, el mencey (rey) que gobernaba toda la isla, Tinerfe el Grande, residía en Adeje, y cuando la isla se dividió en nueve menceyatos a fines del siglo XIV, el de Adeje fue uno de los principales. Su último mencey, bautizado como don Diego de Adeje (Pelinor era su nombre guanche), firmó la paz con los castellanos y recibió tierras. Desde 1496 Alonso Fernández de Lugo repartió tierras en la zona y nació un caserío junto al río de Adeje. La familia genovesa Ponte instaló un ingenio de azúcar movido con agua del Barranco del Infierno y, para protegerlo de piratas ingleses y franceses, empezó en 1555 la Casa Fuerte. En 1560 se fundó la parroquia. En 1655 el rey Felipe IV le dio a Juan Bautista de Ponte la jurisdicción del lugar como señorío y el título de Villa: los Ponte fueron marqueses de Adeje. El señorío duró hasta 1811 y el municipio se constituyó en 1812 con la Constitución de Cádiz. En el siglo XIX y comienzos del XX la economía vivió de la cochinilla, el tomate y el plátano. Un incendio en 1902 dejó en ruinas la Casa Fuerte. El cambio grande llegó a fines de los años sesenta con el boom turístico del sur de Tenerife: sobre la costa agrícola crecieron hoteles, urbanizaciones y Puerto Colón, y así nació lo que hoy se llama Costa Adeje. En 2007 el Gobierno de Canarias le dio a Adeje el título de Villa Histórica, y en 2025 el municipio ya superaba los 50.000 habitantes.",
+  "queVer": [
+    {
+      "nombre": "Barranco del Infierno",
+      "desc": "Sendero de 6,5 km ida y vuelta por una reserva natural con cupo, que sale del casco de Adeje y termina en una cascada.",
+      "detalle": "El Barranco del Infierno es una Reserva Natural Especial dentro del municipio de Adeje y el paseo de naturaleza más fácil de combinar con días de playa. El nombre viene de lo abrupto del cañón, no de un calor especial. El sendero arranca a unos 350 metros sobre la costa, en la calle de los Molinos del pueblo viejo de Adeje, con vista a todo el sur.\n\nSon 6,5 km ida y vuelta, con unos 250 metros de desnivel y dificultad media-baja según la web oficial. Se tarda unas 3 horas. El recorrido va metiéndose en el barranco, con subidas, bajadas y tramos de escaleras, y termina en la cascada.\n\nReglas: la reserva previa online es obligatoria y hay franjas de entrada. En verano (1 de junio al 15 de septiembre) se entra de 8 a 10:30 y el parque cierra a las 13:30; en invierno (16 de septiembre al 31 de mayo), de 8:30 a 11:30, con cierre a las 14:30. No entran menores de 5 años, los menores de 16 van con un adulto, el casco es obligatorio (te lo dan en el punto de encuentro) y hace falta calzado para piedra. No se admiten animales.\n\nConviene ir temprano, llevar agua y reservar con unos días de anticipación.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sale del casco de Adeje (C/ de los Molinos), arriba de la zona hotelera"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; primera franja de la mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "16 € adulto no residente; 6 € residentes en Canarias con documentación (fuente: barrancodelinfierno.es, verificado octubre 2026). Reserva online obligatoria"
+        },
+        {
+          "label": "Duración",
+          "value": "Unas 3 horas ida y vuelta"
+        }
+      ]
+    },
+    {
+      "nombre": "Parque Nacional del Teide (teleférico y pico)",
+      "desc": "La excursión clásica desde el sur: teleférico hasta los 3.555 m y, con permiso y ecotasa, el sendero al cráter del Teide.",
+      "detalle": "El Teide es el pico más alto de España y el corazón de un parque nacional que la Unesco declaró Patrimonio Mundial. Desde Costa Adeje se llega en auto, en excursión organizada o en la guagua 342 de TITSA (Costa Adeje - Los Cristianos - Cañadas del Teide - El Portillo); revisá sus horarios en titsa.com.\n\nEl teleférico sale de la estación base, a 2.356 m, y en unos 8 minutos te deja en La Rambleta, a 3.555 m. Desde ahí hay senderos a miradores. El cráter, a 3.718 m, necesita permiso aparte: el sendero Telesforo Bravo (PNT 10) se reserva sólo por la web Tenerife ON, que libera cupos los lunes a las 7 con hasta 28 días de anticipación, y desde el 19 de enero de 2026 los no residentes pagan una ecotasa.\n\nEn octubre de 2026 el teleférico abre de 9 a 18 (hasta el 13) y de 9 a 17:30 (14 al 24); después, de 9 a 17. Cierra si hay viento o hielo.\n\nLlevá abrigo, protector solar y agua. Si tenés problemas cardíacos o respiratorios, consultá antes por la altura.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En el centro de la isla; desde Costa Adeje, guagua 342 de TITSA o auto"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año con buen pronóstico; temprano para evitar filas"
+        },
+        {
+          "label": "Entrada",
+          "value": "Teleférico ida y vuelta 42 € adulto no residente, 21 € menor (3 a 13 años); residentes 10,50 € y 5,25 € (fuente: volcanoteide.com, verificado octubre 2026). Ecotasa del pico 15 € no residentes (fuente: RTVC, enero 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo desde Costa Adeje"
+        }
+      ]
+    },
+    {
+      "nombre": "Siam Park",
+      "desc": "El parque acuático de temática tailandesa del Grupo Loro Parque, con la ola artificial de 4 m y toboganes de récord.",
+      "detalle": "Siam Park está en la misma Costa Adeje y pertenece al Grupo Loro Parque. Está ambientado en la arquitectura tailandesa y los usuarios de TripAdvisor lo eligieron como el mejor parque acuático del mundo entre 2014 y 2025.\n\nLo más conocido es la piscina de olas Wave Palace, donde se forman olas artificiales de hasta 4 metros, y la playa Siam Beach, con arena traída del Algarve. Para la adrenalina están la Tower of Power, de 28 metros, cuya parte final pasa por un acuario; The Dragon, con flotador para cuatro; y la montaña rusa acuática Singha. Para chicos está The Lost City, con 11 toboganes, y para descansar, el río lento Mai Thai River.\n\nHorario 2026: de 10 a 17 en invierno (1 de noviembre al 30 de abril) y de 10 a 18 en verano (1 de mayo al 31 de octubre); en julio y agosto hay Siam Night. Hamacas y flotadores están incluidos. Los menores de 16 entran con un adulto.\n\nEs un día entero. Comprá online antes y llegá a la apertura para hacer las atracciones grandes con menos fila.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Av. Siam s/n, Costa Adeje; salidas 28 o 29 de la autopista del sur"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; días de semana y a la apertura"
+        },
+        {
+          "label": "Entrada",
+          "value": "No residentes 44 € adulto y 32 € niño de 3 a 11 años; residentes canarios 22 € y 16 €; menores de 3 gratis (fuente: taquilla.com, revendedor, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa del Duque (El Duque)",
+      "desc": "La playa más elegante de Costa Adeje: 390 metros de arena clara frente a hoteles de lujo, con Bandera Azul y paseo marítimo.",
+      "detalle": "La playa del Duque es la postal de Costa Adeje. Tiene 390 metros de largo y 60 de ancho, arena clara y está frente a algunos de los hoteles más lujosos de la isla, según la web oficial de turismo de Tenerife. Tiene Bandera Azul, el distintivo de calidad del agua y los servicios.\n\nEs una playa urbana con todo: baños, duchas, vestuarios, bares, restaurantes y alquiler de hamacas y sombrillas. Tiene acceso para personas con movilidad reducida, estacionamiento con más de 100 plazas y paradas de guagua interurbana cerca.\n\nLo mejor es que el paseo marítimo la conecta con al menos otras ocho playas, así que podés caminar hacia La Caleta, al norte, o hacia Fañabé y Torviscas, al sur, mirando hoteles, jardines y el mar. Si estás con presupuesto justo, llevá tu toalla y sombrilla: la arena es pública y gratis, lo que se paga es la hamaca.\n\nPara nadar tranquilo, andá temprano: a media mañana se llena de gente de los hoteles de alrededor.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Extremo norte de la zona hotelera, entre Fañabé y La Caleta"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañana temprano para lugar, atardecer para la luz"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública). Hamacas y sombrillas se alquilan aparte"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o lo que quieras"
+        }
+      ]
+    },
+    {
+      "nombre": "Playas de Fañabé y Torviscas",
+      "desc": "Las playas más animadas del sur, con olas suaves, deportes náuticos y un paseo lleno de comercios. Ideales para ir con chicos.",
+      "detalle": "Fañabé y Torviscas son, según Turismo de Tenerife, dos de las playas más animadas del sur de la isla. Están una al lado de la otra, en el centro de Costa Adeje, y son las que vas a usar si te alojás en la zona media.\n\nFañabé tiene unos 600 metros de largo y 40 de ancho, arena clara, Bandera Azul y oleaje suave, así que funciona bien para familias. Tiene duchas, baños, hamacas y sombrillas de alquiler, información turística, zona infantil, estacionamiento y guagua interurbana. Desde la misma playa salen actividades náuticas.\n\nTorviscas es una de las playas más grandes y turísticas de la isla, con muchos servicios y ambiente de vacaciones.\n\nEl paseo marítimo que las une está lleno de restaurantes, heladerías y negocios. Es el lugar para caminar de noche cuando baja el calor. Hacia el sur sigue hasta Puerto Colón, el puerto deportivo desde donde salen la mayoría de los barcos de avistamiento de cetáceos.\n\nSi querés algo más tranquilo, caminá hacia El Duque o hacia La Caleta.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Costa Adeje, entre El Duque y Puerto Colón"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playas públicas). Hamacas, sombrillas y deportes náuticos se pagan aparte"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Avistamiento de cetáceos desde Puerto Colón",
+      "desc": "Salidas en barco para ver calderones tropicales y delfines mulares; elegí embarcaciones con el distintivo oficial Barco Azul.",
+      "detalle": "Las aguas del suroeste de Tenerife tienen poblaciones de calderón tropical (ballena piloto) y delfín mular, y por eso el avistamiento es una de las salidas más pedidas desde Costa Adeje. La mayoría de los barcos zarpan de Puerto Colón y de puertos cercanos como Los Cristianos.\n\nLo importante es elegir bien. En Canarias, las empresas autorizadas para la observación responsable llevan el distintivo Barco Azul: una bandera amarilla visible en el barco. Según la web oficial de turismo de Canarias, las embarcaciones no deben ir directo hacia los animales, tienen que mantener al menos 60 metros, apagar motores si los cetáceos se acercan mucho, y está prohibido nadar con ellos, alimentarlos o tocarlos. Si ves que un barco persigue a los animales, no es una buena señal.\n\nHay de todo: goletas de 2 horas, catamaranes de 3 a 5 horas con comida y veleros de 3 horas. Las más largas suelen incluir parada para bañarse.\n\nLlevá campera liviana, gorra, protector y pastilla para el mareo si sos sensible.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Puerto Colón, en el extremo sur de Costa Adeje"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañanas con mar calmo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Goleta 2 h desde 27 €; catamarán 3-5 h desde 47 €; velero 3 h 60 € (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Barranco de Masca",
+      "desc": "Bajada de unos 5 km desde el caserío de Masca hasta el mar, con acceso regulado, guagua obligatoria y regreso en barco.",
+      "detalle": "Masca es un caserío del Parque Rural de Teno, Bien de Interés Cultural como conjunto histórico, y su barranco es una de las caminatas más exigentes de Tenerife. El agua tardó unos cinco millones de años en tallar el cañón.\n\nSon unos 5 km sólo de bajada, desde los 750 metros del caserío hasta el nivel del mar, en unas 4 horas. La dificultad es ALTA según la web oficial: escalones, piedra suelta y riesgo de caídas. Es el lugar de Canarias con más rescates en los últimos años.\n\nCómo funciona desde diciembre de 2025: reservás turno en caminobarrancodemasca.com; vas hasta Santiago del Teide y tomás sí o sí la guagua 355 de TITSA hasta Masca (unos 20 minutos), con 1 hora de margen; hacés el control en el Centro de Visitantes 30 minutos antes; y bajás. Es obligatorio tener comprado el barco de regreso desde la ensenada hasta Los Gigantes (Discover Teno, Marítima Acantilados o Masca Express, que se turnan por día). De Los Gigantes volvés en las líneas 462 o 325.\n\nCalzado de montaña cerrado y documento obligatorios. El barranco abre sólo algunos días por semana.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Oeste de la isla; guagua 355 desde Santiago del Teide, regreso en barco a Los Gigantes"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Otoño a primavera; evitá días de lluvia o mar movido"
+        },
+        {
+          "label": "Entrada",
+          "value": "Desde 40,66 € el acceso (no incluye barco ni guagua); residentes en Tenerife gratis con reintegro (fuente: caminobarrancodemasca.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Unas 4 horas de bajada, más traslados: día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Acantilados de Los Gigantes",
+      "desc": "Paredes de basalto que caen al mar desde 300 a más de 600 metros; se ven mejor desde un barco que sale del puerto.",
+      "detalle": "Los acantilados de Los Gigantes son paredes verticales de basalto en la costa oeste de Tenerife, repartidas entre Buenavista del Norte y Santiago del Teide, dentro del Parque Rural de Teno. Caen sobre el océano desde alturas de entre 300 y más de 600 metros. Los guanches les decían la 'Muralla del Infierno'.\n\nAl pie de los acantilados creció el pueblo turístico de Los Gigantes, con puerto deportivo, y cerca están Puerto de Santiago y la playa de La Arena. Se pueden mirar desde el mirador del pueblo, pero la escala real se entiende desde el agua: muchas excursiones en barco combinan los acantilados con la ensenada de Masca y el avistamiento de cetáceos.\n\nDesde Costa Adeje llegás con TITSA: la línea 477 (Costa Adeje Estación - Los Gigantes directo) o la 473, que pasa por Callao Salvaje. También es el punto de llegada del barco obligatorio del Barranco de Masca.\n\nSi vas por tu cuenta, combiná: mañana en barco y tarde en la playa de La Arena.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Costa oeste; líneas 473 y 477 de TITSA desde la Estación de Costa Adeje"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañanas con mar calmo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Mirar es gratis. Excursión en barco Masca y Los Gigantes con avistamiento desde 62 € (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "La Caleta de Adeje",
+      "desc": "Antiguo pueblo de pescadores en el norte de Costa Adeje, con zona de baño rocosa, buen fondo para snorkel y pescado fresco.",
+      "detalle": "La Caleta es el rincón con más aire de pueblo de Costa Adeje. Era un núcleo de pescadores y hoy tiene un paseo con restaurantes que se especializan en pescado fresco. Parte de la zona está protegida como sitio de interés científico de La Caleta.\n\nLa zona de baño de La Puntilla y La Punta es rocosa, con arena de toba volcánica dorada. Según Turismo de Tenerife, su fondo es muy buscado para snorkel y buceo. Ojo: no tiene servicios de playa ni escaleras o rampas, así que no es para todos.\n\nSi caminás desde El Duque por el paseo, llegás en un rato, y más allá hay calas naturales más tranquilas, como La Enramada. La ermita de Nuestra Señora del Carmen está en el núcleo.\n\nEs un buen lugar para una cena de pescado mirando el mar. No es lo más barato de la zona, pero tiene más identidad de pueblo que el resto de la costa hotelera.\n\nAndá al atardecer y quedate a comer.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Extremo norte de Costa Adeje, caminando desde El Duque por el paseo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Casco histórico de Adeje (Casa Fuerte e iglesia de Santa Úrsula)",
+      "desc": "El pueblo viejo arriba de la costa: la fortaleza de los marqueses de Adeje, de 1555, y la parroquia junto a ella.",
+      "detalle": "Arriba de la zona hotelera está la Villa de Adeje, el pueblo original, a 295 metros sobre el mar. Vale una vuelta antes o después del Barranco del Infierno, que sale de ahí mismo.\n\nLa Casa Fuerte es una fortaleza que empezó a construirse en 1555, por encargo de Pedro de Ponte, para defender de piratas ingleses y franceses el ingenio azucarero de la familia. En 1655 pasó a ser la sede del señorío de los marqueses de Adeje. Llegó a ocupar unos 7.200 m², con torre de vigilancia, patio, herrería y graneros. Fue declarada Bien de Interés Cultural en 1986. Un incendio en 1902 la dejó en ruinas, entró en la Lista Roja del Patrimonio en Peligro en 2019 y desde entonces se rehabilita por partes.\n\nAl lado está la iglesia de Santa Úrsula, en la parte más antigua del pueblo; la parroquia se fundó en 1560.\n\nEn la calle de los Molinos hay restaurantes de comida canaria. Es un buen lugar para almorzar barato después de caminar. Subís en guagua desde la Estación de Costa Adeje (línea 417, por ejemplo).",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Villa de Adeje, a unos 7 km de la costa"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana, combinado con el Barranco del Infierno"
+        },
+        {
+          "label": "Entrada",
+          "value": "Ver el exterior es gratis. Las visitas al interior dependen de la rehabilitación: consultá cafutenerife.com"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Aqualand Costa Adeje",
+      "desc": "El otro parque acuático de Adeje, más chico y barato que Siam Park, con toboganes, piscina de olas y zona infantil.",
+      "detalle": "Aqualand Costa Adeje es un parque acuático más chico que Siam Park, y su entrada sale más barata. Es una alternativa razonable si vas con chicos chicos o si querés un día de toboganes sin pagar la entrada de Siam.\n\nTiene toboganes de distintas intensidades, piscinas y zonas infantiles. Además hace un show de delfines todos los días a las 15:30, según revendedores de entradas; si no te interesa ese tipo de espectáculo con animales en cautiverio, no hace falta verlo para aprovechar el parque.\n\nHorario según el revendedor taquilla.com: de 10 a 17 de septiembre a junio y de 10 a 18 en julio y agosto; las atracciones cierran media hora antes.\n\nHay tarifas por edad: adulto, niño, 'mini' y mayor de 65, así que una familia con chicos de distintas edades paga bastante menos que en Siam Park.\n\nLlevá protector, ojotas y comida si querés ahorrar; revisá antes qué permite el parque.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "San Eugenio, en Costa Adeje"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Adulto (11 a 65) 36 €; niño (5 a 10) 29 €; mini (3 a 4) 16 €; +65 29 €; menores de 2 gratis (fuente: taquilla.com, revendedor, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o día completo"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Barranco del Infierno (Reserva Natural Especial)",
+      "precio": "16 € adulto no residente; 6 € residentes en Canarias con documentación vigente; prohibido menores de 5 años (fuente: barrancodelinfierno.es, verificado octubre 2026). Reserva online obligatoria en la web oficial"
+    },
+    {
+      "tipo": "Teleférico del Teide (ida y vuelta)",
+      "precio": "Adulto no residente 42 €; menor de 3 a 13 años 21 €; residentes 10,50 € y 5,25 €. Un solo trayecto: 23,50 € y 11,75 € (fuente: volcanoteide.com, verificado octubre 2026). Comprar en volcanoteide.com; no incluye el permiso del pico"
+    },
+    {
+      "tipo": "Pico del Teide, sendero Telesforo Bravo (PNT 10)",
+      "precio": "Ecotasa desde el 19 de enero de 2026: no residentes 15 €; residentes en otras islas canarias 6 €; residentes en Tenerife y menores de 14 gratis (fuente: RTVC, enero 2026, verificado octubre 2026). Reserva sólo en tenerifeon.es"
+    },
+    {
+      "tipo": "Sendero Montaña Blanca - La Rambleta (PNT 07, Teide)",
+      "precio": "No residentes 6 € entre semana y 10 € fines de semana y feriados; resto de Canarias 3 € y 5 €; residentes en Tenerife gratis; se cobra de 9 a 15 (fuente: RTVC, enero 2026, verificado octubre 2026). Reserva en tenerifeon.es"
+    },
+    {
+      "tipo": "Camino del Barranco de Masca",
+      "precio": "Desde 40,66 € el acceso; residentes en Tenerife y federados canarios gratis con reintegro (fuente: caminobarrancodemasca.com, verificado octubre 2026). Barco de regreso y guagua 355 se pagan aparte"
+    },
+    {
+      "tipo": "Siam Park",
+      "precio": "No residentes: 44 € adulto, 32 € niño de 3 a 11; residentes canarios 22 € y 16 €; menores de 3 gratis (fuente: taquilla.com, revendedor, verificado octubre 2026). En Civitatis, 44 € con descuento sobre 48 € (Civitatis, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Twin Ticket Loro Parque + Siam Park",
+      "precio": "Desde 78 € (fuente: Civitatis, verificado octubre 2026). El Loro Parque está en Puerto de la Cruz, en el norte"
+    },
+    {
+      "tipo": "Aqualand Costa Adeje",
+      "precio": "Adulto 36 €; niño de 5 a 10 años 29 €; mini de 3 a 4 años 16 €; +65 29 €; menores de 2 gratis (fuente: taquilla.com, revendedor, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Playas de Costa Adeje (El Duque, Fañabé, Torviscas, La Caleta)",
+      "precio": "Gratis (playas públicas). Se pagan aparte las hamacas y sombrillas"
+    },
+    {
+      "tipo": "Acantilados de Los Gigantes y paseo marítimo",
+      "precio": "Gratis desde tierra y desde el paseo"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Paseo en goleta con avistamiento de delfines y ballenas",
+      "precio": "27 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Operadores de Puerto Colón y Los Cristianos (elegí barcos con distintivo Barco Azul)"
+    },
+    {
+      "actividad": "Catamarán ecológico con avistamiento y escucha de cetáceos, con comida",
+      "precio": "Desde 47 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "3 a 5 horas",
+      "operador": "Operadores con distintivo Barco Azul desde Puerto Colón"
+    },
+    {
+      "actividad": "Excursión al Teide con entrada al teleférico, desde el sur",
+      "precio": "Desde 92 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "7 a 9 horas",
+      "operador": "Agencias con recogida en Costa Adeje, Los Cristianos y Playa de las Américas"
+    },
+    {
+      "actividad": "Excursión en barco a Masca y Los Gigantes con avistamiento",
+      "precio": "Desde 62 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "4,5 a 8,5 horas",
+      "operador": "Operadores náuticos con salida desde el sur"
+    },
+    {
+      "actividad": "Tour en quad por el Teide",
+      "precio": "130 € (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "4 a 6 horas",
+      "operador": "Empresas de turismo activo del sur de Tenerife"
+    },
+    {
+      "actividad": "Parasailing en Costa Adeje",
+      "precio": "54 € (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "30 minutos a 1 h 10 min",
+      "operador": "Operadores náuticos de Costa Adeje"
+    },
+    {
+      "actividad": "Bautismo de buceo en Costa Adeje",
+      "precio": "65 € (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "1,5 a 2 horas",
+      "operador": "Centros de buceo de Costa Adeje"
+    },
+    {
+      "actividad": "Vuelo en parapente biplaza por el sur de Tenerife",
+      "precio": "Desde 114,99 € (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "15 a 30 minutos de vuelo",
+      "operador": "Pilotos de parapente biplaza del sur (Adeje)"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Guaguas TITSA: tarjeta turística de 1 día",
+      "precio": "10 € por día de uso ilimitado, más 2 € la tarjeta ten+ (fuente: titsa.com, verificado octubre 2026)",
+      "duracion": "Válida 24 horas desde el primer uso",
+      "notas": "Sirve en todas las líneas de guagua y en el tranvía, incluidas las del Teide (342) y Teno (355), que quedan afuera de los abonos de residentes. Se carga en máquinas de los aeropuertos, estaciones, kioscos y paradas del tranvía, o en la app ten+ móvil. Conviene el día que hacés excursión larga."
+    },
+    {
+      "medio": "Guaguas TITSA: tarjeta turística de 7 días",
+      "precio": "50 € por 7 días de uso ilimitado, más 2 € la tarjeta ten+ (fuente: titsa.com, verificado octubre 2026)",
+      "duracion": "Válida 7 días desde el primer uso",
+      "notas": "Es personal. Rinde si vas a usar la guagua casi todos los días: aeropuerto, Teide, Los Gigantes, Masca y Santa Cruz. Si sólo vas a moverte dentro de Costa Adeje, probablemente te alcance con el billete sencillo."
+    },
+    {
+      "medio": "Guaguas TITSA: billete sencillo, ida y vuelta o monedero",
+      "precio": "Según tarifa kilométrica; ida y vuelta desde 4,25 € con 10% de descuento en trayectos de 20 km o más; el monedero se recarga de 2 a 100 € (fuente: titsa.com, verificado octubre 2026)",
+      "duracion": "Variable según línea",
+      "notas": "TITSA avisa que por el momento no acepta efectivo a bordo: pagá con tarjeta bancaria, con la tarjeta ten+ o con la app. La Estación de Costa Adeje es el nudo de las líneas al aeropuerto (40), Santa Cruz (110 y 111), Los Gigantes (473 y 477), el Teide (342) y el pueblo de Adeje (417)."
+    },
+    {
+      "medio": "Alquiler de auto",
+      "precio": "Promedio de 10 €/día entre semana y 26 €/día en fin de semana en el aeropuerto Tenerife Sur, según Momondo; seguros y extras aparte (fuente: Momondo/Kayak, agregadores, verificado octubre 2026)",
+      "duracion": "A demanda",
+      "notas": "Te da libertad para el Teide, Masca y el norte. Ojo: para Masca no podés llegar en auto al inicio del sendero (se deja en Santiago del Teide) y el Cabildo prevé reserva de estacionamiento en el Teide desde fines de 2026. Llevá licencia de tu país y permiso internacional de conducir."
+    },
+    {
+      "medio": "A pie por el paseo marítimo",
+      "precio": "Gratis",
+      "duracion": "De El Duque a Puerto Colón, un paseo largo de playa en playa",
+      "notas": "El paseo une La Caleta, El Duque, Fañabé, Torviscas y Puerto Colón. Es la forma más agradable de moverte dentro de Costa Adeje, sobre todo al atardecer."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto Tenerife Sur (TFS) → Costa Adeje en guagua",
+      "empresas": "TITSA línea 40 (Costa Adeje Estación - Los Cristianos - Aeropuerto Sur); de noche, línea 711; también la 343 desde el norte",
+      "precio": "Tarjeta turística TITSA 10 € el día + 2 € la tarjeta (fuente: titsa.com, verificado octubre 2026); o tarifa kilométrica. Una guía de viaje cita 3,70 € el trayecto de la línea 40 (fuente: nomadotravel.app, agregador, verificado octubre 2026)",
+      "duracion": "30 a 40 minutos según la misma guía"
+    },
+    {
+      "ruta": "Aeropuerto Tenerife Sur (TFS) → Costa Adeje en traslado privado o taxi",
+      "empresas": "Plataformas de traslados (como MyTransfers) y taxis de la parada del aeropuerto",
+      "precio": "Sedán privado hasta 4 personas 55 € por trayecto (fuente: mytransfers.com, verificado octubre 2026). El taxi de la parada va con taxímetro y suplemento de aeropuerto",
+      "duracion": "Unos 18 km; unos 14 minutos sin tráfico según MyTransfers"
+    },
+    {
+      "ruta": "Aeropuerto Tenerife Norte (TFN) o Puerto de la Cruz → Costa Adeje",
+      "empresas": "TITSA línea 343 Puerto de la Cruz - Costa Adeje (exprés, por los aeropuertos Norte y Sur)",
+      "precio": "Tarjeta turística TITSA 10 € el día + 2 € la tarjeta, o tarifa kilométrica (fuente: titsa.com, verificado octubre 2026)",
+      "duracion": "Variable; cruza toda la isla por autopista"
+    },
+    {
+      "ruta": "Ferry desde La Gomera → Los Cristianos → Costa Adeje",
+      "empresas": "Fred. Olsen Express y otras navieras hasta el puerto de Los Cristianos; desde ahí, línea 40 de TITSA hasta la Estación de Costa Adeje",
+      "precio": "Ferry de 44,03 a 65,66 € por trayecto según fecha (fuente: Ferryscanner, agregador, actualizado mayo 2026, verificado octubre 2026)",
+      "duracion": "Unos 50 minutos el ferry rápido, más unos minutos de guagua o taxi"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Económico (hostel, surf camp y pensiones del pueblo)",
+      "nivel": 2,
+      "opciones": "The Treehouse Surf Camp desde 73 € la noche; Adeje Plaza, en el pueblo de Adeje, 111 €; Hotel Rural Fonda Central 125 € (fuente: Kayak, búsqueda para el 17-18 de octubre, verificado octubre 2026). Dormir en el pueblo viejo sale más barato que frente al mar y te deja al lado del Barranco del Infierno. Diciembre es el mes más caro según Kayak"
+    },
+    {
+      "categoria": "Apartamentos (ideal para familias o estadías largas)",
+      "nivel": 3,
+      "opciones": "Apartamentos Tinerfe Garden 75 € la noche; Domus Playa Paraíso 78 €; Sunset Bay Club 123 € (fuente: Kayak, verificado octubre 2026). Tener cocina te ahorra mucho en comidas: comprá en el supermercado y comé afuera sólo algunas noches. Reservá con al menos tres semanas para las mejores tarifas"
+    },
+    {
+      "categoria": "Hoteles de cuatro estrellas cerca de Fañabé",
+      "nivel": 4,
+      "opciones": "Gf Fañabe 131 € la noche; Hotel Best Jacaranda 132 €; Tagoro Family & Fun 156 €; H10 Costa Adeje Palace 188 € (fuente: Kayak, verificado octubre 2026). Según Kayak, diciembre es el mes más caro y mayo el más barato"
+    },
+    {
+      "categoria": "Lujo frente a El Duque y La Caleta",
+      "nivel": 5,
+      "opciones": "Vincci Selección La Plantación del Sur desde 363 €; Bahía del Duque desde 437 €; Royal Hideaway Corales Beach (sólo adultos) desde 569 € la noche (fuente: Kayak, búsqueda para el 17-18 de octubre, verificado octubre 2026). Adeje tiene una de las mayores concentraciones de hoteles de cinco estrellas de Europa, según Wikipedia"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Pollo al ajillo y cocina canaria al lado del Barranco del Infierno",
+      "nivel": 1,
+      "opciones": "El Restaurante Otelo, donde empieza el sendero del Barranco del Infierno, sirve pollo al ajillo desde 1988 y también conejo en salmorejo (adobado con ajo, pimentón y vinagre). La ración de cuatro piezas costaba 8,20 € (fuente: Diario de Avisos, octubre 2025, verificado octubre 2026). Abrió un segundo local en 1998. Pedí papas arrugadas con mojo de acompañamiento"
+    },
+    {
+      "tipo": "Quesos canarios de cabra",
+      "nivel": 2,
+      "opciones": "La Quesería Montesdeoca, en Costa Adeje, hace visitas de 1 hora con degustación de quesos de Tenerife desde 20 € (fuente: Civitatis, verificado octubre 2026). Es una buena forma de probar el queso de cabra canario antes de comprarlo para llevar"
+    },
+    {
+      "tipo": "Pescado fresco en La Caleta",
+      "nivel": 3,
+      "opciones": "La Caleta es la zona de los restaurantes de pescado. Pedí 'vieja' (el pez loro canario) a la plancha o sancochado con papas y mojo, o pescado del día. Restaurante La Vieja, en la avenida Las Gaviotas: 30-45 € por persona (fuente: Gastroranking, agregador, verificado octubre 2026). Masía del Mar, abierta en 1981 sobre la bahía, es otra referencia según Turismo de Tenerife"
+    },
+    {
+      "tipo": "Alta cocina con estrellas Michelin",
+      "nivel": 4,
+      "opciones": "El Rincón de Juan Carlos, en el quinto piso del hotel Royal Hideaway Corales, tiene dos estrellas Michelin y un menú degustación único con maridaje opcional; la Guía Michelin lo ubica en su categoría de precio más alta (€€€€). Si no cancelás con 24 horas, cobran 150 € por comensal (fuente: Guía Michelin y barcelo.com, verificado octubre 2026). Reservá con semanas de anticipación"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa para ir a Tenerife?",
+      "a": "No, si tenés pasaporte de Argentina, Uruguay, Chile, México, Colombia o Perú y viajás como turista por hasta 90 días dentro de cualquier período de 180 en el espacio Schengen. Canarias es España y forma parte de Schengen. Desde el 10 de abril de 2026 el EES está plenamente operativo: en el primer control de frontera Schengen te registran huellas y foto en lugar del sello. Si llegás con conexión en Madrid u otra ciudad europea de Schengen, ese control lo hacés ahí, no en Tenerife Sur. El ETIAS (autorización online de 20 €) todavía no se pide: la UE lo postergó a 2027. Llevá pasaje de vuelta, reserva de alojamiento y seguro de viaje por si te los piden."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse en Costa Adeje?",
+      "a": "Con cinco o seis días hacés lo principal sin correr. Un día para el Teide (teleférico o pico con permiso). Una mañana para el Barranco del Infierno y la tarde en el pueblo viejo de Adeje. Un día para Siam Park. Medio día de avistamiento de cetáceos y otro medio para Los Gigantes. Si querés sumar el Barranco de Masca, agregá un día entero, porque entre la guagua obligatoria, la bajada y el barco se va toda la jornada. Lo demás, playa. Si tenés una semana o más, sumá el norte de la isla (La Laguna, La Orotava, Puerto de la Cruz) o una escapada en ferry a La Gomera desde Los Cristianos."
+    },
+    {
+      "q": "¿Puedo subir al pico del Teide por mi cuenta?",
+      "a": "Sí, pero con reserva. El teleférico te deja en La Rambleta, a 3.555 m, y para seguir hasta el cráter (3.718 m) por el sendero Telesforo Bravo necesitás un permiso que se saca sólo en la web Tenerife ON del Cabildo. Los cupos se liberan los lunes a las 7 de la mañana, con hasta 28 días de anticipación, y se agotan rápido. Desde el 19 de enero de 2026 los no residentes pagan una ecotasa de 15 € para ese sendero. El ticket del teleférico (42 € ida y vuelta para no residentes) es aparte y no incluye el permiso. Las reservas confirmadas no se reintegran salvo cierre por clima o si el teleférico no funciona. Llevá abrigo: arriba puede hacer frío intenso."
+    },
+    {
+      "q": "¿Me conviene alquilar auto o moverme en guagua?",
+      "a": "Para Costa Adeje no hace falta auto: las playas se unen por el paseo marítimo y hay guaguas a todo. La tarjeta turística de TITSA cuesta 10 € por día o 50 € por semana (más 2 € de la tarjeta) y sirve en todas las líneas, incluidas la del Teide y la de Masca. Ojo que TITSA no acepta efectivo a bordo por ahora. El auto sí suma si querés recorrer el norte o el Teide a tu ritmo, y en temporada baja los alquileres son baratos según los buscadores. Pero tené en cuenta que a Masca no podés llegar en auto al sendero y que el Cabildo prevé reserva de estacionamiento en el Teide."
+    },
+    {
+      "q": "¿Es seguro Costa Adeje?",
+      "a": "Es una zona turística con mucho movimiento de familias y servicios por todos lados. Los riesgos que más conviene tener en cuenta son otros. En el mar, respetá las banderas de las playas y no te metas en zonas rocosas con oleaje. En la montaña, el Barranco de Masca es el lugar de Canarias con más rescates en los últimos años según su web oficial: no lo hagas sin buen calzado, agua y estado físico, y si te pasa algo llamá al 112 indicando la placa de localización más cercana. En el Teide, la altura y el frío. En la ciudad, lo de siempre: no dejes cosas sueltas en la playa ni en el auto a la vista."
+    },
+    {
+      "q": "¿Cuándo es más barato ir?",
+      "a": "Según Kayak, en Adeje mayo es el mes más barato para dormir, con una media de 203 € la noche, y diciembre el más caro, con 456 €. También conviene reservar con unas tres semanas de anticipación. Como el clima del sur es bueno todo el año, evitar diciembre te ahorra bastante. Para ahorrar en el día a día: dormí en apartamento con cocina o en el pueblo de Adeje, usá la tarjeta turística de guaguas sólo los días de excursión, comé comida canaria en lugares como los del pueblo viejo y aprovechá que las playas y el paseo son gratis."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Adeje»: https://es.wikipedia.org/wiki/Adeje",
+      "Wikipedia (ES) — «Costa Adeje»: https://es.wikipedia.org/wiki/Costa_Adeje",
+      "Wikipedia (ES) — «Casa Fuerte de Adeje»: https://es.wikipedia.org/wiki/Casa_Fuerte_de_Adeje",
+      "Turismo de Tenerife — «Casa Fuerte»: https://www.webtenerife.co.uk/tenerife/the-island/municipalities/adeje/places-interest/casa-fuerte/"
+    ],
+    "que_ver_atracciones": [
+      "Barranco del Infierno (web oficial) — «Excursiones y actividades en Tenerife Sur»: https://www.barrancodelinfierno.es/",
+      "Camino del barranco de Masca (web oficial) — «Reserva tu visita al Camino del barranco de Masca»: https://caminobarrancodemasca.com/es/actividades/reservar/reserva-tu-visita-al-camino-de-masca/",
+      "Camino del barranco de Masca — «Empresas de transporte»: https://caminobarrancodemasca.com/es/empresas-colaboradoras-de-turismo-activo/empresas-transporte/",
+      "Turismo de Tenerife — «El Duque beach»: https://www.webtenerife.co.uk/what-see/beaches/el-duque/",
+      "Turismo de Tenerife — «Fañabé Beach»: https://www.webtenerife.co.uk/what-see/beaches/playa-fanabe/",
+      "Turismo de Tenerife — «La Puntilla and La Punta bathing area»: https://www.webtenerife.co.uk/what-see/beaches/zona-bano-puntilla-punta/",
+      "Wikipedia (ES) — «Siam Park»: https://es.wikipedia.org/wiki/Siam_Park",
+      "Wikipedia (ES) — «Acantilados de Los Gigantes»: https://es.wikipedia.org/wiki/Acantilados_de_Los_Gigantes",
+      "Hello Canary Islands (turismo oficial de Canarias) — «Happy cetaceans: how to watch them without disrupting their lives»: https://www.hellocanaryislands.com/experiences/happy-cetaceans-how-to-watch-them-without-disrupting-their-lives/"
+    ],
+    "precios_2026": [
+      "Volcano Teide (Teleférico del Teide) — «Tarifas y horarios»: https://www.volcanoteide.com/es/teleferico_del_teide/tarifas_y_horarios",
+      "RTVC — «El Cabildo de Tenerife activa la ecotasa para los senderos más emblemáticos del Teide»: https://rtvc.es/el-cabildo-de-tenerife-activa-la-ecotasa-para-los-senderos-del-teide-18-enero-2026/",
+      "Diario de Avisos — «Medidas de control, guaguas lanzadera y ecotasa en el Teide»: https://diariodeavisos.elespanol.com/2026/05/teide-ecotada-guaguas-lanzadera-control/",
+      "Taquilla.com (revendedor) — «Entradas Siam Park»: https://www.taquilla.com/entradas/siam-park",
+      "Taquilla.com (revendedor) — «Aqualand Costa Adeje»: https://www.taquilla.com/entradas/aqualand-costa-adeje",
+      "Civitatis — «Excursiones y actividades en Costa Adeje»: https://www.civitatis.com/es/costa-adeje/"
+    ],
+    "como_llegar_transporte": [
+      "TITSA — «Billetes y títulos de pago»: https://titsa.com/index.php/tus-guaguas/billetes-y-tarifas/billetes-y-titulos-de-pago",
+      "TITSA — «Aeropuerto Tenerife Sur»: https://titsa.com/index.php/tenerife-en-guagua/lineas-de-aeropuertos/aeropuerto-tenerife-sur",
+      "TITSA — «Tarifas vigentes»: https://titsa.com/index.php/tus-guaguas/billetes-y-tarifas/tarifas-vigentes",
+      "Nomado (guía de viaje, agregador) — «Cómo moverse por Tenerife: la guía completa de transporte»: https://www.nomadotravel.app/es/guides/getting-around-tenerife",
+      "MyTransfers — «Taxi o chófer privado desde Aeropuerto de Tenerife Sur a Costa Adeje»: https://www.mytransfers.com/es/destination/espana/aeropuerto-de-tenerife-sur-reina-sofia-tfs/costa-adeje/",
+      "Ferryscanner — «Ferry Tenerife - La Gomera»: https://www.ferryscanner.com/en/ferry-routes/ferry-tenerife-all-ports-la-gomera-all-ports",
+      "Momondo — «Coches de alquiler en Aeropuerto Tenerife Sur»: https://www.momondo.es/alquiler-de-coches/granadilla-de-abona-tenerife-sur-TFS-cap.ksp"
+    ],
+    "visados_entrada": [
+      "eucrim — «Entry/Exit System (EES) Fully Operational Since 10 April 2026»: https://eucrim.eu/news/entryexit-system-ees-fully-operational-since-10-april-2026/",
+      "InsideFlyer — «EU postpones ETIAS travel authorization to 2027»: https://insideflyer.com/posts/eu-postpones-etias-travel-authorization-to-2027/"
+    ],
+    "alojamiento_gastronomia": [
+      "Kayak — «Hoteles en Adeje»: https://www.kayak.es/Adeje-Hoteles.40433.hotel.ksp",
+      "Diario de Avisos — «El pollo al ajillo más famoso de Tenerife»: https://diariodeavisos.elespanol.com/2025/10/pollo-al-ajillo-tenerife/",
+      "Gastroranking (agregador) — «Restaurante La Vieja en Adeje»: https://gastroranking.es/r/restaurante-la-vieja_640",
+      "Guía Michelin — «El Rincón de Juan Carlos»: https://guide.michelin.com/ar/es/canarias/adeje/restaurante/el-rincon-de-juan-carlos-1194880",
+      "Barceló — «El Rincón de Juan Carlos, Royal Hideaway Corales»: https://www.barcelo.com/es-es/royal-hideaway-corales-resort/gastrocorales/el-rincon-de-juan-carlos/"
+    ]
+  }
+}
