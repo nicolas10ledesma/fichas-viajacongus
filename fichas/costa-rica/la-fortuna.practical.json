@@ -1,0 +1,598 @@
+{
+  "slug": "la-fortuna",
+  "name": "La Fortuna",
+  "region": "Alajuela (San Carlos)",
+  "lat": 10.4483,
+  "lon": -84.6422,
+  "datosRapidos": [
+    {
+      "label": "Distrito",
+      "value": "La Fortuna (La Fortuna de San Carlos, Costa Rica). Es un pueblo y distrito del cantón de San Carlos, en la provincia de Alajuela, en la llanura del norte del país, al pie del volcán Arenal. El distrito ocupa 229,7 km² y tenía 16.150 habitantes en el censo 2022 del INEC, según Wikipedia. Hasta 1948 se llamaba El Burío; el nombre actual lo eligieron vecinos que veían riqueza en sus tierras y ríos, según la miniguía oficial del Instituto Costarricense de Turismo (ICT). Hoy es el pueblo base para todo lo que rodea al Arenal: la misma miniguía calcula unos 3.000 turistas por día en temporada alta y alrededor de 110 hoteles. Se lo conoce por la Catarata Río Fortuna, de 70 metros, que administra la asociación de desarrollo del pueblo, y por las aguas termales que nacen del calor del volcán, al punto de que el ICT lo presenta como la 'capital termal de Costa Rica'. Desde acá salen las excursiones a Río Celeste, a Caño Negro, a los cañones y ríos de rafting y a las fincas de cacao y café. El pueblo en sí es chico y plano, con un parque central y una iglesia desde donde, en días despejados, se ve el cono del volcán. El volcán, el parque nacional y el lago tienen su propia ficha (Arenal)."
+    },
+    {
+      "label": "Moneda y pagos",
+      "value": "La moneda es el colón costarricense (₡). Casi todas las atracciones y operadores de tours publican precios en dólares, muchas veces 'más impuestos' (el IVA es de 13%), así que mirá si la tarifa ya lo incluye. Los buses, las sodas (comedores baratos de comida tica) y los estacionamientos informales cobran en colones. La Catarata, los termales grandes y casi todos los restaurantes aceptan tarjeta. Llevá efectivo en colones para buses, propinas y para los cuidacoches del río gratuito."
+    },
+    {
+      "label": "Mejor época",
+      "value": "Según la miniguía del ICT, enero, febrero, marzo y abril son los meses más calientes y con menos lluvia; mayo, junio, septiembre, octubre y noviembre son los más lluviosos. Las máximas pueden llegar a 33-35 °C y las mínimas bajar a 15-17 °C. En la seca hay más chances de ver el volcán, pero también más gente y termales que se agotan: reservá con tiempo de diciembre a abril. En la lluviosa, la Catarata baja con más agua y los precios de hotel bajan, aunque Río Celeste puede perder el color después de lluvias fuertes."
+    },
+    {
+      "label": "Visado",
+      "value": "Según las directrices de Migración publicadas en La Gaceta el 17 de noviembre de 2025 (El Financiero), argentinos, uruguayos, chilenos, mexicanos y peruanos están en el Grupo I: entran sin visa con pasaporte vigente y pueden quedarse hasta 180 días, según lo que otorgue el oficial. Los colombianos están en el Grupo III y necesitan visa consular, salvo que tengan visa de múltiples entradas o residencia vigente de Estados Unidos, Canadá o Schengen (C o D), o residencia en la Unión Europea, Suiza, Noruega, Islandia o Reino Unido."
+    }
+  ],
+  "intro": [
+    "La Fortuna es el pueblo donde se duerme, se come y se arma todo el viaje alrededor del volcán Arenal. Es chico, plano y caminable: un parque central con vista al cono, una iglesia blanca, sodas de casado barato y decenas de agencias de tours. A pocos kilómetros tenés una catarata de 70 metros donde te podés bañar, ríos de agua caliente gratis y complejos termales de todos los precios. Es la base práctica de la zona norte de Costa Rica.",
+    "Lo que más se hace desde acá es meterse al agua. Bajar los 530 escalones hasta la Catarata Río Fortuna, flotar en el río tibio de El Choyín al lado de la ruta, o pagar un día de piscinas termales en Baldi, Paradise, Ecotermales o Tabacón. Para los que buscan adrenalina hay barranquismo (canyoning) en cascadas, rafting en el río Balsa y canopy entre árboles. Para días tranquilos, fincas de cacao y café que muestran el proceso de punta a punta.",
+    "La Fortuna también funciona como trampolín. En un día se va y se vuelve de Río Celeste, el río turquesa del Parque Nacional Volcán Tenorio, o de Caño Negro, un humedal cerca de la frontera con Nicaragua que se recorre en lancha. Con buses directos desde San José y shuttles a casi todo el país, es una parada lógica entre la capital, Monteverde y Guanacaste. Conviene saber de antemano qué se paga en dólares, qué es gratis y qué está prohibido, como subir al Cerro Chato."
+  ],
+  "historia_corta": "Según la miniguía del ICT, el primer asentamiento familiar en la zona fue en 1914 y 1915, en el sector hoy llamado La Palma, y la comunidad tomó forma a principios de los años cuarenta con campesinos llegados de Ciudad Quesada, Grecia, Alajuela y otras partes de San Carlos, que vivían de la agricultura, la caza y la ganadería. El caserío se llamaba El Burío. Hasta 1948 conservó ese nombre, cuando Rufino Quesada, Antonio Hidalgo e Isolina Quesada impulsaron el cambio a La Fortuna por la riqueza natural de la zona. En 1950 los vecinos votaron en un plebiscito pasar del cantón de San Ramón al de San Carlos, y el 5 de febrero de 1952 un decreto ejecutivo lo creó como distrito. Durante dos décadas fue un pueblo agrícola y ganadero, con yuca, tiquizque, plátano y papaya. Todo cambió el 29 de julio de 1968, cuando el Arenal, que se creía un cerro dormido, entró en erupción: arrasó Tabacón y Pueblo Nuevo, al oeste, y dejó decenas de muertos (Wikipedia cita 82). La lava no llegó a La Fortuna. En los años siguientes el volcán siguió activo y, con el lago Arenal y los termales, atrajo a viajeros cada vez más numerosos. La población del distrito pasó de 2.931 habitantes en 1963 a 16.150 en 2022. El volcán dejó de expulsar lava hacia 2010, pero el turismo ya se había volcado al agua termal, la aventura y la naturaleza. La Catarata Río Fortuna, administrada desde hace décadas por la Asociación de Desarrollo Integral de La Fortuna (ADIFORT), fundada en 1969, financia con sus entradas obras de caminos, escuelas y seguridad del pueblo.",
+  "queVer": [
+    {
+      "nombre": "Catarata Río Fortuna (La Fortuna Waterfall)",
+      "desc": "Una caída de 70 metros en medio del bosque, a la que se baja por unos 530 escalones y donde se puede nadar en el río.",
+      "detalle": "La Catarata Río Fortuna es la atracción más visitada del pueblo y la única de su tipo administrada por la comunidad: la maneja ADIFORT, la Asociación de Desarrollo Integral de La Fortuna, una organización sin fines de lucro fundada en 1969. Lo que se cobra en la entrada financia caminos, escuelas, un hogar de niños y seguridad del pueblo.\n\nEl salto tiene 70 metros y cae en una reserva biológica de bosque húmedo a 520 metros sobre el nivel del mar. Desde el mirador de arriba se ve a unos 200 metros, sin escalones, y es la parte accesible para personas con discapacidad. Para llegar abajo hay que bajar unos 530 escalones de cemento con baranda y descansos cada cinco minutos. La bajada toma de 20 a 30 minutos; la subida, lo que den tus piernas.\n\nAbajo se forma una playa de río y te podés bañar; hay salvavidas. Arriba tenés baños, duchas, casilleros, un jardín de orquídeas y restaurante. Llevá calzado cerrado, traje de baño y toalla. No hay bus público hasta la entrada: se va en taxi (unos US$ 10 desde el centro, según ADIFORT), en auto, a caballo o caminando cuesta arriba desde el pueblo. Andá a las 7:00 para tener el pozo casi vacío.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 4 km del centro según Teletica; el cartel en el camino marca 5,5 km (SummitPost)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año. Temprano (abre 7:00) para evitar gente; con lluvia fuerte puede no dejarse nadar"
+        },
+        {
+          "label": "Entrada",
+          "value": "Extranjeros US$ 20 (9 años o más); menores de 8 gratis; nacionales con cédula US$ 10, niños nacionales de 9 a 17 US$ 5 y mayores nacionales US$ 5 (fuente: cataratalafortuna.com, sistema de reservas oficial de ADIFORT, verificado octubre 2026). Abre 7:00 a 17:00"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Aguas termales gratis del río Chollín (El Choyín)",
+      "desc": "Un río de agua caliente al costado de la ruta, frente a Tabacón, donde se entra gratis y se flota entre piedras.",
+      "detalle": "El Choyín (también escrito Chollín y apodado 'Tabaconcito') es un tramo del río termal que baja del lado del volcán y cruza la ruta 142, enfrente de la entrada del resort Tabacón. El agua llega caliente y forma pozas naturales entre piedras y raíces. No hay boletería ni horario: es un río público, y por eso es la opción favorita de mochileros y de familias ticas.\n\nNo esperes servicios. No hay baños, vestuarios ni casilleros. Al costado de la ruta aparecen personas con chaleco que cobran por 'cuidar' el auto: no son personal oficial y el monto cambia. Una guía de 2025 recomienda llevar unos ₡3.000 y negociar. Enfrente abrió un sector privado con estacionamiento, casilleros y comida, que cobra entrada.\n\nConviene ir muy temprano: la autora de esa guía llegó a las 6:00 y tuvo el río para ella sola. Los fines de semana se llena. Dejá lo valioso en el hotel, porque las guías mencionan robos en autos. Usá sandalias con agarre, porque las piedras resbalan, y no te metas con crecida. Si no tenés auto, el bus La Fortuna–Tilarán pasa por la ruta 142, pero la vuelta de noche se complica: un taxi es más práctico.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sobre la ruta 142 hacia el volcán, enfrente de la entrada de Tabacón"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Temprano a la mañana (antes de las 8:00) y entre semana"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (río público). Estacionamiento informal: presupuestá unos ₡3.000 (fuente: blog Sally Sees, abril 2025, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Tabacón Thermal Resort & Spa (pase de día)",
+      "desc": "El complejo termal más conocido de la zona: un río caliente natural con cascadas y pozas entre jardines tropicales.",
+      "detalle": "Tabacón está sobre la ruta 142, en el sitio del pueblo homónimo que la erupción de 1968 borró del mapa. Su atractivo es que no son piletas armadas: es el propio río termal, que corre entre jardines con cascadas, pozas y sectores más tranquilos. El agua va de tibia a bastante caliente según el tramo.\n\nEl pase de día da acceso a los ríos y pozas, y existen versiones con almuerzo o cena. Los menores de 16 tienen que ir con un adulto. Tabacón limita la cantidad de visitantes de día, así que en temporada alta (mediados de diciembre a principios de enero, Semana Santa y julio-agosto) hay que reservar con días de anticipación.\n\nEs la opción más cara de las termales con pase de día. La web oficial no muestra las tarifas en abierto y los blogs dan cifras distintas, de US$ 99 a US$ 125 por adulto, con subidas en fechas pico. Si tu presupuesto es ajustado, el río gratis de El Choyín está enfrente y es la misma agua, sin jardines ni servicios. El hotel de lujo está en la ficha de Arenal.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sobre la ruta 142, rumbo al volcán y al lago"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Entre semana y de tarde-noche; reservá en temporada alta"
+        },
+        {
+          "label": "Entrada",
+          "value": "Pase de día desde US$ 99 a US$ 125 adulto según el blog y la fecha; niños 6-11 US$ 55; menores de 6 gratis (fuente: blogs Soak Destinations y Avenly Lane, agregadores, 2026, verificado octubre 2026). Confirmá en tabacon.com"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o tarde completa"
+        }
+      ]
+    },
+    {
+      "nombre": "Baldi Hot Springs",
+      "desc": "Un parque termal grande de piscinas construidas, con 25 pozas alimentadas por cascadas y precio más bajo que Tabacón.",
+      "detalle": "Baldi es el complejo termal de piscinas construidas más grande de la entrada a La Fortuna. Según su web, tiene 25 piscinas de agua termal alimentadas por cascadas. Son piletas construidas, no un río, y el precio es bastante más bajo que el de Tabacón.\n\nAbre todos los días de 9:00 a 22:00, así que se puede ir después de una excursión y quedarse hasta la noche. Tiene tarifas diferenciadas para costarricenses y para extranjeros, y combos con almuerzo, cena o ambos. Las tarifas publicadas ya incluyen el IVA y la web dice que valen hasta el 10 de diciembre de 2026; en Semana Santa (jueves a domingo) se cobra más.\n\nLos menores de 5 años no pagan (hasta cinco por grupo) y desde los 11 se paga tarifa de adulto. Los casilleros y las toallas suelen cobrarse aparte, según revendedores. Es la opción más práctica si viajás con chicos o querés probar muchas piscinas distintas en una sola tarde.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En la entrada de La Fortuna, sobre la ruta hacia el volcán"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; de noche es más fresco y lindo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Extranjeros: adulto US$ 51, niño US$ 38; con una comida US$ 75 / US$ 56. Costarricenses: adulto US$ 34, niño US$ 26. IVA incluido; menores de 5 gratis (fuente: baldihotsprings.cr, tarifa válida hasta el 10/12/2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "3 a 5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Ecotermales Fortuna y Paradise Hot Springs (termales chicas)",
+      "desc": "Dos complejos más chicos y tranquilos, con cupo limitado: piscinas en el bosque sin el gentío de los grandes.",
+      "detalle": "Si querés termales sin multitud, hay dos opciones medianas. Ecotermales Fortuna trabaja con dos turnos para no superar su capacidad: de 10:00 a 16:00 y de 17:00 a 21:45, según su web. Tiene seis piscinas termales de 32 a 41 °C y dos de agua fría de montaña, y recibe unas 100 personas por día, según un revendedor. La entrada incluye toalla, casillero y duchas. En temporada alta (diciembre a abril) se agota: reservá con dos semanas. Los costarricenses y residentes tienen tarifa diferenciada mostrando documento.\n\nParadise Hot Springs abre de 11:00 a 21:00 y tiene cuatro piscinas y dos jacuzzis rodeados de jardín. Es de las más baratas con pase de día. La toalla y el casillero pueden pedir depósito en efectivo.\n\nNinguna de las dos tiene transporte propio: andá en taxi o auto. Son buena opción para una noche de relax después de la Catarata o del canyoning, y para parejas que prefieren silencio a toboganes.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Ambas sobre la ruta 142, entre el pueblo y el volcán"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Turno de tarde-noche; reservá de diciembre a abril"
+        },
+        {
+          "label": "Entrada",
+          "value": "Ecotermales US$ 43 adulto y US$ 25 niño de 5 a 11, más 13% de impuesto (fuente: Two Weeks in Costa Rica, revendedor, verificado octubre 2026). Paradise US$ 47 adulto, US$ 33 niño de 3 a 11, impuestos incluidos (fuente: fortunawelcome.com, agregador, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "3 a 4 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Centro de La Fortuna, parque central e Iglesia San Juan Bosco",
+      "desc": "El corazón del pueblo: un parque con el volcán de fondo, la iglesia principal y cuadras de sodas, agencias y tiendas.",
+      "detalle": "El centro de La Fortuna es compacto y se recorre caminando en una o dos horas. El punto de partida es el parque central, con bancos, jardines y una de las mejores vistas gratis del volcán Arenal en días despejados: el cono aparece detrás de las calles, como en la foto clásica del pueblo. Al lado está la parroquia San Juan Bosco, la iglesia principal, de fachada blanca y torre alta; adentro tiene un cielo raso abovedado de tablas de madera.\n\nSegún la miniguía del ICT, los hoteles económicos están en el pueblo, cerca de supermercados, farmacias y tiendas, y alrededor se concentran las agencias de tours. Es el lugar para comparar precios de excursiones antes de reservar, comer en una soda y cargar efectivo. Por las noches el movimiento sigue en bares y restaurantes, pero el pueblo es tranquilo.\n\nDesde el centro se puede caminar o tomar un taxi corto a la Catarata y a los termales. Si el volcán está tapado a la mañana, volvé al parque al atardecer: a veces se abre.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro del pueblo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano o atardecer, cuando se despeja el volcán"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Puentes Colgantes de Mistico (Mistico Arenal Hanging Bridges)",
+      "desc": "Un circuito por el bosque con puentes colgantes sobre las copas de los árboles, del otro lado del volcán, junto al lago Arenal.",
+      "detalle": "Es la excursión de naturaleza más fácil de hacer desde La Fortuna sin guía: un sendero por bosque lluvioso que cruza puentes colgantes sobre el dosel, donde se ven aves, monos y plantas desde arriba. El parque queda del otro lado del volcán, junto al lago, y la descripción completa (largo del sendero, puentes, horarios) está en la ficha de Arenal.\n\nLo que importa para armar el día desde el pueblo: el recorrido autoguiado lleva unas 2 horas y el guiado unas 2,5 horas. Con guía ves mucha más fauna, porque saben dónde buscar. Hay tour al atardecer y nocturno para ver ranas, kinkajús y reptiles, y un tour de observación de aves con equipo.\n\nCasi todas las agencias del centro venden el paseo con traslado; si vas por tu cuenta, necesitás auto o taxi. También se puede combinar con cabalgata en el mismo parque. Comprá en la web oficial para tener horario fijo; abre temprano (ver ficha Arenal), ideal para pájaros.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Del otro lado del volcán, junto al lago Arenal (ver ficha Arenal)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primeras horas de la mañana para aves; tarde para el tour nocturno"
+        },
+        {
+          "label": "Entrada",
+          "value": "Autoguiado US$ 32 + impuestos; guiado desde US$ 44 + impuestos; nocturno o al atardecer US$ 54 + impuestos (fuente: misticopark.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 2,5 horas más el traslado"
+        }
+      ]
+    },
+    {
+      "nombre": "Río Celeste (Parque Nacional Volcán Tenorio), en excursión",
+      "desc": "El río turquesa más famoso del país, con una catarata celeste, a una hora y media de auto desde La Fortuna.",
+      "detalle": "Río Celeste está dentro del Parque Nacional Volcán Tenorio y es la excursión de día completo más pedida desde La Fortuna. El color viene de un mineral con aluminio, silicio y oxígeno que recubre las piedras del lecho y refleja azul. Hay un punto, los Teñideros, donde dos ríos transparentes se juntan y el agua cambia de color.\n\nEl sendero completo tiene unos 5,4 km ida y vuelta; hasta la catarata son 2,7 km, con unos 250 escalones empinados para bajar al mirador. Después siguen la Laguna Azul, los Borbollones (un tramo donde el río burbujea) y los Teñideros. Dentro del parque está prohibido bañarse. El parque abre de 8:00 a 16:00 y lo último para empezar el sendero son las 14:00, con cupo de 1.000 personas por día.\n\nLa entrada no se vende en la puerta: hay que comprarla antes en serviciosenlinea.sinac.go.cr, eligiendo franja horaria. Si vas en tour, el operador se encarga. Después de lluvias fuertes el río puede verse marrón: mirá el pronóstico. Desde La Fortuna son unos 70 km y una hora y media de manejo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 70 km, 1,5 h en auto (blog My Tan Feet)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Estación seca (enero a abril) para el color más intenso"
+        },
+        {
+          "label": "Entrada",
+          "value": "Extranjeros US$ 12 adulto y US$ 5 niño de 2 a 12, más impuestos, compra previa en línea (fuente: blogs My Tan Feet, septiembre 2026, y Uprooted Traveler, abril 2026, agregadores, verificado octubre 2026); otros blogs dan US$ 15"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo (8 a 10 horas con traslado)"
+        }
+      ]
+    },
+    {
+      "nombre": "Refugio Nacional de Vida Silvestre Caño Negro, en excursión",
+      "desc": "Un humedal enorme cerca de Nicaragua, recorrido en lancha por el río Frío, para ver aves, caimanes, monos y perezosos.",
+      "detalle": "Caño Negro es un refugio de vida silvestre de unas 10.171 hectáreas creado en 1984, en los cantones de Los Chiles y Upala, cerca de la frontera con Nicaragua. Es sitio Ramsar (humedal de importancia internacional). Su laguna, de unas 800 hectáreas, se llena con el río Frío en la época de lluvias y en la seca se reduce a lagunas, canales y playas.\n\nEs uno de los mejores lugares del país para aves: en el área se registraron alrededor de 400 especies, con garzas, espátulas, ibis, cormoranes y aves migratorias. En lancha también se ven caimanes, lagartijas, tres tipos de monos y perezosos (miniguía del ICT).\n\nNo hay senderos: se recorre en bote. La excursión típica desde La Fortuna sale temprano, maneja unas dos horas hasta Los Chiles, navega unas dos horas por el río Frío y vuelve después de almorzar. Llevá el pasaporte (o copia con el sello de entrada), porque hay controles por la cercanía con la frontera. Repelente, gorra y binoculares.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unas 2 horas de manejo hasta Los Chiles"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Estación seca (enero a abril) para concentrar aves; con lluvia el humedal crece"
+        },
+        {
+          "label": "Entrada",
+          "value": "Refugio: extranjeros US$ 5; costarricenses ₡800; niños residentes ₡500 (fuente: visitcostarica.com, ICT, verificado octubre 2026). Abre 8:00 a 16:00. Casi siempre va incluido en el tour"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo (unas 8 horas)"
+        }
+      ]
+    },
+    {
+      "nombre": "Fincas de cacao y café (tours de chocolate)",
+      "desc": "Visitas a pequeñas fincas donde se ve el cacao y el café del árbol a la taza, con degustación y taller.",
+      "detalle": "Alrededor de La Fortuna hay varias fincas familiares que abrieron sus plantaciones al turismo. Son un plan ideal para un día de lluvia o para viajar con chicos. En el tour de chocolate te muestran la mazorca del cacao en el árbol, cómo se fermentan y secan las semillas, y al final molés y probás chocolate con distintos sabores. Rainforest Chocolate Tour es uno de los más conocidos y dura entre una hora y media y dos.\n\nNorth Fields Café combina café y chocolate en unas dos horas y media: recorrés la finca, ves el secado y el tostado del grano, y terminás con degustación. Hay versiones que suman caña de azúcar.\n\nLos precios cambian según el canal de venta y si incluyen o no impuestos y traslado: comprá en la web del operador o en una agencia del centro y preguntá por el total con el 13%. Muchos tienen varios horarios por día, así que se puede combinar con la Catarata o los termales.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Fincas a pocos kilómetros del centro; varias incluyen traslado"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; buena opción para días de lluvia"
+        },
+        {
+          "label": "Entrada",
+          "value": "Rainforest Chocolate Tour desde US$ 32 adulto (fuente: Expedia, agregador, verificado octubre 2026); North Fields café y chocolate US$ 38 adulto y US$ 29 niño de 6 a 12, más 13% (fuente: Two Weeks in Costa Rica, revendedor, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "El Salto del río Fortuna (la cuerda)",
+      "desc": "Una poza honda del río Fortuna, al lado del puente, donde la gente se tira desde una cuerda. Gratis y muy local.",
+      "detalle": "El Salto es un tramo del río Fortuna con una poza profunda en un pequeño cañón, muy cerca del pueblo, donde hay una cuerda para colgarse y largarse al agua. Es el plan gratis más popular entre mochileros y jóvenes ticos, sobre todo los fines de semana y en días de calor.\n\nSe llega estacionando arriba, junto al puente, y bajando por un sendero corto. Según una guía de viajes de 2025, se puede ir caminando desde el pueblo, lo que te ahorra el cobro informal de estacionamiento, que funciona igual que en El Choyín. Río arriba hay sectores más bajos y tranquilos para quedarse en el agua.\n\nNo hay guardavidas ni infraestructura. La salida de la poza por la roca es resbaladiza y el río crece rápido con lluvia en la montaña: si el agua viene turbia o fuerte, no te tires. Las 'Cataratas Escondidas' cercanas, que antes se visitaban gratis, tienen el acceso prohibido y vigilado desde fines de 2023, según la misma guía.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al lado del puente sobre el río Fortuna, cerca del pueblo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Estación seca y días de sol; evitá días de crecida"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (río público); estacionamiento informal (fuente: blog Sally Sees, abril 2025, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Cerro Chato y su laguna (prohibido subir)",
+      "desc": "El volcán apagado vecino del Arenal, con una laguna en el cráter: hoy no se puede visitar y hay multas millonarias.",
+      "detalle": "El Cerro Chato es un volcán viejo, pegado al Arenal, con una laguna verde en el cráter. Durante años fue una caminata famosa desde La Fortuna, y todavía aparece en blogs y en ofertas por redes. Hoy no se puede subir. Está dentro del Parque Nacional Volcán Arenal, en una zona de protección absoluta sin senderos habilitados, con pendientes fuertes, material inestable y sin servicios de emergencia, según el Minae. En julio de 2025 el ministerio denunció a una empresa que vendía por TikTok caminatas de 18 km al Cerro Chato y al cono del Arenal por ₡30.000.\n\nDesde el 30 de abril de 2026 rige la reforma a la Ley del Servicio de Parques Nacionales. Entrar a zonas no autorizadas se multa con 3 salarios base (₡1.386.600). Al operador o guía que lleve gente a zonas de alto riesgo le corresponden 10 salarios base (₡4.622.000). Un rescate se cobra aparte. En mayo de 2026 cuatro personas detenidas en la cima del Arenal fueron las primeras procesadas.\n\nSi te ofrecen el Cerro Chato, decí que no. Los accesos legales al parque son los sectores Coladas y Península (ver ficha Arenal). Desde la torre The Nest, en el Arenal Observatory Lodge, se lo ve de lejos.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al lado del volcán Arenal, dentro del parque nacional"
+        },
+        {
+          "label": "Mejor época",
+          "value": "No aplica: ingreso prohibido"
+        },
+        {
+          "label": "Entrada",
+          "value": "No se vende entrada: ingreso prohibido. Multa a visitantes ₡1.386.600 desde el 30/04/2026 (fuente: Delfino y CRHoy, mayo 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "No aplica"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Catarata Río Fortuna (ADIFORT)",
+      "precio": "Extranjeros 9 años o más US$ 20; menores de 8 gratis. Nacionales con cédula: adulto (19 a 64) US$ 10, niño de 9 a 17 US$ 5, de 0 a 8 gratis, mayor de 65 US$ 5 (fuente: cataratalafortuna.com, sistema de reservas oficial, verificado octubre 2026). Reserva en la web con horario de 7:00, 9:00, 11:00, 13:00 o 15:00, o pago en la entrada; abre 7:00 a 17:00"
+    },
+    {
+      "tipo": "Baldi Hot Springs (pase de día)",
+      "precio": "Extranjeros: solo termales adulto US$ 51, niño US$ 38; con almuerzo o cena US$ 75 / US$ 56; con las dos comidas US$ 99 / US$ 74. Costarricenses: adulto US$ 34, niño US$ 26. IVA incluido; menores de 5 gratis; desde 11 años tarifa de adulto (fuente: baldihotsprings.cr, válida hasta el 10/12/2026, verificado octubre 2026). Semana Santa más cara. Abre 9:00 a 22:00"
+    },
+    {
+      "tipo": "Tabacón (pase de día)",
+      "precio": "Desde US$ 99 a US$ 125 adulto según fecha; niños 6 a 11 US$ 55; menores de 6 gratis; con almuerzo o cena US$ 168 adulto y US$ 90 niño (fuente: blogs Soak Destinations y Avenly Lane, agregadores, 2026, verificado octubre 2026). La web oficial tabacon.com no muestra la tarifa en abierto: reservá ahí, con cupo limitado"
+    },
+    {
+      "tipo": "Ecotermales Fortuna",
+      "precio": "US$ 43 adulto, US$ 25 niño de 5 a 11, más 13% de impuesto; 4 años o menos gratis; incluye toalla y casillero (fuente: Two Weeks in Costa Rica, revendedor, verificado octubre 2026). Turnos 10:00-16:00 y 17:00-21:45 (ecotermalesfortuna.cr). Tarifa diferenciada para nacionales y residentes con documento"
+    },
+    {
+      "tipo": "Paradise Hot Springs",
+      "precio": "US$ 47 adulto, US$ 33 niño de 3 a 11; con almuerzo o cena US$ 74 adulto y US$ 41 niño; impuestos incluidos (fuente: fortunawelcome.com, agregador, verificado octubre 2026). Abre 11:00 a 21:00"
+    },
+    {
+      "tipo": "Río termal El Choyín (frente a Tabacón)",
+      "precio": "Gratis. Cuidacoches informales: presupuestá unos ₡3.000 (fuente: blog Sally Sees, abril 2025, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Puentes Colgantes de Mistico",
+      "precio": "Autoguiado US$ 32 + impuestos; guiado desde US$ 44 + impuestos; atardecer o nocturno US$ 54 + impuestos (fuente: misticopark.com, verificado octubre 2026). Compra en la web oficial o en agencias del centro"
+    },
+    {
+      "tipo": "Parque Nacional Volcán Tenorio (Río Celeste)",
+      "precio": "Extranjeros US$ 12 adulto y US$ 5 niño de 2 a 12, más impuestos (fuente: blogs My Tan Feet, septiembre 2026, y Uprooted Traveler, abril 2026, agregadores, verificado octubre 2026). Sólo compra previa en serviciosenlinea.sinac.go.cr con franja horaria (vigente desde agosto de 2023, según El Observador). No hay boletería"
+    },
+    {
+      "tipo": "Refugio de Vida Silvestre Caño Negro",
+      "precio": "Extranjeros US$ 5; costarricenses ₡800; niños residentes ₡500 (fuente: visitcostarica.com, ICT, verificado octubre 2026). Abre 8:00 a 16:00; casi siempre incluido en el tour en lancha"
+    },
+    {
+      "tipo": "El Salto del río Fortuna",
+      "precio": "Gratis (río público)"
+    },
+    {
+      "tipo": "Parque central e Iglesia San Juan Bosco",
+      "precio": "Gratis"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Barranquismo (canyoning) y rappel en cascadas",
+      "precio": "US$ 105 + impuestos por persona con traslado; combos con canopy o puentes US$ 197-202 (fuente: listados de Pure Trek en Expedia/Travelocity, agregadores, verificado octubre 2026)",
+      "duracion": "Unas 5 horas",
+      "operador": "Pure Trek Canyoning (La Fortuna)"
+    },
+    {
+      "actividad": "Rafting en el río Balsa (clase II-III)",
+      "precio": "Unos US$ 80 por adulto con traslado, refrigerio y almuerzo (fuente: listado de Desafío en Expedia, agregador, verificado octubre 2026)",
+      "duracion": "Medio día (unas 4 horas, salida 10:00)",
+      "operador": "Desafío Adventure Company y otros"
+    },
+    {
+      "actividad": "Canopy (tirolesas) y columpio Tarzán",
+      "precio": "Desde US$ 85 por adulto (fuente: Enter Costa Rica, socio de Ecoglide, verificado octubre 2026)",
+      "duracion": "Unas 2,5 horas",
+      "operador": "Arenal Ecoglide Park"
+    },
+    {
+      "actividad": "Tour de chocolate en finca",
+      "precio": "US$ 32 por adulto (fuente: Expedia, agregador, verificado octubre 2026)",
+      "duracion": "1,5 a 2 horas",
+      "operador": "Rainforest Chocolate Tour"
+    },
+    {
+      "actividad": "Tour de café y chocolate",
+      "precio": "US$ 38 adulto y US$ 29 niño de 6 a 12, más 13%; en Expedia US$ 46 (fuente: Two Weeks in Costa Rica y Expedia, revendedores, verificado octubre 2026)",
+      "duracion": "Unas 2,5 horas",
+      "operador": "North Fields Café"
+    },
+    {
+      "actividad": "Excursión a Río Celeste con traslado, guía, entrada y almuerzo",
+      "precio": "Desde US$ 127 por persona (fuente: Faro Travel en Rezdy, revendedor, verificado octubre 2026)",
+      "duracion": "Día completo",
+      "operador": "Faro Travel, Desafío Adventure Company y agencias del centro"
+    },
+    {
+      "actividad": "Safari en lancha por Caño Negro (río Frío) con almuerzo",
+      "precio": "US$ 94-99 por adulto con traslado, almuerzo y entradas (fuente: listados de Blue Pass y Ecoterra en Expedia, agregadores, verificado octubre 2026)",
+      "duracion": "Unas 8 horas",
+      "operador": "Blue Pass, Ecoterra, Desafío"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Taxi",
+      "precio": "Cerca de US$ 10 del centro a la Catarata (fuente: cataratalafortuna.com, ADIFORT, verificado octubre 2026)",
+      "duracion": "Trayectos cortos",
+      "notas": "Usá taxis formales. No hay bus público a la Catarata ni a casi ningún termal, así que el taxi es la forma práctica de moverse sin auto. Acordá el precio antes o pedí que use el taxímetro. Para volver de noche de los termales, pedí al taxista que te busque a una hora fija."
+    },
+    {
+      "medio": "Bus regional La Fortuna – Ciudad Quesada (por El Tanque o por Chachagua)",
+      "precio": "Ciudad Quesada–La Fortuna ₡1.640 (ruta 286; adulto mayor ₡820) o ₡1.700 (ruta 234), resolución RE-0118-IT-2026 del 02/09/2026 (fuente: ARESEP, pliego tarifario vigente, verificado octubre 2026)",
+      "duracion": "Recorrido de unos 44 km (ARESEP)",
+      "notas": "Salidas muy frecuentes de La Fortuna desde las 5:00 hasta la noche, por El Tanque o por Chachagua; empresa Transpisa, teléfono 2460-1012 (fuente: fortunawelcome.com). Ciudad Quesada es la cabecera del cantón, con hospital, bancos y conexiones a todo el norte."
+    },
+    {
+      "medio": "Auto de alquiler",
+      "precio": "US$ 50-100 por día en temporada alta sin seguro, más el seguro obligatorio de US$ 15-25 por día (fuente: blogs Drink Tea & Travel 2026 y Two Weeks in Costa Rica, verificado octubre 2026)",
+      "duracion": "Libre",
+      "notas": "Te da independencia para El Choyín temprano, los termales de noche y Río Celeste. Las rutas principales son de asfalto; no hace falta 4x4 para lo básico. Pedí la cotización con el seguro obligatorio incluido, que suele faltar en el primer precio. Ojo con los cuidacoches informales en los ríos."
+    },
+    {
+      "medio": "A pie o en bicicleta",
+      "precio": "Gratis caminando",
+      "duracion": "Variable",
+      "notas": "El pueblo es plano y se recorre a pie. A la Catarata se puede caminar desde el centro: los primeros tramos son de asfalto y luego grava, con subida constante (SummitPost). La miniguía del ICT sugiere alquilar bicicleta para pasear por poblados cercanos; preguntá precio en el centro, porque no encontramos tarifas publicadas."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "San José → La Fortuna en bus directo",
+      "empresas": "Servicio directo desde la Terminal 7-10 de San José (información 2519-9743 / 2519-9744)",
+      "precio": "₡3.920 (adulto mayor ₡2.940), ruta 214, resolución RE-0115-IT-2026 del 28/08/2026 (fuente: ARESEP, pliego tarifario vigente, verificado octubre 2026)",
+      "duracion": "Recorrido de unos 285 km según ARESEP. Salidas de San José 6:15, 8:40 y 11:50; de La Fortuna 9:00, 12:45, 14:45 y 16:10 (fortunawelcome.com)"
+    },
+    {
+      "ruta": "San José → Ciudad Quesada → La Fortuna en bus con transbordo",
+      "empresas": "Ruta 214 San José–Ciudad Quesada + ruta 286 o 234 Ciudad Quesada–La Fortuna (Transpisa)",
+      "precio": "San José–Ciudad Quesada ₡2.730-2.840 + Ciudad Quesada–La Fortuna ₡1.640-1.700 (fuente: ARESEP, pliego tarifario vigente, resoluciones de agosto y septiembre de 2026, verificado octubre 2026)",
+      "duracion": "Más salidas que el directo; útil si perdiste el bus o venís del norte"
+    },
+    {
+      "ruta": "Aeropuerto Juan Santamaría (SJO) → La Fortuna en shuttle",
+      "empresas": "Shuttles compartidos puerta a puerta (Costa Rica Shuttle y otros); traslados privados",
+      "precio": "Compartido desde US$ 85 por persona (fuente: Costa Rica Shuttle en Rezdy, verificado octubre 2026); privado desde US$ 195 (fuente: Pura Vida Traveling en Rezdy, verificado octubre 2026)",
+      "duracion": "Unas 3 a 4 horas"
+    },
+    {
+      "ruta": "Monteverde ↔ La Fortuna cruzando el lago (taxi-bote-taxi)",
+      "empresas": "Two Weeks in Costa Rica, Casa Batsu y otros operadores",
+      "precio": "Compartido US$ 25-35 por persona (fuente: webs de operadores en Rezdy y twoweeksincostarica.com, verificado octubre 2026)",
+      "duracion": "3 a 4 horas"
+    },
+    {
+      "ruta": "San Ramón → La Fortuna en bus (por La Tigra)",
+      "empresas": "Ruta 272 (Carbachez, teléfono 2451-1284)",
+      "precio": "₡2.660 (adulto mayor ₡2.000), resolución RE-0115-IT-2026 del 28/08/2026 (fuente: ARESEP, pliego tarifario vigente, verificado octubre 2026)",
+      "duracion": "Recorrido de unos 77 km (ARESEP). Salidas de San Ramón 5:30, 9:00, 12:30 y 16:00 (fortunawelcome.com)"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Hostels en el centro",
+      "nivel": 2,
+      "opciones": "La Fortuna tiene más de 20 hostels; la cama en dormitorio promedia unos US$ 13 la noche (fuente: Budget Your Trip, agregador, verificado octubre 2026). Selina La Fortuna tiene camas en dormitorio (Booking.com) y cuartos privados desde unos US$ 59 (fuente: Kayak, verificado octubre 2026). Arenal Backpackers Resort pide depósito de US$ 40 en efectivo al llegar (fuente: Booking.com, verificado octubre 2026). En temporada alta, reservá con anticipación"
+    },
+    {
+      "categoria": "Hotel sencillo en el pueblo",
+      "nivel": 3,
+      "opciones": "San Bosco Inn, a pasos del parque central, con dos piscinas y estacionamiento gratis: desde unos US$ 50-59 la noche en búsquedas de marzo; promedio de fin de semana US$ 80 en septiembre y US$ 97 en abril, el mes más caro (fuente: Kayak, verificado octubre 2026). Hay muchos hoteles parecidos en el centro, cerca de supermercados y buses"
+    },
+    {
+      "categoria": "Resort con termales propias sobre la ruta al volcán",
+      "nivel": 4,
+      "opciones": "Sobre la ruta 142 hay hoteles con vista al volcán y piscinas termales propias. Arenal Manoa & Hot Springs: US$ 372-454 la noche más impuestos según la fecha (fuente: Travelocity y Orbitz, enero-abril 2026, verificado octubre 2026). Arenal Kioro Suites & Spa: US$ 370-487 la noche (fuente: Travelocity, abril 2026, verificado octubre 2026). En temporada alta (diciembre a abril) suben"
+    },
+    {
+      "categoria": "Lujo en la selva",
+      "nivel": 5,
+      "opciones": "Nayara Springs, sólo adultos, con villas con piscina termal privada: desde US$ 984 la noche con impuestos para julio de 2026 (fuente: Expedia, verificado octubre 2026). Otras fechas aparecen entre US$ 810 y US$ 1.235 (Expedia/Travelocity). Tabacón, el otro gran resort de lujo, está en la ficha de Arenal"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Soda: casado y gallo pinto",
+      "nivel": 1,
+      "opciones": "El casado es el plato del día tico: arroz, frijoles, ensalada, plátano maduro y una carne a elegir. El gallo pinto (arroz con frijoles) es el desayuno. Soda La Hormiga, en el centro, sirve casados de pollo, res, pescado o cerdo por unos US$ 5 (fuente: Costa Rica Travel Life, blog, noviembre 2025, verificado octubre 2026). Soda Víquez y Soda Rodríguez son otras sodas baratas del centro. Llevá efectivo"
+    },
+    {
+      "tipo": "Comida casual: tica, mexicana y sushi",
+      "nivel": 2,
+      "opciones": "Restaurante Tierra Mia, cocina tica casera, con platos de US$ 5 a US$ 16; Chipotle's, tex-mex, platos de unos US$ 12; Kappa Sushi, unos US$ 10 por roll (fuente: Costa Rica Travel Life, blog, noviembre 2025, verificado octubre 2026). Mercadito Arenal, con platos de unos US$ 10 (misma fuente)"
+    },
+    {
+      "tipo": "Pollo a la leña, italiana y peruana",
+      "nivel": 3,
+      "opciones": "Pollo Fortuneño, pollo asado a la leña: US$ 11-35 según la porción; Anch'io, pizza y pasta: platos de US$ 12-15; Restaurante Café Mediterráneo: US$ 12-22 (fuente: Costa Rica Travel Life, blog, noviembre 2025, verificado octubre 2026). Piura – Terraza Peruana sirve pulpo a la parrilla y ceviches, en rango alto"
+    },
+    {
+      "tipo": "Parrilla y cocina de autor",
+      "nivel": 4,
+      "opciones": "Don Rufino es la mesa más reconocida del pueblo. Su carta publicada: entradas de ₡6.500 a ₡10.800, rib eye de 300 g ₡24.800, medallón de lomito ₡25.200, menú de degustación de 5 tiempos ₡44.000; precios con servicio (10%) e IVA (13%) incluidos (fuente: donrufino.com, carta de diciembre 2025, verificado octubre 2026). Conviene reservar para la cena"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Cuántos días necesito en La Fortuna?",
+      "a": "Con dos días completos alcanza para lo esencial: un día para la Catarata, el centro y termales a la noche, y otro para el volcán (Sector Coladas o Mistico, ver ficha Arenal). Con tres o cuatro días sumás una excursión de día completo, como Río Celeste o Caño Negro, y una actividad de aventura (canyoning, rafting o canopy). Dejá un día de margen si te importa ver el volcán despejado: se nubla seguido y no hay forma de predecirlo. Desde La Fortuna se sigue fácil hacia Monteverde (taxi-bote-taxi), Guanacaste o el Caribe."
+    },
+    {
+      "q": "¿Cuáles termales conviene elegir?",
+      "a": "Depende de la plata y del plan. Gratis está el río El Choyín, frente a Tabacón: agua caliente natural, sin servicios y con cuidacoches informales. Con presupuesto medio, Paradise (US$ 47 adulto, impuestos incluidos, según fortunawelcome.com) y Ecotermales (US$ 43 más impuestos, con cupo chico) son tranquilas. Baldi (US$ 51 extranjeros, IVA incluido, según su web) es grande, con 25 piscinas y menores de 5 gratis, práctica con chicos. Tabacón es la más cara (US$ 99 a 125 adulto según blogs de 2026) y la más linda, porque es un río termal entre jardines. Reservá de diciembre a abril."
+    },
+    {
+      "q": "¿Necesito visa para ir a Costa Rica?",
+      "a": "Según las directrices de Migración publicadas el 17 de noviembre de 2025 (El Financiero), argentinos, uruguayos, chilenos, mexicanos y peruanos están en el Grupo I: entran sin visa y pueden quedarse hasta 180 días, aunque el oficial puede otorgar menos (La Nación). Los colombianos están en el Grupo III: necesitan visa consular, salvo que tengan visa de múltiples entradas o residencia vigente de Estados Unidos o Canadá, visa Schengen C o D de múltiples entradas, o residencia en la Unión Europea, Suiza, Noruega, Islandia o Reino Unido. Su pasaporte debe tener al menos 90 días de vigencia. Si tenés otra nacionalidad, consultá en migracion.go.cr o en el consulado."
+    },
+    {
+      "q": "¿Puedo hacer todo sin auto?",
+      "a": "Sí, con algo más de plata en taxis. Los buses llegan directo desde San José (₡3.920, ARESEP 2026) y desde Ciudad Quesada y San Ramón. En el pueblo se camina. Pero no hay bus público a la Catarata ni a la mayoría de los termales, así que vas a usar taxi (unos US$ 10 a la Catarata, según ADIFORT) o tours con traslado incluido, que es lo que hace casi todo el mundo para Río Celeste, Caño Negro, rafting y canyoning. Con auto ganás libertad para ir temprano a El Choyín, ver el volcán al amanecer y volver de noche de los termales."
+    },
+    {
+      "q": "¿Se puede subir al Cerro Chato o al cráter del Arenal?",
+      "a": "No. Los dos están dentro del Parque Nacional Volcán Arenal, en zona de protección absoluta, sin senderos ni servicios de emergencia, y el Minae advierte que el ingreso es ilegal. Desde el 30 de abril de 2026 rige una reforma a la Ley del Servicio de Parques Nacionales: entrar a zonas no autorizadas cuesta 3 salarios base (₡1.386.600) y al operador o guía que lleve gente a zonas de alto riesgo, ₡4.622.000, más el costo del rescate si hace falta. En mayo de 2026 hubo los primeros procesados. Desconfiá de quien te ofrezca la laguna del Chato por redes sociales."
+    },
+    {
+      "q": "¿Es seguro La Fortuna?",
+      "a": "Es un pueblo turístico tranquilo, con mucha gente en la calle de día y de noche. Los problemas más comunes son robos en autos estacionados en ríos y miradores, sobre todo en El Choyín: no dejes nada a la vista y llevá lo mínimo. En los ríos, el riesgo real es el agua: el río Fortuna y los termales crecen rápido con lluvia en la montaña y las piedras resbalan. En la Catarata hay salvavidas, en El Salto no. Usá taxis formales y comprá tours en agencias con local o en las webs de los operadores, no a vendedores en la calle."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "ICT — «Miniguía de La Fortuna, capital termal de Costa Rica»: https://ict.go.cr/flipbook/guias/PDF/MINIGUIA2%20FORTUNA.pdf",
+      "Wikipedia (EN) — «La Fortuna, San Carlos»: https://en.wikipedia.org/wiki/La_Fortuna,_San_Carlos",
+      "Teletica — «A 58 años de potente y mortal erupción sigue dormido el Arenal»: https://www.teletica.com/amp/nacional/a-58-anos-de-potente-y-mortal-erupcion-sigue-dormido-el-arenal_414407"
+    ],
+    "que_ver_atracciones": [
+      "Catarata La Fortuna (ADIFORT) — «The Fortuna Waterfall»: https://www.cataratalafortuna.com/",
+      "Catarata La Fortuna (ADIFORT) — «Preguntas frecuentes»: https://www.cataratalafortuna.com/es/faq",
+      "Catarata La Fortuna (ADIFORT) — «La Fortuna Waterfall Hike Tour»: https://www.cataratalafortuna.com/la-fortuna-waterfall-hike",
+      "Catarata La Fortuna (ADIFORT) — «How to get to La Fortuna Waterfall»: https://www.cataratalafortuna.com/how-to-get-here",
+      "Teletica — «Catarata Río Fortuna: 530 escalones hacia la aventura y la naturaleza»: https://www.teletica.com/masqn/catarata-rio-fortuna-530-escalones-hacia-la-aventura-y-la-naturaleza_382739",
+      "SummitPost — «La Catarata de la Fortuna»: https://www.summitpost.org/la-catarata-de-la-fortuna/161000",
+      "Baldi Hot Springs — «Baldi Hot Springs Resort»: https://www.baldihotsprings.cr/",
+      "Ecotermales Fortuna — «Reservar»: https://ecotermalesfortuna.cr/reservar/",
+      "Soak Destinations — «Tabacon Hot Springs 2026: Day Pass, Hours, & Complete Guide»: https://soakdestinations.com/tabacon-hot-springs/",
+      "Sally Sees — «Free things to do in La Fortuna»: https://sallysees.com/free-things-to-do-in-la-fortuna/",
+      "Mistico Park — «Puentes Colgantes de Mistico Park»: https://misticopark.com/es/",
+      "Uprooted Traveler — «Rio Celeste Waterfall in Costa Rica's Tenorio Volcano National Park»: https://uprootedtraveler.com/rio-celeste-tenorio-volcano-national-park/",
+      "El Observador — «Conoce los volcanes Rincón de la Vieja y Tenorio: ahora las entradas se adquirirán de previo y por internet»: https://observador.cr/conoce-los-volcanes-rincon-de-la-vieja-y-tenorio-ahora-las-entradas-se-adquiriran-de-previo-y-por-internet/",
+      "Wikipedia (ES) — «Refugio Nacional de Vida Silvestre Caño Negro»: https://es.wikipedia.org/wiki/Refugio_Nacional_de_Vida_Silvestre_Ca%C3%B1o_Negro",
+      "Visit Costa Rica (ICT) — «Caño Negro Wildlife Refuge»: https://visitcostarica.com/en/node/8710"
+    ],
+    "precios_2026": [
+      "Catarata La Fortuna (ADIFORT) — «Book your tickets»: https://www.cataratalafortuna.com/book-now.php?id=1",
+      "Baldi Hot Springs — «Day Pass»: https://www.baldihotsprings.cr/day-pass/",
+      "Two Weeks in Costa Rica — «Ecotermales Hot Springs (Entrance Only)»: https://www.twoweeksincostarica.com/product/ecotermales-hot-springs-entrance/",
+      "Fortuna Welcome — «Paradise Hot Springs»: https://www.fortunawelcome.com/la-fortuna-hot-springs/paradise-hot-springs/",
+      "Avenly Lane Travel — «Tabacon Hot Springs Review — Is It Worth the Price?»: https://www.avenlylanetravel.com/tabacon-hot-springs-day-pass/",
+      "Expedia — «Rainforest Chocolate Tour from La Fortuna»: https://www.expedia.com/things-to-do/rainforest-chocolate-tour-from-la-fortuna.a561912.activity-details",
+      "Two Weeks in Costa Rica — «North Fields Coffee & Chocolate Tour – From La Fortuna»: https://twoweeksincostarica.com/product/north-fields-coffee-chocolate-tour",
+      "Expedia — «La Fortuna de San Carlos: Pure Trek Canyoning and Rainforest Falls»: https://www.expedia.com/things-to-do/la-fortuna-de-san-carlos-pure-trek-canyoning-and-rainforest-falls.a49451455.activity-details",
+      "Travelocity — «Rainforest Falls Waterfall Adventure by Pure Trek»: https://www.travelocity.com/things-to-do/rainforest-falls-waterfall-adventure-by-pure-trek.a49302179.activity-details",
+      "Expedia — «Costa Rica: Río Balsa half day rafting adventure»: https://www.expedia.com/things-to-do/costa-rica-aventura-de-rafting-de-medio-dia-en-rio-balsa.a4856690.detalles-actividades",
+      "Enter Costa Rica — «Canopy Zipline - Ecoglide»: https://amp.entercostarica.com/tours/arenal-tours/canopy-zipline---ecoglide",
+      "Faro Travel en Rezdy — «Rio Celeste Guided Hike»: https://farotravel.rezdy.com/518774/rio-celeste-guided-hike?lang=ro",
+      "Expedia — «Caño Negro Wildlife Safari Boat Tour on Río Frío»: https://www.expedia.com/things-to-do/cano-negro-wildlife-safari-boat-tour-on-rio-frio.a486659.activity-details"
+    ],
+    "como_llegar_transporte": [
+      "ARESEP datos abiertos — «Pliego tarifario de autobús vigente»: https://datos.aresep.go.cr/ws.datosabiertos/Services/IT/PliegoTarifario.svc/ObtenerPliegoTarifarioAutobusVigente",
+      "ARESEP — «Tarifas vigentes servicio de autobús»: https://aresep.go.cr/autobus/tarifas/",
+      "Fortuna Welcome — «Horario de Buses de La Fortuna»: https://www.fortunawelcome.com/es/buses-de-la-fortuna/",
+      "Costa Rica Shuttle en Rezdy — «San Jose Airport to Arenal Volcano - Shared Shuttle»: https://costaricashuttle.rezdy.com/568047/san-jose-airport-to-arenal-volcano-shared-shuttle",
+      "Pura Vida Traveling en Rezdy — «To La Fortuna & Arenal Volcano From San Jose Area or SJO (Private)»: https://puravidatraveling.rezdy.com/637460/to-la-fortuna-from-san-jose-area-or-juan-santamar-a-international-airport-sjo-private",
+      "Two Weeks in Costa Rica — «La Fortuna (Arenal) to Monteverde – Shared Shuttle-Boat-Shuttle Service»: https://www.twoweeksincostarica.com/product/la-fortuna-monteverde-shared-shuttle/",
+      "My Tan Feet — «How to get to Rio Celeste»: https://mytanfeet.com/driving-in-costa-rica/how-to-get-to-rio-celeste/",
+      "Drink Tea & Travel — «Renting a Car in Costa Rica (2026)»: https://drinkteatravel.com/renting-a-car-in-costa-rica-tips/"
+    ],
+    "seguridad_normas": [
+      "El Observador — «Alertan por turismo ilegal en el Volcán Arenal con riesgos para visitantes y la biodiversidad»: https://observador.cr/alertan-por-turismo-ilegal-en-el-volcan-arenal-con-riesgos-para-visitantes-y-la-biodiversidad/",
+      "Delfino — «Minae señala a empresa por promocionar tours ilegales en el volcán Arenal»: https://delfino.cr/2025/07/minae-senala-a-empresa-por-promocionar-tours-ilegales-en-el-volcan-arenal",
+      "Delfino — «Multas millonarias por ingresos ilegales a parques nacionales se aplicarán a partir del 30 de abril»: https://delfino.cr/2026/04/multas-millonarias-por-ingresos-ilegales-a-parques-nacionales-se-aplicaran-a-partir-del-30-de-abril",
+      "Delfino — «Gobierno establece nuevas multas y refuerza operativos contra turismo ilegal en áreas protegidas»: https://www.delfino.cr/2026/05/gobierno-establece-nuevas-multas-y-refuerza-operativos-contra-turismo-ilegal-en-areas-protegidas",
+      "CRHoy — «4 personas estrenan multas por ingreso ilegal al volcán Arenal»: https://crhoy.com/nacionales/4-personas-estrenan-multas-por-ingreso-ilegal-al-volcan-arenal"
+    ],
+    "visas_ingreso": [
+      "El Financiero — «Costa Rica actualiza requisitos de ingreso»: https://www.elfinancierocr.com/economia-y-politica/costa-rica-actualiza-requisitos-de-ingreso-estos/N2IIWWNEDFBJ7NUUMBOKET4KIA/story/",
+      "La Nación — «¿180 o 30 días? Así otorga Costa Rica la estadía máxima»: https://www.nacion.com/el-pais/180-o-30-dias-asi-otorga-costa-rica-estadia-maxima/S64E24QDWFEGBPEDAR5LCKPMTM/story/"
+    ],
+    "alojamiento_gastronomia": [
+      "Budget Your Trip — «La Fortuna Average Hostel Costs»: https://www.budgetyourtrip.com/hostels/costa-rica/la-fortuna-3623716",
+      "Kayak — «Selina La Fortuna»: https://www.kayak.com/La-Fortuna-Hotels-Selina-La-Fortuna.3084846.ksp",
+      "Booking.com — «Arenal Backpackers Resort»: https://bookitbutton.booking.com/hotel/cr/arenal-backpackers-resort.en-gb.html",
+      "Kayak — «Hotel San Bosco, La Fortuna»: https://www.es.kayak.com/La-Fortuna-Hoteles-Hotel-San-Bosco.332486.ksp",
+      "Travelocity — «Hotels on the Lake in Arenal Hot Springs»: https://www.travelocity.com/Arenal-Hot-Springs-Hotels-Lakefront-Hotels.0-0-d6290786-tLakefrontHotels.Travel-Guide-Filter-Hotels",
+      "Travelocity — «Explore 19 Luxury Hotels in Arenal Hot Springs»: https://www.travelocity.com/Arenal-Hot-Springs-Hotels-Luxury-Hotel.0-0-d6290786-tLuxuryHotel.Travel-Guide-Filter-Hotels",
+      "Costa Rica Travel Life — «11 Best Restaurants in La Fortuna, Costa Rica»: https://costaricatravellife.com/restaurants-in-la-fortuna-costa-rica/",
+      "Costa Rica Vibes — «The 19 Best Restaurants in La Fortuna»: https://www.costaricavibes.com/?p=73431",
+      "Don Rufino — «Carta (PDF)»: https://donrufino.com/pdf/donrufino-menu.pdf"
+    ]
+  }
+}

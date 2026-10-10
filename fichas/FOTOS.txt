@@ -17,3 +17,4 @@ FOTO estados-unidos/cayo-hueso | https://upload.wikimedia.org/wikipedia/commons/
 FOTO italia/turin | https://upload.wikimedia.org/wikipedia/commons/f/f5/Torino_and_Mole_Antonelliana_from_Villa_della_Regina.jpg | Torino and Mole Antonelliana from Villa della Regina.jpg | CC BY 2.0 | Leonardo Pires
 FOTO espana/marbella | https://upload.wikimedia.org/wikipedia/commons/1/11/Plaza_De_Los_Naranjos%2C_Marbella.jpg | Plaza De Los Naranjos, Marbella.jpg | CC BY-SA 3.0 | Mark Gilbert
 FOTO espana/maspalomas | https://upload.wikimedia.org/wikipedia/commons/6/61/Dunas_de_Maspalomas.jpg | Dunas de Maspalomas.jpg | Public domain | Himarerme
+FOTO costa-rica/la-fortuna | https://upload.wikimedia.org/wikipedia/commons/8/86/Arenal-Vukan_und_der_Ort_La_Fortuna.jpg | Arenal-Vukan und der Ort La Fortuna.jpg | CC BY-SA 4.0 | Beate Schröder-Wettwer
