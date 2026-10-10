@@ -1,0 +1,677 @@
+{
+  "slug": "abu-dhabi",
+  "name": "Abu Dhabi",
+  "region": "Emirato de Abu Dhabi",
+  "lat": 24.4667,
+  "lon": 54.3667,
+  "datosRapidos": [
+    {
+      "label": "Emirato",
+      "value": "Abu Dhabi (أبو ظبي, Abū Ẓabī) es la capital de los Emiratos Árabes Unidos y del emirato del mismo nombre, el más grande de los siete que forman el país. La ciudad nace en una isla del golfo Pérsico, pegada a la costa, y hoy se extiende sobre el continente y sobre islas vecinas como Saadiyat, Yas, Al Reem y Al Maryah. El nombre suele traducirse como 'padre de la gacela', por una historia de cazadores que siguieron a una gacela hasta un pozo de agua dulce. Según el Centro de Estadística de Abu Dhabi (SCAD), el emirato tenía 4.135.985 habitantes en 2024; la ciudad ronda los 2,19 millones (dato 2024 citado por Wikipedia). Se la conoce por la Gran Mezquita Sheikh Zayed, por el Louvre Abu Dhabi y el distrito cultural de Saadiyat, por el palacio presidencial Qasr Al Watan y por los parques temáticos de la isla Yas, donde se corre el Gran Premio de Fórmula 1. Es más tranquila y más verde que Dubái, que queda a algo más de una hora por ruta o en el tren de Etihad Rail. Dentro del mismo emirato está Al Ain, ciudad oasis declarada Patrimonio Mundial de la Unesco, y el desierto de Liwa, puerta del Rub al-Jali (el Cuarto Vacío)."
+    },
+    {
+      "label": "Moneda",
+      "value": "Dírham de los Emiratos (AED, también escrito Dh o Dhs). Está atado al dólar a un cambio fijo de 3,6725 AED por US$ 1, así que el cálculo es fácil: AED 100 son unos US$ 27. La tarjeta se acepta casi en todos lados, incluso en taxis y cafeterías; conviene tener algo de efectivo para mercados como Mina Zayed. Los precios de restaurantes y hoteles suelen sumar cargos de servicio y tasas municipales"
+    },
+    {
+      "label": "Mejor época",
+      "value": "De noviembre a marzo. Según Visit Abu Dhabi, el invierno va de diciembre a mediados de marzo con unos 25 °C de promedio diurno, y el verano (fines de mayo a septiembre) llega a 45 °C con 80-90% de humedad. En verano todo funciona con aire acondicionado y bajan los precios de hotel; diciembre es el mes más caro (Gran Premio de F1, fiestas y Día Nacional del 2 de diciembre)"
+    },
+    {
+      "label": "Ciudad de servicio",
+      "value": "La propia Abu Dhabi. Tiene el Aeropuerto Internacional Zayed (AUH), base de Etihad Airways, a unos 30 km al este del centro, con la Terminal A inaugurada en 2023. Desde el 30 de septiembre de 2026 el tren de pasajeros de Etihad Rail la une con Dubái (estación Al Yalayis) en alrededor de una hora, y ya corría a Fujairah desde junio. El colectivo E101 conecta con Dubái desde la estación central de micros. Es la base natural para Al Ain (unos 90 minutos en auto) y para el desierto de Liwa"
+    }
+  ],
+  "intro": [
+    "Abu Dhabi es la capital del país y se nota: avenidas anchas, mucho verde regado en pleno desierto y un ritmo más pausado que el de Dubái. El que llega pensando en rascacielos se encuentra primero con otra cosa: la Gran Mezquita Sheikh Zayed, blanca y enorme, con entrada gratuita, y un paseo costero de ocho kilómetros, la Corniche, donde las familias salen a caminar cuando baja el sol. Es una ciudad para ir sin apuro.",
+    "En los últimos años Abu Dhabi armó en la isla de Saadiyat uno de los distritos culturales más ambiciosos del mundo árabe: el Louvre Abu Dhabi, el Museo Nacional Zayed, el Museo de Historia Natural, teamLab Phenomena y, desde diciembre de 2026, el Guggenheim. A eso se suman el fuerte Qasr Al Hosn, donde empezó la ciudad, y el palacio presidencial Qasr Al Watan, que se puede recorrer por dentro y de noche se ilumina con un show de luces.",
+    "Si viajás con chicos o te gusta la adrenalina, la isla Yas concentra Ferrari World, Warner Bros. World, Yas Waterworld y SeaWorld, con traslados internos gratis. Y si querés ver el país de antes, en una hora y media estás en Al Ain, con su oasis de palmeras regado por canales milenarios. Ojo con el presupuesto: no es un destino barato, pero los menores de 18 entran gratis a los grandes museos y muchas de las mejores cosas no cuestan nada."
+  ],
+  "historia_corta": "La historia de Abu Dhabi como ciudad arranca en 1761, cuando una partida de caza de la tribu Bani Yas, que vivía en el oasis de Liwa, encontró agua dulce en la isla. Según el Departamento de Cultura y Turismo, hacia 1790 se levantó una torre de vigilancia sobre ese pozo, la primera estructura permanente de la ciudad, y en 1795 el jeque Shakhbut bin Dhiyab trasladó la sede del poder desde Liwa a la isla y construyó el fuerte que hoy conocemos como Qasr Al Hosn. Durante el siglo XIX la economía vivió de la pesca y, sobre todo, del buceo de perlas; el largo gobierno de Zayed bin Khalifa (1855-1909), 'Zayed el Primero', fue una etapa de estabilidad. En la década de 1930 el negocio perlero se derrumbó por la crisis mundial y la llegada de las perlas cultivadas japonesas. La salida llegó por el petróleo: en 1939 se firmó una concesión de 75 años, en 1958 apareció crudo en el yacimiento marino de Umm Shaif y en 1959 en tierra, en Murban. El 6 de agosto de 1966 asumió el jeque Zayed bin Sultan Al Nahyan, que usó la renta petrolera para construir la ciudad moderna, y el 2 de diciembre de 1971 Abu Dhabi y otros cinco emiratos fundaron los Emiratos Árabes Unidos, con Zayed como primer presidente y Abu Dhabi como capital. Zayed murió en 2004 y está enterrado junto a la Gran Mezquita, inaugurada en 2007. Después vinieron la Fórmula 1 en la isla Yas (2009), Ferrari World (2010), el Louvre Abu Dhabi (noviembre de 2017), Qasr Al Hosn como museo (2018), la Casa de la Familia Abrahámica (2023), el Museo de Historia Natural (noviembre de 2025) y el Museo Nacional Zayed (diciembre de 2025). El Guggenheim Abu Dhabi abre el 11 de diciembre de 2026.",
+  "queVer": [
+    {
+      "nombre": "Gran Mezquita Sheikh Zayed (Jami' al-Sheikh Zayed al-Kabir)",
+      "desc": "La mezquita más grande del país, de mármol blanco y 82 cúpulas, con entrada gratuita y reserva online obligatoria para visitantes.",
+      "detalle": "Es el gran ícono de Abu Dhabi y la visita que nadie se saltea. Se construyó entre 1994 y 2007 por iniciativa del jeque Zayed, que está enterrado en el patio. Tiene 82 cúpulas, más de 1.000 columnas, cuatro minaretes de unos 107 metros y lugar para más de 40.000 fieles. Adentro está la alfombra anudada a mano de 5.627 m², considerada la más grande del mundo, y siete arañas de cristal con baño de oro.\n\nCódigo de vestimenta (fuente: szgmc.gov.ae, Mosque Manners): las mujeres tienen que llevar ropa holgada hasta los tobillos, mangas hasta las muñecas y el pelo totalmente cubierto; nada transparente ni ajustado. A los hombres se les pide evitar remeras sin mangas, transparentes o ajustadas y conviene que cubran toda la pierna: los términos de visita prohíben shorts y trajes de baño. Desde 2023 la mezquita ya no presta abayas en la entrada (What's On, 2023), así que vení vestido como corresponde o no vas a pasar. Te sacás los zapatos para entrar a la sala de oración.\n\nHay que reservar el pase de acceso gratuito en la web oficial; sin reserva no se confirma la visita. Hay recorridos culturales gratuitos y el museo Light & Peace. Andá a media tarde para ver el mármol con luz dorada y quedarte hasta que encienden la iluminación. Los viernes cierra al mediodía por la oración.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En el continente, sobre la calle Sheikh Rashid Bin Saeed, a la entrada de la isla de Abu Dhabi"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; a media tarde para ver el atardecer y la iluminación nocturna"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis con pase online previo (fuente: szgmc.gov.ae, verificado octubre 2026). Horario: todos los días 9 a 20.30 (última entrada 20 h); viernes 9 a 11.30 y 14.30 a 20.30"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Louvre Abu Dhabi",
+      "desc": "Museo universal diseñado por Jean Nouvel bajo una cúpula de 180 metros que filtra la luz como lluvia; menores de 18 entran gratis.",
+      "detalle": "Abrió en noviembre de 2017 en la isla de Saadiyat, fruto de un acuerdo entre los Emiratos y Francia. No es una sucursal del Louvre de París sino un museo propio que cuenta la historia del arte en orden cronológico y pone lado a lado piezas de culturas distintas de la misma época: es una forma de mostrar conexiones entre civilizaciones.\n\nEl edificio es la mitad de la experiencia. La cúpula de 180 metros de diámetro está hecha de ocho capas de estrellas metálicas y produce lo que llaman 'lluvia de luz' sobre las salas y los muelles junto al mar. Las 23 galerías permanentes incluyen una princesa bactriana de hacia 2000 a. C., obras de Gauguin, Magritte, Picasso y Cy Twombly, además de préstamos de museos franceses que rotan.\n\nCalculá unas tres horas. Cerrá la visita sentándote bajo la cúpula al atardecer. Se puede combinar con Qasr Al Hosn en una entrada conjunta, o con los otros museos de Saadiyat mediante el Museums Pass. Los lunes cierra. Si vas en verano, el museo es un buen refugio del calor del mediodía.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Distrito Cultural de Saadiyat, isla de Saadiyat (al noreste del centro, unido por puente)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; jueves y viernes abre hasta las 22"
+        },
+        {
+          "label": "Entrada",
+          "value": "AED 70 adultos de 18 años en adelante; menores de 18 gratis (fuente: louvreabudhabi.ae y Visit Abu Dhabi, verificado octubre 2026). Horario: sáb, dom, mar y mié 10 a 20; jue y vie 10 a 22; cerrado los lunes (fuente: abudhabiculture.ae)"
+        },
+        {
+          "label": "Duración",
+          "value": "3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Qasr Al Watan (Palacio de la Nación)",
+      "desc": "El palacio presidencial de los Emiratos, en funciones y abierto a visitas: salones de mármol, cúpula dorada y show de luces al anochecer.",
+      "detalle": "Qasr Al Watan es el palacio presidencial del país. No es residencia: se usa para recepciones de Estado y reuniones del Consejo de Ministros, y el resto del tiempo se recorre como museo. Está junto al Hotel Emirates Palace, en el extremo oeste de la Corniche, y la entrada incluye el bus lanzadera y el estacionamiento gratis desde el centro de visitantes.\n\nLa entrada da acceso a todas las zonas abiertas: el Gran Salón (Great Hall), la sala de regalos presidenciales, la biblioteca de Qasr Al Watan y otras salas sobre cómo se gobierna el país. Los jardines son amplios. Al caer la tarde se proyecta 'Palace in Motion', un espectáculo de luces sobre la fachada; con la entrada general está incluido.\n\nReglas oficiales: rodillas y hombros cubiertos, nada de shorts, musculosas ni ropa transparente, y nada de ojotas. No hay guardarropa ni lockers, y los bolsos grandes no pasan el control. Hay un ticket 'Off Peak' con entrada restringida de 13 a 16 h. Se puede sumar audioguía en cinco idiomas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Extremo oeste de la Corniche, junto al Emirates Palace (centro de visitantes con estacionamiento gratis)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; llegá por la tarde para quedarte al show Palace in Motion"
+        },
+        {
+          "label": "Entrada",
+          "value": "AED 65 adultos; AED 30 junior (fuente: qasralwatan.ae, verificado octubre 2026). Show Palace in Motion solo: AED 25 adulto / AED 12 junior. Comprar en qasralwatan.ae o en boletería"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo Nacional Zayed (Zayed National Museum)",
+      "desc": "El museo nacional de los Emiratos, de Norman Foster, abierto en diciembre de 2025: historia del país desde la prehistoria y la vida del jeque Zayed.",
+      "detalle": "Es el museo nacional de los Emiratos Árabes Unidos y abrió el 3 de diciembre de 2025 en el Distrito Cultural de Saadiyat. Lo diseñó Norman Foster (Foster + Partners), premio Pritzker, como un edificio público y cívico, pensado también como centro de aprendizaje y debate.\n\nEl hilo del museo es la figura del jeque Zayed bin Sultan Al Nahyan, fundador del país, y los valores que lo guiaron, pero el recorrido abarca todo el camino del país, desde el pasado antiguo hasta hoy, con la cultura y el patrimonio emiratí en el centro. Es el mejor lugar de la ciudad para entender de dónde salió este país que tiene poco más de 50 años como Estado.\n\nLas entradas se venden por franja horaria; conviene reservar online. Si vas a ver más de un museo de Saadiyat, mirá el Museums Pass, que combina el Louvre, el de Historia Natural y este con descuento. Los menores de 18 entran gratis.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Distrito Cultural de Saadiyat, al lado del Louvre Abu Dhabi"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; ideal en las horas de más calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "AED 70 adultos; AED 35 estudiantes de universidades y docentes de los Emiratos; menores de 18 gratis (fuente: Khaleej Times sobre la apertura, verificado octubre 2026). Abre todos los días 10 a 20, última entrada una hora antes (fuente: zayednationalmuseum.ae)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Qasr Al Hosn (fuerte y museo)",
+      "desc": "El edificio más antiguo de Abu Dhabi: la torre de 1790 y el fuerte de 1795 donde empezó la ciudad, hoy museo de su historia.",
+      "detalle": "Todo empezó acá. Según el Departamento de Cultura y Turismo, la torre de vigilancia levantada en 1790 sobre el pozo de agua dulce fue la primera estructura permanente de la ciudad, y en 1795 se convirtió en fuerte cuando el jeque Shakhbut bin Dhiyab trasladó el poder desde Liwa. El conjunto tiene dos partes: el Fuerte Interior (1795) y el Palacio Exterior (1939-1945).\n\nFue residencia de la familia gobernante Al Nahyan, sede de gobierno, consejo consultivo y archivo nacional. Después de más de 11 años de restauración reabrió como museo en 2018. Las salas recorren la evolución de la ciudad, de aldea de pescadores y perleros a metrópolis, con objetos que llegan hasta 6000 a. C. Las paredes de coral y piedra de playa contrastan con las torres de vidrio que lo rodean, y esa imagen resume la ciudad.\n\nEn el mismo predio está la Fundación Cultural y la Casa de los Artesanos, donde podés ver tejido y otros oficios tradicionales. En el Bait Al Gahwa del complejo sirven el café árabe con cardamomo y dátiles, recomendado por Visit Abu Dhabi.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de la ciudad, calle Sheikh Zayed the First, a pocas cuadras de la Corniche"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; en enero-febrero se hace el Festival Al Hosn"
+        },
+        {
+          "label": "Entrada",
+          "value": "Desde AED 30 (ticket de historia y cultura de 2 horas); combo con el Louvre Abu Dhabi AED 75 (fuente: tickets.visitabudhabi.ae, verificado octubre 2026). Horario: domingo a jueves 9 a 19 (fuente: abudhabiculture.ae)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Corniche de Abu Dhabi",
+      "desc": "Ocho kilómetros de costanera con bicisenda, plazas y una playa urbana con bandera azul, gratis en el sector público.",
+      "detalle": "La Corniche es la costanera de la ciudad: ocho kilómetros de paseo frente al golfo con los rascacielos de un lado y el agua turquesa del otro. Es el lugar donde se ve la vida cotidiana de Abu Dhabi: familias de picnic, gente corriendo al atardecer, chicos en las plazas y bicicletas por la senda exclusiva.\n\nLa playa tiene unos dos kilómetros, guardavidas hasta la puesta del sol, duchas, vestuarios y la certificación Bandera Azul, según Visit Abu Dhabi. Está dividida por puertas: el sector público (Al Sahil, puerta 4) es gratis, y los sectores para familias y para solos (puertas 2 y 3, más tranquilos y cercados) cobran una entrada chica. Hay más de 1.100 lugares de estacionamiento gratis a cinco minutos a pie.\n\nSe pueden alquilar bicicletas en cuatro estaciones a lo largo del paseo. Para la foto clásica del skyline andá al rompeolas (Breakwater), cerca del Heritage Village y del Marina Mall. En verano bañate temprano o al final del día; al mediodía el sol es brutal.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Frente costero norte de la isla, del Emirates Palace hacia el este"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Noviembre a marzo; todo el año al amanecer o al atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Playa pública gratis; sectores familia y solos AED 10 (fuente: visitabudhabi.ae, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 4 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo de Historia Natural de Abu Dhabi (Natural History Museum Abu Dhabi)",
+      "desc": "Abierto en noviembre de 2025 en Saadiyat: del origen del universo a la vida en la Tierra, con el T. rex 'Stan' y el meteorito de Murchison.",
+      "detalle": "Abrió el 22 de noviembre de 2025 y es la novedad que más disfrutan las familias. El edificio, de Mecanoo, imita formaciones rocosas y tiene más de 35.000 m². El recorrido va desde el origen del universo y la formación de la Tierra hasta la evolución de la vida y una mirada al futuro del planeta.\n\nLas estrellas de la colección son 'Stan', el famoso esqueleto de Tyrannosaurus rex, y un ejemplar del meteorito de Murchison. Además de museo es un centro de investigación en zoología, paleontología, geología y biología marina, con laboratorios propios de ADN antiguo.\n\nLos menores de 18 entran gratis, lo que lo vuelve una buena opción para familias. Combiná la visita con el Louvre o el Museo Nacional Zayed, que quedan a pasos, y comprá el Museums Pass si vas a ver dos o tres. Reservá online en fines de semana.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Distrito Cultural de Saadiyat, isla de Saadiyat"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; días de semana para evitar grupos"
+        },
+        {
+          "label": "Entrada",
+          "value": "AED 70 adultos; AED 32,50 estudiantes universitarios y docentes de los Emiratos; menores de 18 gratis (fuente: nhmad.ae y TradeArabia, verificado octubre 2026). Lun a jue 10 a 18.30; vie a dom 10 a 20.30"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Casa de la Familia Abrahámica (Abrahamic Family House)",
+      "desc": "Una mezquita, una iglesia y una sinagoga en el mismo predio de Saadiyat, abiertas en 2023; la visita es gratis con turno reservado.",
+      "detalle": "Abrió en 2023 y reúne en un mismo predio de Saadiyat tres edificios de culto: una mezquita, una iglesia y una sinagoga, cada uno con su propia entrada y alrededor de un espacio común, el Foro. La idea es mostrar la convivencia entre las tres religiones abrahámicas en un país de mayoría musulmana.\n\nLos tres funcionan como lugares de culto activos, así que se respeta el horario de oración y en esos momentos no hay visitas guiadas.\n\nLa entrada es gratis pero tenés que reservar una franja horaria en la web oficial. Los tours duran una hora y se hacen en inglés o árabe. Las mujeres tienen que cubrirse la cabeza para entrar a la mezquita (prestan pañuelos en el Foro). Andá con ropa que cubra hombros y rodillas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Distrito Cultural de Saadiyat, isla de Saadiyat"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; fuera de los horarios de oración y sermón"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis con reserva de franja horaria en la web oficial (fuente: saadiyat.ae, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "teamLab Phenomena Abu Dhabi",
+      "desc": "Museo de arte digital inmersivo en Saadiyat, abierto en 2025: luz, agua y movimiento que reaccionan a los visitantes.",
+      "detalle": "teamLab es el colectivo japonés detrás de los museos digitales de Tokio que se volvieron virales. En Abu Dhabi abrió en 2025 un edificio propio en el Distrito Cultural de Saadiyat, pensado para que las obras 'evolucionen' como si fueran organismos vivos.\n\nNo hay recorrido fijo. Pasás por salas donde la luz, el agua y el movimiento cambian según cómo te movés vos y el resto de la gente, y la arquitectura del edificio, diseñada solo para este museo, es parte de la obra. Andá sin apuro y dejá que cada sala te lleve a la siguiente.\n\nEs la entrada más cara del distrito cultural y los precios cambian según el día y el horario, así que comprá online y compará. Según teamlab.art abre de 10 a 22 con última entrada a las 20, y los lunes a jueves desde las 18 las sesiones nocturnas son solo para mayores de 18 según Visit Abu Dhabi. Funciona muy bien con chicos de día y en pareja de noche.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Distrito Cultural de Saadiyat, isla de Saadiyat"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; refugio ideal del calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "Desde AED 155 adulto estándar; varía por día y horario (fuente: visitabudhabi.ae, verificado octubre 2026). Comprar en teamlab.art"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Isla Yas: Ferrari World, Warner Bros. World, Yas Waterworld y SeaWorld",
+      "desc": "Isla artificial con cuatro parques temáticos, el circuito de Fórmula 1 y un shuttle interno gratis; para chicos y fanáticos de la velocidad.",
+      "detalle": "La isla Yas es una isla artificial de unos 25 km² dedicada al ocio. Ahí están el circuito Yas Marina, que recibe el Gran Premio de Abu Dhabi de Fórmula 1 desde 2009, y cuatro parques: Ferrari World (2010), con la montaña rusa Formula Rossa a 240 km/h; Warner Bros. World (2018), techado y dedicado a los personajes de Warner; Yas Waterworld, el parque acuático; y SeaWorld Abu Dhabi (2023), con acuarios y fauna marina.\n\nLos dos parques techados (Ferrari y Warner) funcionan bien en verano. Yas Waterworld conviene de octubre a abril. Un día por parque es lo razonable; si querés dos en el mismo día, existe el ticket '1 día 2 parques', aunque terminás corriendo.\n\nComprá online: las webs oficiales cobran menos que la boletería. Los menores de 3 años entran gratis y los chicos de menos de 1,1 metros pagan tarifa junior. El Yas Express, gratis, une parques, hoteles y el Yas Mall. Para comer, el Yas Mall está pegado a Ferrari World.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Isla Yas, unos 25 minutos en auto desde la ciudad (fuente: yasisland.com)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Octubre a abril para el parque acuático; los techados, todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Online, adulto 1 día: Warner Bros. World AED 345; Yas Waterworld AED 295; SeaWorld AED 375; 1 día 2 parques AED 475 (fuente: webs oficiales de cada parque, verificado octubre 2026). Menores de 3 gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "Un día completo por parque"
+        }
+      ]
+    },
+    {
+      "nombre": "Heritage Village (Aldea del Patrimonio)",
+      "desc": "Reconstrucción gratuita de una aldea emiratí antigua en el rompeolas: zoco, mezquita, artesanos y la mejor vista del skyline.",
+      "detalle": "El Heritage Village es una recreación de cómo se vivía en la costa antes del petróleo, sobre el rompeolas (Breakwater), al lado del Marina Mall. Hay réplicas de construcciones emiratíes de antes de la modernización, un zoco a la antigua con negocios chiquitos y una mezquita de estilo tradicional.\n\nLo más interesante son los artesanos: según el Departamento de Cultura muestran oficios marinos y el tejido sadu y khoos, y te dejan probar. También hay paseos en camello. Es una visita corta y sin pretensiones, más didáctica que espectacular, pero gratis y bien ubicada.\n\nEl gran bonus es la vista: desde el muelle del Heritage Village se ve toda la línea de rascacielos de la Corniche al otro lado del agua, una de las fotos más lindas de la ciudad, sobre todo al atardecer. Combinalo con un paseo por la Corniche y el Marina Mall.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Rompeolas (Breakwater), junto al Marina Mall, frente a la Corniche"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Noviembre a marzo; los viernes abre hasta las 21"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: abudhabiculture.ae, verificado octubre 2026). Todos los días 9 a 16; viernes 7.30 a 12 y 15 a 21"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Manglares de Abu Dhabi (Jubail Mangrove Park y Mangrove National Park)",
+      "desc": "Bosques de manglar a minutos del centro: pasarelas de madera en Jubail o salidas guiadas en kayak entre canales tranquilos.",
+      "detalle": "Los manglares son la cara verde y silenciosa de Abu Dhabi. Hay dos formas fáciles de conocerlos. La primera es el Jubail Mangrove Park, en la isla Al Jubail, donde la entrada incluye recorrer las pasarelas de madera sobre el manglar. Es un paseo tranquilo, apto para todas las edades y sin necesidad de mojarse.\n\nLa segunda es en kayak por el Mangrove National Park, al este de la isla principal, entre canales de agua quieta rodeados de árboles de manglar y aves. Visit Abu Dhabi indica que las excursiones guiadas suelen durar entre una y dos horas, con chaleco y remo incluidos. No hace falta experiencia; el agua es calma.\n\nLos mejores horarios son temprano a la mañana o al atardecer. Llevá protector solar, sombrero y agua. De mayo a septiembre el calor y la humedad hacen que solo valga la pena muy temprano.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Jubail: isla Al Jubail, entre el centro y Saadiyat. Mangrove National Park: costa este de la isla de Abu Dhabi"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Octubre a abril, a la mañana temprano o al atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Jubail Mangrove Park AED 15 (fuente: visitabudhabi.ae, verificado octubre 2026); kayak guiado en manglares desde AED 100-150 (misma fuente)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Mina Zayed: mercado de pescado y mercado de dátiles",
+      "desc": "El puerto viejo de la ciudad: mercado de pescado donde te cocinan lo que comprás, puestos de dátiles y luqaimat por la noche.",
+      "detalle": "Mina Zayed es la zona portuaria tradicional de Abu Dhabi, en el extremo noreste de la isla, y es el lugar menos 'de vidriera' de la ciudad. El mercado de pescado reabrió en un edificio nuevo en 2022: elegís el pescado en los puestos, lo limpian y uno de los restaurantes del mercado te lo cocina. Hamour (mero), langostinos, sardinas y pescados del golfo. Regatear es normal.\n\nAl lado está el Mercado de Dátiles, recomendado por Visit Abu Dhabi para comprar variedades locales como el khalas, y por la noche aparecen puestos de luqaimat, las bolitas fritas bañadas en almíbar de dátil. Es una buena ventana a la vida cotidiana de los residentes, lejos de los shoppings.\n\nAndá a la mañana para ver el mercado de pescado en movimiento o al atardecer para los dulces. Vestite cómodo: es un puerto que trabaja, no un shopping. Preguntá el precio por kilo y lo de la cocción antes de pedir.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Puerto de Mina Zayed, extremo noreste de la isla de Abu Dhabi"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañana temprano para el pescado, noche para los luqaimat"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (es un mercado; pagás lo que comprás)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Al Ain: oasis, fuerte Al Jahili y Jebel Hafeet",
+      "desc": "La ciudad jardín del emirato y primer Patrimonio Mundial de los Emiratos: oasis de 147.000 palmeras, fuertes de adobe y una montaña.",
+      "detalle": "Al Ain, a una hora y media en auto, es la otra gran ciudad del emirato y la residencia de verano histórica de sus gobernantes. Sus sitios culturales, que incluyen seis oasis, Hili y el Jebel Hafeet, son Patrimonio Mundial de la Unesco. El Oasis de Al Ain ocupa 136 hectáreas en pleno centro, con más de 147.000 palmeras datileras de más de 100 variedades, regadas por aflaj, canales que traen agua desde la montaña. Se camina a la sombra por senderos entre muros de barro, y es gratis.\n\nEl fuerte Al Jahili, construido entre 1891 y 1898 por Zayed el Primero como residencia de verano, tiene una torre redonda de cuatro niveles y una muestra permanente sobre Wilfred Thesiger, explorador y fotógrafo británico. El Museo del Palacio de Al Ain, antigua casa de la familia gobernante, también es gratis.\n\nPara el atardecer, subí en auto al Jebel Hafeet, montaña con tumbas de la Edad del Bronce y vistas al desierto. Se puede ir por tu cuenta en auto o con excursión desde Abu Dhabi.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 90 minutos en auto desde Abu Dhabi por la E22"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Noviembre a marzo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Oasis de Al Ain gratis, todos los días 9 a 19 (fuente: visitabudhabi.ae, verificado octubre 2026). Museo del Palacio de Al Ain gratis (fuente: abudhabiculture.ae). Fuerte Al Jahili abre 9 a 18"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Playas de Saadiyat (Kai Beach)",
+      "desc": "Arena blanca y agua clara a minutos del distrito cultural de Saadiyat, con playa paga, reposeras, duchas y baños.",
+      "detalle": "La isla de Saadiyat tiene la playa más linda de la ciudad: arena blanca y fina y agua tranquila, con resorts de playa y clubes a lo largo de la costa. Visit Abu Dhabi la incluye entre las mejores playas de la ciudad.\n\nPara quien no se aloja en un resort, la opción es Kai Beach, la antigua playa pública de Saadiyat, que hoy cobra entrada e incluye reposeras, baños y duchas; las toallas se compran en el lugar. El precio sube los fines de semana y feriados, y las propias páginas de Visit Abu Dhabi muestran cifras distintas, así que confirmá antes de ir.\n\nSi querés playa gratis, la Corniche es la alternativa. La combinación clásica es mañana de playa en Saadiyat y tarde de museo en el Louvre, que queda a pocos minutos. En verano el agua del golfo está muy caliente y la arena quema: andá temprano.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Isla de Saadiyat, a pocos minutos del Distrito Cultural"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Octubre a mayo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Kai Beach: adultos AED 75 de lunes a viernes y AED 95 fines de semana y feriados; chicos AED 35 / AED 60 (fuente: visitabudhabi.ae, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Gran Mezquita Sheikh Zayed",
+      "precio": "Gratis para todos, con pase de acceso online obligatorio para visitantes (fuente: szgmc.gov.ae, verificado octubre 2026). Reservar en szgmc.gov.ae, sección Visitors > Book your visit"
+    },
+    {
+      "tipo": "Louvre Abu Dhabi",
+      "precio": "AED 70 adultos (18+); gratis menores de 18, mayores de 60 residentes y personas con discapacidad con un acompañante (fuente: louvreabudhabi.ae / Visit Abu Dhabi, verificado octubre 2026). Comprar en louvreabudhabi.ae; combo con Qasr Al Hosn AED 75 en tickets.visitabudhabi.ae"
+    },
+    {
+      "tipo": "Qasr Al Watan (palacio presidencial)",
+      "precio": "AED 65 adultos; AED 30 junior; show Palace in Motion por separado AED 25 adulto / AED 12 junior (fuente: qasralwatan.ae, verificado octubre 2026). La entrada general ya incluye el show. Online en qasralwatan.ae o en boletería; valet AED 35, estacionamiento común gratis"
+    },
+    {
+      "tipo": "Museo Nacional Zayed",
+      "precio": "AED 70 adultos; AED 35 estudiantes universitarios y docentes en los Emiratos; gratis menores de 18 (fuente: Khaleej Times, apertura diciembre 2025; verificado octubre 2026). Comprar en zayednationalmuseum.ae o en la app Visit Abu Dhabi"
+    },
+    {
+      "tipo": "Museo de Historia Natural de Abu Dhabi",
+      "precio": "AED 70 adultos; AED 32,50 estudiantes universitarios y docentes en los Emiratos; gratis menores de 18 (fuente: nhmad.ae / TradeArabia, verificado octubre 2026). Comprar en nhmad.ae. Museums Pass: dos museos desde AED 120, tres AED 170, válido 30 días (fuente: nhmad.ae)"
+    },
+    {
+      "tipo": "teamLab Phenomena Abu Dhabi",
+      "precio": "Desde AED 155 adulto estándar, variable según día y franja (fuente: visitabudhabi.ae, verificado octubre 2026). Comprar en teamlab.art"
+    },
+    {
+      "tipo": "Qasr Al Hosn",
+      "precio": "Desde AED 30 el ticket de 2 horas (fuente: tickets.visitabudhabi.ae, verificado octubre 2026). Comprar en tickets.visitabudhabi.ae o en el lugar"
+    },
+    {
+      "tipo": "Parques de la isla Yas (tarifa online, 1 día)",
+      "precio": "Warner Bros. World AED 345; Yas Waterworld AED 295; SeaWorld Abu Dhabi AED 375; '1 día 2 parques' AED 475; menores de 3 gratis (fuente: wbworldabudhabi.com, yaswaterworld.com y seaworldabudhabi.com, verificado octubre 2026). Ferrari World no se pudo verificar en su web oficial"
+    },
+    {
+      "tipo": "Jubail Mangrove Park",
+      "precio": "AED 15 por persona, conviene reservar online (fuente: visitabudhabi.ae, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Playa de la Corniche",
+      "precio": "Sector público gratis; sectores familia y solos AED 10 (fuente: visitabudhabi.ae, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Heritage Village, Casa de la Familia Abrahámica y Oasis de Al Ain",
+      "precio": "Gratis. Heritage Village sin reserva (fuente: abudhabiculture.ae); Casa Abrahámica con turno online (fuente: saadiyat.ae); Oasis de Al Ain 9 a 19 (fuente: visitabudhabi.ae, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Kai Beach (playa de Saadiyat)",
+      "precio": "Adultos AED 75 lunes a viernes, AED 95 fines de semana y feriados; chicos AED 35 / AED 60 (fuente: visitabudhabi.ae, verificado octubre 2026). Se paga en la entrada"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Safari por el desierto con 4x4, camello y cena barbacoa",
+      "precio": "AED 240-359 por adulto en salida compartida de tarde; chicos 3-11 desde AED 293 en el paquete completo (fuente: The Better Vacation, agregador, verificado octubre 2026). Cuatriciclo aparte",
+      "duracion": "6 horas aprox., de tarde a noche",
+      "operador": "Operadores de safari con traslado desde hoteles de Abu Dhabi"
+    },
+    {
+      "actividad": "Kayak guiado por los manglares",
+      "precio": "AED 100-150 la salida guiada de 1 a 2 horas (fuente: visitabudhabi.ae, verificado octubre 2026)",
+      "duracion": "1 a 2 horas",
+      "operador": "Operadores certificados en el Mangrove National Park y en Saadiyat"
+    },
+    {
+      "actividad": "Crucero con cena buffet frente a la Corniche",
+      "precio": "AED 160 por persona, crucero de 2 horas con buffet y gaseosas (fuente: visitabudhabi.ae, Royal Yacht, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Royal Yacht (de jueves a domingo a la noche)"
+    },
+    {
+      "actividad": "Tour guiado por el circuito Yas Marina",
+      "precio": "Desde AED 80 (fuente: Platinumlist, revendedor, verificado octubre 2026)",
+      "duracion": "2 horas aprox.",
+      "operador": "Yas Marina Circuit"
+    },
+    {
+      "actividad": "Karting en Yas Kartzone",
+      "precio": "AED 120 adultos, AED 80 adolescentes, AED 55 chicos (fuente: Ticketlens, agregador, verificado octubre 2026)",
+      "duracion": "Sesiones cortas, 30 a 60 minutos con la espera",
+      "operador": "Yas Kartzone (pista separada del circuito de F1)"
+    },
+    {
+      "actividad": "Excursión de un día a Al Ain (oasis, Al Jahili, Jebel Hafeet)",
+      "precio": "Tour privado desde € 119 por persona (fuente: daytrip.com, agregador, verificado octubre 2026)",
+      "duracion": "Día completo",
+      "operador": "Operadores con salida desde hoteles de Abu Dhabi"
+    },
+    {
+      "actividad": "Parque de aventura en Jebel Hafeet (Al Ain Adventure Park)",
+      "precio": "AED 65 adultos (más de 1,2 m) y AED 45 chicos, entrada de día (fuente: visitabudhabi.ae, verificado octubre 2026)",
+      "duracion": "4 horas recomendadas",
+      "operador": "Al Ain Adventure Park, Ain Al Fayda"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Colectivos urbanos (red de ITC, tarjeta Hafilat)",
+      "precio": "AED 2 al subir + 5 fils por km; máximo AED 5 por viaje; menores de 10 años gratis (fuente: itc.gov.ae, tarifa estándar vigente desde 2024, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Se paga con la tarjeta Hafilat: se apoya al subir y al bajar y la tarifa se calcula por distancia. Los transbordos dentro de los 60 minutos no pagan de nuevo el cargo de subida. Útil para la Corniche, el centro y Saadiyat; para llegar a ciertos puntos de Yas conviene combinar con el shuttle gratis"
+    },
+    {
+      "medio": "Taxi (Abu Dhabi Taxi; también por apps como Careem o Uber)",
+      "precio": "Día (6 a 22 h): bajada AED 5, AED 1,82 por km, espera AED 0,50 por minuto, mínimo AED 12; noche: bajada AED 5,50; reserva AED 4 de día y AED 5 de noche (fuente: admobility.gov.ae, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Es el medio más práctico para turistas, porque la ciudad es muy extendida y caminar al mediodía no es opción buena parte del año. Taxímetro obligatorio. Desde el aeropuerto la bajada de bandera es más alta"
+    },
+    {
+      "medio": "Yas Express (shuttle de la isla Yas)",
+      "precio": "Gratis (fuente: yasisland.com, verificado octubre 2026)",
+      "duracion": "Variable según ruta",
+      "notas": "Une parques temáticos, hoteles, Yas Mall y otras atracciones de la isla. Consultá el horario en yasisland.com. No es un servicio desde el centro de la ciudad"
+    },
+    {
+      "medio": "Bicicleta por la Corniche",
+      "precio": "Desde AED 30 la hora adultos y AED 20 chicos; talonario de 12 horas AED 250 (fuente: visitabudhabi.ae, Fun Ride Sports, verificado octubre 2026)",
+      "duracion": "Por hora",
+      "notas": "Cuatro estaciones de alquiler a lo largo de la costanera, con bicisenda separada de los peatones. Ideal a la mañana temprano o al atardecer"
+    },
+    {
+      "medio": "Auto de alquiler",
+      "precio": "Estacionamiento gratis en Qasr Al Watan y en la Corniche (más de 1.100 lugares), según qasralwatan.ae y visitabudhabi.ae (verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Autopistas muy buenas, pero se maneja rápido: el gobierno británico advierte una alta tasa de accidentes y que la policía puede retener autos por infracciones menores. Imprescindible para ir a Al Ain, Jebel Hafeet o Liwa por tu cuenta. Tolerancia cero al alcohol al volante"
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto Internacional Zayed (AUH) → centro en colectivo",
+      "empresas": "Línea A1 de la red pública de Abu Dhabi",
+      "precio": "AED 4 según guías de transporte (fuente: dubizzle / airconnect, agregadores, verificado octubre 2026); tarifa estándar urbana de ITC AED 2 + 5 fils por km, tope AED 5 (fuente: itc.gov.ae)",
+      "duracion": "45 a 60 minutos"
+    },
+    {
+      "ruta": "Aeropuerto Internacional Zayed (AUH) → centro en taxi",
+      "empresas": "Taxis oficiales de aeropuerto (Abu Dhabi Taxi)",
+      "precio": "Bajada de bandera AED 20 + AED 1,82 por km (fuente: admobility.gov.ae, verificado octubre 2026); el aeropuerto está a unos 30 km del centro",
+      "duracion": "30 a 40 minutos sin tránsito"
+    },
+    {
+      "ruta": "Dubái (Al Yalayis) → Abu Dhabi (Mohamed bin Zayed City) en tren",
+      "empresas": "Etihad Rail (servicio de pasajeros desde el 30 de septiembre de 2026)",
+      "precio": "Desde AED 39 clase Comfort y AED 109 Premium (fuente: Gulf News, septiembre 2026, verificado octubre 2026). Comprar en etihadrail.ae, en la app o en máquinas de la estación",
+      "duracion": "57 a 64 minutos"
+    },
+    {
+      "ruta": "Dubái (Ibn Battuta) → estación central de micros de Abu Dhabi",
+      "empresas": "Colectivo interurbano E101 (RTA de Dubái)",
+      "precio": "AED 25 por tramo, con tarjeta Nol (fuente: exploringemirates.com, agregador, verificado octubre 2026)",
+      "duracion": "1,5 a 2 horas"
+    },
+    {
+      "ruta": "Fujairah → Abu Dhabi en tren",
+      "empresas": "Etihad Rail (en servicio desde el 30 de junio de 2026)",
+      "precio": "Desde AED 55 clase Comfort y AED 120 Premium según tarifas de lanzamiento (fuente: MEED, junio 2026, verificado octubre 2026)",
+      "duracion": "1 hora 45 minutos"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Económico (2 estrellas y apartamentos simples)",
+      "nivel": 2,
+      "opciones": "En el centro (Al Markaziyah, Tourist Club) hay hoteles simples como Vogue Inn Abu Dhabi desde AED 132 o Al Diar Mina desde AED 224 la noche (fuente: KAYAK, verificado octubre 2026). Las habitaciones más baratas que registró KAYAK en la ciudad rondan AED 87-125"
+    },
+    {
+      "categoria": "Intermedio (3 estrellas)",
+      "nivel": 3,
+      "opciones": "Hoteles como Trianon Royal Hotel desde AED 213 o Emirates Park Resort desde AED 268 la noche; ofertas de 3 estrellas desde AED 117 (fuente: KAYAK, verificado octubre 2026). Junio es el mes más barato y diciembre el más caro (en promedio un 145% más), por la F1 y las fiestas"
+    },
+    {
+      "categoria": "Confort (4 estrellas)",
+      "nivel": 4,
+      "opciones": "En el centro y la Corniche: City Seasons Al Hamra desde AED 300 o Southern Sun Abu Dhabi desde AED 326 la noche; el promedio de un 4 estrellas ronda AED 707 (fuente: KAYAK, verificado octubre 2026). Sumá cargos de servicio y tasa turística municipal"
+    },
+    {
+      "categoria": "Lujo (5 estrellas: Emirates Palace, Saadiyat, Yas)",
+      "nivel": 5,
+      "opciones": "El Emirates Palace Mandarin Oriental, el hotel ícono de la ciudad, aparece desde unos US$ 400 la noche (unos AED 1.470 al cambio fijo de 3,6725; fuente: Expedia, verificado octubre 2026). El promedio de un 5 estrellas en Abu Dhabi es AED 794 (fuente: KAYAK, verificado octubre 2026). En Saadiyat y Yas hay resorts de playa; en diciembre los precios se disparan"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Cafeterías y shawarma (lo más barato)",
+      "nivel": 1,
+      "opciones": "Las cafeterías de barrio (indias, paquistaníes, libanesas) sirven shawarma, falafel y karak (té con leche especiado). Shawarma de pollo en Al Afiya Turkish Village AED 21; en Zahrat Lebnan AED 25 (fuente: Bayut, verificado octubre 2026). Al Ibrahimi es un clásico del shawarma con papas fritas"
+    },
+    {
+      "tipo": "Cocina emiratí tradicional (machboos, thareed, harees)",
+      "nivel": 3,
+      "opciones": "El machboos es arroz especiado con loomi (lima seca) y carne, pollo o pescado; el thareed, un guiso sobre pan rigag. Visit Abu Dhabi recomienda Al Fanar para machboos y Yadoo's House para thareed. En Al Fanar (Yas Mall) el promedio es AED 225 para dos (fuente: Bayut, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Mercado de pescado de Mina Zayed (elegís y te lo cocinan)",
+      "nivel": 2,
+      "opciones": "Comprás hamour, dorada o langostinos por kilo en el mercado y los restaurantes del lugar los limpian y cocinan por un cargo aparte. Reseñas recientes citan pescados a AED 45 el kilo y unos AED 50 de limpieza y cocción por 3 kilos (fuente: Wanderlog, reseñas de usuarios, verificado octubre 2026). Negociá el precio antes"
+    },
+    {
+      "tipo": "Café árabe y dulces (gahwa, dátiles, luqaimat)",
+      "nivel": 1,
+      "opciones": "El gahwa, café liviano con cardamomo servido en tacitas finjan con dátiles, se toma en el Bait Al Gahwa de Qasr Al Hosn; los luqaimat (bolitas fritas con almíbar de dátil) salen en los puestos de Mina Zayed a la noche (fuente: visitabudhabi.ae, verificado octubre 2026)."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa para viajar a Abu Dhabi desde Latinoamérica?",
+      "a": "Depende del pasaporte. Según la lista de exención publicada por Khaleej Times, los ciudadanos de Argentina, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Honduras, Paraguay, Perú y Uruguay entran sin visa previa por hasta 90 días, con entradas múltiples dentro de un período de 180 días. Para mexicanos, la embajada de los Emiratos en México indica estadía de hasta 180 días sin visa. Si tu pasaporte no figura (por ejemplo, Bolivia o Venezuela no aparecen en esa lista), consultá en icp.gov.ae antes de comprar el pasaje. En todos los casos el pasaporte tiene que tener al menos 6 meses de vigencia desde la entrada (fuente: u.ae, verificado octubre 2026), y el portal oficial aclara que la lista puede cambiar."
+    },
+    {
+      "q": "¿Es seguro viajar a Abu Dhabi?",
+      "a": "Es una ciudad ordenada y cómoda para moverse, pero el gobierno británico recomienda tomar precauciones sensatas con tus cosas, no dejar bebidas sin vigilar y cuidarse al andar solo de noche. Lo que más hay que tener en cuenta son las leyes: tolerancia cero con el alcohol al volante, ropa discreta en mezquitas y edificios oficiales, pedí permiso antes de fotografiar a personas. El gobierno británico advierte por las tensiones en la región y la posibilidad de cierres del espacio aéreo y cancelaciones de vuelos (fuente: gov.uk, verificado octubre 2026), así que contratá seguro con cobertura de cancelación. En la playa nadá solo donde haya guardavidas."
+    },
+    {
+      "q": "¿Cuántos días necesito en Abu Dhabi?",
+      "a": "Con tres días completos ves lo esencial: un día para la Gran Mezquita, Qasr Al Hosn y la Corniche; otro para Saadiyat (Louvre, Museo Nacional Zayed, Historia Natural y playa); y un tercero para Qasr Al Watan y el Heritage Village. Sumá un día por cada parque de Yas que quieras hacer y otro para Al Ain. Mucha gente la combina con Dubái: desde que corre el tren de Etihad Rail (en torno a una hora y desde AED 39), se puede dormir en una ciudad y visitar la otra. Hacerla en un día desde Dubái es posible, pero vas a ver poco más que la mezquita y el Louvre."
+    },
+    {
+      "q": "¿Pago con tarjeta o llevo efectivo? ¿Cuánto sale un día?",
+      "a": "La tarjeta se acepta casi en todos lados: museos, taxis, cafeterías y supermercados. Llevá algo de efectivo en dírhams para el mercado de pescado, propinas y puestos chicos. El dírham está atado al dólar a 3,6725, así que no hay sorpresas con el cambio. Para calcular un día ajustado: hotel simple desde AED 130, comidas en cafeterías con shawarma a AED 21-25, colectivos con tope de AED 5 por viaje y varias visitas gratis (mezquita, Corniche, Heritage Village, Casa Abrahámica). Los museos grandes cuestan AED 65-70 y los parques de Yas, AED 295-375."
+    },
+    {
+      "q": "¿Cómo me tengo que vestir? ¿Hay reglas especiales?",
+      "a": "En la calle y los shoppings se usa ropa común, pero discreta: evitá ropa muy corta o transparente. En la Gran Mezquita las mujeres tienen que llevar ropa holgada hasta los tobillos, mangas largas y pañuelo; los hombres, pantalón largo y nada sin mangas. Desde 2023 no prestan abayas en la entrada. En Qasr Al Watan piden hombros y rodillas cubiertos y nada de ojotas. El traje de baño es solo para la playa o la pileta. El alcohol se sirve en hoteles y bares con licencia. Durante el Ramadán cambian los horarios de las atracciones (la mezquita publica su horario especial) y conviene ser discreto al comer y beber en público de día."
+    },
+    {
+      "q": "¿Conviene alquilar auto o me muevo en transporte público?",
+      "a": "Para la ciudad alcanzan los taxis, que son baratos comparados con Europa (bajada AED 5 y AED 1,82 por km según el gobierno de Abu Dhabi), y la red de colectivos con tarjeta Hafilat, con tope de AED 5 por viaje. En Yas hay shuttle gratis entre parques y hoteles. El auto suma para salir: Al Ain queda a una hora y media por la E22 y el desierto de Liwa, más lejos. Las rutas son muy buenas, pero se maneja rápido y las multas son altas. La licencia argentina, chilena o mexicana puede requerir permiso internacional: consultalo con la rentadora antes de viajar."
+    },
+    {
+      "q": "¿Vale la pena ir en verano o en temporada baja?",
+      "a": "Entre junio y septiembre hace 45 °C con 80-90% de humedad (fuente: Visit Abu Dhabi), y caminar al aire libre de día es casi imposible. A cambio, los hoteles bajan: junio es el mes más barato según KAYAK, con promedio de AED 527 la noche contra AED 2.078 en diciembre. Si vas en verano, armá el día alrededor de lugares cerrados (Louvre, museos de Saadiyat, teamLab, Ferrari World y Warner Bros. World son techados) y dejá la mezquita y la Corniche para el atardecer. La mejor época para todo es de noviembre a marzo."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (EN) — «Abu Dhabi»: https://en.wikipedia.org/wiki/Abu_Dhabi",
+      "Abu Dhabi Culture (DCT) — «Qasr Al Hosn»: https://abudhabiculture.ae/en/cultural-sites/historic-buildings-and-cultural-landscapes/qasr-al-hosn",
+      "Statistics Centre Abu Dhabi vía DGE — «2025 SCAD population update»: https://dge.gov.ae/en/news/2025-scad-population-update/",
+      "Wikipedia (EN) — «Sheikh Zayed Grand Mosque»: https://en.wikipedia.org/wiki/Sheikh_Zayed_Grand_Mosque",
+      "Wikipedia (EN) — «Yas Island»: https://en.wikipedia.org/wiki/Yas_Island"
+    ],
+    "que_ver_atracciones": [
+      "Sheikh Zayed Grand Mosque Centre — «Mosque Manners»: https://szgmc.gov.ae/en/mosquemanners",
+      "Sheikh Zayed Grand Mosque Centre — «Visiting Hours»: https://szgmc.gov.ae/en/worshippers/en-v-visiting-hours",
+      "Qasr Al Watan — «Opening Hours / Visitor information»: https://www.qasralwatan.ae/en/plan-your-visit/opening-hours",
+      "Qasr Al Watan — «Qasr Al Watan Ticket»: https://www.qasralwatan.ae/en/tickets/qasr-al-watan-ticket",
+      "Abu Dhabi Culture (DCT) — «Louvre Abu Dhabi»: https://abudhabiculture.ae/en/cultural-sites/museums/louvre-abu-dhabi",
+      "Abu Dhabi Culture (DCT) — «Guggenheim Abu Dhabi»: https://abudhabiculture.ae/en/cultural-sites/museums/guggenheim-abu-dhabi",
+      "Abu Dhabi Culture (DCT) — «Heritage Village»: https://abudhabiculture.ae/en/cultural-sites/culture-centers/heritage-village",
+      "Abu Dhabi Culture (DCT) — «Al Ain Oases»: https://abudhabiculture.ae/en/cultural-sites/historic-buildings-and-cultural-landscapes/al-ain-oases",
+      "Abu Dhabi Culture (DCT) — «Al Jahili Fort»: https://abudhabiculture.ae/en/cultural-sites/historic-buildings-and-cultural-landscapes/al-jahili-fort",
+      "Abu Dhabi Culture (DCT) — «Al Ain Palace Museum»: https://abudhabiculture.ae/en/cultural-sites/museums/al-ain-palace-museum",
+      "Visit Abu Dhabi — «Abu Dhabi Corniche»: https://visitabudhabi.ae/en/where-to-go/beaches/abu-dhabi-corniche",
+      "Visit Abu Dhabi — «Emirati cuisine: the dishes to try and where to try them»: https://visitabudhabi.ae/en/plan-your-trip/article-hub/emirati-cuisine-the-dishes-to-try-and-where-to-try-them",
+      "Saadiyat Companion — «Abrahamic Family House»: https://www.saadiyat.ae/enjoy/abrahamic-family-house",
+      "Getting Around Yas Island — «Directions»: https://www.yasisland.com/directions"
+    ],
+    "precios_2026": [
+      "Louvre Abu Dhabi — «Buy ticket»: https://www.louvreabudhabi.ae/en/buy-ticket",
+      "Khaleej Times — «Abu Dhabi's Zayed National Museum to open on December 3, ticket sales begin»: https://www.khaleejtimes.com/uae/zayed-national-museum-opening-date-ticket-sales",
+      "Natural History Museum Abu Dhabi — «Visit Us - Tickets & Prices»: https://www.nhmad.ae/en/visit",
+      "TradeArabia — «Natural History Museum Abu Dhabi reveals ticket prices, opening hours»: https://tradearabia.com/News/330612/Natural-History-Museum-Abu-Dhabi-reveals-ticket-prices,-opening-hours",
+      "Visit Abu Dhabi — «teamLab Phenomena Abu Dhabi»: https://visitabudhabi.ae/en/things-to-do/culture/museums-and-art/teamlab-phenomena",
+      "Visit Abu Dhabi Tickets — «Qasr Al Hosn»: https://tickets.visitabudhabi.ae/DhzIWai0/qasr-al-hosn-1?lang=en",
+      "Warner Bros. World Abu Dhabi — «Official Tickets»: https://www.wbworldabudhabi.com/en/tickets",
+      "Yas Waterworld — «Official Tickets For Yas Waterworld»: https://www.yaswaterworld.com/en/tickets",
+      "SeaWorld Abu Dhabi — «Buy Tickets»: https://www.seaworldabudhabi.com/en/tickets",
+      "Visit Abu Dhabi — «Jubail Mangrove Park»: https://visitabudhabi.ae/en/things-to-do/nature-and-wildlife/parks/jubail-mangrove-park",
+      "Visit Abu Dhabi — «Kai Beach»: https://visitabudhabi.ae/en/where-to-go/beaches/kai-beach",
+      "Visit Abu Dhabi — «Kayaking»: https://visitabudhabi.ae/things-to-do/water-activities/kayaking",
+      "Visit Abu Dhabi — «Royal Yacht»: https://visitabudhabi.ae/en/plan-your-trip/tours-and-tour-operators/royal-yacht",
+      "Visit Abu Dhabi — «Spend 5 days in Abu Dhabi like Chris and Elsa»: https://visitabudhabi.ae/en/plan-your-trip/article-hub/5-day-itinerary-abu-dhabi",
+      "The Better Vacation (agregador) — «Desert Safari Abu Dhabi»: https://thebettervacation.com/desert-safari-abu-dhabi"
+    ],
+    "como_llegar_transporte": [
+      "Integrated Transport Centre — «Hafilat Public Buses Fees»: https://itc.gov.ae/en/pb-bus-service/hafilat-public-buses-fees",
+      "Abu Dhabi Mobility — «Taxi fares»: https://admobility.gov.ae/en/taxi-fares",
+      "Gulf News — «Dubai to Abu Dhabi by train for Dh39: Your guide to Etihad Rail fares, timings, parking and the station»: https://gulfnews.com/living-in-uae/transport/etihad-rail-dubai-abu-dhabi-fares-stations-and-what-to-know-before-launch-1.500687764",
+      "Gulf News — «Etihad Rail officially launches passenger services between Abu Dhabi and Dubai»: https://gulfnews.com/uae/abu-dhabi/etihad-rail-officially-launches-passenger-services-between-abu-dhabi-and-dubai-1.500693061",
+      "MEED — «Etihad Rail to begin passenger rail operations from 30 June»: https://www.meed.com/etihad-rail-to-begin-passenger-rail-operations-from-30-june",
+      "Wikipedia (EN) — «Zayed International Airport»: https://en.wikipedia.org/wiki/Zayed_International_Airport",
+      "dubizzle (agregador) — «Airport Bus Abu Dhabi»: https://www.dubizzle.com/blog/cars/airport-bus-abu-dhabi/",
+      "Exploring Emirates (agregador) — «Dubai to Abu Dhabi Bus: Timings, Fares & Easy Guide»: https://exploringemirates.com/dubai-to-abu-dhabi-bus/"
+    ],
+    "visas_seguridad": [
+      "u.ae (portal oficial del gobierno) — «Check if you need a visa to enter the UAE»: https://u.ae/en/information-and-services/visa-and-emirates-id/Visa-information/do-you-need-an-entry-permit-or-a-visa-to-enter-the-uae",
+      "Khaleej Times — «Visiting UAE? Full list of countries that can get visa-free entry, visa-on-arrival»: https://www.khaleejtimes.com/life-and-living/uae-full-list-countries-visa-free-entry-visa-on-arrival",
+      "Gulf News — «UAE, Mexico exchange MoU on visa exemption»: https://gulfnews.com/uae/government/uae-mexico-exchange-mou-on-visa-exemption-1.2288826",
+      "Visit Abu Dhabi — «Getting a visa»: https://visitabudhabi.ae/en/plan-your-trip/travelling-to-abu-dhabi/getting-a-visa",
+      "GOV.UK — «United Arab Emirates travel advice: Safety and security»: https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security",
+      "What's On — «Take note: you can no longer rent abayas when visiting Sheikh Zayed Mosque»: https://whatson.ae/2023/04/take-note-you-can-no-longer-rent-abayas-when-visiting-sheikh-zayed-mosque/",
+      "Visit Abu Dhabi — «Weather in Abu Dhabi»: https://visitabudhabi.ae/en/plan-your-trip/essential-info/weather-in-abu-dhabi"
+    ],
+    "alojamiento_gastronomia": [
+      "KAYAK — «Abu Dhabi hotels»: https://www.kayak.ae/Abu-Dhabi-Hotels.9457.hotel.ksp?pn=1",
+      "Bayut — «Where to find the best shawarmas in Abu Dhabi»: https://www.bayut.com/mybayut/places-offering-best-shawarma-abu-dhabi",
+      "Bayut — «Try authentic Emirati delicacies at these eateries in Abu Dhabi»: https://www.bayut.com/mybayut/emirati-restaurants-abu-dhabi/",
+      "Wanderlog (reseñas) — «Fish Market»: https://wanderlog.com/place/details/4277535/fish-market"
+    ]
+  }
+}
