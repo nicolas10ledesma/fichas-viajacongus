@@ -1,0 +1,622 @@
+{
+  "slug": "los-cristianos",
+  "name": "Los Cristianos",
+  "region": "Tenerife (Canarias)",
+  "lat": 28.05,
+  "lon": -16.72,
+  "datosRapidos": [
+    {
+      "label": "Municipio e isla",
+      "value": "Los Cristianos es una localidad costera del municipio de Arona, en el sur de la isla de Tenerife, provincia de Santa Cruz de Tenerife, Canarias (España). No es municipio propio: la cabecera, el pueblo de Arona, queda unos 9 km tierra adentro y a unos 630 metros sobre el mar. Los Cristianos tenía 15.945 habitantes en 2020 según los datos del INE que recoge Wikipedia, y el municipio de Arona entero suma 87.793 (INE 2025), el tercero más poblado de la isla. Se la conoce sobre todo por su puerto: de acá salen los ferries a La Gomera, La Palma y El Hierro, y los barcos de avistamiento de delfines y ballenas. También por sus dos playas de arena clara y agua tranquila, Los Cristianos y Las Vistas, y por un paseo marítimo que sigue sin cortes hasta Playa de las Américas. A diferencia de la vecina Costa Adeje, Los Cristianos fue pueblo antes que destino: un caserío de pescadores que en los años cincuenta empezó a recibir enfermos suecos atraídos por el clima, y que desde 1975 tiene ferry diario a La Gomera. Al este la cierra la Montaña de Guaza, un volcán protegido de más de 400 metros."
+    },
+    {
+      "label": "Moneda e idioma",
+      "value": "Se paga en euros. Se habla castellano con acento canario: al colectivo le dicen 'guagua'. En la zona turística vas a escuchar mucho inglés. Ojo con la guagua de TITSA: su web avisa que por el momento no se acepta efectivo a bordo, así que llevá tarjeta bancaria o comprá la tarjeta ten+."
+    },
+    {
+      "label": "Mejor época",
+      "value": "El sur de Tenerife tiene clima suave todo el año, así que la diferencia la marca el precio. Según Momondo, mayo es el mes más barato para dormir en Los Cristianos (106 € la noche en promedio) y febrero el más caro (211 €). Para ir a La Gomera, mirá el estado del mar antes de reservar el día. Si pensás subir al Teide, revisá el pronóstico de montaña, porque arriba hace frío aunque abajo estés en malla."
+    },
+    {
+      "label": "Visado y entrada",
+      "value": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos no necesitan visa para turismo de hasta 90 días en el espacio Schengen, del que Canarias forma parte. Desde el 10 de abril de 2026 el sistema EES funciona en todas las fronteras exteriores: te toman huellas y foto en lugar de sellar el pasaporte. Si entrás por Madrid, el control lo hacés ahí. El ferry a La Gomera es un viaje dentro de España: no hay control migratorio, pero llevá el pasaporte: Baleària pide tener la documentación lista para embarcar. El ETIAS (20 €) todavía no se exige: se postergó a 2027."
+    }
+  ],
+  "intro": [
+    "Los Cristianos es el sur de Tenerife con pueblo debajo. Tiene hoteles y bloques de apartamentos como sus vecinos, pero también una bahía con barcos de pesca, una avenida con nombre sueco y un puerto que trabaja todo el día. Es la puerta de salida a La Gomera: en 50 minutos de ferry estás en otra isla, con un bosque de laurisilva que es Patrimonio Mundial. Por eso conviene pensarlo como base, no sólo como playa.",
+    "Lo que más rinde acá es combinar mar, caminata y escapadas. Una mañana subís a la Montaña de Guaza a mirar la bahía desde arriba. Otro día cruzás a La Gomera por tu cuenta o en excursión. A la tarde, playa de Las Vistas y paseo marítimo hasta Playa de las Américas. Y si te sobra un día, el pueblo de Arona, el Roque del Conde o el faro de Rasca están a un rato en guagua o en auto. Todo eso sin tener que cambiar de alojamiento.",
+    "También es de los lugares del sur donde mejor se puede viajar con poca plata. Las playas son públicas y tienen agua tranquila, el paseo es gratis, Monkey Park cobra 10 € y la guagua al Teide sale de la propia Los Cristianos. Lo que conviene reservar con tiempo es el ferry a La Gomera en fechas de feriado y el alojamiento en invierno, que es cuando más se llena: según Momondo, febrero es el mes más caro del año para dormir acá."
+  ],
+  "historia_corta": "Las primeras menciones de Los Cristianos, en el siglo XVI, hablan de un puerto: el notario Hernán Guerra lo describe como un puerto. Durante los siglos XVII a XIX siguió siendo un puerto importante, pero casi sin vecinos, porque los ataques de piratas hacían peligroso vivir junto al mar. La vida estaba arriba, en Arona: en 1625 Antón Domínguez fundó la ermita de San Antonio Abad, alrededor de la cual creció el pueblo, que en 1798 se separó de Vilaflor y formó su primer ayuntamiento. Recién hacia 1860 aparece en Los Cristianos un caserío de pescadores, y en 1888 se lo reconoce con 29 casas y una cueva. En 1909 se construyó el primer muelle, el 'Puerto Viejo', y en 1914 Teófilo Bello Rodríguez trajo agua desde Vilaflor, lo que permitió cultivar tomate y plátano. El puerto se amplió en 1934. Durante la Segunda Guerra Mundial se levantaron tres pequeños fortines en la costa ante una posible invasión británica. El giro llegó en 1956, cuando el sueco Bengt Rylander, 'don Benito', llegó con esclerosis múltiple buscando el clima; detrás vinieron otros suecos con poliomielitis y reuma, y en 1965 abrió la clínica de rehabilitación Vintersol. De ahí el nombre de la Avenida de Suecia. En 1975 se inauguró el nuevo puerto con ferry diario a La Gomera, y en 1978 la apertura del aeropuerto Reina Sofía disparó el turismo. En los años ochenta crecieron Los Cristianos y la vecina Playa de las Américas, y en 1990 se recogió la última cosecha de plátano. Hoy Arona supera los 87.000 habitantes.",
+  "queVer": [
+    {
+      "nombre": "Puerto de Los Cristianos y ferry a La Gomera",
+      "desc": "El puerto con más movimiento del sur de Tenerife: ferries a La Gomera, La Palma y El Hierro, y barcos de avistamiento de cetáceos.",
+      "detalle": "El puerto es la razón de ser de Los Cristianos. Desde 1975 tiene ferry diario a San Sebastián de La Gomera, y hoy también salen barcos a La Palma y El Hierro. Dos navieras cubren La Gomera: Fred. Olsen Express y Baleària Canarias, que es como se llama ahora la antigua Naviera Armas. Las dos tardan unos 50 minutos.\n\nPrecios oficiales por trayecto: Baleària publica desde 42 € para no residentes y 11 € para residentes en Canarias. Fred. Olsen publica desde 10 € sólo para residentes; para no residentes no muestra precio fijo y hay que buscar la fecha en su web. Los residentes canarios pagan mucho menos por el descuento de residente, que no aplica a turistas.\n\nAunque no viajes, el puerto vale una vuelta. En el rompeolas hay un mural de más de 2.500 m² con flora y fauna submarina. Desde el muelle salen los barcos de avistamiento de delfines y ballenas, las salidas de pesca y paseos en barco. Al lado, frente a la explanada, están los restaurantes de pescado.\n\nSi vas a tomar el ferry, llegá con tiempo: Baleària cierra el embarque 20 minutos antes para pasajeros a pie y 40 minutos antes con vehículo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En el centro de Los Cristianos, al lado de la playa"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; para La Gomera, días de mar calmo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Mirar es gratis. Ferry a La Gomera: Baleària desde 42 € no residente y 11 € residente; Fred. Olsen desde 10 € residente (fuente: balearia.com y fredolsen.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora de paseo; el ferry, 50 minutos por trayecto"
+        }
+      ]
+    },
+    {
+      "nombre": "Excursión de un día a La Gomera (Parque Nacional de Garajonay)",
+      "desc": "La isla vecina a 50 minutos de ferry: con el bosque de laurisilva de Garajonay, Patrimonio Mundial de la Unesco desde 1986.",
+      "detalle": "La Gomera es la escapada más natural desde Los Cristianos. El corazón de la isla es el Parque Nacional de Garajonay, declarado en 1981 y Patrimonio Mundial de la Unesco desde 1986. Ocupa unas 3.984 hectáreas, más del 10% de la isla, y guarda la muestra mejor conservada de laurisilva, el bosque húmedo de laureles que cubría buena parte de Europa en el Terciario. Según el Ministerio para la Transición Ecológica, tiene más de la mitad de la laurisilva madura del archipiélago. El punto más alto es el Alto de Garajonay, a 1.487 m.\n\nHay dos formas de hacerlo. La cómoda: una excursión organizada que incluye ferry, bus, guía y almuerzo. Baleària vende la 'La Gomera Experience', con salida a las 9:15 desde Los Cristianos y regreso a las 17:00 desde San Sebastián. La libre: cruzás a pie y alquilás auto en La Gomera, o cruzás con auto. Fred. Olsen tiene una tarifa Día Express para ida y vuelta en el mismo día.\n\nEn el parque hay un centro de visitantes en Juego de Bolas (Agulo) y un área recreativa en Laguna Grande. En agosto de 2012 un incendio quemó casi 750 hectáreas del parque.\n\nLlevá abrigo liviano: arriba suele haber niebla y fresco.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "San Sebastián de La Gomera, a 50 minutos de ferry; el parque, en el centro de la isla"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mejor días claros y de mar calmo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Parque sin cobro de entrada según guías de viaje. Excursión con ferry y almuerzo: Baleària desde 99 € (fuente: balearia.com, verificado octubre 2026); Civitatis 110 € (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa de Las Vistas",
+      "desc": "La playa grande de Los Cristianos: 850 metros de arena clara, agua calma gracias a los rompeolas y acceso adaptado.",
+      "detalle": "Las Vistas es la playa más usada de Los Cristianos y una de las más visitadas de Tenerife, según el portal oficial de turismo de España. Tiene 850 metros de largo y 80 de ancho, arena clara y agua tranquila, porque una hilera de rompeolas la protege del oleaje.\n\nTiene de todo: baños, duchas, lavapiés, información turística, bares, restaurantes y alquiler de hamacas, sombrillas y deportes náuticos. El acceso está adaptado para personas con movilidad reducida, hay estacionamiento con más de 100 plazas y guaguas interurbanas cerca. Spain.info la muestra con Bandera Azul.\n\nDesde la arena ves pasar el ferry a La Gomera y, detrás, la Montaña de Guaza. Para chicos chicos funciona muy bien, porque el agua casi no tiene olas.\n\nSi querés ahorrar, llevá toalla y sombrilla: la arena es pública y gratis. Lo que se paga es la hamaca. Se llena a media mañana, sobre todo en invierno, así que andá temprano o al final de la tarde.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Entre el puerto de Los Cristianos y El Camisón, a pie desde el centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; temprano o al atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública). Hamacas y sombrillas se alquilan aparte"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o lo que quieras"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa de Los Cristianos y el casco del pueblo",
+      "desc": "La playa original del pueblo, al abrigo del muelle, con arena clara, agua tranquila y el barrio viejo a pocos metros.",
+      "detalle": "La playa de Los Cristianos es la que estaba antes del turismo: la bahía donde fondeaban los barcos de pesca, pegada al muelle. Según Turismo de Tenerife tiene 345 metros de largo y 80 de ancho, arena de tono claro y aguas tranquilas. Tiene duchas, lavapiés, bares, alquiler de hamacas y sombrillas, acceso adaptado y estacionamiento.\n\nEs más chica y más de pueblo que Las Vistas. Por su posición al lado del puerto le cuesta mantener la Bandera Azul: según Diario de Avisos la recuperó en 2023 después de no tenerla desde 2016.\n\nDetrás de la playa queda lo poco que se conserva del pueblo viejo: calles cortas con casas bajas, la iglesia de Nuestra Señora del Carmen y la Avenida de Suecia, que recuerda a los suecos que llegaron en los años cincuenta buscando sol para curarse. La fiesta grande es la de la Virgen del Carmen, el primer domingo de septiembre, y también se celebra el Carnaval Internacional de Los Cristianos.\n\nEs el lugar para tomar un café mirando los barcos y combinar con el almuerzo de pescado en el muelle.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En el centro del pueblo, junto al puerto"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañanas"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Montaña de Guaza (Monumento Natural)",
+      "desc": "El volcán de más de 400 metros que cierra Los Cristianos por el este, con dos cráteres, restos guanches y vista a toda la bahía.",
+      "detalle": "La Montaña de Guaza es el gran mirador de Los Cristianos. Es un Monumento Natural de 725,7 hectáreas que limita al oeste con el pueblo. Según Turismo de Tenerife supera los 400 metros sobre el mar y tiene dos cráteres concéntricos; sus coladas formaron las Mesas de Guaza y un pequeño acantilado sobre el mar.\n\nNo es sólo paisaje. Hay restos prehispánicos (cuevas, cabañas y enterramientos guanches) y subfósiles de especies extinguidas. La vegetación es la típica del sur seco: cardón, tabaibas y cardoncillos. Es zona de cría de pardela cenicienta, gaviota patiamarilla y camachuelo trompetero.\n\nOjo con un dato: según la ficha de geoturismo de Involcan, la montaña no tiene senderos homologados, aunque hay una red de caminos que la gente usa. El Cabildo de Tenerife indica que se entra desde Playa Graciosa: desde la autopista TF-1 tomás la salida de Los Cristianos, bajás por la TF-655 y a unos 2,7 km llegás a esa urbanización, donde se estaciona y se toma cualquiera de los caminos.\n\nNo hay sombra ni agua. Salí temprano, con gorra, protector y por lo menos un litro y medio de agua por persona, y no te salgas de los caminos marcados por el uso.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Borde este de Los Cristianos; acceso por Playa Graciosa"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Otoño a primavera, temprano por la mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio natural protegido)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 4 horas ida y vuelta, según hasta dónde subas"
+        }
+      ]
+    },
+    {
+      "nombre": "Paseo marítimo de Los Cristianos a Playa de las Américas",
+      "desc": "Una caminata llana junto al mar que une Los Cristianos, Las Vistas, El Camisón y Playa de las Américas sin pisar la calle.",
+      "detalle": "Desde el puerto de Los Cristianos sale un paseo marítimo que bordea Las Vistas y sigue hacia el oeste hasta Playa de las Américas. Es la caminata más fácil y más linda de la zona, sobre todo al atardecer.\n\nPor el camino pasás por la playa de El Camisón, ya en Playa de las Américas: 350 metros de arena fina y clara protegidos por espigones, con duchas, hamacas, bares y acceso adaptado, según Turismo de Tenerife. En Las Américas también están Playa Honda y Playa de Troya.\n\nPlaya de las Américas también es del municipio de Arona hasta el barranco del Rey, donde empieza Adeje. Nació en los años sesenta como extensión turística de Los Cristianos, y la mayoría de sus playas son artificiales, con arena importada de África. Concentra gran parte de la vida nocturna del sur: bares, pubs, terrazas y discotecas. Si buscás tranquilidad para dormir, Los Cristianos es mejor base; si querés salir, Las Américas queda a una caminata.\n\nLas Américas está unida urbanísticamente a Costa Adeje, así que podés seguir caminando hacia Puerto Colón. Llevá agua y protector: en buena parte del recorrido no hay sombra.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Arranca en el puerto de Los Cristianos y sigue hacia el oeste"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (paseo público)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas a pie, ida"
+        }
+      ]
+    },
+    {
+      "nombre": "Casco histórico de Arona",
+      "desc": "La cabecera del municipio, a unos 630 metros de altura: iglesia de San Antonio Abad, casonas y calles empedradas protegidas.",
+      "detalle": "Arriba de Los Cristianos está el pueblo que le da nombre al municipio. Arona nació alrededor de la ermita de San Antonio Abad, fundada en 1625 por Antón Domínguez y su hijo; en 1796 pasó a ser parroquia y en 1798 Arona se separó de Vilaflor y formó su primer ayuntamiento. El casco histórico es Bien de Interés Cultural desde 2006.\n\nLa iglesia de San Antonio Abad es del siglo XVIII y está donde antes estuvo la ermita. Su pieza más valiosa es la imagen del Cristo de la Salud. Enfrente está la plaza del Cristo de la Salud, rodeada de casonas señoriales.\n\nTurismo de Tenerife propone un recorrido a pie que arranca en la iglesia, sigue por las calles Domínguez Alfonso y Duque de la Torre, dobla por La Luna y El Medio, y termina en José Antonio Tavío y El Calvario. En una hora lo hacés tranquilo.\n\nLas fiestas patronales de San Antonio Abad son en enero, con bendición de animales, y las del Cristo de la Salud, a comienzos de octubre.\n\nEs el contraste perfecto con la costa: más fresco, sin hoteles, con vida de pueblo. Se combina bien con el Roque del Conde, que sale de Vento, un barrio de Arona.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 9 km al norte de Los Cristianos; guagua 480 de TITSA, unos 25 minutos"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana; enero y comienzos de octubre por las fiestas"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Roque del Conde",
+      "desc": "La mesa de roca de unos 1.000 metros que domina el sur, con un sendero de dificultad media que sale de Vento, en Arona.",
+      "detalle": "El Roque del Conde es la montaña con forma de mesa que se ve desde casi todo el sur de Tenerife. Su cumbre ronda los 1.000 metros y queda del lado de Adeje, aunque el sendero sale de Arona. Es la caminata con más vista que podés hacer sin salir del municipio.\n\nEl sendero arranca en la calle Vento, un barrio del pueblo de Arona, y es lineal. Según la web de turismo de Costa Adeje, son unos 3,7 a 4,2 km de ida, con 484 metros de ascenso acumulado, dificultad media y unas 2 horas de subida. Arranca a unos 596 metros y termina en los 999 de la cumbre. Arriba hay una meseta con vista abierta sobre la costa sur.\n\nLo importante: no hay sombra en todo el recorrido. Salí bien temprano, sobre todo de mayo a octubre, con agua de sobra, gorra y calzado con buena suela. Algunos caminantes avisan que la bajada tiene tramos de piedra suelta y que no es para gente con vértigo.\n\nPara llegar sin auto, tomás la guagua 480 hasta el pueblo de Arona y caminás hasta Vento.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Inicio en Vento (Arona), a unos 9 km de Los Cristianos"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Otoño a primavera; salida temprano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (sendero público)"
+        },
+        {
+          "label": "Duración",
+          "value": "4 a 5 horas ida y vuelta"
+        }
+      ]
+    },
+    {
+      "nombre": "Monkey Park",
+      "desc": "Un zoológico chico de primates y especies amenazadas, con zonas de contacto, que se recorre en una hora. Ideal con chicos.",
+      "detalle": "Monkey Park es un zoológico pequeño en la zona de Los Cristianos, centrado en primates y en la conservación de especies en peligro. Hay lémures de cola anillada, monos de Brazza, cocodrilo cubano y aves como la cotorra del sol. En 2026 sumó macacos de Berbería, ualabíes de Bennett, un cuervo pío y guacamayos jacinto.\n\nEl parque mismo avisa que es chico y se recorre en una hora. Lo que atrae a las familias son las zonas de interacción, donde estás cerca de los animales. Está prohibido tocarlos y sólo se los puede alimentar con la cajita que vende el parque (3 €), nunca con comida de afuera.\n\nAbre todos los días del año de 9:30 a 16:00, con último acceso a las 15:30. La entrada se compra en la boletería el mismo día; online cobran 1 € de gastos de gestión. Acepta efectivo y tarjeta. No hay restaurante: sólo venden agua, refrescos, helados, café y snacks. Es accesible para sillas de ruedas.\n\nCómo llegar: no tiene bus propio. La guagua 467 de TITSA para en San Francisco y desde ahí hay que seguir en taxi; el parque estima 7 a 10 € de taxi desde Los Cristianos. Pide no ir caminando, porque no hay vereda segura. Tiene estacionamiento gratis.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En las afueras de Los Cristianos; taxi de unos minutos"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "Adultos (más de 12) 10 €; niños de 5 a 12 años 5 €; menores de 5 gratis; sin descuento para residentes (fuente: monkeypark.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Camel Park (paseo en camello)",
+      "desc": "Granja familiar desde 1988 en La Camella, Arona, con paseos de 20 minutos en camello y animales de granja canaria.",
+      "detalle": "Según Camel Park, los camellos llegaron a Canarias hace más de 500 años. Camel Park es una granja familiar que funciona desde 1988 en La Camella, sobre la carretera general entre Los Cristianos y el interior de Arona. Hay camellos, caballos, burros, cabras y otros animales de granja.\n\nLa actividad central es un paseo de 20 minutos en camello, con un camellero que guía al animal. Los chicos pueden subir si van con un adulto en el mismo paseo. Hay límite de peso de 110 kg por persona y no es apto para personas con movilidad reducida.\n\nHay cuatro opciones oficiales: sólo visita a la granja con plato de fruta para alimentar a los animales; paseo básico; pack premium con fotos y aperitivo; y pack con recogida entre Callao Salvaje y Los Cristianos. Los residentes canarios tienen 10% de descuento en los tours.\n\nAbre todos los días de 10:00 a 15:30, y en julio y agosto de 9:30 a 16:30. Cierra el 1 de enero. En verano conviene reservar online. Hay terraza con mesas donde podés comer lo que lleves.\n\nSi te preocupa el trato a los animales, mirá la sección de bienestar animal de su web antes de decidir.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "La Camella, Arona, a pocos km de Los Cristianos"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañana, antes del calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "Granja 7 € adulto / 5 € niño; paseo 22 € / 11 €; premium 28 € / 15 €; con recogida 35 € / 20 € (fuente: camelpark.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Malpaís de Rasca y faro de Rasca",
+      "desc": "Reserva natural de lava y conos volcánicos en Palm-Mar (Arona), con un camino costero de 3 km hasta el faro.",
+      "detalle": "Al sureste de Los Cristianos, pasando la Montaña de Guaza, está la Reserva Natural Especial del Malpaís de Rasca, de 315,4 hectáreas. 'Malpaís' es como se le dice en Canarias a un terreno de lava áspera, difícil de caminar y de cultivar. El paisaje es de lenguas de lava negra, tabaibas, euforbias canarias y conos volcánicos, sobre todo Montaña Grande. Turismo de Tenerife destaca que hay especies amenazadas, como el incienso canario (Artemisia ramosa).\n\nLa caminata clásica sale de la urbanización de Palm-Mar y va por la costa hasta el faro de Rasca: unos 3 km de ida y 6 km ida y vuelta, según la guía de observación de aves Birdingplaces, que aclara que dentro de la reserva sólo se puede andar por el camino costero. Es llano y apto para casi todos. Hay quien vuelve por el interior subiendo a Montaña Grande, un cráter de unos 150 metros con vista al Teide.\n\nPara los que miran aves, lo mejor es la época de migración, cuando pasan chorlitos y zarapitos.\n\nNo hay sombra, agua ni servicios. Llegar en auto es lo más simple: autopista TF-1, salida Guaza, y la TF-6222 hacia Palm-Mar.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Palm-Mar, municipio de Arona, unos 10 minutos en auto desde Los Cristianos"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Otoño a primavera; mañana o atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio natural protegido)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Mercadillo de Los Cristianos",
+      "desc": "El mercado al aire libre de los domingos en la Avenida Juan Carlos I: ropa de verano, bolsos, artesanías y souvenirs.",
+      "detalle": "Los domingos a la mañana, la Avenida Juan Carlos I, al lado del Arona Gran Hotel y frente a la playa de Los Tarajales, se llena de puestos. Es el mercadillo de Los Cristianos.\n\nLo que más hay es ropa de verano, bolsos, accesorios y souvenirs. El portal Mercadillos.org avisa que la oferta es bastante parecida entre puestos, así que conviene recorrer varios antes de comprar y comparar precios.\n\nEl horario que publican las guías es de 9:00 a 14:00, aunque algunas extienden el cierre hasta las 15:00. Algunas fuentes dicen que también se arma los martes, en el mismo lugar. No hay una web oficial del Ayuntamiento de Arona que lo confirme, así que si es tu única chance de ir, preguntá en tu alojamiento.\n\nNo es un mercado de productores: si buscás quesos, mojo o vino de la isla, mejor un supermercado grande o una tienda especializada. Pero como paseo de domingo, combinado con la playa de Los Tarajales y el paseo marítimo, funciona.\n\nCuidá la billetera: con tanta gente junta es el tipo de lugar donde conviene llevar la mochila adelante.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Avenida Juan Carlos I, frente a la playa de Los Tarajales"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Domingos por la mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (mercado público)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Teide en guagua desde Los Cristianos",
+      "desc": "La línea 342 de TITSA sale de Los Cristianos a las 9:40 hacia el teleférico del Teide y vuelve a la tarde: excursión sin auto.",
+      "detalle": "El Parque Nacional del Teide, con el pico más alto de España, está detallado en nuestra ficha de Costa Adeje. Lo que importa saber desde Los Cristianos es que podés ir en transporte público.\n\nLa línea 342 de TITSA hace Estación de Costa Adeje, Los Cristianos, Arona, La Escalona, Vilaflor, el Parador, Las Cañadas del Teide y El Portillo, en unas 2 horas y cuarto. La 342 tiene un solo viaje por sentido: sale de Costa Adeje a las 9:25 y pasa por Los Cristianos a las 9:40. La vuelta sale de El Portillo a las 15:15, del teleférico a las 15:40 y del Parador a las 16:00. Si perdés esa guagua, no hay otra hacia el sur ese día.\n\nLa tarjeta turística de TITSA de 10 € por día sirve en esta línea. El teleférico se paga aparte y en octubre de 2026 opera de 9 a 18 hasta el 13, de 9 a 17:30 hasta el 24 y de 9 a 17 desde el 25. Para subir al cráter hace falta un permiso aparte que se reserva en tenerifeon.es.\n\nLlevá abrigo, agua y protector: arriba hace frío y el sol pega fuerte. Si tenés problemas cardíacos o respiratorios, consultá antes por la altura.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Las Cañadas del Teide, a 2 h 15 min en guagua"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año con buen pronóstico"
+        },
+        {
+          "label": "Entrada",
+          "value": "Teleférico ida y vuelta 42 € adulto no residente, 21 € menor de 3 a 13; residentes 10,50 € y 5,25 € (fuente: volcanoteide.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Ferry Los Cristianos - San Sebastián de La Gomera (Baleària Canarias, ex Naviera Armas)",
+      "precio": "Desde 42 € por trayecto no residente; desde 11 € residentes en Canarias (fuente: balearia.com, verificado octubre 2026). Comprar en la web de Baleària Canarias o en el puerto; embarque a pie cierra 20 minutos antes"
+    },
+    {
+      "tipo": "Ferry Los Cristianos - San Sebastián de La Gomera (Fred. Olsen Express)",
+      "precio": "Desde 10 € por trayecto para residente canario en tarifa más económica (fuente: fredolsen.es, verificado octubre 2026). Para no residentes la web no publica precio fijo: un agregador mostraba 42,80 € (fuente: Ferryhopper, agregador, noviembre 2025, verificado octubre 2026). Tarifa Día Express ida y vuelta en el día desde 13,44 €, sin aclarar para quién (fuente: fredolsen.es, verificado octubre 2026)"
+    },
+    {
+      "tipo": "La Gomera Experience (ferry, bus, guía y almuerzo)",
+      "precio": "Desde 99 € por persona; salida 9:15 de Los Cristianos, regreso 17:00 desde San Sebastián (fuente: balearia.com, verificado octubre 2026). Se compra en la web de Baleària"
+    },
+    {
+      "tipo": "Monkey Park",
+      "precio": "Adultos (más de 12) 10 €; niños de 5 a 12 años 5 €; menores de 5 gratis; sin descuento para residentes, estudiantes ni grupos (fuente: monkeypark.com, verificado octubre 2026). Boletería en el parque o online con 1 € de gastos"
+    },
+    {
+      "tipo": "Camel Park",
+      "precio": "Visita a la granja 7 € adulto / 5 € niño; paseo de 20 minutos 22 € / 11 €; premium 28 € / 15 €; con recogida 35 € / 20 €; residentes canarios 10% de descuento (fuente: camelpark.es, verificado octubre 2026). Reserva online recomendada en julio y agosto"
+    },
+    {
+      "tipo": "Teleférico del Teide (ida y vuelta)",
+      "precio": "Adulto no residente 42 €; menor de 3 a 13 años 21 €; residentes 10,50 € y 5,25 € (fuente: volcanoteide.com, verificado octubre 2026). No incluye el permiso para el cráter"
+    },
+    {
+      "tipo": "Parque Nacional de Garajonay (La Gomera)",
+      "precio": "Sin cobro de entrada según guías de viaje (fuente: spainguides.com, agregador, verificado octubre 2026); no lo encontré confirmado en la web oficial. Se paga el ferry y el transporte en la isla"
+    },
+    {
+      "tipo": "Playas de Los Cristianos, Las Vistas y El Camisón",
+      "precio": "Gratis (playas públicas). Hamacas y sombrillas se alquilan aparte"
+    },
+    {
+      "tipo": "Montaña de Guaza, Malpaís de Rasca y Roque del Conde",
+      "precio": "Gratis (espacios naturales y senderos públicos, sin reserva)"
+    },
+    {
+      "tipo": "Casco histórico de Arona y mercadillo de Los Cristianos",
+      "precio": "Gratis (espacios públicos)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Avistamiento de delfines y ballenas en barco desde el puerto de Los Cristianos",
+      "precio": "27,90 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "1 h 30 min",
+      "operador": "Operadores del puerto de Los Cristianos (elegí barcos con distintivo Barco Azul)"
+    },
+    {
+      "actividad": "Paseo en goleta con avistamiento de cetáceos",
+      "precio": "27 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Goletas con salida desde Los Cristianos y Playa de las Américas"
+    },
+    {
+      "actividad": "Excursión a La Gomera con ferry, comida y guía",
+      "precio": "110 € por persona; en grupo reducido 149 € (fuente: Civitatis, verificado octubre 2026). Baleària vende su propia versión desde 99 € (fuente: balearia.com, verificado octubre 2026)",
+      "duracion": "9 a 12 horas",
+      "operador": "Agencias con recogida en el sur y Baleària Canarias"
+    },
+    {
+      "actividad": "Kayak y snorkel en Los Cristianos (con tortugas marinas)",
+      "precio": "45 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "3 horas",
+      "operador": "Empresas de turismo activo de Los Cristianos"
+    },
+    {
+      "actividad": "Bautismo de buceo en la bahía de Las Rayas",
+      "precio": "85 € con descuento sobre 95 € (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "3 horas",
+      "operador": "Centros de buceo de Los Cristianos"
+    },
+    {
+      "actividad": "Paseo en submarino por el sur de Tenerife",
+      "precio": "Desde 61 € (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "50 minutos a 7 h 30 min según la opción",
+      "operador": "Operadores con salida desde el sur (Los Cristianos, San Miguel de Abona, Las Américas)"
+    },
+    {
+      "actividad": "Paseo en camello con visita a la granja (reventa)",
+      "precio": "26,10 € con descuento sobre 29 € (fuente: Civitatis, verificado octubre 2026); en la web propia, paseo 22 € adulto (fuente: camelpark.es, verificado octubre 2026)",
+      "duracion": "1 a 2 horas",
+      "operador": "Camel Park (La Camella, Arona)"
+    },
+    {
+      "actividad": "Excursión al Teide, Icod, Masca y Garachico desde el sur",
+      "precio": "59 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "8 a 9 horas",
+      "operador": "Agencias con recogida en Las Américas y el sur"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Guaguas TITSA: tarjeta turística de 1 día",
+      "precio": "10 € por día de uso ilimitado más 2 € la tarjeta ten+ (fuente: titsa.com, verificado octubre 2026)",
+      "duracion": "24 horas desde el primer uso",
+      "notas": "Sirve en todas las guaguas y el tranvía, incluida la 342 al Teide. Se compra en máquinas de los aeropuertos, estaciones y kioscos, o en la app ten+ móvil. Rinde el día que hacés excursión larga; para moverte dentro de Los Cristianos no hace falta."
+    },
+    {
+      "medio": "Guaguas TITSA: tarjeta turística de 7 días",
+      "precio": "50 € por 7 días de uso ilimitado más 2 € la tarjeta ten+ (fuente: titsa.com, verificado octubre 2026)",
+      "duracion": "7 días desde el primer uso",
+      "notas": "Personal. Conviene si vas a usar la guagua casi todos los días: aeropuerto, Teide, Arona, Santa Cruz. TITSA avisa que por ahora no acepta efectivo a bordo."
+    },
+    {
+      "medio": "Guagua 480 Los Cristianos - Arona (casco)",
+      "precio": "Tarifa kilométrica TITSA; ida y vuelta en el día desde 4,25 € según el trayecto, o tarjeta turística (fuente: titsa.com, verificado octubre 2026)",
+      "duracion": "Unos 25 minutos según TITSA",
+      "notas": "Pasa por La Camella (Camel Park), Chayofa y el Hospital del Sur. La 482 también une Los Cristianos con Arona y sigue a Vilaflor. Consultá horarios en titsa.com o en la app: hay salidas cada una o dos horas."
+    },
+    {
+      "medio": "Taxi",
+      "precio": "Los Cristianos - Monkey Park 7 a 10 €; Playa de las Américas - Monkey Park 10 a 12 €; Aeropuerto Sur - Monkey Park 26 a 30 € (fuente: monkeypark.com, estimaciones del parque, verificado octubre 2026)",
+      "duracion": "Unos minutos dentro de la zona",
+      "notas": "Sirve como referencia de lo que cuesta un trayecto corto en el sur. Funcionan con taxímetro. Para el aeropuerto conviene comparar con un traslado reservado."
+    },
+    {
+      "medio": "Alquiler de auto",
+      "precio": "Promedio de 10 €/día entre semana y 27 €/día en fin de semana en el aeropuerto Tenerife Sur; ofertas desde 4 €/día; seguros aparte (fuente: Momondo, agregador, verificado octubre 2026)",
+      "duracion": "A demanda",
+      "notas": "Útil para Malpaís de Rasca, el Roque del Conde y el norte de la isla. Llevá licencia de tu país y permiso internacional. Revisá bien qué cubre el seguro y la política de combustible."
+    },
+    {
+      "medio": "A pie por el paseo marítimo",
+      "precio": "Gratis",
+      "duracion": "Del puerto a Playa de las Américas, 1 a 2 horas",
+      "notas": "Todo Los Cristianos se camina. El paseo une el puerto, Las Vistas, El Camisón y Las Américas, y sigue hasta Costa Adeje."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto Tenerife Sur (TFS) → Los Cristianos en guagua",
+      "empresas": "TITSA línea 40 (Costa Adeje Estación - Los Cristianos - Aeropuerto Sur); de noche, línea 711; también la 343 desde Puerto de la Cruz y el aeropuerto Norte",
+      "precio": "Tarifa kilométrica TITSA con tarjeta bancaria o ten+, o tarjeta turística de 10 € el día + 2 € la tarjeta (fuente: titsa.com, verificado octubre 2026)",
+      "duracion": "Unos 16 km según MyTransfers; consultá la duración en la app de TITSA"
+    },
+    {
+      "ruta": "Aeropuerto Tenerife Sur (TFS) → Los Cristianos en traslado privado",
+      "empresas": "Plataformas de traslados (MyTransfers, Civitatis) y taxis de la parada del aeropuerto",
+      "precio": "Sedán privado hasta 4 personas 51,50 €; minivan hasta 6, 58,50 € (fuente: mytransfers.com, verificado octubre 2026). Traslado compartido desde 7,50 € por coche en Civitatis (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "16,27 km; unos 16 minutos según MyTransfers"
+    },
+    {
+      "ruta": "Santa Cruz de Tenerife → Los Cristianos",
+      "empresas": "TITSA línea 111 (Santa Cruz Intercambiador - Estación Costa Adeje, exprés por autopista; algunos viajes pasan por Los Cristianos) y línea 711 nocturna",
+      "precio": "Tarifa kilométrica TITSA; ida y vuelta con 10% de descuento en trayectos de 20 km o más; o tarjeta turística 10 € (fuente: titsa.com, verificado octubre 2026)",
+      "duracion": "1 h 30 min hasta Costa Adeje según TITSA"
+    },
+    {
+      "ruta": "La Gomera, La Palma o El Hierro → Los Cristianos en ferry",
+      "empresas": "Fred. Olsen Express y Baleària Canarias (ex Naviera Armas)",
+      "precio": "Desde La Gomera: Baleària desde 42 € no residente y 11 € residente (fuente: balearia.com, verificado octubre 2026); en agregadores 44,03 a 65,66 € (fuente: Ferryscanner, agregador, mayo 2026, verificado octubre 2026)",
+      "duracion": "50 minutos desde La Gomera; 2 h 30 min desde La Palma y 2 h 20 min desde El Hierro según Ferryhopper"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Económico (pensiones y hostel)",
+      "nivel": 2,
+      "opciones": "Pension Casa Blanca 46 € la noche; Tenerife Hostel 60 €; Pensión Playa 76 € (fuente: Momondo, verificado octubre 2026). El promedio de los hoteles de 2 estrellas es de 69 € según la misma fuente. Febrero es el mes más caro (211 € de media) y mayo el más barato (106 €)"
+    },
+    {
+      "categoria": "Apartamentos (ideales para familias y estadías largas)",
+      "nivel": 3,
+      "opciones": "Castle Harbour 59 € la noche; Comodoro 76 €; Ona Beverly Hills Suites 83 €; Torres del Sol 89 € (fuente: Momondo, verificado octubre 2026). Con cocina ahorrás bastante: comprás en el súper y comés afuera algunas noches"
+    },
+    {
+      "categoria": "Hoteles de cuatro estrellas",
+      "nivel": 4,
+      "opciones": "Ona Hollywood Mirage 103 €; Paradise Park Fun Lifestyle 146 €; Sol Arona Tenerife 152 €; Labranda Reverón Plaza 154 €; Spring Arona Gran Hotel (sólo adultos) 230 €, todos como precio medio por persona y noche (fuente: btravel.com, verificado octubre 2026). Momondo da un promedio de 172 € la habitación en 4 estrellas"
+    },
+    {
+      "categoria": "Lujo (en la vecina Playa de las Américas)",
+      "nivel": 5,
+      "opciones": "No encontré hoteles de cinco estrellas dentro de Los Cristianos. A una caminata por el paseo, en Playa de las Américas, el Hotel Mediterranean Palace sale 172 € la noche y el promedio de 5 estrellas es de 236 € (fuente: Momondo, verificado octubre 2026). Para resorts de lujo frente al mar, mirá nuestra ficha de Costa Adeje"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Menú del día en el pueblo",
+      "nivel": 1,
+      "opciones": "Muchas casas de comida del sur ofrecen menú del día de tres platos con bebida por 10 a 14 € (fuente: Teneriffa News, verificado octubre 2026). En Los Cristianos, Fortuna Nova tenía menú de tres platos a 15 € según una reseña reciente (fuente: Gastroranking, verificado octubre 2026). Raymond, en la Avenida Los Playeros, es un bar de cocina casera con precios bajos según sus reseñas"
+    },
+    {
+      "tipo": "Cocina canaria: papas arrugadas, mojo y carne fiesta",
+      "nivel": 2,
+      "opciones": "Pedí papas arrugadas (papas chicas hervidas en agua con mucha sal) con mojo rojo o verde, y carne fiesta (cerdo adobado frito). En el casco viejo, Guaza o Las Galletas la cocina canaria tradicional sale 20 a 35 € por persona sin bebida (fuente: guía de restaurantes de Meliá, verificado octubre 2026). Para algo más de campo, guachinches de Arona como Cas Toñito"
+    },
+    {
+      "tipo": "Pescado fresco en el muelle",
+      "nivel": 3,
+      "opciones": "Probá vieja (el pez loro canario) o cherne con papas y mojo. Rincón del Marinero, en la explanada del muelle de Los Cristianos, es una referencia con precios en la media según Gastroranking. El pescado y marisco en el puerto y el paseo sale 30 a 55 € por persona sin bebida (fuente: guía de restaurantes de Meliá, verificado octubre 2026). Preguntá el precio del pescado al peso antes de pedir"
+    },
+    {
+      "tipo": "Arroces y marisco",
+      "nivel": 4,
+      "opciones": "El Rincón del Arroz, en la Avenida Sabandeños, es un clásico de Los Cristianos: arroz meloso de bogavante, arroz de carabineros y paella. Unos 45 a 60 € por persona (fuente: Gastroranking, verificado octubre 2026). Conviene reservar, sobre todo a la noche"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa para ir a Tenerife?",
+      "a": "No, si tenés pasaporte de Argentina, Uruguay, Chile, México, Colombia o Perú y viajás como turista por hasta 90 días dentro de cualquier período de 180 en el espacio Schengen. Canarias es España y forma parte de Schengen. Desde el 10 de abril de 2026 funciona el EES: en el primer control de frontera te registran huellas y foto en lugar del sello. Si llegás con escala en Madrid, ese control lo hacés ahí. El ETIAS (autorización online de 20 €) todavía no se pide: se postergó a 2027. Llevá pasaje de vuelta, reserva de alojamiento y seguro de viaje por si te los piden."
+    },
+    {
+      "q": "¿Cómo voy a La Gomera y cuánto cuesta?",
+      "a": "Desde el puerto de Los Cristianos salen Fred. Olsen Express y Baleària Canarias (la ex Naviera Armas). Las dos tardan unos 50 minutos hasta San Sebastián de La Gomera. Baleària publica desde 42 € por trayecto para no residentes y 11 € para residentes en Canarias. Fred. Olsen sólo publica el precio de residente (desde 10 €); para turistas tenés que poner la fecha en su buscador. Los descuentos de residente no aplican a quien está de vacaciones. Si querés todo resuelto, hay excursiones con ferry, bus, guía y almuerzo desde 99 € (Baleària) o 110 € (Civitatis). Llevá el pasaporte para embarcar."
+    },
+    {
+      "q": "¿Conviene dormir en Los Cristianos, Playa de las Américas o Costa Adeje?",
+      "a": "Depende de lo que busques. Los Cristianos tiene pueblo, puerto y playas tranquilas, buena oferta de apartamentos y pensiones baratas, y es lo más práctico si vas a cruzar a La Gomera. Playa de las Américas, pegada, concentra la vida nocturna: si querés salir es cómoda, si querés dormir temprano puede ser ruidosa. Costa Adeje, un poco más al oeste, tiene más hoteles de lujo y playas como El Duque. Las tres se unen por el mismo paseo marítimo, así que la diferencia real es el precio y el ruido."
+    },
+    {
+      "q": "¿Cuántos días me quedo?",
+      "a": "Con cuatro o cinco días hacés lo principal de Los Cristianos sin correr. Un día entero para La Gomera. Otro para el Teide en la guagua 342, que sale de Los Cristianos a las 9:40. Una mañana para la Montaña de Guaza o el Roque del Conde, y la tarde en el pueblo de Arona. Medio día de avistamiento de cetáceos desde el puerto. Lo demás, playa y paseo marítimo. Si tenés una semana, sumá el Malpaís de Rasca, Masca y Los Gigantes (están en la ficha de Costa Adeje) o una escapada al norte de la isla."
+    },
+    {
+      "q": "¿Necesito auto?",
+      "a": "Para Los Cristianos, no: todo se camina y el paseo marítimo te lleva a Las Américas. La guagua de TITSA conecta con el aeropuerto Sur (línea 40), Santa Cruz (111), el pueblo de Arona (480 y 482) y el Teide (342). La tarjeta turística cuesta 10 € por día o 50 € por semana, más 2 € de la tarjeta. Ojo: TITSA no acepta efectivo a bordo por ahora. El auto suma para el Malpaís de Rasca, el inicio del Roque del Conde o el norte de la isla, y según Momondo en el aeropuerto Sur hay alquileres desde 10 € por día entre semana."
+    },
+    {
+      "q": "¿Es seguro Los Cristianos?",
+      "a": "Es una zona turística con mucho movimiento de familias y turistas europeos. Los riesgos más concretos son de otro tipo. En la montaña: la Montaña de Guaza no tiene senderos homologados, y ni ella ni el Roque del Conde tienen sombra; salí temprano, con agua y buen calzado, y si te pasa algo llamá al 112. En el mar: respetá las banderas, aunque Las Vistas y Los Cristianos tienen agua calma. En la calle, lo de siempre: mochila adelante en el mercadillo del domingo y nada a la vista en el auto o en la playa."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Los Cristianos»: https://es.wikipedia.org/wiki/Los_Cristianos",
+      "Wikipedia (EN) — «Los Cristianos»: https://en.wikipedia.org/wiki/Los_Cristianos",
+      "Wikipedia (ES) — «Arona (Santa Cruz de Tenerife)»: https://es.wikipedia.org/wiki/Arona_(Santa_Cruz_de_Tenerife)",
+      "Wikipedia (ES) — «Playa de las Américas»: https://es.wikipedia.org/wiki/Playa_de_las_Am%C3%A9ricas"
+    ],
+    "que_ver_atracciones": [
+      "Turismo de Tenerife — «Las Vistas»: https://www.webtenerife.co.uk/what-see/beaches/las-vistas/",
+      "Turismo de Tenerife — «Los Cristianos»: https://www.webtenerife.co.uk/what-see/beaches/los-cristianos/",
+      "Turismo de Tenerife — «El Camisón»: https://www.webtenerife.co.uk/what-see/beaches/el-camison/",
+      "Spain.info (Turespaña) — «Playa: Las Vistas»: https://www.spain.info/es/playa/vistas/",
+      "Diario de Avisos — «Playa de Los Cristianos (Bandera Azul 2023)»: https://diariodeavisos.elespanol.com/2023/07/playa-de-los-cristianos/",
+      "Turismo de Tenerife — «Montaña de Guaza»: https://www.webtenerife.co.uk/what-see/outdoor-attractions/montana-guaza/",
+      "Cabildo de Tenerife — «La Montaña de Guaza»: https://www.tenerife.es/portalcabtfe/en/component/content/article/46-temas/medio-ambiente-de-tenerife/1007-la-montana-de-guaza?Itemid=277",
+      "Involcan (geoturismo) — «Ficha 16, Montaña de Guaza»: https://tfgeoturismo.involcan.org/wp-content/uploads/2020/02/Ficha-16.pdf",
+      "Turismo de Tenerife — «Centro histórico de Arona»: https://www.webtenerife.co.uk/what-see/historic-sites/historic-quarters/centro-historico-de-arona/",
+      "Costa Adeje turismo — «Roque del Conde»: https://costa-adeje.es/en/nature/roque-del-conde",
+      "Turismo de Tenerife — «Malpaís de Rasca»: https://www.webtenerife.co.uk/what-see/outdoor-attractions/malpais-rasca/",
+      "Birdingplaces — «Malpaís de Rasca»: https://birdingplaces.eu/birdingplaces/spain/malpais-de-rasca",
+      "Monkey Park (web oficial) — «Organiza tu visita»: https://www.monkeypark.com/es/organiza-tu-visita/",
+      "Monkey Park (web oficial) — «FAQ»: https://www.monkeypark.com/es/faq/",
+      "Camel Park Tenerife (web oficial) — «Paseos en camello y diversión familiar»: https://camelpark.es/es/",
+      "Mercadillos.org — «Mercadillo Los Cristianos»: https://mercadillos.org/mercadillo-los-cristianos",
+      "Wikipedia (ES) — «Parque nacional de Garajonay»: https://es.wikipedia.org/wiki/Parque_nacional_de_Garajonay",
+      "MITECO — «Parque Nacional de Garajonay»: https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/garajonay.html"
+    ],
+    "precios_2026": [
+      "Fred. Olsen Express — «Tenerife - La Gomera»: https://www.fredolsen.es/es/rutas/tenerife-la-gomera",
+      "Fred. Olsen Express — «Tarifa Día Express»: https://www.fredolsen.es/es/tarifa-dia-express",
+      "Fred. Olsen Express — «Ofertas y promociones»: https://www.fredolsen.es/es/ofertas-y-promociones",
+      "Baleària Canarias — «Ferry Tenerife to La Gomera»: https://armastrasmediterranea.com/en/routes-timetables/ferry-tenerife-los-cristianos-la-gomera",
+      "Volcano Teide (Teleférico del Teide) — «Tarifas y horarios»: https://www.volcanoteide.com/es/teleferico_del_teide/tarifas_y_horarios",
+      "Civitatis — «Excursiones y actividades en Los Cristianos»: https://www.civitatis.com/es/los-cristianos/",
+      "Spainguides (agregador) — «Garajonay National Park»: https://spainguides.com/?p=27819"
+    ],
+    "como_llegar_transporte": [
+      "TITSA — «Billetes y títulos de pago»: https://titsa.com/index.php/tus-guaguas/billetes-y-tarifas/billetes-y-titulos-de-pago",
+      "TITSA — «Aeropuerto Tenerife Sur»: https://titsa.com/index.php/tenerife-en-guagua/lineas-de-aeropuertos/aeropuerto-tenerife-sur",
+      "TITSA — «Línea 480»: https://titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-480",
+      "TITSA — «Línea 482»: https://titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-482",
+      "TITSA — «Línea 342»: https://titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-342",
+      "TITSA — «Línea 111»: https://titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-111",
+      "MyTransfers — «Aeropuerto de Tenerife Sur a Los Cristianos»: https://www.mytransfers.com/es/destination/espana/aeropuerto-de-tenerife-sur-reina-sofia-tfs/los-cristianos/",
+      "Ferryhopper (agregador) — «Ferries de Fred. Olsen Express a Los Cristianos»: https://www.ferryhopper.com/es/blog/featured/fred-olsen-los-cristianos",
+      "Ferryscanner (agregador) — «Ferry Los Cristianos (Tenerife) - La Gomera»: https://www.ferryscanner.com/es/rutas-ferry/ferry-los-cristianos-tenerife-la-gomera-todos-los-puertos",
+      "Momondo — «Coches de alquiler en Aeropuerto Tenerife Sur»: https://www.momondo.es/alquiler-de-coches/granadilla-de-abona-tenerife-sur-TFS-cap.ksp"
+    ],
+    "visados_entrada": [
+      "eucrim — «Entry/Exit System (EES) Fully Operational Since 10 April 2026»: https://eucrim.eu/news/entryexit-system-ees-fully-operational-since-10-april-2026/",
+      "InsideFlyer — «EU postpones ETIAS travel authorization to 2027»: https://insideflyer.com/posts/eu-postpones-etias-travel-authorization-to-2027/"
+    ],
+    "alojamiento_gastronomia": [
+      "Momondo — «Hoteles en Los Cristianos»: https://www.momondo.es/hoteles/los-cristianos",
+      "Momondo — «Hoteles en Playa de las Américas»: https://www.momondo.es/hoteles/playa-de-las-americas",
+      "Btravel — «Hoteles 4 estrellas en Los Cristianos»: https://www.btravel.com/hoteles/4-estrellas-los-cristianos-santa-cruz-de-tenerife-islas-canarias",
+      "Gastroranking — «Rincón del Marinero en Arona»: https://gastroranking.es/r/rincon-del-marinero-4_80768/",
+      "Gastroranking — «El Rincón del Arroz en Arona»: https://gastroranking.es/r/el-rincon-del-arroz_33971/",
+      "Gastroranking — «Raymond en Arona»: https://gastroranking.es/r/raymond_70908/",
+      "Gastroranking — «Fortuna Nova, Los Cristianos»: https://gastroranking.es/r/fortuna-nova-los-cristianos_37888/",
+      "Meliá — «Mejores restaurantes de Los Cristianos»: https://www.melia.com/es/blog/viajar/mejores-restaurantes-los-cristianos",
+      "Teneriffa News — «Fish restaurants»: https://www.teneriffa-news.com/en/restaurant-en/tenerife/fish-restaurants"
+    ]
+  }
+}
