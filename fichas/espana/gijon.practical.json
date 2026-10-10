@@ -1,0 +1,658 @@
+{
+  "slug": "gijon",
+  "name": "Gijón",
+  "region": "Asturias",
+  "lat": 43.5453,
+  "lon": -5.6619,
+  "datosRapidos": [
+    {
+      "label": "Ciudad",
+      "value": "Gijón (Xixón en asturiano) es la ciudad más poblada del Principado de Asturias, en la costa del mar Cantábrico, en el norte de España. Según el INE tenía 269.894 habitantes en 2025, repartidos en un municipio de 182,1 km². Queda a 28 km de Oviedo, la capital regional, y a 26 km de Avilés: las tres ciudades forman el área central de Asturias y se conectan en colectivo y tren en menos de una hora. El casco viejo, Cimadevilla, ocupa una península sobre el cerro de Santa Catalina, donde se asentaron los romanos en el siglo I y donde hoy está el Elogio del Horizonte de Eduardo Chillida, la escultura que funciona como símbolo de la ciudad. A un lado queda la playa de San Lorenzo, de unos 1.550 metros, con un paseo marítimo de principios del siglo XX; al otro, el puerto deportivo y la playa de Poniente. Gijón fue durante más de un siglo una ciudad industrial: puerto carbonero de El Musel, siderurgia y astilleros. Esa historia se ve en sus museos gratuitos y en la Universidad Laboral, considerada el edificio más grande de España. También es una de las capitales de la cultura sidrera asturiana, declarada por la Unesco Patrimonio Cultural Inmaterial en diciembre de 2024: acá la sidra se escancia desde lo alto en sidrerías llenas a toda hora."
+    },
+    {
+      "label": "Moneda e idioma",
+      "value": "Se paga en euros y la tarjeta funciona en casi todos lados, incluidas las sidrerías y los trenes de Cercanías, donde podés pagar el boleto acercando una tarjeta contactless. El idioma de todos los días es el castellano. El asturiano (asturianu o bable) aparece en carteles y nombres oficiales: Xixón es Gijón, Cimavilla es Cimadevilla, 'muséu' es museo, 'llagar' es el lugar donde se hace la sidra y 'culín' es el trago corto de sidra que te sirven. Con castellano te arreglás en todas partes."
+    },
+    {
+      "label": "Mejor época",
+      "value": "El clima es oceánico: la temperatura media anual es de 13,8 °C (dato AEMET 1971-2000 citado en Wikipedia). Llueve repartido todo el año, así que siempre conviene llevar campera impermeable. Para playa, julio y agosto; para caminar sin multitudes y con precios más bajos, mayo, junio, septiembre y octubre. Según Momondo, julio es el mes más caro para dormir (media de 159 € la noche) y enero el más barato (74 €). Si pensás subir a los Lagos de Covadonga, ojo con las fechas de acceso restringido en auto: en octubre de 2026 rigen del 1 al 18 y los días 24, 25 y 31."
+    },
+    {
+      "label": "Visado y tasa turística",
+      "value": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos no necesitan visa para turismo de hasta 90 días en 180 dentro del espacio Schengen; bolivianos y ecuatorianos sí la necesitan. Desde el 10 de abril de 2026 funciona completo el EES: en el primer control Schengen te toman huellas y foto en vez de sellar el pasaporte. El ETIAS (permiso online de 20 €) todavía no se pide. En octubre de 2026 Gijón no cobra tasa turística: el Gobierno de Asturias aprobó en junio de 2026 un proyecto de ley para que cada ayuntamiento pueda cobrarla de forma voluntaria, y el gobierno municipal de Gijón dijo en enero de 2026 que no la aplicaría."
+    }
+  ],
+  "intro": [
+    "Gijón es la ciudad asturiana que mira al mar. Tiene un casco viejo de pescadores encaramado en una península, una playa urbana de más de un kilómetro y medio donde la marea cambia el paisaje dos veces por día y un paseo marítimo que la gente recorre a cualquier hora, llueva o no. Es una ciudad de trabajo, con puerto e industria, y eso se nota: no está pensada para el turista, y justamente por eso se disfruta. Comés bien, pagás menos que en otras ciudades costeras de España y casi todos sus museos son gratis.",
+    "Lo que más vas a recordar es la sidra. En las sidrerías el camarero levanta la botella por encima de la cabeza y deja caer un chorro fino sobre el vaso que sostiene a la altura de la cintura: eso es el escanciado. Te sirve un culín, lo tomás de un trago y el vaso vuelve a la ronda. Alrededor van llegando fabada, cachopo, quesos y pescado del Cantábrico. Cimadevilla, el barrio alto, junta bares, casas bajas de colores y el cerro con la escultura de Chillida, desde donde se ve toda la costa.",
+    "Gijón además es una base práctica para recorrer Asturias. Oviedo, con su catedral y su casco histórico, queda a menos de media hora en tren o colectivo. Covadonga y los Lagos, dentro del Parque Nacional de los Picos de Europa, se hacen en una excursión de día. Hacia el oeste esperan pueblos de pescadores como Cudillero. Y cuando volvés a la noche, la ciudad sigue viva: el paseo del Muro, el puerto deportivo y las sidrerías del centro llenas de gente que trabaja ahí al lado y no de excursiones."
+  ],
+  "historia_corta": "El primer poblamiento conocido de Gijón es el castro de Noega, en la Campa Torres, habitado desde el siglo V a. C. En el siglo I d. C. los romanos fundaron un asentamiento sobre la península de Cimadevilla, lo amurallaron y construyeron las termas que hoy se visitan bajo el Campo Valdés, descubiertas en 1903. En el siglo VIII la ciudad aparece en las crónicas asociada a Munuza, el gobernador musulmán al que se enfrentó Pelayo antes de la batalla de Covadonga, origen del reino de Asturias. Durante la Edad Media Gijón fue una villa marinera modesta, y en 1394 quedó arrasada durante un asedio. Resurgió con el puerto y con la Ilustración: Gaspar Melchor de Jovellanos, nacido acá en 1744, impulsó el Real Instituto Asturiano y trazó el crecimiento de la ciudad. El siglo XIX trajo la fábrica de tabacos de Cimadevilla (1843-2002), el ferrocarril y la industria: entre 1893 y 1907 se construyó el puerto de El Musel, el primer puerto carbonero de la península, y la siderurgia y los astilleros dieron trabajo a miles de personas. Entre 1948 y 1957 se levantó la Universidad Laboral, un enorme complejo educativo para hijos de trabajadores. La crisis de 1973 y la entrada en la Comunidad Europea obligaron a una dura reconversión industrial: en 1987 el desempleo llegó al 26 %. Desde los años ochenta la ciudad se reinventó hacia el mar y la cultura: el viejo puerto se convirtió en puerto deportivo, el cerro de Santa Catalina en parque con el Elogio del Horizonte (1990) y la Laboral en Ciudad de la Cultura (2007).",
+  "queVer": [
+    {
+      "nombre": "Cimadevilla (Cimavilla)",
+      "desc": "El barrio más antiguo de Gijón, sobre una península: calles empinadas, casas de pescadores, sidrerías y restos romanos.",
+      "detalle": "Cimadevilla (Cimavilla en asturiano, que quiere decir 'la parte alta de la villa') es el núcleo original de Gijón. Ocupa por completo el cerro de Santa Catalina, una península que entra en el Cantábrico entre la playa de San Lorenzo y el puerto deportivo. Acá se asentaron los romanos, y todavía se conservan tramos de su muralla y las termas de Campo Valdés. Durante el siglo XIX fue un barrio de pescadores y de las cigarreras de la fábrica de tabacos, que funcionó entre 1843 y 2002.\n\nHoy es un barrio chico, con unos 2.700 vecinos según el dato de 2018, y casi todo peatonal. Se recorre a pie subiendo desde la Plaza Mayor y el Ayuntamiento. En pocas cuadras juntás la iglesia de San Pedro, la casa natal de Jovellanos, el Palacio de Revillagigedo y, arriba, el parque del cerro con la escultura de Chillida.\n\nDe noche es la zona de bares y sidrerías más concurrida de la ciudad. Conviene llevar calzado cómodo porque las calles son empinadas y en días de lluvia la piedra resbala. No hay líneas de colectivo que entren al barrio.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Gijón, entre la playa de San Lorenzo y el puerto deportivo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; al atardecer para el cerro y de noche para las sidrerías"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (barrio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas a pie"
+        }
+      ]
+    },
+    {
+      "nombre": "Elogio del Horizonte y Cerro de Santa Catalina",
+      "desc": "La escultura de hormigón de Eduardo Chillida (1990) en lo alto de Cimadevilla, símbolo de Gijón y gran mirador sobre el Cantábrico.",
+      "detalle": "El Elogio del Horizonte es una escultura de hormigón del vasco Eduardo Chillida, inaugurada en 1990 en el parque del Cerro de Santa Catalina, la punta de la península de Cimadevilla. Mide unos 10 metros de alto y pesa alrededor de 500 toneladas. Al principio fue muy criticada por su costo y su forma (todavía hay quien la llama con humor 'el váter de King Kong'), pero con los años se volvió el emblema de la ciudad: aparece en los logos y en la promoción turística de Gijón.\n\nEstá pensada para vivirla desde adentro. Si te parás bajo los arcos, el ruido del viento y del mar se amplifica y cambia según por dónde entres. Alrededor, el parque ocupa lo que fue una zona militar sobre el acantilado y tiene vista abierta al mar, a la playa de San Lorenzo y a la costa hacia el este.\n\nSe sube a pie desde Cimadevilla en pocos minutos. Es un lugar ventoso: aun en verano conviene un abrigo liviano. Al atardecer se llena de gente, y es el mejor momento para la foto. En temporada alta es difícil estacionar cerca; mejor llegar caminando.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En la punta de Cimadevilla, a pie desde la Plaza Mayor"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Atardecer, cualquier época del año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (parque público abierto)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa de San Lorenzo y paseo del Muro",
+      "desc": "La gran playa urbana de Gijón, de unos 1.550 metros, con su paseo marítimo y la Escalerona; la marea cambia todo el paisaje.",
+      "detalle": "La playa de San Lorenzo tiene unos 1.550 metros de arena en forma de concha, desde la iglesia de San Pedro, al pie de Cimadevilla, hasta la desembocadura del río Piles. La acompaña el paseo del Muro, construido entre 1907 y 1916 y reformado por última vez en 1993, que sigue hacia el este por la senda costera. Las bajadas a la arena están numeradas como escaleras, de la 0 a la 16; la más famosa es la Escalerona (escalera 4), una escalinata de hormigón inaugurada en 1933.\n\nLo que más sorprende es la marea. En pleamar la arena se reduce a unos 40.000 m² y en bajamar llega a unos 240.000 m²: la playa puede casi desaparecer o volverse enorme en unas horas. Mirá la tabla de mareas antes de ir. El oleaje suele ser de moderado a fuerte, por eso también es una playa de surf.\n\nHay duchas, baños y una oficina de turismo a la altura de la escalera 4. El servicio de salvavidas funciona los fines de semana desde principios de mayo y todos los días del 1 de junio al 30 de septiembre, de 10 a 21 h. Fuera del verano es ideal para caminar el paseo completo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Gijón, al este de Cimadevilla"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Julio y agosto para bañarse; todo el año para el paseo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día de playa o 1 hora de paseo"
+        }
+      ]
+    },
+    {
+      "nombre": "Laboral Ciudad de la Cultura (y su torre)",
+      "desc": "El antiguo complejo de la Universidad Laboral, de 1948-1957: plaza, iglesia elíptica, teatro y una torre de 130 m con mirador.",
+      "detalle": "La Universidad Laboral de Gijón se construyó entre 1948 y 1957 con proyecto de Luis Moya Blanco, como gran centro educativo para hijos de trabajadores. Tiene unos 270.000 m² construidos y se la considera el edificio más grande de España. En 2007 se reconvirtió en Laboral Ciudad de la Cultura, con centro de arte, escuelas y espacios culturales.\n\nEl recorrido impresiona por la escala. La plaza central mide unos 150 por 50 metros. La iglesia tiene planta elíptica de 38,40 por 24 metros, una de las más grandes del mundo con esa forma. El teatro tiene 1.756 butacas. Y la torre, de 130 metros, es el edificio más alto de Asturias: desde su mirador se ve el valle, la ciudad y el mar.\n\nLo mejor es la visita guiada, que incluye la subida al mirador de la torre. Del 9 de septiembre al 2 de noviembre de 2026 hay pases de lunes a viernes a las 17 h y fines de semana y feriados a las 12 y 17 h; del 3 de noviembre al 20 de diciembre, viernes a las 17 h y fines de semana y feriados a las 12 y 17 h. El recorrido puede cambiar por eventos o mal tiempo, y algunos espacios no son accesibles. Queda junto al Jardín Botánico: combinalos.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En Cabueñes, al este de la ciudad, junto al Jardín Botánico"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; día despejado para la torre"
+        },
+        {
+          "label": "Entrada",
+          "value": "Visita guiada con subida a la torre: 6 € general; 4,50 € reducida; gratis de 0 a 3 años (fuente: turismoasturias.es, calendario 2026, verificado octubre 2026). Se compra en la recepción de Laboral"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Termas romanas de Campo Valdés",
+      "desc": "Museo subterráneo sobre unas termas romanas altoimperiales, frente a la iglesia de San Pedro, a nivel del mar y gratis.",
+      "detalle": "Bajo la plaza de Campo Valdés, delante de la iglesia de San Pedro, se conservan unas termas romanas de época altoimperial, consideradas uno de los yacimientos más importantes del norte de España. Se descubrieron en 1903, pero recién se abrieron al público en 1965. Hoy funcionan como museo in situ, dentro de la red de museos municipales.\n\nEl edificio estaba fuera de la muralla romana y tenía dos partes: una zona doméstica y una zona termal, con las salas de agua fría, templada y caliente que usaban los romanos. Pasarelas y paneles te ayudan a entender cómo funcionaba el circuito. El acceso es practicable y la movilidad interior, accesible.\n\nHorario según Turismo Asturias: martes a viernes de 9:30 a 14 y de 17 a 19:30; sábados, domingos y feriados de 10 a 14 y de 17 a 19:30. Cierra los lunes, el 1 y 6 de enero, el martes de Carnaval, el 15 de agosto y el 24, 25 y 31 de diciembre. Está en el camino entre la playa de San Lorenzo y Cimadevilla, así que encaja en cualquier paseo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Campo Valdés, al pie de Cimadevilla, junto a la playa de San Lorenzo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; ideal un día de lluvia"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: turismoasturias.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Palacio de Revillagigedo y Plaza del Marqués",
+      "desc": "Palacio barroco del siglo XVIII frente al puerto deportivo, con una torre del siglo XV; hoy sala de exposiciones gratuita.",
+      "detalle": "El Palacio de Revillagigedo preside la Plaza del Marqués, frente al puerto deportivo y junto a la estatua de Don Pelayo. Es una construcción barroca del siglo XVIII, aunque una de sus dos torres viene del siglo XV. La traza se atribuye al arquitecto Francisco Menéndez Camino, que reformó la torre original y levantó el resto. Pegada al palacio está la Colegiata de San Juan Bautista, trazada en 1720.\n\nLa fachada es lo más vistoso: dos torres cuadradas con almenas y un cuerpo central de tres pisos con arquerías, balcones, columnas y el escudo de la familia Ramírez Jove. Adentro funciona como espacio de exposiciones temporales.\n\nSegún Turismo Asturias, entre el 30 de marzo y el 20 de septiembre de 2026 abrió de martes a domingo de 11 a 14 y de 17 a 20, con entrada gratuita; para el horario de otoño e invierno conviene llamar al 985 346 921 o confirmar la muestra en curso. Aunque esté cerrado, vale pasar por la plaza: es la puerta de entrada a Cimadevilla desde el puerto.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Plaza del Marqués, entre el puerto deportivo y Cimadevilla"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: turismoasturias.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 a 45 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo Casa Natal de Jovellanos",
+      "desc": "La casa donde nació en 1744 Gaspar Melchor de Jovellanos, figura de la Ilustración española, con colección de arte municipal.",
+      "detalle": "Gaspar Melchor de Jovellanos fue uno de los grandes nombres de la Ilustración española y el personaje más influyente de la historia de Gijón. Nació en 1744 en esta casa palacio de Cimadevilla, construida entre fines del siglo XIV y principios del XVI, y murió en Puerto de Vega en 1811. El edificio se adaptó como museo a partir de los años cincuenta y abrió en 1971.\n\nPegada a la casa está la capilla de los Remedios, donde se encuentra el mausoleo de Jovellanos. El museo combina la figura del ilustrado con la conservación y exhibición del patrimonio artístico municipal, por lo que suele tener pintura asturiana y exposiciones temporales.\n\nHorario según Turismo Asturias: martes a viernes de 9:30 a 14 y de 17 a 19:30; sábados, domingos y feriados de 10 a 14 y de 17 a 19:30. Cierra los lunes y en las mismas fechas que el resto de los museos municipales. Está en la Plaza de Jovellanos, a pasos de las termas y del Palacio de Revillagigedo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Plaza de Jovellanos, en Cimadevilla"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: turismoasturias.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Sidrerías y el escanciado de la sidra",
+      "desc": "La experiencia más asturiana: sidra natural escanciada desde lo alto, culín por culín, con fabada, cachopo o pescado.",
+      "detalle": "La sidra es la bebida de Asturias y en 2024 la Unesco declaró la cultura sidrera asturiana Patrimonio Cultural Inmaterial de la Humanidad. Se hace con mosto de manzana fermentado en los llagares y tiene entre 5 y 6 grados. La natural tradicional es la única que se escancia: el camarero levanta la botella por encima de la cabeza y deja caer el chorro sobre el borde del vaso para airearla.\n\nTe sirven un culín (unos 130 cc). Hay que tomarlo enseguida, antes de que 'muera' y pierda fuerza, y dejar un restito para enjuagar el borde, porque el vaso se comparte en la mesa. No pidas que te llenen el vaso: no se hace. Según el folleto municipal de la Ruta de la Sidra, la fabricación industrial de botellas de sidra en Asturias empezó en El Natahoyo, en Gijón, en 1827.\n\nHay sidrerías en todo el centro y en Cimadevilla. La botella ronda los 3 € según una guía de Turismo Asturias editada en 2022 (puede haber subido). Si querés ver cómo se hace, hay visitas a llagares de las afueras. Pedí algo para picar: la sidra se toma comiendo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En todo el centro, Cimadevilla y los barrios"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; en abril se hace el Primer Sidre l'Añu"
+        },
+        {
+          "label": "Entrada",
+          "value": "Botella de sidra natural: alrededor de 3 € (fuente: guía de sidrerías de Turismo Asturias, edición 2022; verificado octubre 2026 que no hay tarifa oficial)"
+        },
+        {
+          "label": "Duración",
+          "value": "Una comida o una tarde"
+        }
+      ]
+    },
+    {
+      "nombre": "Jardín Botánico Atlántico",
+      "desc": "Más de 30.000 plantas de 2.500 especies en 25 hectáreas, con bosques naturales y una casería asturiana tradicional.",
+      "detalle": "El Jardín Botánico Atlántico es un parque municipal de 25 hectáreas, de las que 16 están abiertas al público. Reúne más de 30.000 plantas de 2.500 especies, organizadas en cuatro áreas temáticas que tienen al océano Atlántico como hilo conductor: plantas usadas por el ser humano en el Viejo y el Nuevo Mundo, dunas, marismas, bosques boreales y un jardín histórico de más de 150 años.\n\nDentro del recinto quedaron bosques naturales bien conservados, como la aliseda del río Peñafrancia y la Carbayera del Tragamón, con robles centenarios. También tiene una casería asturiana tradicional, la Quintana de Rionda, con casa, cuadra, llagar, molino y panera recuperados como pequeños museos.\n\nLa visita guiada individual está incluida en la entrada, según disponibilidad. Hay talleres para chicos los sábados y actividades especiales en cada cambio de estación. Los horarios varían por temporada: confirmalos en la taquilla (985 185 130). Queda pegado a la Laboral, y existe una entrada conjunta para los dos.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Avenida del Jardín Botánico, en Cabueñes, junto a la Laboral"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño"
+        },
+        {
+          "label": "Entrada",
+          "value": "2,90 € adulto; 1,80 € reducida (12 a 26 años, mayores de 65, discapacidad); gratis menores de 12 (fuente: Ordenanza municipal 3.65 del Ayuntamiento de Gijón, publicada en diciembre de 2025, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Acuario de Gijón (Bioparc Acuario)",
+      "desc": "Recorrido por unos 60 acuarios de agua dulce y salada, desde un río cantábrico hasta los corales, con tiburones y tortugas.",
+      "detalle": "El Acuario de Gijón, hoy gestionado por Bioparc, está junto a la playa de Poniente. Propone un viaje por los mares del mundo en unos 60 acuarios de agua dulce y salada. Arranca con un río cantábrico y especies como esturiones, salmones y truchas, sigue por el Atlántico y termina en aguas cálidas con corales, peces tropicales, tiburones y tortugas.\n\nEs el plan más claro si viajás con chicos o si el día viene lluvioso. Hay restaurante y tienda, y está prohibido comer dentro del recorrido. El aforo es limitado y Turismo Asturias recomienda reservar la visita online. Hay estacionamiento público a unos cincuenta metros.\n\nSegún el agregador Taquilla.com, abre todos los días desde las 10:30 y la hora de cierre cambia según la época; el último ingreso es una hora antes del cierre. Es de lo más caro de la ciudad, así que si tenés poco presupuesto priorizá los museos municipales, que son gratis.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Junto a la playa de Poniente, en el oeste del centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; ideal en días de lluvia"
+        },
+        {
+          "label": "Entrada",
+          "value": "20,50 € adulto (15 a 64 años); 12 € niño (3 a 14); 14 € mayores de 65; gratis menores de 3 (fuente: Taquilla.com y Civitatis, agregadores, verificado octubre 2026). Comprar en la web oficial del acuario o en taquilla"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Muséu del Pueblu d'Asturies (Museo del Pueblo de Asturias)",
+      "desc": "Museo etnográfico al aire libre de 30.000 m², con hórreos, casas trasladadas, museo de la gaita y fotografía histórica.",
+      "detalle": "El Muséu del Pueblu d'Asturies se creó en 1968 para conservar y mostrar la sociedad tradicional asturiana. Ocupa un recinto de 30.000 m² en La Güelga, donde se trasladaron tres edificios: la casa de los Valdés, del siglo XVII; la casa de los González de la Vega, una casona de corredor de 1757 que hoy es el Museo de la Gaita; y el pabellón de Asturias de la Exposición Universal de Sevilla de 1992.\n\nEn el predio hay hórreos y paneras de los siglos XVIII y XIX, boleras para los distintos juegos de bolos asturianos, una exposición de herramientas agrícolas, una casa campesina típica del centro de Asturias y una charca que recuerda la marisma que ocupaba la desembocadura del río Piles. El Museo de la Gaita reúne gaitas de Europa, el norte de África y la península ibérica, y la casa de los Valdés muestra la fotografía en Asturias entre 1850 y 1965.\n\nHorario de octubre a marzo: martes a viernes de 9:30 a 18:30 y fines de semana y feriados de 10 a 18:30. De abril a septiembre cierra a las 19. Cierra los lunes.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Paseo del Doctor Fleming 877, La Güelga, cerca del río Piles"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño, con buen tiempo para el recinto exterior"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: turismoasturias.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Muséu del Ferrocarril d'Asturies (Museo del Ferrocarril)",
+      "desc": "La antigua Estación del Norte, activa más de un siglo hasta 1990, convertida en museo gratuito del tren y la industria.",
+      "detalle": "El Museo del Ferrocarril de Asturias ocupa la antigua Estación del Norte, en el barrio de El Natahoyo, muy cerca de la playa de Poniente. La estación nació en la segunda mitad del siglo XIX, cuando Gijón crecía como ciudad industrial y obrera, y durante más de cien años fue la principal entrada ferroviaria de la ciudad. Por ahí salían al mar el carbón y las mercancías de las cuencas mineras y viajaban los pasajeros del centro de Asturias. Cerró en 1990 y se transformó en museo.\n\nLa visita cuenta cómo el tren vertebró la vida, la economía y los cambios sociales de Asturias. Incluye las exposiciones permanentes y temporales, los andenes cubiertos con material rodante y otros edificios del recinto. Hay ascensor y escaleras para moverse entre los pisos.\n\nHorario de octubre a marzo: martes a viernes de 9:30 a 18:30 y fines de semana y feriados de 10 a 18:30. De abril a septiembre, de 10 a 19 entre semana y de 10:30 a 19 los fines de semana. Cierra los lunes, el 1 y 6 de enero, el martes de Carnaval, el 15 de agosto y el 24, 25 y 31 de diciembre. Combinalo con el Acuario, que queda cerca.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Plaza de la Estación del Norte, El Natahoyo, cerca de la playa de Poniente"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: turismoasturias.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Excursión a Oviedo",
+      "desc": "La capital de Asturias, a 28 km: catedral gótica con la Cámara Santa, casco histórico y sidrerías, en tren o colectivo.",
+      "detalle": "Oviedo es la capital del Principado y queda a 28 km de Gijón, así que se visita en medio día o un día completo. Se llega en tren de Cercanías (línea C-1) o en colectivo interurbano; con la tarjeta CONECTA el trayecto en colectivo cuesta 1,05 €.\n\nEl centro de la visita es el complejo catedralicio. La entrada incluye el templo, la Cámara Santa, el claustro, la sala capitular, el cementerio de peregrinos y el museo. La catedral es además punto de partida del Camino Primitivo a Santiago, así que vas a ver peregrinos con credencial. La subida a la torre gótica se vende aparte.\n\nAlrededor de la catedral se recorre a pie el casco antiguo, con plazas porticadas y calles llenas de sidrerías. Un consejo: los martes el museo de la catedral es gratis y se descuenta 1 € de la entrada. Si hay misa, la visita puede ser parcial (Cámara Santa, museo y claustro) con precio reducido.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "28 km; unos 25 a 36 minutos en tren de Cercanías según Omio"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Catedral: 8 € adulto; 7 € mayores de 65; 5 € de 13 a 17 años y universitarios menores de 25; 4 € peregrinos con credencial; gratis menores de 12; torre gótica 10 € (fuente: catedraldeoviedo.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Covadonga y los Lagos (Picos de Europa)",
+      "desc": "El santuario de Covadonga y los lagos Enol y Ercina, en los Picos de Europa: la gran excursión de día desde Gijón.",
+      "detalle": "Covadonga es el lugar donde, según la tradición, Pelayo venció a los musulmanes a comienzos del siglo VIII y empezó el reino de Asturias. Hoy se visitan la Santa Cueva, con la imagen de la Virgen, y la basílica. Desde ahí una carretera de montaña sube a los Lagos de Covadonga, Enol y Ercina, dentro del Parque Nacional de los Picos de Europa, con praderas, vacas sueltas y miradores.\n\nEn las fechas de más gente el acceso en auto particular a los Lagos está cerrado y se sube en colectivo. En 2026 las restricciones rigen, entre otras fechas, del 1 al 18 de octubre, el 24, 25 y 31 de octubre, el 1 y 2 de noviembre y del 1 al 8 de diciembre. Los colectivos salen de Cangas de Onís o de cuatro estacionamientos sobre el recorrido (3 € por auto y día). Desde el 1 de octubre el primer servicio sale a las 8 y el último de subida a las 16. El pasaje se compra online en buslagoscovadonga.es, que es la vía recomendada.\n\nSin auto, lo práctico es una excursión organizada desde Gijón. Llevá abrigo: arriba hace bastante más frío y la niebla aparece rápido.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Cangas de Onís y Covadonga, al este de Asturias; excursión de día desde Gijón"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño; evitá los días de niebla"
+        },
+        {
+          "label": "Entrada",
+          "value": "Colectivo a los Lagos: 9 € adulto; 3,50 € de 4 a 11 años; gratis menores de 3; solo Cangas de Onís-Covadonga 1,55 € (fuente: turismoasturias.es, plan de acceso a Lagos 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Cudillero",
+      "desc": "Pueblo de pescadores de la costa occidental, con casas de colores escalonadas sobre el puerto; se combina con Avilés y Luarca.",
+      "detalle": "Cudillero es uno de los pueblos marineros más fotografiados de Asturias. Sus casas, pintadas de colores, se escalonan en la ladera alrededor de un puerto chico, de modo que el pueblo parece un anfiteatro que mira al mar. Se recorre a pie subiendo por escaleras y callecitas hasta los miradores, desde donde se ve todo el conjunto.\n\nAbajo, en la zona del puerto, se concentran los bares y restaurantes de pescado y marisco. Es un buen lugar para probar pescado del Cantábrico, aunque en verano y fines de semana se llena y conviene reservar.\n\nDesde Gijón la forma más simple de ir sin auto es una excursión organizada que lo combina con Avilés, una ciudad con un casco histórico de soportales, y con Luarca, otro pueblo marinero de la costa occidental. Si vas en auto, dejalo arriba y bajá caminando: las calles del centro son muy angostas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Costa occidental de Asturias, al oeste de Avilés"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera, verano y otoño"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (pueblo); excursión desde Gijón con Avilés y Luarca desde 25 € (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o día completo"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Acuario de Gijón (Bioparc)",
+      "precio": "20,50 € adulto (15 a 64 años); 12 € niño (3 a 14); 14 € mayores de 65; 11,50 € personas con discapacidad; gratis menores de 3 (fuente: Taquilla.com, agregador, tarifas 2026, verificado octubre 2026). Comprar online en la web del acuario o en taquilla; Civitatis lo vende desde 20,50 €"
+    },
+    {
+      "tipo": "Jardín Botánico Atlántico",
+      "precio": "2,90 € adulto; 1,80 € reducida (12 a 26 años, mayores de 65 y discapacidad, con acreditación); gratis menores de 12; bono anual 25 €; visita guiada individual incluida (fuente: Ordenanza 3.65 del Ayuntamiento de Gijón, diciembre 2025, verificado octubre 2026). Se compra en la taquilla del jardín"
+    },
+    {
+      "tipo": "Laboral Ciudad de la Cultura: visita guiada con subida a la torre",
+      "precio": "6 € general; 4,50 € reducida (socios del Club Cultura Asturias, Pasaporte Cultural); gratis de 0 a 3 años (fuente: turismoasturias.es, calendario 2026, verificado octubre 2026). Se compra en la recepción de Laboral en su horario de apertura"
+    },
+    {
+      "tipo": "Entrada conjunta Laboral + Jardín Botánico",
+      "precio": "7 € general; 5,50 € reducida (mayores de 65, jóvenes de 12 a 26 y grupos de 20 o más) (fuente: Ordenanza 3.65 del Ayuntamiento de Gijón, diciembre 2025, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Entrada conjunta Acuario + Jardín Botánico",
+      "precio": "15,90 € general; 10,60 € mayores de 65 (fuente: Ordenanza 3.65 del Ayuntamiento de Gijón, diciembre 2025, verificado octubre 2026). Las tarifas con Tarjeta Ciudadana son sólo para residentes"
+    },
+    {
+      "tipo": "Museos municipales (Pueblo de Asturias, Ferrocarril, Termas de Campo Valdés, Casa Natal de Jovellanos, Nicanor Piñole, Campa Torres)",
+      "precio": "Gratis (fuente: turismoasturias.es, verificado octubre 2026). Cierran los lunes, el 1 y 6 de enero, el martes de Carnaval, el 15 de agosto y el 24, 25 y 31 de diciembre"
+    },
+    {
+      "tipo": "Palacio de Revillagigedo (exposiciones)",
+      "precio": "Gratis (fuente: turismoasturias.es, verificado octubre 2026). Confirmá horario y muestra en curso al 985 346 921"
+    },
+    {
+      "tipo": "Elogio del Horizonte, Cerro de Santa Catalina y playas (San Lorenzo, Poniente)",
+      "precio": "Gratis (espacios públicos)"
+    },
+    {
+      "tipo": "Catedral de Oviedo (excursión)",
+      "precio": "8 € adulto (18 a 65); 7 € mayores de 65; 5 € de 13 a 17 y universitarios menores de 25; 4 € peregrinos con credencial, familias numerosas y desempleados; gratis menores de 12 con adulto; torre gótica 10 € sin descuentos (fuente: catedraldeoviedo.com, verificado octubre 2026). Online o en la recepción de visitantes"
+    },
+    {
+      "tipo": "Colectivo a los Lagos de Covadonga (fechas reguladas)",
+      "precio": "9 € adulto ida y vuelta; 3,50 € de 4 a 11 años; gratis menores de 3; Cangas de Onís-Covadonga 1,55 €; estacionamiento 3 € por auto y día (fuente: turismoasturias.es, plan de acceso 2026, verificado octubre 2026). Comprar en buslagoscovadonga.es"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Excursión a los Lagos de Covadonga, Cangas de Onís y Lastres desde Gijón",
+      "precio": "47 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "11 horas",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Excursión a Covadonga y Cangas de Onís en grupo reducido",
+      "precio": "67 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "7 a 8 horas",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Excursión a Avilés, Cudillero y Luarca",
+      "precio": "Desde 25 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "9,5 a 10,5 horas",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Excursión a los Picos de Europa con cueva del queso de Cabrales y degustación",
+      "precio": "Desde 49 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "12 horas",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Tour de quesos y sidra por Gijón",
+      "precio": "30 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Guías locales vía Civitatis"
+    },
+    {
+      "actividad": "Visita al llagar Sidra JR (Cabueñes), con explicación del proceso de la sidra",
+      "precio": "10 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "1 hora",
+      "operador": "Llagar Sidra JR vía Civitatis"
+    },
+    {
+      "actividad": "Paseo en lancha rápida por la costa de Gijón",
+      "precio": "20 € por persona (fuente: Civitatis, verificado octubre 2026); tour en kayak de 1 hora, 22 €",
+      "duracion": "45 a 50 minutos",
+      "operador": "Empresas náuticas del puerto deportivo vía Civitatis"
+    },
+    {
+      "actividad": "Free tour por Gijón (Cimadevilla y centro)",
+      "precio": "Gratis; se deja propina voluntaria (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Guías locales vía Civitatis"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Colectivos urbanos de Gijón (EMTUSA)",
+      "precio": "Billete ordinario 1,50 € (fuente: redtransporte.com, agregador, tarifas 2026, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Es la red municipal. El boleto permite transbordo entre líneas durante 45 minutos. Los descuentos para menores de 25, mayores de 65 y la gratuidad para menores de 17 sólo valen con la Tarjeta Ciudadana de Gijón, pensada para residentes. No pudimos confirmar en la web de EMTUSA si se puede pagar con tarjeta bancaria a bordo: llevá monedas por las dudas. El casco viejo de Cimadevilla no tiene líneas."
+    },
+    {
+      "medio": "Tarjeta CONECTA del Consorcio de Transportes de Asturias (CTA)",
+      "precio": "0,45 € 1 zona; 0,72 € 2 zonas; 1,05 € 3 zonas; tope de 20 € por mes desde el 1 de octubre de 2026; la tarjeta cuesta 2 € (fuente: ctaconecta.com, verificado octubre 2026)",
+      "duracion": "Según el trayecto",
+      "notas": "Es el boleto único de Asturias para colectivos interurbanos. Es personal y se pide en la app CTA CONECTA con pasaporte (o TIE si sos residente); llega por correo en una semana, así que sirve si te quedás un tiempo (Working Holiday, estudios). El Gobierno asturiano advirtió que mantener el tope de 20 € en 2027 depende del presupuesto."
+    },
+    {
+      "medio": "Tren de Cercanías Renfe Asturias (línea C-1 Gijón-Oviedo)",
+      "precio": "Precio por zonas; pagando con tarjeta contactless, desde el 5.º viaje del mes se aplica 40 % de descuento (fuente: renfe.com, verificado octubre 2026)",
+      "duracion": "Unos 25 a 36 minutos a Oviedo (Omio, agregador)",
+      "notas": "La C-1 une Gijón con Oviedo y las cuencas. Podés pagar en el torniquete con tarjeta de crédito o débito sin contacto o con el celular. Es obligatorio validar a la entrada y a la salida: si no validás la salida, te cobran el importe máximo de todas las zonas. No encontramos publicado en la web de Renfe el precio exacto Gijón-Oviedo: consultalo en la app de Renfe."
+    },
+    {
+      "medio": "Colectivo interurbano Gijón-Oviedo y Gijón-Avilés",
+      "precio": "Con tarjeta CONECTA: Gijón-Oviedo 1,05 €; Gijón-Avilés 0,72 € (fuente: redtransporte.com, agregador, tarifas 2026, verificado octubre 2026). Sin CONECTA, Omio muestra pasajes desde unos 3 € (agregador, 2026)",
+      "duracion": "Variable según servicio",
+      "notas": "Salen de la estación de autobuses de Gijón y paran en el centro de Oviedo y Avilés."
+    },
+    {
+      "medio": "A pie por el centro",
+      "precio": "Gratis",
+      "duracion": "Variable",
+      "notas": "El centro, Cimadevilla, la playa de San Lorenzo, el puerto deportivo y la playa de Poniente se recorren caminando. Para la Laboral, el Botánico y el Museo del Pueblo de Asturias conviene el colectivo."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto de Asturias (OVD) → Gijón",
+      "empresas": "ALSA (colectivo directo a la estación de autobuses de Gijón); taxis en la salida de llegadas",
+      "precio": "Colectivo 9 € el pasaje simple (fuente: Airmundo y Omio, agregadores, 2026, verificado octubre 2026); taxi unos 45–55 € según agregadores (sin tarifa oficial publicada)",
+      "duracion": "Unos 50 minutos en colectivo"
+    },
+    {
+      "ruta": "Madrid → Gijón en tren",
+      "empresas": "Renfe (AVE, Avlo y Alvia) desde Madrid Chamartín",
+      "precio": "Desde 15 € comprando con antelación (fuente: Omio, agregador, 2026, verificado octubre 2026); el precio sube mucho si comprás el mismo día",
+      "duracion": "Entre 4 y 4,5 horas según el tren"
+    },
+    {
+      "ruta": "Madrid → Gijón en colectivo",
+      "empresas": "ALSA, desde la Estación Sur, Moncloa o el aeropuerto de Barajas",
+      "precio": "Desde 9 € (fuente: Movelia, revendedor de ALSA, 2026, verificado octubre 2026); la tarifa varía según fecha y clase (Comfort o Supra)",
+      "duracion": "Unas 5,5 horas en el servicio más directo"
+    },
+    {
+      "ruta": "Oviedo → Gijón",
+      "empresas": "Renfe Cercanías (C-1) o colectivos interurbanos del Consorcio de Transportes de Asturias",
+      "precio": "Colectivo con CONECTA 1,05 € (fuente: redtransporte.com, tarifas 2026, verificado octubre 2026); tren pagando con tarjeta contactless según zonas (renfe.com, 2026)",
+      "duracion": "Unos 25 a 36 minutos en tren (Omio, agregador)"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Económico: pensiones, hostales y albergues",
+      "nivel": 2,
+      "opciones": "Pensión Albor (desde 35 €), Hostal Verdemar (desde 37 €), Hostal San Félix (desde 42 €) y albergues como Gijón Surf Hostel (desde 55 €) o Boogalow Hostel (desde 51 €) la noche (fuente: Momondo, verificado octubre 2026). Los hoteles de 2 estrellas rondan una media de 66 € y llegan a 118 € en fechas fuertes. Julio y agosto son lo más caro"
+    },
+    {
+      "categoria": "Intermedio en el centro y cerca de San Lorenzo",
+      "nivel": 3,
+      "opciones": "Hotel Alda El Pasaje (desde 54 €), B&B Hotel Gijón Centro Begoña (desde 45 €), Hotel Santa Rosa (desde 64 €) y Hotel Alcomar (desde 72 €) la noche (fuente: Momondo, verificado octubre 2026). La media de un 3 estrellas en Gijón es de 77 €, con picos de hasta 288 € en temporada alta"
+    },
+    {
+      "categoria": "Superior frente a la playa o en el centro",
+      "nivel": 4,
+      "opciones": "NH Gijón (desde 63 €), abba Playa Gijón (desde 72 €), Silken Ciudad de Gijón (desde 73 €), Hotel Hernán Cortés (desde 73 €) y Hotel Príncipe de Asturias (desde 78 €) la noche (fuente: Momondo, verificado octubre 2026). La media de un 4 estrellas es de 106 €; en julio el promedio general de la ciudad sube a 159 €"
+    },
+    {
+      "categoria": "Lo más alto de la ciudad: Parador, palacio con spa y boutique",
+      "nivel": 5,
+      "opciones": "Gijón casi no tiene hoteles de 5 estrellas; lo más exclusivo son el Parador de Gijón (desde 78 €), el Oca Palacio de la Llorea Hotel & Spa, en las afueras (desde 61 €), y el Munna Hotel Boutique (desde 86 €) la noche fuera de temporada; los 4 estrellas más caros llegan a 303 € en fechas fuertes (fuente: Momondo, verificado octubre 2026)"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Sidrería clásica (sidra natural escanciada)",
+      "nivel": 2,
+      "opciones": "La experiencia de base: botella de sidra natural escanciada por el camarero, alrededor de 3 € según la guía de sidrerías de Turismo Asturias (edición 2022, puede haber subido), con raciones de chorizo a la sidra, quesos o calamares para compartir. En sidrerías de barrio como Casa Valdorta un comensal reportó en diciembre de 2025 un menú de sábado de 15 € (fuente: reseñas en Gastroranking, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Fabada asturiana y cachopo",
+      "nivel": 3,
+      "opciones": "La fabada (porotos blancos de la variedad faba con chorizo, morcilla y tocino) y el cachopo (dos filetes de ternera rellenos de jamón y queso, empanados) son los platos estrella. En la sidrería Río Astur, ganadora del concurso La Mejor Fabada del Mundo en abril de 2026, la ración de fabada cuesta 20 € (fuente: El Español, abril 2026, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Menú del día y menú de fin de semana",
+      "nivel": 3,
+      "opciones": "La forma más barata de comer bien: primero, segundo, postre, pan y bebida a precio cerrado. En la sidrería El Alleranu, un comensal reportó en abril de 2026 un menú de domingo de 23 € con tres platos y postre (fuente: reseñas en Gastroranking, verificado octubre 2026). Entre semana suele ser más barato que los fines de semana"
+    },
+    {
+      "tipo": "Alta cocina del Cantábrico",
+      "nivel": 4,
+      "opciones": "Auga tiene una estrella Michelin y se especializa en pescados, con carta y menús degustación; el gasto medio ronda los 60–100 € por persona (fuente: Gastroranking, verificado octubre 2026). Casa Gerardo, en Prendes (a las afueras), tiene estrella Michelin sin interrupción desde 1991 según Turismo Asturias"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa, EES o ETIAS para ir a Gijón desde Latinoamérica?",
+      "a": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos no necesitan visa para turismo de hasta 90 días dentro de un período de 180 en el espacio Schengen. Bolivianos y ecuatorianos, en cambio, sí necesitan visa Schengen. Desde el 10 de abril de 2026 funciona completo el EES (Sistema de Entradas y Salidas): en el primer control fronterizo Schengen te registran huellas y foto y ya no te sellan el pasaporte. Si volás a Madrid y después seguís a Asturias, ese registro lo hacés en Madrid. El ETIAS, la autorización online de 20 €, todavía no se pide. Llevá pasaje de vuelta, reserva de alojamiento y seguro médico."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse en Gijón?",
+      "a": "Con dos días completos ves lo esencial de la ciudad: uno para Cimadevilla, el Elogio del Horizonte, las termas, la playa de San Lorenzo y una tarde de sidrería; otro para la Laboral con su torre, el Jardín Botánico y el Museo del Pueblo de Asturias, que quedan del mismo lado de la ciudad. Sumá medio día para el Acuario y el Museo del Ferrocarril si viajás con chicos o te toca lluvia. Con cuatro o cinco días agregás Oviedo, una excursión a Covadonga y los Lagos y otra a Cudillero y la costa occidental. Gijón funciona muy bien como base para todo el centro de Asturias."
+    },
+    {
+      "q": "¿Es caro? ¿Qué es gratis?",
+      "a": "Para el estándar de España, Gijón es una ciudad accesible. Los museos municipales son gratis: el Museo del Pueblo de Asturias, el del Ferrocarril, las termas romanas, la casa natal de Jovellanos, el Museo Nicanor Piñole y el parque arqueológico de la Campa Torres. También lo son el Palacio de Revillagigedo, el Elogio del Horizonte y las playas. Lo que se paga es el Acuario (20,50 € adulto), la visita guiada de la Laboral (6 €) y el Botánico (2,90 €). El colectivo urbano cuesta 1,50 €. En comida, la sidra y el menú del día son la forma de comer bien gastando poco."
+    },
+    {
+      "q": "¿Cómo funciona la sidra en una sidrería?",
+      "a": "Pedís una botella de sidra natural y el camarero te la escancia: levanta la botella por encima de la cabeza y deja caer un chorro fino sobre el vaso para airearla. Te sirve un culín, de unos 130 cc, que se toma enseguida, de un trago, antes de que pierda el gas. Se deja un poquito en el fondo para enjuagar el borde, porque el mismo vaso pasa por toda la mesa. No se llena el vaso y no se escancia la sidra filtrada ni la espumosa: sólo la natural tradicional. La sidra tiene entre 5 y 6 grados, poco, pero se toma mucho: comé algo mientras."
+    },
+    {
+      "q": "¿Hace falta auto?",
+      "a": "Para la ciudad, no. El centro, Cimadevilla, las playas y casi todos los museos se recorren a pie, y para la Laboral y el Botánico hay colectivos de EMTUSA a 1,50 €. Para Oviedo y Avilés hay tren de Cercanías y colectivos frecuentes. El auto sirve para la costa y la montaña: Cudillero, Llanes o los Picos de Europa. Ojo: en fechas de mucha gente la carretera a los Lagos de Covadonga se cierra a autos particulares y hay que subir en el colectivo oficial (9 € adulto). En octubre de 2026 eso rige del 1 al 18 y los días 24, 25 y 31. Si no querés manejar, las excursiones organizadas desde Gijón cuestan entre 25 y 67 €."
+    },
+    {
+      "q": "¿Es seguro Gijón? ¿Y el clima?",
+      "a": "Gijón es una ciudad tranquila, con mucha vida en la calle de día y de noche, sobre todo en el paseo del Muro, el puerto deportivo y Cimadevilla. Valen las precauciones de cualquier ciudad: no dejes cosas solas en la playa y cuidá el celular en las sidrerías llenas. El mayor riesgo es el mar: la playa de San Lorenzo tiene oleaje de moderado a fuerte y la marea cambia mucho el ancho de la arena. Bañate en zonas vigiladas: hay salvavidas todos los días del 1 de junio al 30 de septiembre. El clima es oceánico, con lluvia repartida todo el año: llevá campera impermeable y capas aunque sea verano."
+    },
+    {
+      "q": "¿Hay que pagar tasa turística en Gijón?",
+      "a": "No, en octubre de 2026 no. El Gobierno de Asturias aprobó en junio de 2026 un proyecto de ley de estancias turísticas que permitiría a cada ayuntamiento cobrar una tasa voluntaria, de entre 0,50 y 3 € por persona y noche según el tipo de alojamiento, sólo en temporada alta y por un máximo de cinco noches. Ese proyecto todavía tiene que tramitarse, y el gobierno municipal de Gijón dijo en enero de 2026 que no la aplicaría. Si un hotel te cobra un recargo, preguntá qué es: no hay una tasa oficial vigente. Como esto puede cambiar en 2027, revisá la letra chica de tu reserva."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Gijón»: https://es.wikipedia.org/wiki/Gij%C3%B3n",
+      "Wikipedia (ES) — «Cimadevilla (Gijón)»: https://es.wikipedia.org/wiki/Cimadevilla_(Gij%C3%B3n)",
+      "Wikipedia (ES) — «Universidad Laboral de Gijón»: https://es.wikipedia.org/wiki/Universidad_Laboral_de_Gij%C3%B3n",
+      "Wikipedia (ES) — «Playa de San Lorenzo (Gijón)»: https://es.wikipedia.org/wiki/Playa_de_San_Lorenzo_(Gij%C3%B3n)",
+      "Wikipedia (EN) — «Elogio del Horizonte»: https://en.wikipedia.org/wiki/Elogio_del_Horizonte",
+      "Ministerio de Asuntos Exteriores — «La UNESCO declara la ‘Cultura sidrera asturiana’ como Patrimonio Cultural Inmaterial de la Humanidad»: https://www.exteriores.gob.es/RepresentacionesPermanentes/unesco/es/Comunicacion/Noticias/Paginas/Articulos/--La-UNESCO-declara-la-%E2%80%98Cultura-sidrera-asturiana%E2%80%99-como-Patrimonio-Cultural-Inmaterial-de-la-Humanidad.aspx",
+      "Ayuntamiento de Gijón — «Ruta de la Sidra Xixón»: https://drupal.gijon.es/sites/default/files/2020-11/RUTA%20SIDRA%20GIJON_cast_def_1_lr.pdf"
+    ],
+    "que_ver_atracciones": [
+      "Turismo Asturias — «Museo de las Termas Romanas de Campo Valdés»: https://www.turismoasturias.es/es/descubre/cultura/museos-y-espacios-culturales/castros-y-espacios-arqueologicos/museo-de-las-termas-romanas-de-campo-valdes",
+      "Turismo Asturias — «Museo del Ferrocarril de Asturias»: https://www.turismoasturias.es/es/descubre/cultura/museos-y-espacios-culturales/museos/museo-del-ferrocarril-de-asturias",
+      "Turismo Asturias — «Muséu del Pueblu d'Asturies»: https://www.turismoasturias.es/es/descubre/cultura/museos-y-espacios-culturales/museos/museo-del-pueblo-de-asturias",
+      "Turismo Asturias — «Jardín Botánico Atlántico»: https://www.turismoasturias.es/es/descubre/cultura/museos-y-espacios-culturales/otros-espacios/jardin-botanico-atlantico",
+      "Turismo Asturias — «Bioparc Acuario de Gijón»: https://www.turismoasturias.es/es/descubre/cultura/museos-y-espacios-culturales/otros-espacios/acuario-de-gijon",
+      "Turismo Asturias — «Palacio de Revillagigedo»: https://www.turismoasturias.es/descubre/cultura/museos-y-espacios-culturales/otros-espacios/palacio-de-revillagigedo",
+      "Turismo Asturias — «Museo Casa Natal de Jovellanos»: https://www.turismoasturias.es/es/descubre/cultura/museos-y-espacios-culturales/museos/museo-casa-natal-de-jovellanos",
+      "Turismo Asturias — «Parque Arqueológico-Natural de la Campa Torres»: https://www.turismoasturias.es/es/descubre/cultura/museos-y-espacios-culturales/castros-y-espacios-arqueologicos/parque-arqueologico-natural-de-la-campa-torres",
+      "Turismo Asturias — «Museo Nicanor Piñole»: https://www.turismoasturias.es/es/descubre/cultura/museos-y-espacios-culturales/museos/museo-nicanor-pinole"
+    ],
+    "precios_2026": [
+      "Ayuntamiento de Gijón — «Ordenanza Nº 3.65 precios públicos Jardín Botánico»: https://drupal.gijon.es/sites/default/files/2025-12/Ordenanza%20N%C2%BA%203.65%20precios%20publicos%20Jard%C3%ADn%20Bot%C3%A1nico.pdf",
+      "Turismo Asturias (Pasaporte Cultural) — «Visita guiada a Laboral Ciudad de la Cultura de Gijón»: https://www.turismoasturias.es/pasaporte-cultural/eventos/-/calendarsuite/event/visita-guiada-a-laboral-ciudad-de-la-cultura-de-gijon/12731061/1788022800000/jr0cMeS144cd",
+      "Taquilla.com (agregador) — «Bioparc Acuario de Gijón»: https://www.taquilla.com/entradas/bioparc-acuario-de-gijon",
+      "Catedral de Oviedo — «Tarifas»: https://www.catedraldeoviedo.com/tarifas",
+      "Catedral de Oviedo — «Visita a la Torre Gótica»: https://catedraldeoviedo.com/visita/",
+      "Turismo Asturias — «Acceso a Lagos»: https://www.turismoasturias.es/es/organiza-tu-viaje/como-llegar/acceso-a-lagos",
+      "Civitatis — «Actividades en Gijón»: https://www.civitatis.com/es/gijon/"
+    ],
+    "como_llegar_transporte": [
+      "Consorcio de Transportes de Asturias — «¿Cuánto cuesta viajar?»: https://www.ctaconecta.com/es/plataforma-conecta/cuanto-cuesta-viajar/",
+      "Consorcio de Transportes de Asturias — «El Consorcio de Transportes aprueba rebajar a 20 euros al mes el tope de la tarjeta CONECTA»: https://www.ctaconecta.com/es/noticias/detalle/El-Consorcio-de-Transportes-aprueba-rebajar-a-20-euros-al-mes-el-tope-de-la-tarjeta-CONECTA/",
+      "Consorcio de Transportes de Asturias — «Solicita tu tarjeta»: https://www.ctaconecta.com/es/plataforma-conecta/solicita-tu-tarjeta/",
+      "Renfe — «Cercanías Asturias: tarifas»: https://www.renfe.com/es/es/cercanias/cercanias-asturias/tarifas",
+      "Redtransporte (agregador) — «Autobuses urbanos de Gijón (EMTUSA)»: https://www.redtransporte.com/asturias/autobuses-gijon/",
+      "Redtransporte (agregador) — «Centrobus»: https://www.redtransporte.com/asturias/centrobus/",
+      "Airmundo (agregador) — «Aeropuerto de Asturias: transporte público»: https://airmundo.com/es/asturias-airport/transporte-publico/",
+      "Omio (agregador) — «Trenes de Madrid a Gijón»: https://www.omio.es/trenes/madrid/gijon",
+      "Omio (agregador) — «Trenes Gijón a Oviedo con Cercanías»: https://www.omio.com.ar/trenes/gijon/oviedo",
+      "Movelia (revendedor de ALSA) — «Autobús Madrid - Gijón»: https://www.movelia.es/ca/node/773"
+    ],
+    "alojamiento_gastronomia": [
+      "Momondo — «Hoteles en Gijón»: https://www.momondo.es/hoteles/gijon",
+      "El Español — «La mejor fabada del mundo y el mejor cachopo de España salen de la misma cocina»: https://www.elespanol.com/cocinillas/restaurantes/20260423/mejor-fabada-mundo-cachopo-espana-salen-misma-cocina-sidrerias-top-gijon/1003744217024_0.html",
+      "Turismo Asturias — «Guía de sidrerías»: https://www.turismoasturias.es/documents/39908/68184/Sidrerias2022.pdf/7410a58a-b01c-4c41-1a30-f9f2b08ce1b4",
+      "Gastroranking — «Auga en Gijón»: https://gastroranking.es/r/auga_16778/",
+      "Gastroranking — «Sidrería Casa Valdorta en Gijón»: https://gastroranking.es/r/sidreria-casa-valdorta_2391/",
+      "Gastroranking — «Sidrería Nava en Gijón»: https://gastroranking.es/r/sidreria-nava_16607/",
+      "Turismo Asturias — «Asturias y las estrellas Michelin»: https://www.turismoasturias.es/-/blogs/asturias-y-las-estrellas-michelin"
+    ],
+    "visado_tasas": [
+      "Hosteltur — «Asturias propone una tasa turística municipal de entre 0,5 y 3 euros por noche»: https://www.hosteltur.com/176560_asturias-propone-una-tasa-turistica-municipal-de-entre-05-y-3-euros-por-noche.html",
+      "Foro Asturias — «Entrevista a Jesús Martínez Salvador en El Comercio»: https://foroasturias.es/wp-content/uploads/2026/01/20260125-Entrevista-Jesus-Martinez-Salvador-en-El-Comercio.pdf"
+    ]
+  }
+}
