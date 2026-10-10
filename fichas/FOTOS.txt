@@ -7,3 +7,4 @@ FOTO portugal/funchal | https://upload.wikimedia.org/wikipedia/commons/0/0d/View
 FOTO espana/costa-adeje | https://upload.wikimedia.org/wikipedia/commons/3/31/Aerial_view_of_Playa_de_Torviscas_beach_in_Costa_Adeje_on_Tenerife%2C_Spain_%2848225530037%29.jpg | Aerial view of Playa de Torviscas beach in Costa Adeje on Tenerife, Spain (48225530037).jpg | CC BY 2.0 | dronepicr
 FOTO estados-unidos/washington | https://upload.wikimedia.org/wikipedia/commons/4/41/National_mall_facing_east.jpg | National mall facing east.jpg | CC BY-SA 4.0 | Gustav V.
 FOTO portugal/albufeira | https://upload.wikimedia.org/wikipedia/commons/c/c0/Beach_in_Town_Albufeira%2C_Portugal.jpg | Beach in Town Albufeira, Portugal.jpg | CC BY-SA 4.0 | Баранов Георгий
+FOTO costa-rica/arenal | https://upload.wikimedia.org/wikipedia/commons/d/da/Volc%C3%A1n_Arenal_desde_el_lago_Arenal.jpeg | Volcán Arenal desde el lago Arenal.jpeg | CC BY-SA 4.0 | Andresqsz

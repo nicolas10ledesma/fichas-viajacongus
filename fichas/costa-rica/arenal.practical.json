@@ -1,0 +1,593 @@
+{
+  "slug": "arenal",
+  "name": "Arenal",
+  "region": "Alajuela (zona norte)",
+  "lat": 10.4633,
+  "lon": -84.7033,
+  "datosRapidos": [
+    {
+      "label": "Zona",
+      "value": "Arenal (zona del volcán y el lago Arenal, Costa Rica). No es un pueblo sino un área: el volcán Arenal, de 1.670 metros, queda en el distrito de La Fortuna, cantón de San Carlos, provincia de Alajuela, y está protegido por el Parque Nacional Volcán Arenal, creado en 1991, de 12.124 hectáreas, que incluye también al Cerro Chato. Al oeste del cono se extiende el lago Arenal, un embalse artificial de unos 85 km² que el Instituto Costarricense de Electricidad (ICE) formó con la presa Sangregado, inaugurada en 1979. Es el lago más grande del país y reparte su orilla entre Alajuela y Guanacaste. Alrededor hay pueblos chicos: El Castillo, sobre la orilla sureste; Nuevo Arenal, en la orilla norte, construido para reubicar a los vecinos del viejo Arenal que quedó bajo el agua; y Tilarán, la cabecera del cantón del mismo nombre, al oeste. El distrito de Arenal (Nuevo Arenal) tenía unos 2.674 habitantes y el cantón de Tilarán unos 24.697, según estimaciones del INEC para 2022. A la zona se la conoce por el cono perfecto del volcán, que entre 1968 y 2010 tuvo erupciones casi continuas, por sus coladas de lava ya cubiertas de bosque, por los puentes colgantes y por el viento del lago, que atrae windsurfistas y kitesurfistas de todo el continente desde hace más de tres décadas."
+    },
+    {
+      "label": "Ciudad de servicio",
+      "value": "La Fortuna (tiene su propia ficha) es el pueblo base: ahí llegan los buses directos desde San José y Ciudad Quesada, y ahí están casi todos los hostels, supermercados y agencias de tours. Desde La Fortuna se toma la ruta 142 hacia Tilarán, que pasa por la entrada del parque nacional, Mistico, el desvío a El Castillo y luego bordea el lago hasta Nuevo Arenal y Tilarán. Si querés dormir con vista al volcán o al lago, sin el movimiento del centro, El Castillo, Nuevo Arenal o el Observatory Lodge son alternativas. Tilarán es la puerta de entrada si venís de Guanacaste (Liberia) o de Monteverde."
+    },
+    {
+      "label": "Mejor época",
+      "value": "La estación seca va de diciembre a abril, y enero y febrero dan más chances de ver el cono despejado (según la guía Costa Rica Spirit). Igual conviene ir entre las 8 y las 10 de la mañana, antes de que se armen las nubes. Para viento en el lago, la escuela Tico Wind marca diciembre a febrero como los meses con más días de más de 20 nudos, y de mediados de febrero a abril como el mejor clima. De mayo a noviembre llueve más, hay menos gente y los hoteles bajan precios, pero el volcán se esconde seguido."
+    },
+    {
+      "label": "Moneda y pagos",
+      "value": "La moneda es el colón costarricense (₡). Las entradas del parque nacional para extranjeros y casi todas las atracciones privadas (Mistico, Sky Adventures, Arenal 1968, el Observatory Lodge) publican sus precios en dólares, en general más impuestos. Los restaurantes y los buses cobran en colones. En la boletería del parque se paga en efectivo o con tarjeta. Si la terminal te ofrece cobrar en dólares o en colones con tu tarjeta, elegí colones: así lo recomiendan varias guías para evitar una conversión desfavorable."
+    }
+  ],
+  "intro": [
+    "El Arenal es el volcán que aparece en todas las postales de Costa Rica: un cono casi simétrico que se levanta solo sobre la llanura del norte y se refleja en el lago más grande del país. Durante 42 años estuvo en erupción y hoy está tranquilo, cubierto de bosque en sus faldas y con las coladas negras de lava todavía a la vista. Venir acá es caminar sobre esas coladas, cruzar puentes colgantes a la altura de las copas y mirar el atardecer sobre el agua con el volcán de fondo.",
+    "La Fortuna es el pueblo donde se duerme y se come; el Arenal es todo lo que lo rodea. Ahí entran el Parque Nacional Volcán Arenal con sus dos sectores, las reservas privadas que lo rodean (Arenal 1968, el Observatory Lodge), los puentes de Mistico, el pueblito de El Castillo, la represa Sangregado, la ruta escénica que bordea el lago hasta Nuevo Arenal y Tilarán, y el viento que atrae a windsurfistas de todo el continente.",
+    "Para un viajero con presupuesto ajustado, la buena noticia es que lo mejor sale barato: la entrada al parque nacional cuesta US$ 16,95 para extranjeros y mirar el lago desde la ruta es gratis. Lo caro son los tours de aventura y los hoteles con vista. Con auto propio se arma un día redondo recorriendo la orilla; sin auto, conviene dormir en La Fortuna o en El Castillo y moverse con tours o taxis. Dos o tres días alcanzan para verlo sin apuro."
+  ],
+  "historia_corta": "Mucho antes del turismo, el Arenal era un cerro cubierto de bosque que muchos creían apagado. Se calcula que el volcán tiene al menos 7.000 años y que tuvo varias erupciones grandes que afectaron a los pueblos indígenas de la zona; la anterior a la moderna habría sido hace unos 500 años. Recibió muchos nombres: Los Ahogados (1852), volcán del Río Frío, cerro Pan de Azúcar, y desde 1922 se lo llama Arenal por la arena que forman sus lavas al desgranarse. El 29 de julio de 1968, a las 7:30 de la mañana, tras días de sismos, se abrieron tres cráteres en el flanco oeste. Las nubes ardientes y los bloques destruyeron los pueblos de Tabacón y Pueblo Nuevo y mataron a unas 87 personas. Desde entonces el Arenal tuvo actividad casi continua: coladas de lava, explosiones y flujos piroclásticos que lo volvieron famoso en el mundo. En 1974 el ICE empezó a construir la presa Sangregado para un gran proyecto hidroeléctrico; el embalse triplicó el pequeño lago natural y dejó bajo el agua a los pueblos de Arenal y Tronadora. Sus vecinos fueron trasladados a Nuevo Arenal, y la planta se inauguró el 9 de diciembre de 1979. En 1991 se creó el Parque Nacional Volcán Arenal. En 2000 el embalse y sus humedales fueron declarados sitio Ramsar. En octubre de 2010 el volcán expulsó material incandescente por última vez: en 42 años había dejado más de 200 coladas que cubrieron 7,5 km². Hoy sólo emite gases leves, y entrar al cono o al Cerro Chato está prohibido y multado.",
+  "queVer": [
+    {
+      "nombre": "Parque Nacional Volcán Arenal: Sector Coladas (Sector Volcán)",
+      "desc": "El sector principal del parque: senderos cortos sobre la colada de 1968, una ceiba centenaria y un mirador frente al cono.",
+      "detalle": "Es la entrada clásica al parque, administrado por el Sistema Nacional de Áreas de Conservación (SINAC). Desde la ruta 142 hacia Tilarán se dobla al sur a la altura del puesto de la Policía Turística. El boleto sirve también para el Sector Península el mismo día.\n\nHay tres senderos que se combinan bien. Heliconias (610 m) es llano y cruza la colada de 1968. Coladas (1,7 km) es casi plano, con una subida corta al final, y termina en un mirador con el cono, el lago y, si está despejado, la cordillera de Tilarán. El Ceibo (2,3 km) tiene alguna pendiente y pasa junto a una ceiba enorme. Aparte, se puede ir en auto hasta el mirador del cono, a unos 1,7 km de la boletería.\n\nNo hace falta estar en buena forma. Llevá campera de lluvia: el clima cambia rápido. Está prohibido entrar con plásticos de un solo uso y con mascotas, y no se puede subir al cono. Si el volcán está tapado no hay reembolso, así que andá temprano. Hay baños, agua potable, estacionamiento y área de picnic.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Por la ruta 142 desde La Fortuna hacia Tilarán y 2 km al sur desde el puesto de la Policía Turística (indicaciones del ICT)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Diciembre a abril; llegá a la apertura, antes de que se nuble"
+        },
+        {
+          "label": "Entrada",
+          "value": "Extranjeros no residentes US$ 16,95 adulto (US$ 15 + IVA) y US$ 5,65 niños de 2 a 12; nacionales y residentes ₡1.130 adulto y ₡565 niño (fuente: sinac.go.cr, ficha del parque y tabla de tarifas SINAC, verificado octubre 2026). Pago en boletería"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Parque Nacional Volcán Arenal: Sector Península",
+      "desc": "El sector del parque que llega hasta la orilla del lago, con pasarelas planas, miradores y el volcán reflejado en el agua.",
+      "detalle": "El segundo acceso autorizado al parque está sobre una península que entra en el lago Arenal. Es menos conocido que el de las coladas, pero tiene la foto del volcán con el agua adelante. El mismo boleto del Sector Coladas vale acá en el mismo día, y los dos sectores están a unos 10 minutos en auto.\n\nEl sendero Los Miradores (1,2 km) es totalmente plano, con pasarelas y plataformas, y termina en la orilla con el cono de fondo. El Tororoi (unos 600 m) corre paralelo. El Plan General de Manejo del parque de 2025 lo define como un sector de uso público con acceso universal, y con fondos del BID se acondicionó el sendero y un centro de visitantes.\n\nEs el sector ideal para familias, personas mayores o quien tenga poco tiempo. Hay estacionamiento chico, baños y agua potable. Como en todo el parque, el Área de Conservación pide no salir de los senderos marcados. Si el día está despejado, conviene hacer los dos sectores.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 10 minutos en auto desde el Sector Coladas"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; las mañanas secas de diciembre a abril dan el reflejo más limpio"
+        },
+        {
+          "label": "Entrada",
+          "value": "Incluida en el boleto del parque: US$ 16,95 extranjeros adultos, ₡1.130 nacionales y residentes (fuente: sinac.go.cr, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Lago Arenal (Embalse Arenal) y la ruta 142 por la orilla",
+      "desc": "El lago más grande de Costa Rica, con 30 km de largo, que se recorre en auto por una ruta escénica desde La Fortuna hasta Tilarán.",
+      "detalle": "El lago Arenal mide unos 30 km de largo y casi 5 km en su parte más ancha. Es un embalse: la presa Sangregado de 1979 triplicó el lago natural que había antes. Su profundidad varía entre 30 y 60 metros según la temporada. Desde el año 2000 el embalse y sus humedales son sitio Ramsar.\n\nLa forma más simple de conocerlo es manejar la ruta 142, asfaltada, que sale de La Fortuna, pasa junto al parque nacional y la represa y bordea la orilla norte hasta Nuevo Arenal y Tilarán. Hay tramos con muchas curvas y algunos baches cerca de Nuevo Arenal, así que andá despacio y pará en los miradores de la banquina.\n\nEn el agua se hace kayak y paddle, sobre todo cerca de la represa y de El Castillo, y windsurf y kitesurf en el extremo oeste, donde sopla fuerte de noviembre a abril. Se pesca guapote (rainbow bass) y machaca. En los cerros del suroeste se ven los molinos de los parques eólicos de Tilarán.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Arranca a la salida oeste de La Fortuna; la ruta del lago llega hasta Tilarán"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; atardecer para la luz sobre el volcán"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (miradores sobre la ruta pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día manejando con paradas"
+        }
+      ]
+    },
+    {
+      "nombre": "Puentes colgantes de Mistico (Mistico Arenal Hanging Bridges Park)",
+      "desc": "Un sendero de 3,2 km por bosque con 16 puentes, seis de ellos colgantes de hasta 45 metros de altura, junto a la represa.",
+      "detalle": "Mistico es un parque privado de puentes colgantes en la falda del volcán. Su entrada queda junto a la represa del lago Arenal. El circuito tiene 3,2 km y cruza 16 puentes, seis de ellos colgantes, el más alto a 45 metros sobre el suelo. Si está despejado, desde algunos tramos se ve el volcán.\n\nSe puede hacer solo (autoguiado) o con guía naturalista. Con guía se ven muchos más animales: el parque nombra tucanes, guacamayos rojos, colibríes, monos aulladores y capuchinos. Hay también recorrido al atardecer, caminata nocturna, observación de aves y cabalgatas. El sendero está bien mantenido, con pendientes suaves y escalones, y es apto para chicos y mayores.\n\nAbre todos los días de 6:00 a 15:50 (último ingreso). El parque recomienda reservar en temporada alta para asegurar horario. Los menores de 0 a 4 años no pagan. Hay baños y una cafetería chica. Con lluvia sigue abierto: llevá poncho.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Entrada junto a la represa del lago Arenal, por la ruta 142"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Temprano (abre 6:00); noviembre a abril para aves migratorias"
+        },
+        {
+          "label": "Entrada",
+          "value": "Autoguiado US$ 32 + impuestos; tour guiado desde US$ 44 + impuestos; 0 a 4 años gratis (fuente: misticopark.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Arenal 1968 (reserva privada y miradores)",
+      "desc": "Reserva privada pegada al parque con senderos sobre la colada de 1968 y un mirador alto sobre el volcán y el lago, al oeste del cono.",
+      "detalle": "Arenal 1968 es una reserva privada que toma su nombre de la erupción de 1968. Ocupa bosque y campos de lava al oeste del volcán y ofrece varios senderos de distinta dificultad por la colada, con vistas del cono y del lago. Según una guía actualizada en abril de 2026, los dos principales son el de la colada (2,5 km, fácil) y el del bosque (4,5 km, moderado), que se pueden combinar.\n\nEl acceso es por la ruta 142: se dobla por la calle a El Castillo y la reserva queda a la izquierda, a unos 1,2 km. Si llegás a la entrada del parque nacional, te pasaste. Además de los senderos, tiene restaurante (Corteza Amarilla), cuatriciclos, cabalgatas, caminata nocturna y un pase de día que suma las pozas naturales de Kuru.\n\nEs una alternativa al parque cuando querés más kilómetros de caminata o un mirador más alto. Es privada, así que su tarifa no tiene la diferencia nacional/extranjero del SINAC. El teléfono de reservas es (506) 4001-1968.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 20 minutos al oeste del centro de La Fortuna (guía Uprooted Traveler)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano o atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "US$ 28 adulto desde abril 2026 (fuente: blog Uprooted Traveler, verificado octubre 2026); la web oficial arenal1968.com no publica la tarifa en abierto"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Reserva del Arenal Observatory Lodge (catarata La Danta y torre The Nest)",
+      "desc": "Una reserva de 350 hectáreas en la falda del volcán, con 11 km de senderos, una catarata, puentes colgantes y una torre mirador.",
+      "detalle": "El Arenal Observatory Lodge nació como base de científicos del Smithsonian que estudiaban el volcán en los años setenta, en una finca que la familia Aspinall compró en 1972. Cuando se creó el parque, en 1991, sus límites rodearon la finca. Hoy es un hotel con una reserva propia que se puede visitar sin alojarse.\n\nLa reserva tiene 350 hectáreas y 11 km de senderos, 800 metros adaptados para silla de ruedas. Lo más buscado es la catarata La Danta, con un puente colgante y una escalera hasta el mirador, y la torre The Nest, de unos 28 metros, con vista de 360 grados. También hay museo, centro de visitantes y un circuito de entrenamiento de 8 km.\n\nAbre todos los días de 5:30 a 17:30 y los senderos cierran a las 17:00. Desde las 17:00 se puede entrar para el atardecer y la cena. Se paga en el portón. Queda a unos 24 km de La Fortuna, unos 35 minutos rodeando el volcán; los últimos kilómetros son de ripio, pero no hace falta 4x4. No hay transporte público.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 24 km de La Fortuna, 35 minutos en auto (guía Triptins)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Temprano para aves; atardecer desde las 17:00"
+        },
+        {
+          "label": "Entrada",
+          "value": "Entrance Pass US$ 22; Day Pass con almuerzo US$ 40 (fuente: arenalobservatorylodge.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "El Castillo (pueblo a orillas del lago)",
+      "desc": "Un pueblo chico y tranquilo en la orilla sureste del lago, a pasos del parque, con miradores, deportes acuáticos y atardeceres.",
+      "detalle": "El Castillo es una comunidad pequeña sobre el lago Arenal, en la ladera sur del volcán. El ICT y la Cámara de Comercio local la presentan como un destino tranquilo que combina aventura, naturaleza y descanso, y que complementa a La Fortuna y Monteverde. Queda a unos 20 minutos de La Fortuna y a unos 5 del parque nacional.\n\nEn 2026 se habilitó un puente sobre el río Caño Negro, muy cerca del pueblo, que según el ICT acorta en una hora y media el viaje a Monteverde: el corredor La Fortuna - El Castillo - Monteverde queda en menos de 90 minutos desde acá.\n\nQué hacer: el teleférico y los cables de Sky Adventures, el Conservatorio de Mariposas, kayak, paddle, motos de agua y paseos al atardecer en el lago (operadores como Paradero Lacustre y Volcano WaterSports, que ofrece wakesurf), observación de aves y comida local con guapote, el pez del lago. La puesta de sol con el volcán reflejado es la postal del pueblo. Hay alojamiento de varios precios.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 20 minutos de La Fortuna y 5 del parque nacional (ICT, mayo 2026)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; atardeceres despejados en la estación seca"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (pueblo y orilla del lago)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día a una noche"
+        }
+      ]
+    },
+    {
+      "nombre": "Sky Adventures Arenal y la Mano de Arenal (El Castillo)",
+      "desc": "Parque de aventura en El Castillo con teleférico, siete cables de canopy, puentes colgantes y un mirador con una mano gigante.",
+      "detalle": "Sky Adventures es una empresa familiar costarricense con un parque cerca de El Castillo. Su teleférico (Sky Tram) recorre más de 800 metros de montaña hasta el punto más alto de la reserva, a unos 1.200 metros sobre el nivel del mar. Arriba está la Mano de Arenal, una escultura de una mano gigante que sale de la tierra y sirve de plataforma mirador sobre el lago y el bosque. Desde ahí sale un sendero autoguiado de 800 metros.\n\nEl canopy tiene siete cables; el más largo supera los 750 metros, el más alto está a 200 metros y se llega a 70 km/h. Se usan plataformas, no árboles. Altura mínima 1,10 m y edad mínima 5 años. El sendero de puentes colgantes (Sky Walk) suma 4 km por el bosque.\n\nLas tarifas tienen precio para niños de 5 a 12 años, estudiantes y nacionales. El parque tiene estacionamiento gratis y el camino de acceso está asfaltado. Con descuento si combinás actividades.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 21,5 km y 30 minutos en auto desde La Fortuna (guía Two Weeks in Costa Rica)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días despejados de la estación seca para la vista del lago"
+        },
+        {
+          "label": "Entrada",
+          "value": "Teleférico + Mano de Arenal US$ 51 adulto, US$ 43 estudiante, US$ 36 niño (5-12) y nacional, más impuestos (fuente: skyadventures.travel, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 4 horas según las actividades"
+        }
+      ]
+    },
+    {
+      "nombre": "Conservatorio de Mariposas de El Castillo (Butterfly Conservatory)",
+      "desc": "Un centro educativo con domos de mariposas, ranario y museo de insectos, con vista al volcán y al lago desde el estacionamiento.",
+      "detalle": "El Butterfly Conservatory es un proyecto de regeneración de bosque en El Castillo dedicado a las mariposas y a otras especies del Arenal. Se sostiene con las entradas y donaciones, y funciona también como centro para estudiantes y voluntarios.\n\nEl recorrido (Metamorphosis Tour) muestra en vivo el ciclo de vida de la mariposa y tiene un museo de insectos que el centro presenta como la mayor colección de insectos tropicales de la región. Lonely Planet describe seis hábitats con domo, un ranario y el museo, y lo marca como accesible en silla de ruedas. Desde el estacionamiento hay vista del volcán y del lago.\n\nSegún la web oficial abre todos los días del año de 10:00 a 16:00 (otras guías dan horarios distintos, así que confirmá). La visita lleva alrededor de una hora. Queda a unos 8 km de la entrada del parque nacional. Teléfono: +506 2479-1149. Es un buen plan para chicos o para una tarde de lluvia.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En El Castillo, a unos 8 km de la entrada del parque nacional (AAA)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañanas soleadas, cuando las mariposas están más activas"
+        },
+        {
+          "label": "Entrada",
+          "value": "Paga entrada; la web oficial butterflyconservatory.org no publica la tarifa (verificado octubre 2026). Consultá al +506 2479-1149"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Represa Sangregado y el complejo hidroeléctrico Arenal",
+      "desc": "La presa que en 1979 transformó un lago chico en el embalse que todavía alimenta buena parte de la electricidad del país.",
+      "detalle": "La presa Sangregado, en el extremo sureste del lago, es la obra que explica todo el paisaje. El ICE empezó a construirla en 1974 y el presidente Rodrigo Carazo inauguró la planta Arenal el 9 de diciembre de 1979. El embalse inundó los pueblos de Arenal y Tronadora, cuyos vecinos se mudaron a Nuevo Arenal.\n\nEl complejo suma tres plantas en cascada: Arenal (157 MW), Dengo (174 MW, de 1982) y Sandillal (32 MW, de 1992), unos 363 MW en total. Al principio generaba alrededor del 70% de la electricidad de Costa Rica. La Nación destaca que es el único embalse del país que guarda agua de la época de lluvias para usarla en la seca.\n\nNo es una visita con entrada: se ve al pasar por la ruta del lago entre La Fortuna y Nuevo Arenal, y la entrada de Mistico queda justo al lado. Cerca de la represa salen los paseos en kayak por el sector este del lago. Sumala como parada corta en el recorrido.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sobre la ruta del lago, junto a la entrada de Mistico"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (se ve desde la ruta)"
+        },
+        {
+          "label": "Duración",
+          "value": "15 a 30 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Nuevo Arenal (el pueblo trasladado)",
+      "desc": "El pueblo construido a fines de los setenta para los vecinos del viejo Arenal, hoy parada de servicios en la orilla norte del lago.",
+      "detalle": "Nuevo Arenal está en la orilla norte del lago, en el cantón de Tilarán (Guanacaste). Fue un proyecto del Gobierno para reubicar a la gente del viejo pueblo de Arenal, que quedó bajo el agua al llenarse el embalse. El distrito de Arenal se creó por decreto el 16 de abril de 1979.\n\nNo tiene atracciones famosas, pero es la parada lógica en la vuelta al lago: tiene la única estación de servicio de la zona, farmacia, ferreterías, supermercados y una sorprendente oferta gastronómica para su tamaño, con panadería alemana, pizzerías como Moya's Place y Las Tinajas, y el restaurante Gingerbread, del chef Eyal BenMenachem, que guías como Fodor's recomiendan.\n\nEs una base tranquila y más barata para dormir con vista al lago, y queda en el camino entre La Fortuna y Tilarán. Hay buses a Tilarán. Ojo con los baches de la ruta en las entradas del pueblo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sobre la ruta del lago entre La Fortuna y Tilarán; buses desde Tilarán"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (pueblo)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas de parada, o base para dormir"
+        }
+      ]
+    },
+    {
+      "nombre": "Tilarán y el viento del lago (windsurf y kitesurf)",
+      "desc": "La ciudad del extremo oeste del lago, cruce de caminos hacia Liberia y Monteverde, con molinos de viento y escuela de windsurf.",
+      "detalle": "Tilarán es la cabecera del cantón del mismo nombre, en Guanacaste, a unos 5 km al sur del lago. Su nombre viene de una palabra maleku que se traduce como agua que llueve. Es el punto donde se juntan las rutas que vienen del aeropuerto de Liberia, de Monteverde y del volcán, así que mucha gente pasa por acá. Desde la ciudad se ven los volcanes Miravalles y Tenorio, y el Arenal hacia el este.\n\nEl paisaje lo marca el viento: entre Tilarán y Tejona está uno de los parques eólicos más importantes del país, con molinos bien visibles. Ese mismo viento hizo famoso el oeste del lago para el windsurf y el kitesurf. Tico Wind, sobre la ruta 142, enseña y alquila equipo desde 1991, con cursos de kitesurf con currículo IKO, wingfoil y foil.\n\nSegún Tico Wind, diciembre, enero y febrero son los meses con más días de viento de más de 20 nudos, y de mediados de febrero a abril hay mejor clima. Su temporada va de noviembre a abril. Tilarán es además el lugar para tomar buses a San José, Cañas, Puntarenas, Monteverde y Nuevo Arenal.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Extremo oeste del lago, al final de la ruta 142 desde La Fortuna"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Noviembre a abril para viento; diciembre a febrero, el más fuerte"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (ciudad); clases y alquiler de Tico Wind con precio a consultar, su web oficial no publica tarifas (verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Una parada de medio día o varios días de viento"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Parque Nacional Volcán Arenal (Sector Coladas y Sector Península, mismo boleto)",
+      "precio": "No residentes: adulto US$ 16,95 (US$ 15 + 13% de IVA), niños de 2 a 12 años US$ 5,65. Nacionales y residentes en Costa Rica: adulto ₡1.130, niño ₡565 (fuente: sinac.go.cr, ficha del parque y tabla de tarifas de ingreso del SINAC, verificado octubre 2026). Abre todos los días; la web del SINAC dice 8:00 a 16:00 y el Área de Conservación informó en julio de 2025 ingreso de 8:00 a 14:30. Se paga en boletería con efectivo o tarjeta: el aviso del SINAC indica que este parque no tiene reservación en línea; revisá serviciosenlinea.sinac.go.cr por si se habilita"
+    },
+    {
+      "tipo": "Puentes colgantes de Mistico (Mistico Park)",
+      "precio": "Autoguiado US$ 32 + impuestos; tour guiado desde US$ 44 + impuestos; tour al atardecer y nocturno US$ 54 + impuestos; menores de 0 a 4 años gratis (fuente: misticopark.com, verificado octubre 2026). Compra en la web oficial o en la entrada; abre 6:00 a 15:50"
+    },
+    {
+      "tipo": "Arenal 1968 (reserva privada)",
+      "precio": "US$ 28 adulto desde abril 2026 (fuente: blog Uprooted Traveler, verificado octubre 2026). Se paga en la reserva o por arenal1968.com"
+    },
+    {
+      "tipo": "Reserva del Arenal Observatory Lodge",
+      "precio": "Entrance Pass US$ 22 (senderos, torres, puentes, catarata La Danta, museo); Day Pass US$ 40 con almuerzo en El Jilguero (fuente: arenalobservatorylodge.com, verificado octubre 2026). Pago en el portón; abre 5:30 a 17:30"
+    },
+    {
+      "tipo": "Sky Adventures Arenal: teleférico y Mano de Arenal (El Castillo)",
+      "precio": "US$ 51 adulto, US$ 43 estudiante, US$ 36 niño de 5 a 12 años, US$ 36 nacionales, más impuestos (fuente: skyadventures.travel, verificado octubre 2026). Compra online en skyadventures.travel/tickets o en el parque"
+    },
+    {
+      "tipo": "Sky Adventures Arenal: puentes colgantes (Sky Walk, 4 km)",
+      "precio": "US$ 46 adulto, US$ 39 estudiante, US$ 33 niño de 5 a 12, US$ 33 nacionales, más impuestos (fuente: skyadventures.travel, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Kayak o paddle en El Castillo (acceso al lago)",
+      "precio": "Alquiler de 2 horas US$ 40 por adulto, incluye US$ 2 de acceso al lago Arenal (fuente: Travelocity, listado de Arenal Watersports, agregador, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Miradores del lago Arenal sobre la ruta 142",
+      "precio": "Gratis (ruta pública)"
+    },
+    {
+      "tipo": "Represa Sangregado (vista desde la ruta)",
+      "precio": "Gratis (se ve al pasar; no tiene visita con entrada)"
+    },
+    {
+      "tipo": "Pueblos de El Castillo, Nuevo Arenal y Tilarán",
+      "precio": "Gratis"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Canopy de Sky Adventures (siete cables, el más largo de más de 750 m)",
+      "precio": "US$ 93 adulto, US$ 79 estudiante, US$ 65 niño de 5 a 12 y nacionales, más impuestos (fuente: skyadventures.travel, verificado octubre 2026)",
+      "duracion": "2 a 3 horas",
+      "operador": "Sky Adventures Arenal (El Castillo)"
+    },
+    {
+      "actividad": "Paquete Sky Adventures: canopy + puentes colgantes + teleférico",
+      "precio": "US$ 115 adulto más impuestos (fuente: skyadventures.travel/tickets, verificado octubre 2026)",
+      "duracion": "Medio día",
+      "operador": "Sky Adventures Arenal"
+    },
+    {
+      "actividad": "Tour al atardecer o caminata nocturna en los puentes de Mistico",
+      "precio": "US$ 54 + impuestos por persona (fuente: misticopark.com, verificado octubre 2026)",
+      "duracion": "Unas 2,5 horas",
+      "operador": "Mistico Park"
+    },
+    {
+      "actividad": "Observación de aves guiada en Mistico (con equipo de observación)",
+      "precio": "Desde US$ 54 + impuestos (fuente: misticopark.com, verificado octubre 2026)",
+      "duracion": "Unas 2,5 horas",
+      "operador": "Mistico Park"
+    },
+    {
+      "actividad": "Cabalgata de Paco en Mistico, sola o combinada con los puentes",
+      "precio": "Cabalgata US$ 58 + impuestos; combinada con puentes guiados US$ 82 + impuestos; edad mínima 10 años, con tarifa de niño (fuente: misticopark.com, verificado octubre 2026)",
+      "duracion": "2,5 horas sola; unas 6 horas combinada",
+      "operador": "Mistico Park"
+    },
+    {
+      "actividad": "Kayak por el lago Arenal",
+      "precio": "Alquiler 2 h de kayak o paddle en El Castillo US$ 40; kayak guiado de 4 h US$ 70 por adulto (fuente: Travelocity, listados de Arenal Watersports y Flow Trips, agregador, verificado octubre 2026)",
+      "duracion": "2 a 5 horas",
+      "operador": "Arenal Watersports, Flow Trips, Desafío Costa Rica (sale de El Fósforo)"
+    },
+    {
+      "actividad": "Deportes acuáticos en El Castillo (wakeboard, wakesurf, esquí acuático, motos de agua)",
+      "precio": "US$ 40–120 por persona según actividad (fuente: directorio Rexby, agregador, verificado octubre 2026)",
+      "duracion": "1 a 3 horas",
+      "operador": "Volcano WaterSports (El Castillo)"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Bus Tilarán – Nuevo Arenal",
+      "precio": "₡470 (ruta 532, adulto mayor ₡240) o ₡440 en la ruta 573 Tilarán–Nuevo Arenal–Guatuso (adulto mayor ₡220); tarifas de la resolución RE-067-IT-2026 del 18/06/2026 (fuente: ARESEP, pliego tarifario vigente, verificado octubre 2026)",
+      "duracion": "Alrededor de 1 hora (yoviajocr, agregador)",
+      "notas": "La forma más barata de moverse por la orilla norte del lago. Los horarios varían según el día y no están unificados en una web oficial: confirmalos en la parada de Tilarán o frente a la iglesia de Nuevo Arenal, donde está la terminal."
+    },
+    {
+      "medio": "Bus La Fortuna – Tilarán por la orilla del lago",
+      "precio": "US$ 2–7 estimado (fuente: Rome2rio, agregador, verificado octubre 2026); ARESEP no publica esta tarifa en su pliego vigente",
+      "duracion": "Entre 1,5 horas y 2 horas 40 minutos según la fuente (Rome2rio / yoviajocr, agregadores)",
+      "notas": "Salidas de La Fortuna a las 8:00, 12:15 y 17:30; de Tilarán a las 7:00 y 12:30 (fuente: fortunawelcome.com). Contacto del operador: 2460-1012. Pasa por la entrada del parque, la represa y Nuevo Arenal, así que sirve para bajarse en el camino."
+    },
+    {
+      "medio": "Buses locales desde Tilarán a pueblos del lago (Tronadora, Tierras Morenas)",
+      "precio": "Tilarán–Tronadora ₡150; Tilarán–Tierras Morenas ₡350 (fuente: ARESEP, pliego tarifario vigente, resolución RE-067-IT-2026, verificado octubre 2026)",
+      "duracion": "Trayectos cortos",
+      "notas": "Sirven para llegar a Tronadora, uno de los nombres que quedaron bajo el agua en 1979 y hoy distrito de Tilarán, y a Tierras Morenas, donde está una de las plantas eólicas cerca del lago. Los mayores de 65 no pagan en recorridos de menos de 25 km, según la regla general de ARESEP."
+    },
+    {
+      "medio": "Auto de alquiler",
+      "precio": "US$ 50–100 por día en temporada alta (diciembre a abril) sin seguro, más el seguro obligatorio de responsabilidad civil de US$ 15–25 por día (fuente: blogs Drink Tea & Travel 2026 y Two Weeks in Costa Rica, verificado octubre 2026)",
+      "duracion": "Libre",
+      "notas": "Es lo más práctico para esta zona: El Castillo, el Observatory Lodge y Arenal 1968 no tienen bus. La ruta del lago está asfaltada pero tiene curvas y baches. Al Observatory Lodge se llega sin 4x4, con los últimos kilómetros de ripio. Pedí la cotización con el seguro obligatorio incluido."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "San José → La Fortuna (pueblo base) en bus",
+      "empresas": "Servicio directo San José–Ciudad Quesada–La Fortuna (información 2519-9743)",
+      "precio": "₡3.920 (adulto mayor ₡2.940), resolución RE-0115-IT-2026 del 28/08/2026 (fuente: ARESEP, pliego tarifario vigente, verificado octubre 2026). Salidas de San José 6:15, 8:40 y 11:50 (fortunawelcome.com)",
+      "duracion": "Varias horas; en auto son unas 3 horas por San Ramón y La Tigra (guía Viajeros Callejeros)"
+    },
+    {
+      "ruta": "San José → Tilarán en bus (lado oeste del lago)",
+      "empresas": "Ruta San José–Cañas–Tilarán",
+      "precio": "₡5.050 (adulto mayor ₡3.790), resolución RE-0115-IT-2026 del 28/08/2026 (fuente: ARESEP, pliego tarifario vigente, verificado octubre 2026)",
+      "duracion": "Recorrido promedio de 193 km según ARESEP; desde Tilarán, bus a Nuevo Arenal"
+    },
+    {
+      "ruta": "Monteverde ↔ La Fortuna cruzando el lago (taxi-bote-taxi o jeep-boat-jeep)",
+      "empresas": "Casa Batsu, Bitzu Tours, Two Weeks in Costa Rica y otros operadores",
+      "precio": "Compartido US$ 25–35 por persona; privado hasta 4 personas US$ 320–367 (fuente: webs de operadores en Rezdy y twoweeksincostarica.com, verificado octubre 2026)",
+      "duracion": "3 a 4 horas"
+    },
+    {
+      "ruta": "Monteverde → Tilarán → Nuevo Arenal en bus",
+      "empresas": "Ruta Tilarán–Santa Elena–Monteverde y ruta Tilarán–Nuevo Arenal",
+      "precio": "Monteverde–Tilarán ₡880 (RE-0118-IT-2026 del 02/09/2026) + Tilarán–Nuevo Arenal ₡470 (fuente: ARESEP, pliego tarifario vigente, verificado octubre 2026)",
+      "duracion": "Medio día con el transbordo en Tilarán"
+    },
+    {
+      "ruta": "Aeropuerto de Liberia (LIR) / Guanacaste → Arenal",
+      "empresas": "Interbus (shuttle compartido hotel a hotel); traslados privados",
+      "precio": "Interbus Liberia–Arenal US$ 61 + impuestos (fuente: Caribe Fun Tours en Rezdy, revendedor, verificado octubre 2026); privado Liberia–La Fortuna US$ 250 (fuente: Costa Rica Shuttles en Rezdy, verificado octubre 2026)",
+      "duracion": "Unas 5 horas el shuttle compartido; en auto se entra por Tilarán y la ruta del lago"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Económico en Nuevo Arenal y El Castillo",
+      "nivel": 2,
+      "opciones": "Hostal Nuevo Arenal, en el centro del pueblo: US$ 39–45 la noche (fuente: Expedia y Hotels.com, verificado octubre 2026). En El Castillo hay casas y cuartos como The Chicken House desde US$ 37 (fuente: Kayak, verificado octubre 2026). Para hostels con más vida, la base es La Fortuna"
+    },
+    {
+      "categoria": "Intermedio con vista en El Castillo",
+      "nivel": 3,
+      "opciones": "Hotel Chateau Arenal desde US$ 72, Essence Arenal (eco lodge con restaurante vegetariano y granja, 1 km al sur de El Castillo) desde US$ 67 y Linda Vista del Norte desde US$ 78 la noche (fuente: Kayak, verificado octubre 2026). Precios desde: en temporada alta (diciembre a abril) suben"
+    },
+    {
+      "categoria": "Lodge en la falda del volcán o boutique sobre el lago",
+      "nivel": 4,
+      "opciones": "Arenal Observatory Lodge, dentro de su reserva frente al volcán: desde US$ 116 la noche (fuente: Kayak) y desde US$ 153 con impuestos para julio 2026 (fuente: Expedia), verificado octubre 2026. Gingerbread Hotel, en Nuevo Arenal: US$ 135–222 según fecha (fuente: Booking/Expedia, verificado octubre 2026); cerrado del 6 al 12 de octubre de 2026"
+    },
+    {
+      "categoria": "Lujo con aguas termales al pie del volcán",
+      "nivel": 5,
+      "opciones": "Tabacón Thermal Resort & Spa, sobre el río termal Tabacón, en el sitio del pueblo destruido en 1968: US$ 400–730 la noche según fecha y si incluye impuestos (fuente: Expedia, Travelocity y Mr & Mrs Smith, verificado octubre 2026). Es de los hoteles más caros de la zona; en temporada alta se llena"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Casado y cocina típica costarricense",
+      "nivel": 2,
+      "opciones": "El casado (arroz, frijoles, ensalada, plátano y una carne o pescado) es el almuerzo de todos los días. En Loma Linda, en El Castillo, el casado tradicional cuesta ₡6.900 y un jugo natural o una cerveza nacional (Imperial, Pilsen) ₡2.800 (fuente: carta en restaurantelomalinda.com, verificado octubre 2026). En El Castillo, la Soda La Mesa de Mamá es la favorita local por porciones grandes, sin precios publicados (fuente: reseñas en Wanderlog, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Pescado y ceviche con vista al lago",
+      "nivel": 3,
+      "opciones": "En el lago se pesca guapote, y la comida local de El Castillo lo usa (fuente: ICT vía PDCC, mayo 2026). En Loma Linda, con vista al volcán y al lago: ceviche con patacones ₡5.500, tilapia Pura Vida ₡9.900 y churrasco de 400 g ₡17.100 (fuente: carta en restaurantelomalinda.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Almuerzo en el Observatory Lodge (El Jilguero)",
+      "nivel": 3,
+      "opciones": "El Day Pass de la reserva incluye almuerzo en el restaurante El Jilguero (plato principal, postre y jugo natural) más senderos, torre y catarata: US$ 40 por persona (fuente: arenalobservatorylodge.com, verificado octubre 2026). Desde las 17:00 se puede entrar sólo para el atardecer y la cena"
+    },
+    {
+      "tipo": "Cocina de autor en Nuevo Arenal",
+      "nivel": 4,
+      "opciones": "Gingerbread, del chef Eyal BenMenachem: carta que cambia según el mercado, pescados frescos (atún, mahi mahi, pargo), costillas y su shawarma, con porciones para compartir. No publica precios; las guías lo ubican en el rango caro ($$$) (fuente: gingerbreadarenal.com y Wanderlog, verificado octubre 2026). Reservá; cerrado del 6 al 12 de octubre de 2026. En el pueblo, Moya's Place y Las Tinajas son opciones más económicas de pizza y hamburguesas"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Conviene dormir en La Fortuna o en la zona del lago y el volcán?",
+      "a": "Depende de cómo te muevas. Sin auto, La Fortuna es más práctica: ahí llegan los buses de San José y salen los tours con traslado. Con auto, dormir en El Castillo, en Nuevo Arenal o en el Observatory Lodge te da vista al volcán o al lago, más silencio y, en el caso de El Castillo, el parque nacional a unos 5 minutos. El Castillo queda a unos 20 minutos de La Fortuna. Nuevo Arenal es útil si seguís viaje hacia Tilarán, Liberia o Monteverde, y tiene opciones baratas desde unos US$ 39 la noche."
+    },
+    {
+      "q": "¿Se puede subir al cráter del volcán Arenal?",
+      "a": "No. Entrar al cono del Arenal y al Cerro Chato está prohibido por la Ley del Servicio de Parques Nacionales: son zonas de pendientes fuertes, material inestable y sin infraestructura para emergencias. Los únicos accesos autorizados son el Sector Coladas y el Sector Península del parque. En mayo de 2026 cuatro personas fueron las primeras procesadas con la nueva legislación: la multa por ingreso no autorizado ronda ₡1,4 millones, y a los guías u operadores que lleven turistas puede llegar a ₡4,6 millones. Desconfiá de tours que ofrecen subir de noche o de madrugada."
+    },
+    {
+      "q": "¿Necesito visa para ir a Costa Rica?",
+      "a": "Depende del pasaporte. Según las directrices de Migración vigentes desde el 17 de noviembre de 2025, argentinos, uruguayos, chilenos, mexicanos y peruanos están en el Grupo I: entran sin visa y pueden quedarse hasta 180 días, con pasaporte vigente. Los colombianos están en el Grupo III y necesitan visa consular, salvo que tengan visa de múltiples entradas o residencia vigente de Estados Unidos o Canadá, o visa Schengen C o D de múltiples entradas, o residencia en la Unión Europea, Suiza, Noruega, Islandia o Reino Unido. En ese caso entran sin visa costarricense. El pasaporte colombiano debe tener al menos 90 días de vigencia."
+    },
+    {
+      "q": "¿Cuándo se ve mejor el volcán?",
+      "a": "El Arenal se nubla mucho. La estación seca, de diciembre a abril, da más días despejados, y enero y febrero son los mejores según varias guías. Igual el factor clave es la hora: entre las 8 y las 10 de la mañana suele estar más limpio, y al atardecer a veces se abre. De mayo a noviembre llueve más, pero los precios bajan y hay menos gente. Como el parque no devuelve la entrada si está tapado, mirá el cielo antes de pagar y, si podés, dejá un día de margen en tu itinerario."
+    },
+    {
+      "q": "¿Hace falta auto o 4x4?",
+      "a": "Auto sí conviene, 4x4 no hace falta para lo principal. El parque nacional, Mistico, Arenal 1968, El Castillo y la ruta del lago hasta Tilarán tienen acceso asfaltado; al Observatory Lodge se llega con auto común y los últimos kilómetros son de ripio. Sin auto, hay buses La Fortuna–Tilarán por la orilla del lago y Tilarán–Nuevo Arenal (₡470), pero El Castillo y las reservas privadas no tienen transporte público, así que dependés de taxis o tours. Si alquilás, sumá el seguro obligatorio, que suele no aparecer en la primera cotización."
+    },
+    {
+      "q": "¿Cuánto cuesta un día en la zona y cómo pago?",
+      "a": "Un día barato puede salir así: entrada al parque nacional US$ 16,95, un casado de ₡6.900 y un bus de ₡470. Si sumás puentes colgantes (Mistico autoguiado US$ 32 + impuestos) y un canopy (US$ 93 + impuestos), el día se encarece rápido. Las atracciones privadas cobran en dólares más impuestos; buses, sodas y supermercados, en colones. Las tarjetas se aceptan en casi todos lados, incluida la boletería del parque, pero llevá colones en efectivo para buses y pueblos chicos."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Volcán Arenal»: https://es.wikipedia.org/wiki/Volc%C3%A1n_Arenal",
+      "Wikipedia (ES) — «Parque nacional Volcán Arenal»: https://es.wikipedia.org/wiki/Parque_nacional_Volc%C3%A1n_Arenal",
+      "Wikipedia (ES) — «Lago Arenal»: https://es.wikipedia.org/wiki/Lago_Arenal",
+      "Wikipedia (EN) — «Lake Arenal»: https://en.wikipedia.org/wiki/Lake_Arenal",
+      "Wikipedia (EN) — «Nuevo Arenal»: https://en.wikipedia.org/wiki/Nuevo_Arenal",
+      "Wikipedia (ES) — «Arenal de Tilarán»: https://es.wikipedia.org/wiki/Arenal_de_Tilar%C3%A1n",
+      "Wikipedia (ES) — «Cantón de Tilarán»: https://es.wikipedia.org/wiki/Cant%C3%B3n_de_Tilar%C3%A1n",
+      "La Nación — «Arenal, el mayor complejo energético de Costa Rica»: https://www.nacion.com/el-pais/servicios/arenal-el-mayor-complejo-energetico-de-costa-rica/QE33IK6XNFFTDESYFQXL3UCMOA/story/",
+      "Telencuestas (estimaciones INEC) — «Población de Arenal en 2022»: https://telencuestas.com/censos-de-poblacion/costa-rica/2022/guanacaste/tilaran/arenal",
+      "Telencuestas (estimaciones INEC) — «Población de Tilarán en 2022»: https://telencuestas.com/censos-de-poblacion/costa-rica/2022/guanacaste/tilaran"
+    ],
+    "que_ver_atracciones": [
+      "SINAC — «Parque Nacional Volcán Arenal»: https://www.sinac.go.cr/ES/ac/ACAHN/pnva/Paginas/default.aspx",
+      "SINAC — «Plan General de Manejo del Parque Nacional Volcán Arenal 2025»: https://www.sinac.go.cr/ES/planmanejo/Plan%20Manejo%20ACAHN/Plan%20General%20de%20Manejo%20del%20Parque%20Nacional%20Volc%C3%A1n%20Arenal%20(2025).pdf",
+      "Visit Costa Rica (ICT) — «Arenal Volcano National Park»: https://visitcostarica.com/where-to-go/protected-areas/arenal-volcano-national-park",
+      "Viajeros Callejeros — «Guía para visitar el Parque Nacional Volcán Arenal»: https://www.viajeroscallejeros.com/visitar-el-parque-nacional-volcan-arenal/",
+      "Costa Rica Spirit — «Guía Parque Nacional Volcán Arenal 2026»: https://www.costarica-spirit.com/es/guias/parque-nacional-volcan-arenal/",
+      "Mistico Park — «Puentes Colgantes de Mistico Park»: https://misticopark.com/es/",
+      "Arenal 1968 — «Arenal Volcano Hiking»: https://www.arenal1968.com/tour/arenal-volcano-hiking/",
+      "Uprooted Traveler — «Arenal 1968: The Best Arenal Volcano Hike»: https://uprootedtraveler.com/arenal-1968-best-arenal-volcano-hike/",
+      "Arenal Observatory Lodge — «Day Passes»: https://www.arenalobservatorylodge.com/day-passes/",
+      "Triptins — «Arenal Observatory Lodge Trails»: https://triptins.com/arenal-observatory-lodge-trails/",
+      "Sky Adventures — «Hand of Arenal»: https://skyadventures.travel/hand-of-arenal/",
+      "Sky Adventures — «Ziplines»: https://skyadventures.travel/ziplines/",
+      "Sky Adventures — «Hanging Bridges»: https://skyadventures.travel/hanging-bridges/",
+      "Butterfly Conservatory — «Educational Butterfly Sanctuary, El Castillo»: https://www.butterflyconservatory.org",
+      "PDCC — «Nuevo corredor turístico potencia a la comunidad de El Castillo frente a la Laguna del Arenal»: https://newsinamerica.com/pdcc/turismo/2026/nuevo-corredor-turistico-potencia-a-la-comunidad-de-el-castillo-frente-a-la-laguna-del-arenal/",
+      "Tico Wind — «Wind & Water»: https://www.ticowind.com/CostaRica/arenal_wind"
+    ],
+    "como_llegar_transporte": [
+      "ARESEP — «Tarifas vigentes servicio de autobús»: https://aresep.go.cr/autobus/tarifas/",
+      "ARESEP datos abiertos — «Pliego tarifario de autobús vigente»: https://datos.aresep.go.cr/ws.datosabiertos/Services/IT/PliegoTarifario.svc/ObtenerPliegoTarifarioAutobusVigente",
+      "Fortuna Welcome — «Horario de Buses de La Fortuna»: https://www.fortunawelcome.com/es/buses-de-la-fortuna/",
+      "Rome2rio (agregador) — «Tilarán → La Fortuna: precios y horarios»: https://www.rome2rio.com/es/s/Tilar%C3%A1n/La-Fortuna-Cant%C3%B3n-de-Alajuela-Costa-Rica",
+      "Two Weeks in Costa Rica — «La Fortuna (Arenal) to Monteverde – Shared Shuttle-Boat-Shuttle Service»: https://www.twoweeksincostarica.com/product/la-fortuna-monteverde-shared-shuttle/",
+      "Casa Batsu en Rezdy — «Jeep-Boat-Jeep: La Fortuna to Monteverde»: https://casabatsutourdesk.rezdy.com/62564/jeep-boat-jeep-la-fortuna-to-monteverde",
+      "Caribe Fun Tours en Rezdy — «INTERBUS: Liberia to Arenal»: https://caribefuntours.rezdy.com/275742/interbus-liberia-to-arenal/",
+      "Drink Tea & Travel — «Renting a Car in Costa Rica (2026)»: https://drinkteatravel.com/renting-a-car-in-costa-rica-tips/",
+      "Two Weeks in Costa Rica — «Sky Adventures Arenal: Adrenaline-Pumping Ziplining»: https://www.twoweeksincostarica.com/sky-adventures-zipline/"
+    ],
+    "precios_2026": [
+      "SINAC — «Tarifas de ingreso a las Áreas Silvestres Protegidas»: https://www.sinac.go.cr/ES/transprncia/rendcuent/27%20reas%20Silvestres%20Protegidas/Tarifas%20Ingreso%20ASP.pdf",
+      "SINAC — «Aviso compra de entradas, Parque Nacional Volcán Arenal»: https://www.sinac.go.cr/ES/ac/ACAHN/pnva/Documents/Aviso%20Compra%20Entradas.pdf",
+      "Sky Adventures — «Tickets»: https://skyadventures.travel/tickets/",
+      "Travelocity (agregador) — «El Castillo Lake Arenal Standup Paddleboard or Kayak Rental»: https://www.travelocity.com/es/things-to-do/null.a48075628.detalles-actividades",
+      "Rexby (directorio) — «Volcano Watersports»: https://www.rexby.com/Jose_costarica/ttd/watersports-by-the-volcano"
+    ],
+    "seguridad_normas": [
+      "CRHoy — «4 personas estrenan multas por ingreso ilegal al volcán Arenal»: https://crhoy.com/nacionales/4-personas-estrenan-multas-por-ingreso-ilegal-al-volcan-arenal",
+      "El Observador — «Alertan por turismo ilegal en el Volcán Arenal»: https://observador.cr/alertan-por-turismo-ilegal-en-el-volcan-arenal-con-riesgos-para-visitantes-y-la-biodiversidad/",
+      "Teletica — «SINAC reporta 408 ingresos ilegales a áreas protegidas durante este año»: https://www.teletica.com/nacional/sinac-reporta-408-ingresos-ilegales-a-areas-protegidas-durante-este-ano_412238"
+    ],
+    "visas_ingreso": [
+      "El Financiero — «Costa Rica actualiza requisitos de ingreso»: https://www.elfinancierocr.com/economia-y-politica/costa-rica-actualiza-requisitos-de-ingreso-estos/N2IIWWNEDFBJ7NUUMBOKET4KIA/story/",
+      "La Nación — «¿180 o 30 días? Así otorga Costa Rica la estadía máxima»: https://www.nacion.com/el-pais/180-o-30-dias-asi-otorga-costa-rica-estadia-maxima/S64E24QDWFEGBPEDAR5LCKPMTM/story/",
+      "Colombia.com — «Vacaciones en Costa Rica: tres claves prácticas»: https://www.colombia.com/turismo/noticias/viajar-a-costa-rica-como-colombiano-requiere-de-visa-que-documentos-llevar-584187"
+    ],
+    "alojamiento_gastronomia": [
+      "Kayak — «Hoteles en El Castillo»: https://www.es.kayak.com/El-Castillo-Hoteles-Castillo-Arenal.445294.ksp",
+      "Kayak — «Arenal Observatory Lodge»: https://www.es.kayak.com/La-Fortuna-Hoteles-Arenal-Observatory-Lodge-Spa.491427.ksp",
+      "Expedia — «Cheap Hotels in Nuevo Arenal»: https://www.expedia.com/cn/Nuevo-Arenal-Hotels-Cheap-Hotels.0-0-d6229352-tCheapHotels.Travel-Guide-Filter-Hotels",
+      "Mr & Mrs Smith — «Tabacón Thermal Resort & Spa»: https://mrandmrssmith.com/luxury-hotels/tabacon-thermal-resort-and-spa",
+      "Restaurante Loma Linda — «Our Menu»: https://www.restaurantelomalinda.com/menu",
+      "Gingerbread — «Restaurant»: https://gingerbreadarenal.com/restaurant/",
+      "Essence Arenal — «Eco Lodge, El Castillo»: https://www.essencearenal.com",
+      "Wanderlog — «Nuevo Arenal»: https://wanderlog.com/explore/78944/nuevo-arenal"
+    ]
+  }
+}
