@@ -1,0 +1,597 @@
+{
+  "slug": "maspalomas",
+  "name": "Maspalomas",
+  "region": "Gran Canaria (Canarias)",
+  "lat": 27.7606,
+  "lon": -15.586,
+  "datosRapidos": [
+    {
+      "label": "Municipio e isla",
+      "value": "Maspalomas es la gran zona turística del sur de Gran Canaria, en el municipio de San Bartolomé de Tirajana, provincia de Las Palmas (Canarias, España). No es una ciudad con casco histórico: es una franja de urbanizaciones pegadas unas a otras que se vende con la marca 'Maspalomas Costa Canaria' y va de Bahía Feliz a Pasito Blanco. Incluye San Agustín, Playa del Inglés, Campo Internacional, el Faro, Meloneras y San Fernando, este último más residencial. El municipio entero tenía 54.291 habitantes según el INE (padrón a 1 de enero de 2025), pero Wikipedia habla de más de 87.000 camas turísticas sólo en la zona costera. Se la conoce por tres cosas. La primera, las Dunas de Maspalomas, una Reserva Natural Especial de unas 404 hectáreas, con su charca y su palmeral. La segunda, la playa: Maspalomas y Playa del Inglés forman la playa más larga de la isla, de unos 5,6 km. La tercera, el Faro de 1890. También es un destino histórico del turismo LGBT europeo, con el Yumbo Centrum y el Pride de mayo. Su capital municipal, Tunte, queda en la montaña, a 850 metros de altura."
+    },
+    {
+      "label": "Moneda e idioma",
+      "value": "Se paga en euros. Se habla castellano con acento canario: al colectivo le dicen 'guagua' y a las papas, 'papas'. En la zona turística vas a escuchar tanto alemán, inglés y lenguas escandinavas como castellano, y muchas cartas están en varios idiomas. En las guaguas de Global se puede pagar en efectivo o con tarjeta bancaria sin contacto desde el celular o el plástico, según la web de la empresa."
+    },
+    {
+      "label": "Mejor época",
+      "value": "Es destino de todo el año: Wikipedia describe un clima árido, templado, con menos de 100 mm de lluvia anual. Lo que cambia es el precio del alojamiento. Según Kayak, septiembre es el mes más barato para dormir en Maspalomas (promedio 160 € la noche) y febrero el más caro (239 €), por el turismo de invierno europeo. Si vas a las dunas en verano, caminá temprano o al atardecer: la arena quema."
+    },
+    {
+      "label": "Visado y entrada",
+      "value": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos entran sin visa como turistas hasta 90 días en 180 dentro del espacio Schengen, y Canarias es parte de él. Desde el 10 de abril de 2026 el EES funciona en todas las fronteras externas: en tu primer control Schengen te toman huellas y foto en vez de sellar el pasaporte. Si llegás con escala en Madrid, ese control lo hacés en Madrid. El ETIAS (permiso online de 20 €) todavía no se pide: la UE lo postergó y se espera para 2027."
+    }
+  ],
+  "intro": [
+    "Maspalomas es el sur de Gran Canaria en estado puro: una playa larguísima de arena dorada, un campo de dunas que parece un pedazo de Sahara frente al Atlántico y un faro de 1890 que marca el final del paseo. Es un lugar pensado para descansar, con hoteles de todos los precios y sol casi asegurado. Pero si la usás de base, con las guaguas de Global llegás a la montaña del centro de la isla, el Roque Nublo, pueblos como Fataga y la capital, Las Palmas.",
+    "Lo que más vale es mezclar. Una mañana cruzás las dunas por los senderos marcados hasta la playa. A la tarde paseás de Meloneras al Faro y mirás el atardecer sobre la charca. Otro día subís al Roque Nublo con la línea 18, que para en Fataga. Otro, vas en barco de Puerto Rico a Puerto de Mogán, el pueblo de canales al que llaman la 'pequeña Venecia'. Y si viajás con chicos, Palmitos Park y Aqualand están a minutos en guagua.",
+    "Se puede hacer sin gastar de más. Las playas, las dunas, la charca y el paseo marítimo son gratis. La guagua de Global del aeropuerto al Faro cuesta 4,05 € el boleto. El centro etnográfico del Faro no cobra entrada según las guías. Lo que conviene planificar es lo que tiene cupo, como el Roque Nublo, que pide reserva previa, y elegir bien la zona para dormir: Playa del Inglés suele salir más barata que Meloneras."
+  ],
+  "historia_corta": "Antes de la conquista castellana, el sur de Gran Canaria estaba habitado por los antiguos canarios. Los restos de la necrópolis de Arteara, en el barranco de Fataga, muestran ocupación desde por lo menos los siglos IV o V, y la zona dependía del guanartemato (reino) de Telde. El 24 de agosto de 1479 los castellanos sufrieron una derrota cerca de la Caldera de Tirajana, y la conquista de la isla terminó el 16 de marzo de 1485 con la capitulación de Ansite. En 1732 nació el Condado de la Vega Grande de Guadalupe, que llegó a tener más de un tercio de las tierras del municipio. En 1861 se aprobó la construcción del Faro de Maspalomas, obra del ingeniero Juan de León y Castillo, que se encendió el 1 de febrero de 1890 para guiar a los barcos entre Europa, América y África; durante décadas fue la única construcción del lugar. Todo cambió con el turismo. El primer vuelo chárter llegó a Gran Canaria en diciembre de 1957 y el conde Alejandro del Castillo convocó el Concurso Internacional Maspalomas Costa Canaria, cuyo proceso arrancó el 9 de enero de 1962 y ganó la firma francesa SETAP. En 1969 la Estación Espacial de Maspalomas tuvo un papel en la misión Apolo XII. Las dunas fueron protegidas en 1987 y declaradas Reserva Natural Especial en 1994; su Plan Director se aprobó en 2004. En 2012 Maspalomas cumplió 50 años como destino turístico, y hoy el desafío es que el turismo no se coma el espacio natural que lo hizo famoso.",
+  "queVer": [
+    {
+      "nombre": "Dunas de Maspalomas (Reserva Natural Especial)",
+      "desc": "Más de 400 hectáreas de arena que el viento mueve sin parar entre Playa del Inglés y el Faro. Se recorren sólo por senderos marcados.",
+      "detalle": "Las Dunas de Maspalomas son el gran motivo del viaje. Ocupan 403,9 hectáreas según Turismo de Gran Canaria y forman una Reserva Natural Especial desde 1994, gestionada por el Cabildo. Adentro hay cuatro ambientes: el campo de dunas móviles, la playa, la charca y el palmeral. También viven insectos que sólo existen en este arenal.\n\nLas reglas son claras. Se camina sólo por los senderos señalizados: el Cabildo marcó cinco recorridos dentro de la reserva y su web en inglés dice que no se puede caminar por ningún otro lado. No se arman refugios con piedras ni plantas. En 2023 el Cabildo puso 120 multas entre enero y julio por transitar o acampar en zonas prohibidas, la mayoría de 150 €. En 2026 sumó drones, cámaras, sensores y un megáfono para avisar en el momento a quien se mete donde no debe, según RTVC.\n\nLa foto clásica sale al atardecer, que es justo cuando más gente se sale de los senderos. No hace falta: desde los caminos permitidos se ve todo. En verano la arena quema al mediodía, así que andá temprano o tarde, con agua y calzado. Se entra a pie desde el paseo de Playa del Inglés o desde el Faro, por varios accesos peatonales.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Entre Playa del Inglés y el Faro de Maspalomas; accesos peatonales desde ambos lados"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; temprano a la mañana o al atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis. Sólo por senderos señalizados; salirse puede costar una multa (el Cabildo informó multas de 150 € en 2023)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa de Maspalomas y Playa del Inglés",
+      "desc": "Juntas suman unos 5,6 km de arena dorada, con zona nudista desde 1978, chiringuitos, surf en la curva y el Yumbo a pocas cuadras.",
+      "detalle": "Las playas de Maspalomas y del Inglés son en realidad una sola, unida por la punta de Maspalomas. Según Wikipedia suman unos 5.600 metros, cerca de 2.800 cada una, y forman la playa más larga de Gran Canaria. La de Maspalomas va del Faro a la punta y tiene bandera azul desde 1990.\n\nHacia la mitad, separada del resto por las dunas, hay una zona nudista establecida desde 1978. En la curva entre las dos playas se juntan los surfistas. A lo largo de la arena hay quioscos con bebidas y baños públicos que abren de 10:30 a 18 h, según Turismo de Gran Canaria, además de alquiler de reposeras y sombrillas, socorristas y duchas.\n\nPlaya del Inglés es el núcleo más poblado y el más animado de noche. Ahí está el centro comercial Yumbo Centrum, punto de encuentro de la comunidad LGBT europea, donde se hacen el Pride en mayo y el Winter Pride en noviembre. Si buscás tranquilidad, el extremo del Faro es más calmo. Llevá protector solar alto: el sol del sur pega fuerte aun en invierno.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Desde el Faro de Maspalomas hasta San Agustín; guagua de Global entre Playa del Inglés y el Faro, 1,40 € (fuente: guaguasglobal.com, buscador de tarifas, verificado octubre 2026)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública); reposeras y sombrillas se pagan aparte"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o más"
+        }
+      ]
+    },
+    {
+      "nombre": "Faro de Maspalomas y Centro Etnográfico",
+      "desc": "El faro de 1890, Bien de Interés Cultural, con un pequeño museo en la casa del farero y el paseo con bares y tiendas alrededor.",
+      "detalle": "El Faro de Maspalomas es el símbolo del sur de la isla. Lo diseñó el ingeniero Juan de León y Castillo; las obras se aprobaron en 1861 y la luz se encendió el 1 de febrero de 1890. Wikipedia le da 58 metros hasta el foco, aunque otras fuentes hablan de 55 o 56. Es Bien de Interés Cultural desde una resolución del 6 de agosto de 1990, y durante décadas fue la única construcción en los 3 km que separaban Playa del Inglés del Oasis.\n\nEn las antiguas dependencias del farero funciona el Centro Etnográfico, con piezas y paneles sobre la vida tradicional del sur de Gran Canaria y el funcionamiento del faro. Turismo de Gran Canaria indica que abre de lunes a domingo de 10:30 a 17 h. La subida a la torre no aparece como visita abierta en las fuentes consultadas.\n\nAlrededor hay un bulevar con tiendas, cafés y restaurantes, y desde ahí sale el paseo hacia Meloneras. Es el mejor punto para ver el atardecer y la puerta de entrada a las dunas por el oeste. La estación de guaguas Faro de Maspalomas conecta con el aeropuerto y Las Palmas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Plaza del Faro, en el extremo oeste de la playa de Maspalomas"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; al atardecer para las fotos"
+        },
+        {
+          "label": "Entrada",
+          "value": "Centro Etnográfico gratis (fuente: Nomado, agregador, verificado octubre 2026); abre lunes a domingo de 10:30 a 17 h según grancanaria.com"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Charca y palmeral de Maspalomas",
+      "desc": "Una laguna costera entre las dunas y el palmeral donde descansan cientos de aves migratorias, a pasos del Faro.",
+      "detalle": "La Charca de Maspalomas es una pequeña laguna donde el agua del barranco se encuentra con la arena y el mar. Es parte de la Reserva Natural Especial y, según Turismo de Gran Canaria, es zona de descanso de cientos de aves migratorias y centro de nidificación. En la vegetación que la rodea vive el lagarto gigante de Gran Canaria, un endemismo de la isla, según ¡HOLA! Viajes. Al lado está el palmeral, el cuarto ambiente de la reserva.\n\nSe recorre por un camino que bordea la charca y conecta el Faro con la playa. No hace falta equipo: con un poco de paciencia y temprano a la mañana es más fácil ver aves. Respetá los vallados, no des de comer a los animales y no te metas en el agua.\n\nCerca está el Parque Tony Gallardo, con sombra, agua y un jardín botánico dentro de la reserva, que sirve de pausa si venís de caminar por la arena. Combiná la charca con las dunas y el Faro en una misma mañana.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Junto al Faro de Maspalomas y la zona de Oasis"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño para las aves migratorias; temprano a la mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "30 a 60 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Paseo de Meloneras y yacimiento de Punta Mujeres",
+      "desc": "Paseo marítimo de Meloneras al Faro, con restaurantes, hoteles grandes y un yacimiento aborigen en medio del camino.",
+      "detalle": "Meloneras es la parte más nueva y cara de Maspalomas, al oeste del Faro. Su paseo marítimo une Meloneras con el Faro y es un lugar ideal para caminar al caer la tarde, con terrazas, restaurantes y tiendas. Acá están grandes hoteles como el H10 Playa Meloneras o el Hotel Riu Palace Meloneras, según Kayak.\n\nEn medio del paseo está el yacimiento arqueológico de Punta Mujeres, según Turismo de Gran Canaria: un sitio arqueológico a la orilla del mar, rodeado hoy de hoteles. Recuerda que el sur tenía historia mucho antes del turismo, como también muestra la necrópolis de Arteara.\n\nEl recorrido es un paseo marítimo fácil de hacer con chicos. Si querés comer con vista al mar, los precios de esta zona son más altos que en Playa del Inglés o San Fernando, así que mirá la carta antes de sentarte.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Desde la playa de Meloneras hasta el Faro de Maspalomas"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; al atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas a pie, ida y vuelta"
+        }
+      ]
+    },
+    {
+      "nombre": "Roque Nublo",
+      "desc": "El monolito volcánico símbolo de Gran Canaria, a 1.813 m. Desde el sur se llega con la línea 18 de Global y pide reserva previa.",
+      "detalle": "El Roque Nublo es una roca de origen volcánico que se eleva unos 80 metros sobre su base y llega a 1.813 metros sobre el nivel del mar, en el municipio de Tejeda. Es monumento natural desde 1994 y desde 2019 está incluido en el Paisaje Cultural de Risco Caído y Montañas Sagradas de Gran Canaria. Los antiguos canarios lo usaban como lugar de culto.\n\nPara subir entre las 9 y las 17 h por la Degollada de La Goleta hay que reservar en reservasroquenublo.com: el cupo es de 60 personas por hora para particulares y la confirmación llega por correo, según elDiario.es (julio de 2026). Fuera de ese horario no hace falta reserva. El estacionamiento de La Goleta se eliminó; el más cercano es el de Cruz de Los Llanos, a una hora a pie. Las multas por incumplir van de 100 a 3.000 €.\n\nDesde Maspalomas lo más práctico es la guagua: la línea 18 de Global (Faro de Maspalomas - San Bartolomé - Tejeda) para en la parada Roque Nublo. El sendero hasta la base tiene unos 2,5 km y lleva unos 40 minutos según Wikipedia. Llevá abrigo: arriba hace frío y el viento sopla fuerte.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Línea 18 de Global desde el Faro de Maspalomas: 6 € el boleto (fuente: guaguasglobal.com, buscador de tarifas, verificado octubre 2026)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño; días despejados"
+        },
+        {
+          "label": "Entrada",
+          "value": "Sin tarifa publicada; reserva obligatoria de 9 a 17 h en reservasroquenublo.com (fuente: elDiario.es, julio 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo desde Maspalomas"
+        }
+      ]
+    },
+    {
+      "nombre": "Puerto de Mogán",
+      "desc": "El pueblo de pescadores con canales y puentes al que llaman la 'pequeña Venecia' de Gran Canaria, con mercadillo los viernes.",
+      "detalle": "Puerto de Mogán es el segundo núcleo del municipio de Mogán y uno de los paseos más lindos del sur. Lo llaman la 'pequeña Venecia' de Gran Canaria por sus canales y puentes, entre casitas de pescadores pintadas de colores vivos. Tiene una marina con 246 amarres, según Wikipedia, y el turismo es su principal actividad.\n\nLos viernes se arma el mercadillo, uno de los más populares del sur, con artesanía, ropa, flores y productos canarios. Ese día se llena: si preferís calma, andá otro día.\n\nHay dos formas de llegar desde Maspalomas. En guagua, con las líneas 32 y 33 de Global desde Playa del Inglés o la 1 desde Las Palmas. O combinando con el barco de Líneas Salmón, que sale de Puerto Rico y Arguineguín y bordea la costa de acantilados: es un paseo en sí mismo. La empresa conecta estos puertos desde 1969. Volvé antes del atardecer si querés usar el barco, porque la última salida desde Mogán es a las 17:45.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Faro de Maspalomas → Puerto de Mogán en guagua: 4,15 € el boleto (fuente: guaguasglobal.com, buscador de tarifas, verificado octubre 2026)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; viernes para el mercadillo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis. Barco Puerto Rico - Puerto de Mogán: 8 € ida y 14 € ida y vuelta adulto; niños de 6 a 12 años 5 € y 8 € (fuente: lineassalmon.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Palmitos Park",
+      "desc": "Zoológico y jardín botánico en un barranco al norte de Maspalomas, con aves, delfinario y mariposario. Abre todos los días.",
+      "detalle": "Palmitos Park abrió en 1978 en el barranco de Los Palmitos, un valle natural al norte de Maspalomas. Ocupa unas 20 hectáreas con un jardín botánico de cerca de 15.000 plantas, unas 1.000 palmeras y alrededor de 150 especies de aves, según Wikipedia. Desde 1996 es del grupo Aspro-Ocio. En julio de 2007 un incendio forestal llegó al barranco; el parque reabrió en agosto de 2008.\n\nTiene el único delfinario de Gran Canaria, una casa de mariposas y exhibiciones de aves a lo largo del día. Ojo: si te preocupa el bienestar animal, sabé que el parque no es miembro de la asociación europea de zoos (EAZA), aunque sí de la ibérica (AIZA). La natación con delfines no entra en la entrada general.\n\nAbre todos los días de 10 a 18 h, con admisión hasta las 17 h. Las entradas online tienen precio variable según el día y valen 90 días. Si vas también a Aqualand, el '2 Parks Ticket' te ahorra plata. Llegás con la línea 70 desde el Faro o la 45 desde Playa del Inglés.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Faro de Maspalomas → Los Palmitos, línea 70: 2,65 € (fuente: guaguasglobal.com, buscador de tarifas, verificado octubre 2026)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; a primera hora hace menos calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "No residentes: adulto (11+) 39 € taquilla o desde 35 € online; niño 5-10 años 29 € o 25 €; 3-4 años 15 €; 0-2 gratis (fuente: palmitospark.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "4 a 5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Aqualand Maspalomas",
+      "desc": "El parque acuático del sur de Gran Canaria, con toboganes como Hurakan y la nueva zona Skull Bay. Abre todos los días.",
+      "detalle": "Aqualand Maspalomas es el parque acuático del sur de la isla, sobre la carretera de Palmitos Park. Su web organiza las atracciones por zonas y categorías. Entre las más conocidas están Hurakan, Tukakame y Misol-ha, y anuncia como novedad Skull Bay. Comparte entrada combinada con Palmitos Park, el '2 Parks Ticket'.\n\nAbre todos los días de 10 a 17 h, y en julio y agosto hasta las 18 h. Las atracciones acuáticas cierran 30 minutos antes. Algunas tienen restricción de altura. El estacionamiento se paga aparte.\n\nLa categoría la define la edad o la altura: adulto desde 11 años o más de 1,40 m; niño de 5 a 10 años o entre 1,10 y 1,40 m; mini de 3 a 4 años; senior desde 65. Comprar online con fecha sale más barato que en taquilla. Si pensás ir dos veces, la entrada de dos días cuesta poco más que la de uno. Llegás con la línea 45 desde Playa del Inglés y San Agustín o la 70 desde el Faro y Puerto de Mogán.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Carretera de Palmitos Park; líneas 45 y 70 de Global según aqualand.es"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; julio y agosto con horario extendido"
+        },
+        {
+          "label": "Entrada",
+          "value": "No residentes: adulto 41 € taquilla o desde 32 € online; niño y senior 31 € o desde 22 €; mini 17 €; 2 días adulto 56 € (fuente: aqualand.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Fataga y el barranco de Fataga",
+      "desc": "Pueblo blanco a 600 m de altura en un barranco de paredes ocres, con la necrópolis aborigen de Arteara en el camino.",
+      "detalle": "Fataga es un pueblo de San Bartolomé de Tirajana metido en el barranco del mismo nombre, a unos 600 metros de altura, con calles estrechas empedradas, arquitectura canaria tradicional y paredes de roca marrón alrededor. El barranco es paisaje protegido y zona de protección para aves. Cerca está el molino de agua de Fataga, de fines del siglo XVIII.\n\nEn el camino desde Maspalomas, por la carretera GC-60, está la necrópolis de Arteara, el mayor cementerio prehispánico de la isla según las guías, con cientos de túmulos de piedra. Las visitas guiadas para grupos se piden con cita previa al teléfono que publica Turismo de Gran Canaria.\n\nFataga se visita en un par de horas: caminá el pueblo, tomá algo en la plaza y seguí hacia Tunte, la capital municipal, o hacia el Roque Nublo, porque la línea 18 de Global pasa por los tres. Es la forma más simple de ver la Gran Canaria rural sin auto. La carretera es de curvas: si vas manejando, tomalo con calma.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Faro de Maspalomas → Fataga, línea 18 de Global: 2,65 € (fuente: guaguasglobal.com, buscador de tarifas, verificado octubre 2026)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañanas despejadas"
+        },
+        {
+          "label": "Entrada",
+          "value": "Pueblo gratis. Necrópolis de Arteara: 4 € general, 2 € reducida, gratis menores de 10 (fuente: Nomado, agregador, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas; medio día con Arteara"
+        }
+      ]
+    },
+    {
+      "nombre": "Las Palmas de Gran Canaria (Vegueta, Catedral y Las Canteras)",
+      "desc": "La capital de la isla, fundada en 1478: barrio histórico de Vegueta, Catedral de Santa Ana con su torre y la playa urbana de Las Canteras.",
+      "detalle": "Las Palmas de Gran Canaria fue fundada el 24 de junio de 1478 por Juan Rejón, en la desembocadura del barranco de Guiniguada, y hoy tiene 381.868 habitantes (INE 2025). Es un buen contraste con el sur turístico: una ciudad de verdad, con vida propia.\n\nEmpezá por Vegueta, el barrio fundacional, conjunto histórico desde 1973. Ahí está la Catedral de Santa Ana, empezada en 1497 y abierta al culto en 1570; la entrada incluye la torre sur, con vista a los techos del barrio, y el Museo Diocesano de Arte Sacro. A pocas cuadras está la Casa de Colón, un museo sobre Canarias y América en una casona donde, según la tradición, pasó Colón en su primer viaje. Cruzando el barranco está Triana, con su calle Mayor peatonal y edificios modernistas.\n\nDel otro lado de la ciudad está Las Canteras, una playa urbana de unos 3,1 km según Wikipedia. Desde Maspalomas llegás con las líneas 30 o 50 de Global a San Telmo o Santa Catalina.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Faro de Maspalomas → San Telmo (Las Palmas), líneas 30 y 50: 6,15 € (fuente: guaguasglobal.com, buscador de tarifas, verificado octubre 2026)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; de lunes a sábado para la Catedral"
+        },
+        {
+          "label": "Entrada",
+          "value": "Catedral, torre y museo: 8 € general, 6 € reducida, gratis menores de 12 y residentes de la provincia de Las Palmas (fuente: catedraldecanarias.es, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Holiday World Maspalomas",
+      "desc": "Parque de atracciones con más de 30 juegos, noria, bolera, karaoke y comida, abierto de tarde y noche en Maspalomas.",
+      "detalle": "Holiday World es el parque de diversiones de Maspalomas, en la avenida Touroperador Tui 18. Según su web, reúne más de 30 atracciones, un mercado de comida callejera, escape rooms, karaokes, bolera, bar deportivo y sala de juegos. Funciona como un centro de ocio más que como un parque temático grande.\n\nLo distinto es el horario: abre de tarde. La web oficial indica que el parque de atracciones funciona miércoles, jueves y domingo de 16 a 23 h, y viernes y sábados de 16 a 23:30; las atracciones cierran 15 minutos antes. La bolera abre todos los días de 10 a 24 h. Revisá el horario antes de ir porque cambia según temporada.\n\nLa entrada al parque (Wooland) se compra en tickets.holidayworldmaspalomas.com, con tarifas aparte para residentes canarios y combos con bolera. Es un buen plan para familias después de un día de playa, cuando ya bajó el sol. Antes de ir, confirmá el horario del día en su web.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Avenida Touroperador Tui 18, Maspalomas"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; de tarde y noche"
+        },
+        {
+          "label": "Entrada",
+          "value": "Entrada Wooland desde 13 € (fuente: Civitatis, revendedor, verificado octubre 2026); Atrápalo la lista desde 17 € con precios que varían por fecha"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 4 horas"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Dunas, playas de Maspalomas e Inglés, Charca y paseo de Meloneras",
+      "precio": "Gratis (espacios públicos). En las dunas sólo por senderos señalizados; el Cabildo informó en 2023 multas de 150 € por salirse o acampar"
+    },
+    {
+      "tipo": "Centro Etnográfico del Faro de Maspalomas",
+      "precio": "Gratis (fuente: Nomado, agregador, verificado octubre 2026). Abre de lunes a domingo de 10:30 a 17 h según grancanaria.com"
+    },
+    {
+      "tipo": "Palmitos Park (entrada de 1 día)",
+      "precio": "No residentes: adulto (11+) 39 € taquilla / 35 € online; niño 5-10 años 29 € / 25 €; mini 3-4 años 15 €; 0-2 gratis. Residentes canarios: 25 €, 19 € y 10 €. Family Pack online (2 adultos + 2 niños) 118 € (fuente: palmitospark.es, verificado octubre 2026). Online, el precio varía según la fecha. Comprar en palmitospark.es o en taquilla"
+    },
+    {
+      "tipo": "Aqualand Maspalomas (entrada de 1 día)",
+      "precio": "No residentes: adulto 41 € taquilla / desde 32 € online; niño 5-10 y senior +65: 31 € / desde 22 €; mini 3-4 años 17 €; 0-2 gratis. Residentes: adulto 24-25 €. Entrada 2 días adulto 56 € / 53 € online (fuente: aqualand.es, verificado octubre 2026). Comprar en tickets-maspalomas.aqualand.es"
+    },
+    {
+      "tipo": "2 Parks Ticket (Palmitos Park + Aqualand)",
+      "precio": "No residentes: adulto 62 €; niño 45 €; mini 23 €. Residentes: 34 €, 28 € y 15 € (fuente: palmitospark.es y aqualand.es, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Holiday World Maspalomas (entrada Wooland)",
+      "precio": "Desde 13 € (fuente: Civitatis, revendedor, verificado octubre 2026); Atrápalo desde 17 € según fecha. Venta oficial en tickets.holidayworldmaspalomas.com, que no publica el precio fuera del proceso de compra"
+    },
+    {
+      "tipo": "Roque Nublo (acceso por la Degollada de La Goleta)",
+      "precio": "Sin tarifa publicada en las fuentes consultadas; reserva previa obligatoria de 9 a 17 h en reservasroquenublo.com; cupo de 60 personas por hora (fuente: elDiario.es, julio 2026, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Catedral de Santa Ana, torre y Museo de Arte Sacro (Las Palmas)",
+      "precio": "8 € general; 6 € reducida (mayores de 65, estudiantes de 13 a 23 años, familias numerosas, residentes de la provincia de Santa Cruz de Tenerife); gratis menores de 12 y residentes de la provincia de Las Palmas (fuente: catedraldecanarias.es, verificado octubre 2026). Lunes a viernes 10-18 h, sábados 10-16 h"
+    },
+    {
+      "tipo": "Casa de Colón (Las Palmas)",
+      "precio": "4 € general; 2 € reducida; domingos gratis (fuente: Tripadvisor y guías, agregadores, verificado octubre 2026). La web oficial del Cabildo no se pudo consultar"
+    },
+    {
+      "tipo": "Necrópolis de Arteara (barranco de Fataga)",
+      "precio": "4 € general; 2 € reducida (estudiantes, mayores de 65, grupos de 10 o más); gratis menores de 10 (fuente: Nomado, agregador, verificado octubre 2026)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Avistamiento de delfines en barco por la costa sur",
+      "precio": "35 € adulto; 25 € niño de 6 a 12 años; bebés gratis; con traslado en bus 4 € extra (fuente: lineassalmon.com, verificado octubre 2026). En Civitatis, versión con barco de fondo de cristal desde 40 € (verificado octubre 2026)",
+      "duracion": "Unas 2 horas",
+      "operador": "Líneas Salmón (salidas desde Puerto Rico, Puerto de Mogán, Anfi del Mar y Arguineguín) y operadores de Civitatis"
+    },
+    {
+      "actividad": "Excursión por las cumbres de Gran Canaria (Roque Nublo y pueblos del centro)",
+      "precio": "44 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "8 a 9 horas",
+      "operador": "Operadores locales vía Civitatis, con recogida en Maspalomas"
+    },
+    {
+      "actividad": "Tour de Gran Canaria al completo",
+      "precio": "49 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "9 h 50 min",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Excursión a Puerto de Mogán y su mercadillo de los viernes",
+      "precio": "22 € por persona (fuente: Civitatis, verificado octubre 2026). Por tu cuenta, guagua 4,15 € desde el Faro (fuente: guaguasglobal.com, buscador de tarifas, verificado octubre 2026)",
+      "duracion": "4 a 6 horas",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Tour por Las Palmas de Gran Canaria y la caldera de Bandama",
+      "precio": "32 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "7 a 9 horas",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Paseo en catamarán por la costa de Puerto Rico",
+      "precio": "77 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "4 h 30 min",
+      "operador": "Operadores náuticos de Puerto Rico vía Civitatis"
+    },
+    {
+      "actividad": "Bautismo de buceo",
+      "precio": "80 € por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "4 horas",
+      "operador": "Centros de buceo del sur vía Civitatis"
+    },
+    {
+      "actividad": "Tour en buggy por el interior",
+      "precio": "130 € (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "2 a 3 horas",
+      "operador": "Operadores de buggies vía Civitatis"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Guaguas de Global (líneas interurbanas)",
+      "precio": "Playa del Inglés → Faro de Maspalomas 1,40 €; Faro → Fataga 2,65 €; Faro → Puerto de Mogán 4,15 €; Faro → Tejeda 6,15 € (fuente: guaguasglobal.com, buscador de tarifas, verificado octubre 2026)",
+      "duracion": "Variable según línea",
+      "notas": "Global es la empresa interurbana de Gran Canaria. La tarifa sale de multiplicar euros por kilómetro, así que el precio cambia según la línea y el tramo. Se paga en efectivo, con tarjeta bancaria o celular sin contacto, o con tarjetas de transporte. La estación principal del sur es Faro de Maspalomas. Consultá el precio exacto en el buscador de tarifas de guaguasglobal.com"
+    },
+    {
+      "medio": "Tarjeta TransGC (monedero recargable)",
+      "precio": "Emisión 5 €; recarga mínima 10 € y máxima 100 €; bonificación del 20 % del importe (10 a 59 €), 30 % (60 a 99 €) o 40 % (100 €) (fuente: FAQ de AUTGC, junio 2026, verificado octubre 2026)",
+      "duracion": "Válida 10 años",
+      "notas": "Es la tarjeta de uso general que puede sacar cualquier persona, también un turista. Se pide en bonos.autgc.org o en la app de AUTGC. Permite transbordos: si el segundo tramo es de menos de 12 km dentro de los 30 minutos no se cobra. Conviene si vas a usar mucho la guagua. Los bonos gratuitos de tarifa plana son sólo para residentes canarios"
+    },
+    {
+      "medio": "Línea 18 de Global (Faro de Maspalomas - San Bartolomé - Tejeda)",
+      "precio": "Faro → Fataga 2,65 €; Faro → Ayacata 4,70 €; Faro → Roque Nublo 6 €; Faro → Tejeda 6,15 € (fuente: guaguasglobal.com, buscador de tarifas, verificado octubre 2026)",
+      "duracion": "Variable; horarios en guaguasglobal.com",
+      "notas": "Es la guagua que sube al centro de la isla y para en Fataga, Tunte, Ayacata y la parada Roque Nublo. Antes de salir, mirá el horario en guaguasglobal.com antes de planear la excursión y no pierdas la última de vuelta"
+    },
+    {
+      "medio": "Barco Líneas Salmón (línea regular por la costa)",
+      "precio": "Puerto Rico ↔ Puerto de Mogán o Arguineguín: 8 € ida, 14 € ida y vuelta; Puerto Rico ↔ Anfi del Mar 5 € y 8 €; Arguineguín ↔ Puerto de Mogán 15 € y 21 €. Niños de 6 a 12 años desde 3,50 €; menores de 6 gratis (fuente: lineassalmon.com, verificado octubre 2026)",
+      "duracion": "Salidas cada hora entre las 9 y las 17:45 según el tramo",
+      "notas": "No sale de Maspalomas: hay que ir en guagua hasta Puerto Rico o Arguineguín. Navega desde 1969 entre los puertos del sur y es una forma linda de ver los acantilados. Se reserva online en lineassalmon.com"
+    },
+    {
+      "medio": "Taxi y VTC",
+      "precio": "Aeropuerto → Maspalomas: promedio 52 € y máximo observado 66 € (fuente: monTransport, comparador, julio 2026, verificado octubre 2026)",
+      "duracion": "Unos 29 minutos para 37 km",
+      "notas": "Los taxis funcionan con taxímetro, sin tarifa fija, y tienen suplementos de noche (22 a 6 h), fines de semana y feriados según Aeropuertos del Mundo. Pedí que enciendan el taxímetro al arrancar. Para moverte dentro de Maspalomas, la guagua o caminar por el paseo suelen alcanzar"
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto de Gran Canaria (LPA) → Playa del Inglés / Faro de Maspalomas en guagua",
+      "empresas": "Global: línea 66 (Aeropuerto - Faro de Maspalomas, directa), línea 90 (semidirecta) y línea 36 (por Vecindario)",
+      "precio": "Aeropuerto → Playa del Inglés 3,50 €; aeropuerto → Faro de Maspalomas 4,05 € (fuente: guaguasglobal.com, buscador de tarifas, verificado octubre 2026)",
+      "duracion": "Unos 25 minutos por la GC-1 en auto según Wikipedia; la guagua suma las paradas en San Agustín y Playa del Inglés"
+    },
+    {
+      "ruta": "Aeropuerto de Gran Canaria (LPA) → Maspalomas en taxi o traslado",
+      "empresas": "Taxis de la parada del aeropuerto; traslados privados como Transfeero",
+      "precio": "Taxi: promedio 52 € (fuente: monTransport, julio 2026, verificado octubre 2026). Traslado privado desde 79,30 € (fuente: Transfeero, julio 2026, verificado octubre 2026)",
+      "duracion": "Unos 29 a 30 minutos"
+    },
+    {
+      "ruta": "Las Palmas de Gran Canaria → Maspalomas en guagua",
+      "empresas": "Global: línea 50 (San Telmo - Faro, directa), línea 30 (Santa Catalina - San Telmo - Faro, directa), línea 5 (San Telmo - Vecindario - Faro) y línea 1 hacia Puerto de Mogán",
+      "precio": "San Telmo → Faro de Maspalomas 6,15 €; Santa Catalina → Playa del Inglés 6,25 € (fuente: guaguasglobal.com, buscador de tarifas, verificado octubre 2026)",
+      "duracion": "Unos 45 minutos en auto por la GC-1 según Wikipedia; la directa tarda algo más con paradas"
+    },
+    {
+      "ruta": "Tenerife → Gran Canaria en ferry y luego guagua al sur",
+      "empresas": "Fred. Olsen Express (Santa Cruz de Tenerife - Agaete) y Naviera Armas (Santa Cruz de Tenerife - Las Palmas); desde Las Palmas, líneas 30 o 50 de Global",
+      "precio": "Ferry desde 49,17 € con Fred. Olsen y desde 68,57 € con Naviera Armas (fuente: Ferryhopper, agregador, verificado octubre 2026) + guagua 6,15 € desde San Telmo (fuente: guaguasglobal.com, buscador de tarifas, verificado octubre 2026)",
+      "duracion": "Ferry de 1 h 20 min a 1 h 40 min, más el traslado hasta el sur"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Económico (hostales y habitaciones simples)",
+      "nivel": 2,
+      "opciones": "Hostal Poseidón desde 52 € la noche; Apartamentos Marinasol desde 70 €; Doramas Private Rooms (baño compartido) en Playa del Inglés desde 72 €; Bungalows Rebecca Park desde 89 € (fuente: Kayak, búsqueda para el 17-18 de octubre, verificado octubre 2026). Playa del Inglés es la zona más barata: Kayak da marzo como su mes más económico (90 € de media) y diciembre como el más caro (181 €)"
+    },
+    {
+      "categoria": "Intermedio en Playa del Inglés y San Agustín (apartamentos y tres estrellas)",
+      "nivel": 3,
+      "opciones": "Servatur Playa Bonita desde 100 € la noche; Abora Buenaventura by Lopesan 103 €; Hotel Europalace 106 €; Axelbeach Maspalomas (sólo adultos) 113 € (fuente: Kayak, verificado octubre 2026). Tener cocina te ahorra mucho en comidas. Kayak indica que el martes es el día más barato y el sábado el más caro"
+    },
+    {
+      "categoria": "Cuatro estrellas entre Playa del Inglés, Campo Internacional y el Faro",
+      "nivel": 4,
+      "opciones": "Kayak calcula unos 146 € la noche de promedio para un cuatro estrellas en Maspalomas. Ejemplos: Relaxia Beverly Park desde 156 €, Abora Continental by Lopesan 174 €, Hotel HL Rondo desde 183 € (fuente: Kayak, verificado octubre 2026). Para hombres gay hay hoteles exclusivos con muy buena nota, como Atlantic Sun Beach desde 199 €. Febrero es el mes más caro de Maspalomas según Kayak"
+    },
+    {
+      "categoria": "Lujo en Meloneras y frente a las dunas",
+      "nivel": 5,
+      "opciones": "Hotel Riu Palace Meloneras desde 313 €; Hotel Faro, a Lopesan Collection Hotel (sólo adultos) desde 279 €; Lopesan Baobab Resort desde 343 €; Paradisus Gran Canaria en San Agustín desde 474 € la noche (fuente: Kayak, verificado octubre 2026). Kayak calcula 260 € de promedio para un cinco estrellas en Maspalomas"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Menú del día al mediodía (la opción más barata para comer sentado)",
+      "nivel": 1,
+      "opciones": "Al mediodía muchos restaurantes de Maspalomas y Puerto de Mogán ofrecen menú del día de entre 10 y 14 € según el local; de noche los precios suben, sobre todo en Meloneras (fuente: Teneriffa News, guía de restaurantes, agregador, verificado octubre 2026). Se come entre las 14 y las 16 h. Las mismas guías aconsejan subir a San Bartolomé de Tirajana para comer más barato y más canario"
+    },
+    {
+      "tipo": "Papas arrugadas con mojo (el plato canario básico)",
+      "nivel": 2,
+      "opciones": "Papas chiquitas hervidas con mucha sal, con mojo picón (rojo, de pimienta) o verde (de cilantro). En Rincón Canario, en el Edificio del Águila de Maspalomas, figuraban a 5 € con un precio medio de 35 € por persona (fuente: carta en TheFork, datos de 2022, verificado octubre 2026); en Alma Gaia, papas negras con mojo de almendras a 10,50 € (fuente: RestaurantGuru, agregador, verificado octubre 2026). Probá también el queso canario asado con mojo y el gofio"
+    },
+    {
+      "tipo": "Degustación de productos canarios (quesos, mojos, ron y vinos)",
+      "nivel": 3,
+      "opciones": "Si querés probar varias cosas de la isla en un día, el tour gastronómico por Gran Canaria con salida desde Maspalomas cuesta 69 € por persona y dura de 6 a 8 horas (fuente: Civitatis, verificado octubre 2026). En la montaña, Casa Melo en Ayacata (sobre la ruta de la línea 18) es conocido por su carne de cabra según elDiario.es; La Nueva Casa Vieja, sobre la GC-60, sirve parrilla y ropa vieja canaria con precios 'razonables' según Gastroranking"
+    },
+    {
+      "tipo": "Alta cocina con estrella Michelin",
+      "nivel": 4,
+      "opciones": "Los Guayres, en el hotel Cordial Mogán Playa de Puerto de Mogán, tiene una estrella Michelin y cocina española moderna en la franja de precio más alta de la guía (€€€€); Gastroranking lo ubica en más de 100 € por persona y una reseña de diciembre de 2025 cita 160 € el menú de Nochebuena más 90 € de maridaje (fuente: Guía Michelin y Gastroranking, verificado octubre 2026). Reservá con tiempo"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa para ir a Gran Canaria?",
+      "a": "No, si tenés pasaporte de Argentina, Uruguay, Chile, México, Colombia o Perú y viajás como turista por hasta 90 días dentro de cualquier período de 180 en el espacio Schengen. Canarias es España y forma parte de Schengen. Desde el 10 de abril de 2026 el EES funciona en todas las fronteras externas: en el primer control te registran huellas y foto en vez del sello. Si llegás con escala en Madrid u otra ciudad Schengen, ese control lo hacés ahí y en Gran Canaria llegás como vuelo nacional. El ETIAS, la autorización online de 20 €, todavía no se pide: la UE lo postergó y se espera para 2027. No pagues en webs que dicen tramitarlo. Llevá pasaje de vuelta, reserva y seguro médico."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse en Maspalomas?",
+      "a": "Con cinco o seis días hacés lo principal sin correr. Una mañana para las dunas, la charca y el Faro, y la tarde en el paseo de Meloneras. Un día para el Roque Nublo y Fataga con la línea 18 de Global. Medio día para Puerto de Mogán (mejor en barco desde Puerto Rico) y otro medio para ver delfines. Un día para Las Palmas: Vegueta, la Catedral y Las Canteras. Si viajás con chicos, sumá un día para Palmitos Park o Aqualand. El resto, playa. Con una semana o más podés agregar una escapada en ferry a Tenerife."
+    },
+    {
+      "q": "¿Puedo caminar libremente por las dunas?",
+      "a": "No. Las Dunas de Maspalomas son una Reserva Natural Especial y sólo se puede andar por los senderos señalizados: el Cabildo marcó cinco recorridos y avisa que no se puede caminar por ningún otro lado. Tampoco se acampa ni se arman refugios con piedras o plantas. En 2023 el Cabildo puso 120 multas en siete meses, la mayoría de 150 €, y en 2026 sumó drones, cámaras y un megáfono para avisar a quien se mete en zonas prohibidas, sobre todo al atardecer. Desde los senderos ves todo igual. Las visitas guiadas gratuitas para grupos se reservan por teléfono con el Cabildo."
+    },
+    {
+      "q": "¿Me conviene alquilar auto o moverme en guagua?",
+      "a": "Para Maspalomas no hace falta auto: las playas y el Faro se unen por el paseo y la guagua de Global entre Playa del Inglés y el Faro cuesta 1,40 €. Para excursiones también alcanza: la línea 18 sube a Fataga y al Roque Nublo, las 30 y 50 van a Las Palmas, y las 32, 33 y 1 a Puerto de Mogán. Se paga en efectivo o con tarjeta sin contacto. El auto suma si querés recorrer el centro y el oeste de la isla a tu ritmo, pero ojo: en el Roque Nublo se eliminó el estacionamiento de La Goleta y el más cercano queda a una hora a pie."
+    },
+    {
+      "q": "¿Es seguro Maspalomas?",
+      "a": "Es una zona turística grande, con familias, jubilados europeos y servicios por todos lados. Los riesgos que más conviene tener en cuenta son naturales. En la playa, respetá las banderas y nadá donde hay socorristas. En las dunas, el calor: llevá agua, gorra y calzado, y no te alejes de los senderos. En la montaña, el frío y el viento del Roque Nublo. En la calle, lo de siempre: no dejes cosas sueltas en la arena ni a la vista en el auto. Si tenés una emergencia, llamá al 112, el número único europeo."
+    },
+    {
+      "q": "¿Cuándo es más barato ir?",
+      "a": "Según Kayak, en Maspalomas septiembre es el mes más barato para dormir, con un promedio de 160 € la noche, y febrero el más caro, con 239 €, porque el invierno europeo llena los hoteles. En Playa del Inglés la diferencia es aún más clara: 90 € de media en marzo contra 181 € en diciembre. El miércoles es el día con tarifas más bajas y el sábado el más caro. Para ahorrar en el día a día: elegí apartamento con cocina, comé menú del día al mediodía y aprovechá que las playas, las dunas, la charca y el centro etnográfico del Faro son gratis."
+    },
+    {
+      "q": "¿Hace falta reservar para subir al Roque Nublo?",
+      "a": "Sí, si entrás entre las 9 y las 17 h por la Degollada de La Goleta. La reserva se hace en reservasroquenublo.com indicando día, hora y número de personas; el cupo es de 60 personas por hora para particulares y la confirmación llega por correo. Fuera de ese horario no hace falta reservar. Conviene sacarla con días o semanas de anticipación. Desde Maspalomas, la línea 18 de Global para en la parada Roque Nublo (6 € desde el Faro). El sendero hasta la base tiene unos 2,5 km y lleva unos 40 minutos. Las multas por incumplir las normas van de 100 a 3.000 €."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Maspalomas»: https://es.wikipedia.org/wiki/Maspalomas",
+      "Wikipedia (ES) — «San Bartolomé de Tirajana»: https://es.wikipedia.org/wiki/San_Bartolom%C3%A9_de_Tirajana",
+      "Wikipedia (ES) — «Las Palmas de Gran Canaria»: https://es.wikipedia.org/wiki/Las_Palmas_de_Gran_Canaria",
+      "INE — «Población por municipios y sexo: Palmas, Las»: https://www.ine.es/jaxiT3/Tabla.htm?t=2889",
+      "CanariWiki (Gobierno de Canarias) — «Dunas de Maspalomas»: https://www3.gobiernodecanarias.org/medusa/wiki/index.php?title=Dunas_de_Maspalomas"
+    ],
+    "que_ver_atracciones": [
+      "Turismo de Gran Canaria — «Maspalomas»: https://www.grancanaria.com/turismo/es/playas/maspalomas/",
+      "Turismo de Gran Canaria — «Dunas de Maspalomas»: https://www.grancanaria.com/turismo/es/naturaleza/espacios-naturales/listado/espacio-natural/?id_recurso_natural=11",
+      "Cabildo de Gran Canaria — «Uso público dunas»: https://cabildo.grancanaria.com/dunas/uso-publico",
+      "Cabildo de Gran Canaria — «El Cabildo impone 120 sanciones por transitar y acampar en zonas protegidas de las Dunas de Maspalomas»: https://cabildo.grancanaria.com/w/el-cabildo-impone-120-sanciones-por-transitar-y-acampar-en-zonas-protegidas-de-las-dunas-de-maspalomas-entre-enero-y-julio-de-este-2023",
+      "RTVC — «Las Dunas de Maspalomas, bajo presión por el acceso de visitantes a zonas protegidas»: https://rtvc.es/dunas-maspalomas-acceso-visitantes-zonas-protegidas-7-julio-2026/",
+      "¡HOLA! Viajes — «La playa de Gran Canaria donde las dunas crean el paisaje más espectacular de España»: https://www.hola.com/viajes/20260728914680/playa-maspalomas-gran-canaria-como-visitar/",
+      "elDiario.es — «Horario para subir al Roque Nublo: cuándo se puede acceder y cómo reservar la visita»: https://www.eldiario.es/canariasahora/sociedad/horario-subir-roque-nublo-acceder-reservar-visita_1_13415122.html",
+      "Wikipedia (ES) — «Monumento natural del Roque Nublo»: https://es.wikipedia.org/wiki/Roque_Nublo",
+      "Wikipedia (ES) — «Palmitos Park»: https://es.wikipedia.org/wiki/Palmitos_Park",
+      "Wikipedia (ES) — «Puerto de Mogán»: https://es.wikipedia.org/wiki/Puerto_de_Mog%C3%A1n",
+      "Wikipedia (ES) — «Fataga»: https://es.wikipedia.org/wiki/Fataga",
+      "Turismo de Gran Canaria — «Arteara necropolis»: https://grancanaria.com/turismo/en/culture/archaeological-sites/arteara-necropolis",
+      "Holiday World Maspalomas — «Horarios»: https://www.holidayworldmaspalomas.com/horarios/"
+    ],
+    "precios_2026": [
+      "Palmitos Park — «Precios»: https://palmitospark.es/precios/",
+      "Palmitos Park — «Horarios»: https://palmitospark.es/tu-visita/horarios/",
+      "Aqualand Maspalomas — «Tickets»: https://www.aqualand.es/maspalomas/tickets/",
+      "Aqualand Maspalomas — «Horarios»: https://www.aqualand.es/maspalomas/horarios/",
+      "Catedral de Canarias — «Horarios catedral, torre y museo de arte sacro»: https://catedraldecanarias.es/horarios-catedral-torre-y-museo-arte-sacro/",
+      "Líneas Salmón — «Línea regular»: https://www.lineassalmon.com/linea-regular",
+      "Líneas Salmón — «Excursión delfines»: https://www.lineassalmon.com/excursion-delfines",
+      "Civitatis — «Excursiones y actividades en Maspalomas»: https://www.civitatis.com/es/maspalomas/",
+      "Atrápalo (revendedor) — «Holidayworld Maspalomas Center - Wooland»: https://www.atrapalo.com/entradas/holidayworld-maspalomas-center-wooland_e4945046/",
+      "Nomado (guía de viaje, agregador) — «Faro de Maspalomas: El emblema en el extremo de las dunas»: https://www.nomadotravel.app/es/attractions/maspalomas-lighthouse",
+      "Nomado (guía de viaje, agregador) — «Necrópolis de Arteara»: https://www.nomadotravel.app/es/attractions/arteara-necropolis"
+    ],
+    "como_llegar_transporte": [
+      "Global — «Tarifas y Tarjetas»: https://guaguasglobal.com/tarifas/",
+      "Global — «Buscador de Tarifas»: https://guaguasglobal.com/buscador-tarifas/",
+      "AUTGC (Transporte de Gran Canaria) — «FAQ bonos y tarjetas»: https://autgc.org/wp-content/uploads/2026/06/FAQ_AUTGC-v2.pdf",
+      "Palmitos Park — «Cómo llegar»: https://palmitospark.es/tu-visita/como-llegar/",
+      "Aqualand Maspalomas — «Cómo llegar»: https://www.aqualand.es/maspalomas/como-llegar/",
+      "monTransport (comparador) — «Taxi Aeropuerto de Gran Canaria»: https://montransport.com/es/taxi/espana/las-palmas/aeropuerto-de-gran-canaria",
+      "Transfeero — «Traslado privado Aeropuerto Gran Canaria a Maspalomas»: https://www.transfeero.com/es/traslados-aeropuerto-de-gran-canaria-lpa/traslado-desde-aeropuerto-de-gran-canaria-a-playa-maspalomas/",
+      "Aeropuertos del Mundo — «Traslados a la ciudad y alrededores - Aeropuerto de Gran Canaria (LPA)»: https://www.aeropuertosdelmundo.net/aeropuerto-LPA-transporte",
+      "Ferryhopper (agregador) — «Ferry de Gran Canaria a Tenerife»: https://www.ferryhopper.com/es/ferry-routes/direct/ferry-gran-canaria-tenerife"
+    ],
+    "visados_entrada": [
+      "eucrim — «Entry/Exit System (EES) Fully Operational Since 10 April 2026»: https://eucrim.eu/news/entryexit-system-ees-fully-operational-since-10-april-2026/",
+      "InsideFlyer — «EU postpones ETIAS travel authorization to 2027»: https://insideflyer.com/posts/eu-postpones-etias-travel-authorization-to-2027/"
+    ],
+    "alojamiento_gastronomia": [
+      "Kayak — «Hoteles en Maspalomas»: https://www.kayak.es/Hoteles-en-Maspalomas.45860.hotel.ksp",
+      "Kayak — «Hoteles en Playa del Inglés, Maspalomas»: https://www.kayak.es/Hoteles-en-Maspalomas_Playa-del-Ingles.N230690.45860.hotel.ksp",
+      "Kayak — «Hoteles de lujo en Maspalomas»: https://www.kayak.es/Hoteles-en-Maspalomas_Lujo.Hlu.45860.hotel.ksp",
+      "TheFork — «Carta de Rincón Canario en Maspalomas»: https://www.thefork.es/restaurante/rincon-canario-r604937/menu",
+      "RestaurantGuru (agregador) — «Carta de Restaurante Alma Gaia, Maspalomas»: https://es.restaurantguru.com/Alma-Gaia-Maspalomas/menu",
+      "Guía Michelin — «Los Guayres»: https://guide.michelin.com/sg/en/canarias/mogan/restaurant/los-guayres",
+      "Gastroranking (agregador) — «Los Guayres en Mogán»: https://gastroranking.es/r/los-guayres_28967",
+      "elDiario.es — «17 propuestas para comer bueno, bonito y barato en Gran Canaria (2016)»: https://www.eldiario.es/canariasahora/viajarahora/restaurante-barato-cocina-tradicional-cheap-restaurant-gran-canaria-islas-canarias-guia-cocina-tradicional-buen-precio-oferta-las-palmas-lagunetas-triana-gofio-churros-pescado-canaria-gastronomia-carne-cabra-cabrito-potaje-frito-pescado-fresco-boya-arguineguin-castillo-romeral-david-cordero-josefina-mejores-platos-perola-agaete-laguete-artenara-esquina-melo-ayacata-mi-mar-ingenio-guayadeque-cueva-centro-bernardino-la-caldera-pollos-asados-brasas-firgas-puertillo-banaderos-pulpo-croquetas-perera-hermanos-monzon-valsequillo-caracoles-bandama-costillas-conejo-salmorejo-berros_1_5960012.html",
+      "Gastroranking (agregador) — «La Nueva Casa Vieja en San Bartolomé de Tirajana»: https://gastroranking.es/r/la-nueva-casa-vieja_175550/",
+      "Teneriffa News (guía, agregador) — «Restaurants in Maspalomas»: https://www.teneriffa-news.com/en/restaurant-en/gran-canaria/maspalomas/restaurants"
+    ]
+  }
+}
