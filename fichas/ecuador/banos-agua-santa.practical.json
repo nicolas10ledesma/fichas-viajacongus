@@ -1,0 +1,628 @@
+{
+  "slug": "banos-agua-santa",
+  "name": "Baños de Agua Santa",
+  "region": "Tungurahua",
+  "lat": -1.3964,
+  "lon": -78.4247,
+  "datosRapidos": [
+    {
+      "label": "Provincia",
+      "value": "Baños de Agua Santa (casi todos le dicen sólo Baños) es la cabecera del cantón Baños, en la provincia de Tungurahua, en el centro de la sierra ecuatoriana. Queda a 1.820 metros de altura, encajonada entre el río Pastaza, el río Bascún y las faldas del volcán Tungurahua, que se levanta a unos 8 km de la ciudad según el Instituto Geofísico de la Escuela Politécnica Nacional (IG-EPN). Según el Censo de Población y Vivienda 2022 del INEC, la ciudad tiene 14.100 habitantes y el cantón entero 21.908; es la segunda ciudad de Tungurahua después de Ambato. Se la conoce por tres cosas. Primero, por sus aguas termales de origen volcánico, que le dan el nombre y que el municipio administra en seis balnearios públicos. Segundo, por ser la 'puerta de entrada a la Amazonía': la carretera que baja hacia Puyo sigue el cañón del Pastaza y pasa junto a decenas de cascadas, entre ellas el Pailón del Diablo. Tercero, por el santuario de la Virgen del Rosario de Agua Santa, centro de peregrinación católica con fiesta grande en octubre. Hoy vive del turismo de aventura: rafting, puenting, canopy, bicicleta y columpios sobre el vacío, como el de la Casa del Árbol en Runtún, a más de 2.600 metros, con el volcán de fondo"
+    },
+    {
+      "label": "Moneda",
+      "value": "Ecuador usa el dólar estadounidense (US$) como moneda propia, así que no hay que cambiar nada si llegás con dólares. Los billetes chicos (1, 5, 10 y 20) son los más útiles: las termas cobran entre US$ 2 y US$ 6, la Casa del Árbol US$ 1 y el colectivo urbano US$ 0,30, y en esos lugares no siempre hay cambio para billetes grandes. Los argentinos, chilenos, colombianos, peruanos, uruguayos y mexicanos tienen que comprar dólares antes o sacar del cajero; la Prefectura de Tungurahua indica que en la terminal terrestre de Baños hay agencias bancarias y cajeros automáticos"
+    },
+    {
+      "label": "Ciudad de servicio",
+      "value": "Baños tiene todo lo necesario: hoteles para todos los presupuestos, agencias de aventura y la Terminal Terrestre Profesor Jorge Viteri Guevara, la única terminal interprovincial de la ciudad, a 5-15 minutos a pie de casi cualquier hotel. No tiene aeropuerto: se llega en bus desde Quito (terminales Quitumbe y Carcelén, unas 3 horas), desde Ambato (una hora) o desde Guayaquil (unas 5 horas). Ambato, a 40 km, es la capital provincial y la ciudad grande más cercana para trámites, hospitales de mayor complejidad y conexiones. Hacia el oriente, Puyo (provincia de Pastaza) queda a poco más de una hora por la Ruta de las Cascadas"
+    },
+    {
+      "label": "Visado",
+      "value": "Argentinos, uruguayos, chilenos, colombianos y peruanos pueden entrar a Ecuador como turistas con su documento nacional de identidad vigente o con pasaporte; el Ministerio del Interior lista también a brasileños, paraguayos, bolivianos, guyaneses y surinameses. Los mexicanos no figuran entre las nacionalidades que piden visa, pero entran con pasaporte, que debe tener seis meses de vigencia. Venezolanos y cubanos sí necesitan visa. La estadía de turista es de hasta 90 días por año, prorrogable una vez; la guía oficial de trámites indica que los sudamericanos tienen una autorización de hasta 180 días"
+    }
+  ],
+  "intro": [
+    "Baños es de esos pueblos donde el paisaje te queda encima. Las calles terminan contra paredes verdes casi verticales, una cascada cae a la vista desde el centro y de noche el Tungurahua, un volcán de 5.020 metros, está ahí atrás aunque no lo veas. La ciudad es chica, se camina entera en una tarde, y aun así tiene para llenar cuatro o cinco días sin repetir: termas, cascadas, miradores, puentes colgantes y una carretera que baja de la sierra a la selva en una hora.",
+    "Para el que viaja con poca plata, Baños rinde mucho. Las piscinas termales municipales cuestan US$ 4 por adulto, el Pailón del Diablo entre US$ 3 y US$ 5 según la entrada que elijas, y un almuerzo de comedor ronda los US$ 2,50 a 3,50. Se alquila una bicicleta, se baja por la Ruta de las Cascadas hasta Río Verde y se vuelve en camioneta o en bus. El gasto fuerte está en la aventura: rafting, puenting o una excursión a la Amazonía.",
+    "También es un lugar con historia de fe y de susto. El santuario de la Virgen del Rosario de Agua Santa recibe peregrinos desde hace siglos y cada octubre la ciudad sale a la calle. Y el volcán marcó a todos: en 1999 la población fue evacuada por completo y la actividad eruptiva siguió hasta 2016. Hoy el Instituto Geofísico lo describe en reposo, con actividad sísmica baja, y Baños volvió a ser lo que fue siempre: un pueblo de baños calientes al borde del Oriente."
+  ],
+  "historia_corta": "El valle donde hoy está Baños se llamaba Ipo en lengua puruhá. Según la historia que publica el propio municipio, la ciudad no tuvo fundador ni fecha de fundación: se fue poblando con grupos dispersos de panzaleos, puruháes e indígenas del Oriente, y luego con españoles y mestizos que comerciaban entre la selva y la sierra. En 1919 se encontraron en las cuevas de San Pedro 44 cráneos y objetos de piedra y barro. Hacia 1585 el cacicazgo de Ipo pasó al presbítero Álvaro Guerrero Zalamea, a quien se atribuye el inicio del culto a la Virgen y la primera ermita. Una crónica de 1604 ya habla del 'Asiento de los Baños', con dos fuentes de agua, una caliente y una fría, al pie de una cascada. El 4 de febrero de 1773 se produjo la primera erupción del Tungurahua descrita históricamente, y entre 1916 y 1920 hubo otro ciclo eruptivo. Entre 1887 y 1909 el sacerdote belga Tomás Halflants, que también hizo de alcalde, trazó calles, levantó puentes y el 11 de febrero de 1904 inició la basílica, terminada en 1944. El 16 de diciembre de 1944 Baños se convirtió en cantón. El terremoto de Ambato del 5 de agosto de 1949 destruyó casi todos los edificios. En 1999 el Tungurahua se reactivó y la ciudad fue evacuada por completo; el período eruptivo, con grandes episodios en 2006, duró hasta la erupción de febrero de 2016. En 2018 el IG-EPN dejó de catalogarlo como 'en erupción'. Desde entonces Baños se consolidó como capital del turismo de aventura del Ecuador.",
+  "queVer": [
+    {
+      "nombre": "Pailón del Diablo (Cascada Río Verde)",
+      "desc": "Una cascada de unos 80 metros que cae en una olla de roca, con puentes colgantes y un sendero que pasa casi debajo del agua.",
+      "detalle": "El Pailón del Diablo es la cascada más visitada de la zona y forma parte del Geoparque Volcán Tungurahua. La forma el río Verde, que cae unos 80 metros y se junta con el Pastaza. El nombre viene de la roca bajo la caída: hay quien ve el rostro de un diablo recostado, y la mejor vista para buscarlo es desde el puente colgante.\n\nQueda en la parroquia Río Verde, en el km 17 de la vía Baños–Puyo, y hay dos accesos privados distintos. La entrada principal, junto a la iglesia de Río Verde cruzando el puente vehicular, es la de la 'Grieta al Cielo' y los puentes colgantes: según la Prefectura tiene una ruta corta de unos 5 minutos de caminata y una larga de unos 20, que te lleva detrás de la cascada por pasos estrechos y mojados. La otra, Cascada El Pailón, arranca frente a la cancha de fútbol del pueblo y tiene miradores, puentes y recorrido nocturno con luces.\n\nEl sendero tiene escalones de roca y zonas resbaladizas: no es apto para movilidad reducida ni cochecitos. Llevá zapatillas con buen agarre y campera impermeable, porque el rocío moja. Se llega en bus hacia Puyo, en chiva, en taxi o bajando en bicicleta por la Ruta de las Cascadas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "17 km de Baños por la vía a Puyo (parroquia Río Verde)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; temprano hay menos gente"
+        },
+        {
+          "label": "Entrada",
+          "value": "Entrada principal (Grieta al Cielo): US$ 5 adultos, US$ 2 niños; abre todos los días 8 a 22 h (fuente: tungurahuaturismo.com, portal del Gobierno Provincial de Tungurahua, consultado octubre 2026). Acceso Cascada El Pailón: US$ 3 adultos de día, US$ 4 después de las 18 h, US$ 2 niños y mayores de 65, gratis menores de 4 (fuente: cascadaelpailon.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas para la visita completa"
+        }
+      ]
+    },
+    {
+      "nombre": "Ruta de las Cascadas (vía Baños–Puyo)",
+      "desc": "Los 60 km de carretera que bajan por el cañón del Pastaza de la sierra a la Amazonía, con decenas de cascadas a los costados.",
+      "detalle": "La Ruta de las Cascadas es el tramo de la carretera entre Baños y Puyo que sigue el cañón del río Pastaza. La Prefectura de Tungurahua cuenta más de 60 cascadas de distintos tamaños a lo largo del camino, y en el trayecto se nota cómo cambia la vegetación de la sierra a la selva: Baños está a 1.820 metros y Puyo a 924.\n\nEl recorrido clásico sale de Baños, pasa la represa y la cascada de Agoyán, atraviesa túneles con agua que cae del techo y sigue hacia el Manto de la Novia, donde hay tarabitas (cabinas metálicas colgadas de cables) y un puente colgante. Después vienen Río Verde y el Pailón del Diablo. Más adelante aparecen las cascadas Inés María, Chamana y otras.\n\nLa forma más popular de hacerla es en bicicleta alquilada en Baños: la Prefectura la califica de dificultad baja, unos 59,4 km hasta Puyo y alrededor de 4 horas. Casi todos llegan sólo hasta Río Verde y vuelven en las camionetas que esperan con portabicicletas. También se puede hacer en chiva (bus abierto) o en taxi con paradas. Ojo con los túneles: algunos tienen desvíos para ciclistas por la vía antigua, y conviene usarlos.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Arranca en Baños; Río Verde está en el km 17 y Puyo a unos 60 km"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañana con menos tránsito"
+        },
+        {
+          "label": "Entrada",
+          "value": "La ruta es gratis; se paga cada atracción. Alquiler de bicicleta por 8 horas: US$ 12 (fuente: Civitatis, verificado octubre 2026); la Prefectura estima paquetes de ciclismo de US$ 10 a 15 según operadora (fuente: tungurahuaturismo.com, portal del Gobierno Provincial de Tungurahua, consultado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día hasta Río Verde; día completo hasta Puyo"
+        }
+      ]
+    },
+    {
+      "nombre": "Casa del Árbol y Columpio del Fin del Mundo (Runtún)",
+      "desc": "Una casita en un árbol frente al Tungurahua, a 2.600 metros, con columpios que te lanzan sobre el vacío.",
+      "detalle": "La Casa del Árbol es el mirador más famoso de Baños. Está en el caserío Runtún, en las faldas del Tungurahua, a unos 2.660 metros de altura según la Prefectura. Empezó como puesto de vigilancia: desde 1999 Carlos Sánchez, vecino del lugar, observa el volcán y se comunica por radio con la estación geofísica y el COE cantonal. Al lado del árbol cuelga el 'Columpio del Fin del Mundo', que se balancea sobre la ladera.\n\nHoy el complejo tiene varios columpios, senderos, zona de camping y un pequeño restaurante con jugos, café, empanadas y choclo con queso. Si el día está despejado, la vista del cono del Tungurahua es la mejor de la zona; si está nublado, no se ve nada, así que conviene subir temprano. También hay filas largas en el columpio principal los fines de semana.\n\nSe llega en auto subiendo unos 11 km por la vía a Runtún (hay estacionamiento pago), en el bus de la cooperativa Luna Sánchez que sale a una cuadra del Mercado Central, o en chiva. Llevá campera: arriba hace frío y el clima cambia rápido. Atá el celular con correa si vas a filmar desde el columpio.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 11 km de Baños por la vía a Runtún (45 minutos)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano, con cielo despejado"
+        },
+        {
+          "label": "Entrada",
+          "value": "US$ 1 adultos; niños hasta 8 años US$ 0,50; menores de 4 gratis. Lunes a viernes 8:30 a 18:30; fines de semana y feriados 7:30 a 19:00 (fuente: tungurahuaturismo.com, portal del Gobierno Provincial de Tungurahua, consultado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas con el traslado"
+        }
+      ]
+    },
+    {
+      "nombre": "Termas de la Virgen y Cascada Cabellera de la Virgen",
+      "desc": "Las piscinas termales que le dan nombre a Baños, al pie de una cascada en pleno centro, administradas por el municipio.",
+      "detalle": "Las Termas de la Virgen están en el centro de Baños, en Luis A. Martínez y Manuel Sánchez, al pie de la Cascada Cabellera de la Virgen, que cae desde la montaña a la vista de toda la ciudad. Son el origen del pueblo: una crónica de 1604 ya describe dos fuentes, una caliente y una fría, donde se bañaban indígenas y españoles.\n\nEl municipio las divide en tres complejos con horarios distintos. La Virgen Antigua son las piscinas clásicas de agua sulfatada amarillenta, más calientes y terapéuticas, abiertas todos los días de 5 a 21:30. Las Termas de la Virgen Recreativas tienen piletas al aire libre, toboganes y jardines, pensadas para familias. La Fase 2 abre de tarde y noche, con juegos de agua.\n\nEs obligatorio usar traje de baño y gorro de natación, que se pueden comprar en el lugar; tampoco hay toallas ni ojotas, así que llevá las tuyas. El mejor momento es a las 5 de la mañana o entre semana: los fines de semana y feriados hay mucha más gente, según la Prefectura. Si vas de noche, la Virgen Antigua abre hasta las 21:30.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Baños, a pocas cuadras de la plaza principal"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Temprano a la mañana o de noche, entre semana"
+        },
+        {
+          "label": "Entrada",
+          "value": "Virgen Antigua: US$ 4 adultos, US$ 2 niños, tercera edad y personas con discapacidad (lunes a domingo 5:00-21:30). Recreativas: US$ 6 y US$ 3 (viernes a domingo y feriados 9:00-17:00). Fase 2: US$ 6 y US$ 3 (viernes a domingo y feriados 13:00-21:00) (fuente: afiches oficiales del GAD Municipal de Baños en municipiobanos.gob.ec, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Termas El Salado",
+      "desc": "Piscinas termales municipales a las afueras, en un entorno más natural, con agua volcánica y pileta fría.",
+      "detalle": "Las Termas El Salado están sobre la avenida El Salado, a unos 2 km del centro, junto al río Bascún. Son piscinas municipales de agua termal sulfatada de origen volcánico, con una pileta fría para alternar temperaturas. Según la Cámara de Turismo de Baños, el agua brota a entre 52 y 54 °C y se enfría en las piletas.\n\nEs la alternativa a la Virgen para quien quiere algo menos urbano: alrededor hay vegetación y montaña, y el ambiente es más tranquilo, sobre todo de mañana. Desde las termas sale un sendero hacia Nahuazo que pasa por el río Bascún y el barrio Las Ilusiones, para combinar baño y caminata.\n\nSe llega caminando (unos 25-30 minutos), en el bus que sale de la calle Rocafuerte, detrás del Mercado Central, o en taxi. Como en todas las termas municipales, el gorro de baño es obligatorio. El afiche oficial del municipio indica horario corrido de 5 a 21 h, pero la Cámara de Turismo publica un corte al mediodía para limpieza: si vas de tarde, preguntá antes. Los otros dos balnearios municipales son Santa Clara (pileta semiolímpica, sábados, domingos y feriados) y Santa Ana (viernes a domingo).",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 2 km del centro, sobre la avenida El Salado"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano; entre semana"
+        },
+        {
+          "label": "Entrada",
+          "value": "US$ 4 adultos; US$ 2 niños, tercera edad y personas con discapacidad; lunes a domingo 5:00-21:00 (fuente: afiches oficiales del GAD Municipal de Baños en municipiobanos.gob.ec, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Basílica de Nuestra Señora del Rosario de Agua Santa",
+      "desc": "El santuario neogótico de piedra oscura que es centro de peregrinación y guarda los cuadros de los milagros de la Virgen.",
+      "detalle": "La basílica es el edificio más reconocible de Baños: una iglesia de estilo neogótico de piedra oscura con torres blancas, frente al Parque Sebastián Acosta, en la calle Ambato. La empezó el párroco belga Tomás Halflants el 11 de febrero de 1904 y se terminó en 1944. Por dentro tiene tres naves con arcos ojivales y una serie de lienzos de fray Enrique Mideros que narran los milagros atribuidos a la Virgen de Agua Santa, patrona de la ciudad.\n\nPara los baneños es también un refugio: la Prefectura recuerda que durante las erupciones del Tungurahua la gente se refugiaba en el santuario. Al costado izquierdo hay una pileta con agua de vertiente, un adoratorio con velas y fotos de promesas, y la gruta donde está la imagen de la Virgen. Dentro funciona el Museo Fray Enrique Mideros, con prendas donadas a la Virgen, pinturas y una colección de animales embalsamados.\n\nTodo octubre es la fiesta de la Virgen: procesiones, música en la calle y guarapo. Si vas en esas semanas, reservá alojamiento con tiempo. Es un templo activo: respetá las misas y vestite acorde.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Baños, calle Ambato frente al Parque Sebastián Acosta"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Octubre para la fiesta; cualquier día para visitarla"
+        },
+        {
+          "label": "Entrada",
+          "value": "No encontramos tarifa publicada para entrar al templo. Museo Fray Enrique Mideros: US$ 1,50 adultos, US$ 0,75 niños (fuente: tungurahuaturismo.com, portal del Gobierno Provincial de Tungurahua, consultado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 a 60 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Manto de la Novia, tarabita y puente colgante",
+      "desc": "Una cascada blanca de unos 40 metros que se mira desde una tarabita sobre el cañón o desde un puente colgante sobre el Pastaza.",
+      "detalle": "El Manto de la Novia es una cascada de una sola caída de unos 40 metros, formada por el río Chinchín, que se desploma sobre el cañón del Pastaza en la parroquia Río Verde. El nombre viene de la blancura del agua, que de lejos parece un velo. Es una de las paradas obligadas de la Ruta de las Cascadas.\n\nHay dos maneras de verla. La primera es la tarabita: una cabina metálica colgada de cables que cruza la garganta por encima del río y deja ver la cascada de frente; en el sector La Merced hay tres tarabitas, que además sirven de cruce para los caseríos Chinchín y San Pedro. La segunda es bajar por un sendero desde la carretera hasta un puente colgante de más de 100 metros sobre el Pastaza, que lleva hasta el pie de la cascada. Ese camino se llama Sendero de los Contrabandistas porque, según la tradición, lo usaban quienes pasaban aguardiente de caña de Puyo escapando de los guardias.\n\nSi tenés vértigo, el puente es más tranquilo que la tarabita. Llevá algo impermeable: la bruma moja.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sobre la vía Baños–Puyo, a la altura del caserío Chinchín (antes de Río Verde)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; con caudal alto se ve más llena"
+        },
+        {
+          "label": "Entrada",
+          "value": "Cascada y puente sin tarifa publicada. Tarabita: US$ 1 por cruce según la guía Moon; US$ 1,50 ida y vuelta según minube (fuentes: guías de viaje, no oficiales, consultadas octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Volcán Tungurahua (Mama Tungurahua)",
+      "desc": "El volcán de 5.020 metros que domina Baños, activo pero en reposo desde 2016 según el Instituto Geofísico.",
+      "detalle": "El Tungurahua es un estratovolcán de 5.020 metros en la Cordillera Real, a unos 8 km de Baños, dentro del Parque Nacional Sangay. Los lugareños le dicen Mama Tungurahua. Según el Instituto Geofísico de la Escuela Politécnica Nacional (IG-EPN), desde el año 1300 hizo erupciones al menos una vez por siglo. El último período eruptivo empezó en 1999, obligó a evacuar Baños, tuvo sus episodios más fuertes en julio y agosto de 2006 y terminó con la erupción de febrero de 2016.\n\nEstado actual: la ficha del IG-EPN, actualizada el 23 de febrero de 2026, lo clasifica como volcán 'activo' (dejó de estar 'en erupción' en 2018), con actividad sísmica baja y sin emisiones de gas, y dice que no se anticipa una reactivación en el corto o mediano plazo. Hay noticias viejas sobre alertas que circulan con fechas recientes: chequeá siempre igepn.edu.ec.\n\nLa mayoría lo disfruta desde los miradores (Casa del Árbol, Ojos del Volcán). La Prefectura describe dos accesos para subir: desde Pondoa, unas 4 horas de caminata con guía local, y desde Puela hacia las termas de Palitahua. El ascenso sólo se hace si el volcán no está en actividad y con guía.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 8 km del centro de Baños (IG-EPN)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días despejados; el cono suele verse mejor temprano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Verlo desde miradores es gratis o cuesta lo del mirador. Excursión guiada de 2 días: US$ 320 (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "De 1 hora (mirador) a 2 días (ascenso)"
+        }
+      ]
+    },
+    {
+      "nombre": "Cascadas de Machay",
+      "desc": "Un sendero comunitario de unos 7 km entre ocho cascadas y bosque subtropical, que termina en una caída de 40 metros.",
+      "detalle": "Machay es un sistema de cascadas sobre el río Machay, a unos 11 km de Baños y 7 km de Río Verde, en la zona de amortiguamiento del Parque Nacional Llanganates. El sendero empieza en la cascada Manantial del Dorado y termina en la cascada de Machay, de unos 40 metros, que forma pozas de agua cristalina antes de unirse al Pastaza.\n\nSegún la Prefectura, en el camino se pasan, en orden, Manantial el Dorado, Peñón del Tucán, San Miguel, Refugio de los Loros, San Agustín, Las Orquídeas, Manto del Ángel y Machay. Son unos 7 km en total y lleva de 2 a 3 horas. El agua baja a unos 10 °C: el que se mete, se mete rápido.\n\nEs buena opción si querés naturaleza con menos gente que en el Pailón. En la zona se registraron especies como el oso de anteojos y el tapir, aunque verlas es muy difícil, y hay muchos colibríes. La comunidad de Machay ofrece turismo comunitario y guianza. Llevá calzado que se pueda mojar, agua y algo de comer.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 11 km de Baños por la vía a Puyo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; evitar días de lluvia fuerte"
+        },
+        {
+          "label": "Entrada",
+          "value": "No encontramos tarifa oficial publicada; la comunidad ofrece servicios de turismo comunitario (fuente: tungurahuaturismo.com, portal del Gobierno Provincial de Tungurahua, consultado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas de caminata"
+        }
+      ]
+    },
+    {
+      "nombre": "Cascada y represa de Agoyán",
+      "desc": "Una de las cascadas más altas del Ecuador, hoy domada por una central hidroeléctrica; se ve completa sólo cuando abren compuertas.",
+      "detalle": "La cascada de Agoyán es la primera gran caída de agua que aparece al salir de Baños por la vía a Puyo. La alimenta el río Pastaza y la Prefectura la cuenta entre las cascadas de mayor altura del Ecuador. El problema es que desde la construcción de la Central Hidroeléctrica Agoyán casi no se ve: el agua del Pastaza se represa para generar energía.\n\nSólo cuando se abren las compuertas de la represa la cascada recupera su caudal completo. Por eso conviene tomarla como parada rápida dentro de la Ruta de las Cascadas y no como destino en sí. La represa misma, con el embalse encajonado entre montañas, también es un punto de foto.\n\nPasando Agoyán empiezan los túneles de la carretera, algunos con agua que cae del techo. Si vas en bicicleta, prestá atención a las señales: en varios túneles hay desvíos para ciclistas por la vía antigua, que la Prefectura describe como 40% adoquinada o empedrada.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Primeros kilómetros de la vía Baños–Puyo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Cuando abren compuertas (no hay calendario publicado)"
+        },
+        {
+          "label": "Entrada",
+          "value": "Sin tarifa publicada para verla desde la vía (fuente: tungurahuaturismo.com, portal del Gobierno Provincial de Tungurahua, consultado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "15 a 30 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Mirador Ojos del Volcán",
+      "desc": "Un mirador a 2.708 metros desde donde los evacuados de 1999 vigilaban el Tungurahua; hoy es punto de fotógrafos.",
+      "detalle": "El mirador Ojos del Volcán está en la parte norte de Baños, a 2.708 metros de altura según la Prefectura. Su nombre viene de la erupción de 1999: la gente evacuada subía hasta acá para mirar qué pasaba con el volcán y con sus casas. Es uno de los cinco miradores de la ciudad.\n\nDesde arriba se ven el Tungurahua, la ciudad entera, el río Pastaza y los caseríos de Runtún, Pondoa y Ulba. Es un lugar elegido por fotógrafos, aunque el resultado depende de las nubes, que muchas veces tapan el cono. También se ven aves como gallinazos y golondrinas.\n\nPara llegar hay que salir desde la terminal terrestre, pasar detrás de los puestos de caña y cruzar el puente de San Francisco; en la bifurcación se toma el desvío de la izquierda (vía mixta) hasta el sector de las antenas. Es una subida exigente a pie: llevá agua, protector solar y algo de abrigo. Es una alternativa sin colas a la Casa del Árbol.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Norte de Baños, cruzando el puente de San Francisco"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana despejada"
+        },
+        {
+          "label": "Entrada",
+          "value": "No figura tarifa en la ficha oficial (fuente: tungurahuaturismo.com, portal del Gobierno Provincial de Tungurahua, consultado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas ida y vuelta a pie"
+        }
+      ]
+    },
+    {
+      "nombre": "Mirador Bellavista y paseo nocturno en chiva",
+      "desc": "La salida de noche en chiva hasta la cruz de Bellavista, con la ciudad iluminada abajo y canelazo para el frío.",
+      "detalle": "Bellavista es una loma en la montaña de Runtún, que funciona como mirador natural sobre la ciudad. De noche es el destino de uno de los paseos más típicos del pueblo: las chivas, buses abiertos de madera pintados de colores, con música a todo volumen.\n\nSegún la Prefectura, las salidas nocturnas son a las 21 h desde el centro y tardan unos 30 minutos hasta el mirador. Arriba se ve la ciudad como un pequeño valle iluminado entre montañas, hay shows de malabares con fuego y se toma canelazo, una bebida caliente de los Andes hecha con aguardiente, canela y fruta (pedila sin alcohol si viajás con chicos).\n\nEs un plan más festivo que contemplativo. Los operadores de chivas venden el boleto en la calle; preguntá qué incluye antes de pagar. Llevá campera: en la loma refresca bastante.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Loma de Runtún, unos 30 minutos en chiva desde el centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "De noche, sin lluvia"
+        },
+        {
+          "label": "Entrada",
+          "value": "No figura tarifa oficial del paseo nocturno; la chiva diurna a la Casa del Árbol cuesta US$ 2 (fuente: tungurahuaturismo.com, portal del Gobierno Provincial de Tungurahua, consultado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Puyo y la Amazonía cercana",
+      "desc": "Bajando la Ruta de las Cascadas se llega en poco más de una hora a Puyo, capital de Pastaza y puerta de la selva.",
+      "detalle": "Puyo es la capital de la provincia de Pastaza y queda a unos 60 km de Baños, al final de la Ruta de las Cascadas, a 924 metros de altura. Es el primer contacto con la Amazonía ecuatoriana: más calor, más humedad y una ciudad pensada como base para salir a la selva y a comunidades indígenas.\n\nDesde Baños hay dos formas de conocerla. Por tu cuenta, en bus de línea desde la terminal (alrededor de 1 h 20 min), para recorrer la ciudad y el Parque Etnobotánico Omaere, con plantas de la selva y viviendas tradicionales; Lonely Planet indica que abre de martes a domingo de 9 a 17 h y que la entrada incluye visita guiada. O con tour desde Baños: las agencias venden excursiones de un día a la reserva Hola Vida, en plena selva, y salidas de 1 o 2 días con canoa y visita a comunidades.\n\nSi vas con tiempo justo, el tour de un día es lo más práctico. Llevá repelente, ropa liviana de manga larga y protector solar.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 60 km de Baños (1 h 20 min en bus)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; llueve con frecuencia en la selva"
+        },
+        {
+          "label": "Entrada",
+          "value": "Tour de un día a Hola Vida desde Baños: US$ 30; Amazonía 1 o 2 días desde US$ 35 (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Termas de la Virgen Antigua (municipales, centro)",
+      "precio": "US$ 4 adultos; US$ 2 niños, tercera edad y personas con discapacidad. Lunes a domingo 5:00-21:30 (fuente: afiches oficiales del GAD Municipal de Baños en municipiobanos.gob.ec, verificado octubre 2026). Se paga en la boletería del balneario"
+    },
+    {
+      "tipo": "Termas de la Virgen Recreativas (municipales)",
+      "precio": "US$ 6 adultos; US$ 3 niños, tercera edad y personas con discapacidad. Viernes, sábado, domingo y feriados 9:00-17:00 (fuente: afiches oficiales del GAD Municipal de Baños en municipiobanos.gob.ec, verificado octubre 2026). Boletería del complejo"
+    },
+    {
+      "tipo": "Termas de la Virgen Fase 2 (municipales)",
+      "precio": "US$ 6 adultos; US$ 3 niños, tercera edad y personas con discapacidad. Viernes, sábado, domingo y feriados 13:00-21:00 (fuente: afiches oficiales del GAD Municipal de Baños en municipiobanos.gob.ec, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Termas El Salado (municipales)",
+      "precio": "US$ 4 adultos; US$ 2 niños, tercera edad y personas con discapacidad. Lunes a domingo 5:00-21:00 (fuente: afiches oficiales del GAD Municipal de Baños en municipiobanos.gob.ec, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Termas Santa Clara y Termas Santa Ana (municipales)",
+      "precio": "US$ 4 adultos; US$ 2 niños, tercera edad y personas con discapacidad. Santa Clara: sábado, domingo y feriados 10:00-18:00; Santa Ana: viernes a domingo y feriados 10:00-17:30 (fuente: afiches oficiales del GAD Municipal de Baños en municipiobanos.gob.ec, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Pailón del Diablo, entrada principal (Grieta al Cielo / puentes colgantes, junto a la iglesia de Río Verde)",
+      "precio": "US$ 5 adultos; US$ 2 niños; todos los días 8:00-22:00 (fuente: tungurahuaturismo.com, portal del Gobierno Provincial de Tungurahua, consultado octubre 2026). Se paga en la boletería del ingreso"
+    },
+    {
+      "tipo": "Cascada El Pailón (acceso alternativo al Pailón del Diablo, frente a la cancha de Río Verde)",
+      "precio": "US$ 3 adultos de día (antes de las 18 h); US$ 4 adultos de noche; US$ 2 niños y mayores de 65; menores de 4 gratis. Lunes a jueves 9:00-22:30, viernes a domingo 8:00-23:00 (fuente: cascadaelpailon.com, verificado octubre 2026). Oficina de venta junto al malecón"
+    },
+    {
+      "tipo": "Casa del Árbol / Columpio del Fin del Mundo (Runtún)",
+      "precio": "US$ 1 adultos; niños hasta 8 años US$ 0,50; menores de 4 gratis; camping US$ 2 (fuente: tungurahuaturismo.com, portal del Gobierno Provincial de Tungurahua, consultado octubre 2026). Se paga en la entrada; estacionamiento aparte"
+    },
+    {
+      "tipo": "Museo Fray Enrique Mideros (dentro de la basílica)",
+      "precio": "US$ 1,50 adultos; US$ 0,75 niños (fuente: tungurahuaturismo.com, portal del Gobierno Provincial de Tungurahua, consultado octubre 2026). El templo no tiene tarifa publicada"
+    },
+    {
+      "tipo": "Tarabita del Manto de la Novia",
+      "precio": "US$ 1 por cruce según la guía Moon; US$ 1,50 ida y vuelta según minube (fuentes: guías de viaje, no oficiales, consultadas octubre 2026). Se paga en la cabina"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Rafting en el río Pastaza",
+      "precio": "US$ 33 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "4 a 5 horas",
+      "operador": "Agencias de aventura de Baños vía Civitatis"
+    },
+    {
+      "actividad": "Puenting (bungee) desde el puente San Francisco o Río Blanco",
+      "precio": "US$ 20 San Francisco y US$ 15 Río Blanco (fuente: tungurahuaturismo.com, portal del Gobierno Provincial de Tungurahua, consultado octubre 2026); US$ 27 en Civitatis (verificado octubre 2026). Prohibido para menores de 14 y embarazadas; peso 40-120 kg",
+      "duracion": "20 minutos",
+      "operador": "Operadoras de puenting de Baños"
+    },
+    {
+      "actividad": "Barranquismo (canyoning) en el río Blanco",
+      "precio": "US$ 27 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "3 horas",
+      "operador": "Agencias de aventura de Baños vía Civitatis"
+    },
+    {
+      "actividad": "Puente tibetano de más de 170 metros de alto",
+      "precio": "US$ 20 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "1 hora",
+      "operador": "Operadora local vía Civitatis"
+    },
+    {
+      "actividad": "Excursión de un día a la reserva Hola Vida (Amazonía)",
+      "precio": "US$ 30 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "12 horas",
+      "operador": "Agencias de Baños vía Civitatis"
+    },
+    {
+      "actividad": "Parapente en el cerro Nitón",
+      "precio": "US$ 75 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "4 horas",
+      "operador": "Operadora de parapente vía Civitatis"
+    },
+    {
+      "actividad": "Ascenso al volcán Tungurahua en 2 días",
+      "precio": "US$ 320 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "2 días",
+      "operador": "Guías de montaña vía Civitatis"
+    },
+    {
+      "actividad": "Tour a la Casa del Árbol con traslado",
+      "precio": "US$ 7 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "3 horas",
+      "operador": "Agencias de Baños vía Civitatis"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Bus urbano (cooperativa Luna Sánchez y otras)",
+      "precio": "US$ 0,30 el pasaje; 50% de descuento para grupos prioritarios (fuente: tungurahuaturismo.com, portal del Gobierno Provincial de Tungurahua, consultado octubre 2026; Wikipedia ES para el descuento)",
+      "duracion": "5 a 15 minutos dentro de la ciudad",
+      "notas": "Red chica, en expansión. Sirve para ir a la terminal o a El Salado. Baños se camina entero: casi todos los hoteles quedan a 7-15 minutos a pie de la terminal"
+    },
+    {
+      "medio": "Taxi",
+      "precio": "US$ 3 a 5 un viaje promedio en la ciudad (fuente: tungurahuaturismo.com, portal del Gobierno Provincial de Tungurahua, consultado octubre 2026); centro a Termas El Salado unos US$ 1,50 (fuente: banostravel.com, Cámara de Turismo de Baños, verificado octubre 2026)",
+      "duracion": "5 a 10 minutos",
+      "notas": "Es el medio más usado por los visitantes. Acordá el precio antes de subir; para la Ruta de las Cascadas se contratan taxis por horas"
+    },
+    {
+      "medio": "Bus a Runtún / Casa del Árbol (cooperativa Luna Sánchez)",
+      "precio": "US$ 1 por tramo (fuente: Lonely Planet, guía de viaje, consultada octubre 2026)",
+      "duracion": "Unos 45 minutos",
+      "notas": "Sale a una cuadra del Mercado Central. La Prefectura publica salidas a las 6:00, 8:00, 11:00, 13:40 y 16:00; el último bajaba a las 18:00. Confirmá horarios en la parada"
+    },
+    {
+      "medio": "Chiva turística (bus abierto)",
+      "precio": "US$ 2 por persona a la Casa del Árbol, salidas 10:00, 10:30, 12:00 y 16:00 (fuente: tungurahuaturismo.com, portal del Gobierno Provincial de Tungurahua, consultado octubre 2026)",
+      "duracion": "2 a 3 horas con paradas",
+      "notas": "También hacen la Ruta de las Cascadas de día y el paseo nocturno a Bellavista a las 21 h. Se compran en la calle, en el centro"
+    },
+    {
+      "medio": "Alquiler de bicicleta",
+      "precio": "US$ 12 por 8 horas (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "Medio día a día completo",
+      "notas": "La forma clásica de hacer la Ruta de las Cascadas. Pedí casco, candado y kit de reparación. Para volver desde Río Verde hay camionetas con portabicicletas"
+    },
+    {
+      "medio": "Bus de línea Baños–Río Verde–Puyo",
+      "precio": "US$ 2,50 Baños–Puyo (fuente: capinita.com, agregador de horarios, verificado octubre 2026)",
+      "duracion": "1 h 19 min hasta Puyo",
+      "notas": "Sale de la terminal terrestre; pedí que te dejen en Río Verde para el Pailón. Desde agosto de 2026 la ANT autorizó un alza del 25% en pasajes interprovinciales: confirmá el valor en boletería"
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Quito (Terminal Quitumbe) → Baños",
+      "empresas": "Cooperativa de Transportes y Turismo Baños, entre otras",
+      "precio": "US$ 4,80 (fuente: cooperativabanos.com, verificado octubre 2026; la página no aclara si ya incluye el alza del 25% aprobada por la ANT en julio de 2026)",
+      "duracion": "Unas 3 horas (fuente: Prefectura de Tungurahua)"
+    },
+    {
+      "ruta": "Baños → Quito (Terminal Carcelén o Quitumbe)",
+      "empresas": "Cooperativa Baños",
+      "precio": "US$ 6 a Carcelén y US$ 4,60 a Quitumbe (fuente: cooperativabanos.com, verificado octubre 2026)",
+      "duracion": "3 a 3,5 horas"
+    },
+    {
+      "ruta": "Ambato → Baños",
+      "empresas": "Cooperativa Baños y buses que salen de la terminal de Ambato",
+      "precio": "US$ 1,50 (fuente: cooperativabanos.com, verificado octubre 2026)",
+      "duracion": "Alrededor de 1 hora"
+    },
+    {
+      "ruta": "Guayaquil ↔ Baños",
+      "empresas": "Cooperativa Baños; la Prefectura menciona también Flota Pelileo y Riobamba",
+      "precio": "US$ 12,35 Baños–Guayaquil (fuente: cooperativabanos.com, verificado octubre 2026)",
+      "duracion": "Unas 5 horas (fuente: Prefectura de Tungurahua)"
+    },
+    {
+      "ruta": "Auto propio desde Quito por la Panamericana (Latacunga–Ambato–Pelileo–Baños)",
+      "empresas": "Particular o alquiler",
+      "precio": "Sin peaje ni tarifa oficial verificada; la tarifa preferencial del 50% en buses para adultos mayores, niños y personas con discapacidad se mantiene tras el alza (fuente: El Telégrafo, julio 2026)",
+      "duracion": "Unas 3 horas"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Hostels y hostales para mochileros",
+      "nivel": 2,
+      "opciones": "Baños tiene muchos hostels cerca de la terminal y del centro. Camas en dormitorio desde US$ 7 en Hostal Princesa María y unos US$ 7,44 en Mama Tungu (fuente: hostelz.com, agregador, guía actualizada en agosto 2025, consultada octubre 2026). Erupción Art Hotel & Hostel aparece desde US$ 50 la habitación en Momondo (consultado octubre 2026). Feriados y octubre se llenan"
+    },
+    {
+      "categoria": "Hoteles intermedios en el centro",
+      "nivel": 3,
+      "opciones": "La Posada del Arte, con desayuno incluido: desde US$ 45 la doble, otras dobles US$ 50-81 (fuente: Kayak, consultado octubre 2026). La Floresta Hotel, de 3 estrellas, en Montalvo y Halflants, con jardín: desde unos US$ 95 (fuente: Kayak, consultado octubre 2026). En feriados nacionales los precios suben"
+    },
+    {
+      "categoria": "Hoteles con spa",
+      "nivel": 4,
+      "opciones": "Sangay Spa Hotel, con habitaciones tipo suite: US$ 131 la noche en una fecha de agosto (fuente: Hotels.com, consultado octubre 2026). Samari Spa Resort, 4 estrellas, a 2,1 km del mirador del volcán según Hotels.com: entre US$ 191 y 219 según fecha (fuentes: Expedia, Hotels.com y Momondo, consultados octubre 2026)"
+    },
+    {
+      "categoria": "Lujo con vista al volcán",
+      "nivel": 5,
+      "opciones": "Luna Volcán Adventure Spa (ex Luna Runtún), en la vía a Runtún km 6, con vista a Baños y al Tungurahua: desde unos US$ 242-267 la noche (fuentes: Kayak, Momondo y Expedia, consultados octubre 2026). Su restaurante tiene platos desde US$ 7 (fuente: explorsierra.com, agencia, consultado octubre 2026)"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Almuerzo de comedor (sopa, segundo y jugo)",
+      "nivel": 1,
+      "opciones": "El menú del día de los comedores cerca del Mercado Central cuesta US$ 2,50-3,50: Comedorcito La Amistad US$ 2,50, El Rincón del Sabor US$ 2,75 (fuente: Real Dreams Ecuador, blog de agencia actualizado septiembre 2026, consultado octubre 2026). Los fines de semana en la Casa del Árbol sirven almuerzos a US$ 3 (fuente: Prefectura de Tungurahua, consultada octubre 2026)"
+    },
+    {
+      "tipo": "Fritada, llapingachos y caldo de gallina",
+      "nivel": 2,
+      "opciones": "En el Mercado Central hay puestos de fritada (cerdo frito con maduro y choclo) a US$ 3-4 el plato, que alcanza para dos (fuente: Real Dreams Ecuador, blog, consultado octubre 2026). Los llapingachos (tortitas de papa con queso) rondan US$ 3 y el yahuarlocro US$ 2,50 en comedores de la calle Eloy Alfaro (fuente: explorsierra.com, agencia, consultado octubre 2026)"
+    },
+    {
+      "tipo": "Melcocha y jugo de caña",
+      "nivel": 1,
+      "opciones": "La melcocha es el dulce de Baños: caramelo de caña que se estira a mano colgado en las puertas. Unos US$ 0,50-1 la porción y el jugo de caña recién exprimido unos US$ 0,50 (fuente: Real Dreams Ecuador, blog, consultado octubre 2026). La Pastelería María José vende melcocha, empanadas y pan de queso por menos de US$ 1,50 (misma fuente)"
+    },
+    {
+      "tipo": "Cuy y cocina de autor",
+      "nivel": 4,
+      "opciones": "El cuy asado o frito, con papas y salsa de maní, cuesta US$ 12-16 y se pide en restaurantes como El Paisano, con platos de US$ 18-25 (fuente: Real Dreams Ecuador, blog, consultado octubre 2026). Para cocina ecuatoriana contemporánea más barata, Mestizart, dentro de Hostal Erupción, con platos de US$ 4-8; Swiss Bistro sirve fondue a US$ 10-20 (misma fuente)"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa o pasaporte para viajar a Ecuador?",
+      "a": "Depende de tu nacionalidad. Según el Ministerio del Interior de Ecuador, los ciudadanos de Argentina, Brasil, Paraguay, Uruguay, Bolivia, Chile, Colombia, Guyana, Perú y Surinam pueden entrar con su documento nacional de identidad vigente, sin pasaporte. Los mexicanos no están en la lista de países que necesitan visa, pero entran con pasaporte con seis meses de vigencia. Venezuela y Cuba sí figuran entre los países que necesitan visa. El registro de ingreso como turista no tiene costo. La ley fija hasta 90 días de turista por año, prorrogables una vez por otros 90 pagando un tercio del salario básico; la guía oficial de trámites indica que los sudamericanos tienen autorización de hasta 180 días. Los menores que viajan solos o con terceros necesitan autorización de sus padres. Revisá gob.ec antes de viajar."
+    },
+    {
+      "q": "¿Es peligroso el volcán Tungurahua?",
+      "a": "El Tungurahua es un volcán activo, pero hoy está en reposo. La ficha del Instituto Geofísico de la Escuela Politécnica Nacional (IG-EPN), actualizada el 23 de febrero de 2026, dice que tiene actividad sísmica baja, que no hay emisiones de gas y que no se anticipa una reactivación en el corto ni mediano plazo. Su último período eruptivo fue de 1999 a 2016. En redes y buscadores circulan notas viejas de alertas naranjas (de 2016 o antes) con fechas recientes: no te guíes por eso. La fuente para chequear el estado del volcán es igepn.edu.ec."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse en Baños?",
+      "a": "Con tres días completos ves lo principal sin correr. Un día para la Ruta de las Cascadas en bicicleta hasta el Pailón del Diablo, volviendo en camioneta. Otro para la Casa del Árbol temprano y las termas a la tarde o a la noche. Y un tercero para una actividad de aventura (rafting, puenting, barranquismo) o para las cascadas de Machay. Con cuatro o cinco días sumás una excursión a Puyo o a la reserva Hola Vida en la Amazonía, y algún mirador como Ojos del Volcán. Si sólo tenés un día desde Quito, el viaje es largo: son unas 3 horas por tramo en bus."
+    },
+    {
+      "q": "¿Cuánto cuestan las termas y cuál conviene?",
+      "a": "Las seis termas públicas son del municipio y tienen tarifas fijas publicadas en municipiobanos.gob.ec. La Virgen Antigua (centro, abre todos los días de 5 a 21:30), El Salado (afueras, 5 a 21), Santa Clara y Santa Ana cobran US$ 4 adultos y US$ 2 niños, tercera edad y personas con discapacidad. Los complejos recreativos de la Virgen (Recreativas y Fase 2) cobran US$ 6 y US$ 3 y abren sólo de viernes a domingo y feriados. Para un baño caliente terapéutico, la Virgen Antigua o El Salado; para ir con chicos, las Recreativas, con toboganes. El gorro de baño es obligatorio y no hay toallas: llevá las tuyas."
+    },
+    {
+      "q": "¿Puedo pagar con tarjeta o necesito efectivo?",
+      "a": "Llevá efectivo en dólares estadounidenses, que es la moneda de Ecuador. Las entradas chicas (termas, Casa del Árbol, tarabitas), los buses urbanos (US$ 0,30), las chivas y los comedores se pagan casi siempre en efectivo, y conviene tener billetes de 1, 5 y 10. Los hoteles medianos y grandes y las agencias de aventura suelen aceptar tarjeta. La Prefectura de Tungurahua indica que en la terminal terrestre hay agencias bancarias y cajeros. Si venís de Argentina, Chile, Colombia, Perú, Uruguay o México, calculá el costo de extracción de tu banco y sacá montos grandes de una vez."
+    },
+    {
+      "q": "¿Cómo llego desde Quito y cuánto sale?",
+      "a": "En bus desde la Terminal Quitumbe, en el sur de Quito: la Cooperativa Baños publica US$ 4,80 hasta Baños. Desde Baños a Quito cobra US$ 6 a Carcelén (norte) y US$ 4,60 a Quitumbe. El viaje dura unas 3 horas y pasa por Latacunga y Ambato. Atención: el 25 de julio de 2026 la Agencia Nacional de Tránsito aprobó una suba del 25% en los pasajes interprovinciales (Resolución 020-DIR-2026-ANT), condicionada a requisitos de seguridad en los buses, y la web de la cooperativa no aclara si sus valores ya la incluyen. Confirmá el precio en boletería. Adultos mayores, niños y personas con discapacidad pagan el 50%. Desde Ambato hay buses frecuentes por US$ 1,50."
+    },
+    {
+      "q": "¿Qué cuidados hay que tener con los deportes de aventura?",
+      "a": "Baños vive de la adrenalina, y la calidad de los operadores varía. Contratá con agencias establecidas, pedí ver el equipo (casco, arnés, chaleco) y preguntá si el guía tiene certificación. Para el puenting la Prefectura de Tungurahua detalla restricciones: prohibido para menores de 14 años y embarazadas, peso entre 40 y 120 kg, y no recomendado para personas con vértigo, hipertensión, problemas cardíacos, epilepsia o lesiones de rodilla. En los columpios de la Casa del Árbol, seguí las indicaciones de los operarios y atá el celular. En la Ruta de las Cascadas en bici, usá los desvíos de los túneles y no bajes de noche."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "GAD Municipal de Baños de Agua Santa — «Historia»: https://www.municipiobanos.gob.ec/historia/",
+      "Wikipedia (ES) — «Baños (Ecuador)»: https://es.wikipedia.org/wiki/Ba%C3%B1os_(Ecuador)",
+      "Instituto Geofísico EPN — «Tungurahua»: https://www.igepn.edu.ec/tungurahua"
+    ],
+    "que_ver_atracciones": [
+      "Gobierno Provincial de Tungurahua (Tungurahua Turismo) — «Pailón del Diablo»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-agua-santa/rio-verde/cascada/pailon-diablo-a8e036996",
+      "Cascada El Pailón — «Cascada El Pailón del Diablo, Río Verde»: https://www.cascadaelpailon.com/",
+      "Gobierno Provincial de Tungurahua — «Casa del Árbol Baños»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-de-agua-santa/complejos-turisticos/casa-arbol-banos-aa80ae7c6",
+      "Gobierno Provincial de Tungurahua — «Columpio del fin del mundo»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-de-agua-santa/complejos-turisticos/columpio-fin-mundo-aw39zxps4",
+      "Gobierno Provincial de Tungurahua — «Ruta de las Cascadas»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-de-agua-santa/cascadas/ruta-cascadas-axz5h4q8g",
+      "Gobierno Provincial de Tungurahua — «Basílica de Baños»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-de-agua-santa/iglesias-templos/basilica-banos-af8015cb9",
+      "Gobierno Provincial de Tungurahua — «Museo Fray Enrique Mideros»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-de-agua-santa/museos/museo-fray-enrique-mideros-atiuspaf2",
+      "Gobierno Provincial de Tungurahua — «Cascada Manto de la Novia»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-de-agua-santa/cascadas/cascada-manto-novia-a2mq79x7z",
+      "Gobierno Provincial de Tungurahua — «Puente Manto de la Novia»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-de-agua-santa/puentes/puente-manto-novia-banos-aw2dapc4k",
+      "Gobierno Provincial de Tungurahua — «Tarabita Manto de la Novia»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-de-agua-santa/complejos-turisticos/tarabita-manto-novia-ah52y96tt",
+      "Gobierno Provincial de Tungurahua — «Cascadas de Machay»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-de-agua-santa/cascadas/cascadas-machay-arlxoojuj",
+      "Gobierno Provincial de Tungurahua — «Cascada Agoyán»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-de-agua-santa/cascadas/cascada-agoyan-anye1mszv",
+      "Gobierno Provincial de Tungurahua — «Mirador Ojos del Volcán»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-de-agua-santa/montanas-cerros/mirador-ojos-volcan-arkar4c4q",
+      "Gobierno Provincial de Tungurahua — «Mirador Bellavista Runtún»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-de-agua-santa/rutas-paseos/mirador-bellavista-runtun-ahff3ta1c",
+      "Gobierno Provincial de Tungurahua — «Volcán Tungurahua»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-de-agua-santa/volcanes/volcan-tungurahua-ac3c9f5bd",
+      "Lonely Planet — «Parque Etnobotánico Omaere»: https://www.lonelyplanet.com/ecuador/puyo/attractions/parque-etnobotanico-omaere/a/poi-sig/1170478/363368"
+    ],
+    "precios_2026": [
+      "GAD Municipal de Baños de Agua Santa — «Inicio (afiches de balnearios municipales)»: https://www.municipiobanos.gob.ec/",
+      "Cámara de Turismo de Baños — «Termas El Salado»: https://www.banostravel.com/banos/termas-el-salado",
+      "Cámara de Turismo de Baños — «Termas de la Virgen»: https://www.banostravel.com/banos/termas-de-la-virgen",
+      "Civitatis — «Excursiones y actividades en Baños de Agua Santa»: https://www.civitatis.com/en/banos-de-agua-santa/",
+      "Gobierno Provincial de Tungurahua — «Bungee jumping Baños de Agua Santa»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-de-agua-santa/bungee-jumping/jumping-banos-agua-santa-a6calx3cv",
+      "Moon Travel Guides — «Visiting Ecuador’s Ruta de las Cascadas»: https://www.moon.com/travel/trip-ideas/the-waterfall-route-from-banos-to-puyo",
+      "minube — «Aventura y adrenalina en la naturaleza»: https://www.minube.com/tips/actualidad/maravillate-con-que-ver-en-banos-de-agua-santa-el-paraiso-ecuatoriano"
+    ],
+    "como_llegar_transporte": [
+      "Cooperativa de Transportes Baños — «Pasajes desde Baños»: https://www.cooperativabanos.com/pasajes-desde-banos.php",
+      "Cooperativa de Transportes Baños — «Pasajes desde Quito Quitumbe»: https://www.cooperativabanos.com/pasajes-desde-quito-quitumbe.php",
+      "Cooperativa de Transportes Baños — «Pasajes desde Ambato»: https://www.cooperativabanos.com/pasajes-desde-ambato.php",
+      "Cooperativa de Transportes Baños — «Precios de pasajes»: https://www.cooperativabanos.com/precios-pasajes-cooperativa-banos.php",
+      "El Telégrafo — «ANT aprueba alza del 25% en los pasajes de buses interprovinciales»: https://www.eltelegrafo.com.ec/noticias/nacionales/210/ant-aprueba-alza-del-25-en-los-pasajes-de-buses-interprovinciales-estas-son-las-nuevas-tarifas",
+      "El Comercio — «ANT aprueba alza del 25 % en pasajes de buses interprovinciales e intracantonales»: https://www.elcomercio.com/actualidad/ecuador/ant-aprueba-alza-pasajes-buses-interprovinciales-intracantonales/",
+      "Gobierno Provincial de Tungurahua — «Terminal Terrestre de Baños»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-de-agua-santa/terminales-terrestres/terminal-terrestre-banos-aumrjflla",
+      "Gobierno Provincial de Tungurahua — «Ciclismo ruta Baños–Puyo»: https://tungurahuaturismo.com/es-ec/tungurahua/banos-de-agua-santa/ciclismo/ciclismo-ruta-banos-puyo-a968deb05",
+      "Capinita — «Baños de Agua Santa a Puyo: buses, horarios»: https://www.capinita.com/ruta/banos-de-agua-santa-a-puyo"
+    ],
+    "requisitos_ingreso": [
+      "Ministerio de Gobierno / Interior de Ecuador — «Requisitos para ingresar a Ecuador»: https://www.ministeriodegobierno.gob.ec/requisitos-para-ingresar-a-ecuador/",
+      "gob.ec — «Registro de ingreso al país de personas extranjeras (turistas)»: https://www.gob.ec/mdi/tramites/registro-ingreso-al-pais-personas-extranjeras-turistas",
+      "gob.ec — «Emisión de prórroga de autorización de permanencia en territorio de extranjeros»: https://www.gob.ec/mdi/tramites/emision-prorroga-autorizacion-permanencia-territorio-extranjeros",
+      "Cancillería de Ecuador (gob.ec) — «Concesión de visa de visitante temporal turista 90 días»: https://www.gob.ec/mremh/tramites/concesion-visa-visitante-temporal-turista-90-dias"
+    ],
+    "alojamiento_gastronomia": [
+      "Hostelz — «Best hostels in Baños»: https://www.hostelz.com/best-hostels-banos",
+      "Kayak — «La Posada del Arte»: https://www.es.kayak.com/Banos-de-Agua-Santa-Hoteles-La-Posada-Del-Arte.763680.ksp",
+      "Kayak — «La Floresta Hotel»: https://www.es.kayak.com/Banos-de-Agua-Santa-Hoteles-La-Floresta-Hotel.693102.ksp",
+      "Kayak — «Luna Volcán Adventure Spa»: https://www.es.kayak.com/Banos-de-Agua-Santa-Hoteles-Luna-Volcan-Adventure-Spa.117804.ksp",
+      "Momondo — «Erupción Art Hotel & Hostel»: https://www.es.momondo.com/hoteles/banos-de-agua-santa/Erupcion-Art-Hotel-Hostel.mhd654077.ksp",
+      "Real Dreams Ecuador — «15 Best Restaurants in Baños Ecuador»: https://www.realdreamsecuador.com/best-restaurants-in-banos-ecuador/",
+      "Explorsierra — «Los mejores lugares para comer en Baños»: https://www.explorsierra.com/blog-turismo/Los-mejores-lugares-para-comer-en-Banos"
+    ]
+  }
+}
