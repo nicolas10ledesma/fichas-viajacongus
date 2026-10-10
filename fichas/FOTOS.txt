@@ -24,3 +24,4 @@ FOTO espana/zaragoza | https://upload.wikimedia.org/wikipedia/commons/5/51/Zarag
 FOTO mexico/ixtapa-zihuatanejo | https://upload.wikimedia.org/wikipedia/commons/1/1e/Zihuatanejo_from_Bahia_Zihuatanejo.jpg | Zihuatanejo from Bahia Zihuatanejo.jpg | CC BY-SA 4.0 | Nick Navarro
 FOTO brasil/praia-grande | https://upload.wikimedia.org/wikipedia/commons/5/5e/C%C3%A2nion_do_Itaimbezinho_entre_nuvens.jpg | Cânion do Itaimbezinho entre nuvens.jpg | CC BY-SA 4.0 | Guilherme Nunes Serafina
 FOTO colombia/ibague | https://upload.wikimedia.org/wikipedia/commons/9/9a/Ibagu%C3%A9.jpg | Ibagué.jpg | CC BY-SA 4.0 | GOBERNACIÓN DEL TOLIMA
+FOTO china/taipei | https://upload.wikimedia.org/wikipedia/commons/6/6f/View_from_Elephant_Mountain%2C_Taipei%2C_Taiwan_2015.jpg | View from Elephant Mountain, Taipei, Taiwan 2015.jpg | CC BY 2.0 | Sonse
