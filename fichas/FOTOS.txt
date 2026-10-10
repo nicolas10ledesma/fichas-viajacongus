@@ -8,3 +8,4 @@ FOTO espana/costa-adeje | https://upload.wikimedia.org/wikipedia/commons/3/31/Ae
 FOTO estados-unidos/washington | https://upload.wikimedia.org/wikipedia/commons/4/41/National_mall_facing_east.jpg | National mall facing east.jpg | CC BY-SA 4.0 | Gustav V.
 FOTO portugal/albufeira | https://upload.wikimedia.org/wikipedia/commons/c/c0/Beach_in_Town_Albufeira%2C_Portugal.jpg | Beach in Town Albufeira, Portugal.jpg | CC BY-SA 4.0 | Баранов Георгий
 FOTO costa-rica/arenal | https://upload.wikimedia.org/wikipedia/commons/d/da/Volc%C3%A1n_Arenal_desde_el_lago_Arenal.jpeg | Volcán Arenal desde el lago Arenal.jpeg | CC BY-SA 4.0 | Andresqsz
+FOTO portugal/ponta-delgada | https://upload.wikimedia.org/wikipedia/commons/8/85/Portas_da_Cidade%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-29%2C_DD_123-125_HDR.jpg | Portas da Cidade, Ponta Delgada, isla de San Miguel, Azores, Portugal, 2020-07-29, DD 123-125 HDR.jpg | CC BY-SA 4.0 | Diego Delso

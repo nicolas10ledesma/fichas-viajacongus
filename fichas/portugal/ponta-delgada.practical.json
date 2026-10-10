@@ -1,0 +1,558 @@
+{
+  "slug": "ponta-delgada",
+  "name": "Ponta Delgada",
+  "region": "Azores, isla de São Miguel",
+  "lat": 37.7397,
+  "lon": -25.6689,
+  "datosRapidos": [
+    {
+      "label": "Isla",
+      "value": "Ponta Delgada es la ciudad más grande de las Azores, el archipiélago portugués en medio del Atlántico Norte, y queda en la costa sur de São Miguel, la isla mayor. El municipio tiene 231,9 km² y 67.229 habitantes, y la ciudad propiamente dicha 46.897 (Censos 2021). Es la sede de la Presidencia del Gobierno Regional de las Azores y el principal puerto y aeropuerto del archipiélago. Se la conoce por su casco histórico de piedra volcánica negra y paredes blancas, con las Portas da Cidade (Puertas de la Ciudad) de 1783 frente al puerto, y por ser la puerta de entrada a los paisajes que hicieron famosa a la isla: las lagunas de Sete Cidades en un cráter enorme, la Lagoa do Fogo, el valle termal de Furnas, donde el cozido se cocina enterrado en la tierra caliente, y la plantación de té de Gorreana, en producción desde 1883. Fue villa desde 1499 y ciudad desde 1546, y ganó peso cuando un terremoto destruyó Vila Franca do Campo, la primera capital de la isla, en 1522. Hoy vive del puerto, de los servicios públicos y de un turismo que creció mucho en la última década, con avistamiento de ballenas todo el año y caminatas por la naturaleza volcánica."
+    },
+    {
+      "label": "Moneda e idioma",
+      "value": "Se paga en euros (€), como en el resto de Portugal. El idioma es el portugués con acento micaelense, bastante cerrado al oído; en hoteles, operadores de excursiones y restaurantes del centro se manejan en inglés y a veces en español. La tarjeta se acepta en casi todos lados, y hay cajeros Multibanco en el centro. Conviene tener monedas para el Mini BUS urbano (0,50 € a bordo) y para los colectivos interurbanos, que se pagan al chofer."
+    },
+    {
+      "label": "Mejor época",
+      "value": "El clima es oceánico y cambiante: puede llover, salir el sol y volver la neblina en el mismo día, y las lagunas de altura muchas veces quedan tapadas por nubes. El verano europeo (junio a septiembre) es la época más estable y más cara; en esos meses rige el shuttle obligatorio a la Lagoa do Fogo. Primavera y otoño traen menos gente y precios más bajos. El avistamiento de cetáceos funciona todo el año. Para las lagunas, mirá las cámaras web y el pronóstico antes de subir y andá temprano."
+    },
+    {
+      "label": "Visado",
+      "value": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos entran sin visa como turistas hasta 90 días dentro de cualquier período de 180, sumando todo el espacio Schengen, del que las Azores forman parte. Desde el 10 de abril de 2026 funciona plenamente el EES (Sistema de Entradas y Salidas): en el primer ingreso te registran huellas y foto en vez de sellar el pasaporte. El ETIAS, un permiso online de 20 € válido tres años, todavía no rige: la Unión Europea anunciará la fecha con meses de anticipación. Con pasaporte europeo, nada de esto te aplica."
+    }
+  ],
+  "intro": [
+    "Ponta Delgada es una ciudad chica, de calles empedradas en blanco y negro, iglesias de piedra volcánica y una costanera abierta al Atlántico. Se recorre caminando en un día. Pero la mayoría llega por otra razón: es la base más práctica para conocer São Miguel, una isla de cráteres con lagunas, vacas en praderas verdísimas, aguas termales y fumarolas. Desde acá salen los barcos para ver ballenas y delfines, los colectivos a los pueblos y casi todas las excursiones.",
+    "La gracia de la isla es la variedad en distancias cortas. A la mañana podés mirar desde el borde de un cráter las dos lagunas de Sete Cidades, una azul y otra verde. A la tarde, meterte en el agua caliente y anaranjada del Parque Terra Nostra o de la Poça da Dona Beija, en Furnas. Al otro día, recorrer una fábrica de té de 1883, entrar a un tubo de lava bajo la ciudad o comer un cozido que pasó horas enterrado en la tierra caliente.",
+    "No es un destino barato, pero se puede armar con cabeza. Varias de las mejores vistas son gratis: los miradores de Sete Cidades, la Lagoa do Fogo, las plantaciones de té y de ananá, el casco histórico. Lo que se paga son las termas, algunas reservas naturales y las salidas al mar. La clave es el clima: tené días de margen, porque cuando la neblina tapa los cráteres conviene cambiar el plan y dejar las lagunas para cuando se despeje."
+  ],
+  "historia_corta": "Las Azores estaban deshabitadas cuando los portugueses empezaron a poblarlas en el siglo XV. São Miguel se organizó primero alrededor de Vila Franca do Campo, en la costa sur, que fue la sede de la capitanía. Ponta Delgada era al principio un poblado de pescadores y casas de familias nobles que no querían depender de Vila Franca, y en 1499 recibió el título de villa. En 1518 se instaló allí la aduana, y en 1522 un terremoto y un deslizamiento sepultaron Vila Franca: desde entonces Ponta Delgada quedó como cabeza de la isla. El rey Juan III le dio el título de ciudad el 2 de abril de 1546, en reconocimiento a su crecimiento y a su puerto, donde paraban a reabastecerse las naves de la carrera de la India. Entre 1552 y comienzos de la década de 1580 se levantó el Fuerte de São Brás contra los corsarios. Una epidemia de peste entre 1523 y 1531 llevó a los vecinos a tomar a San Sebastián como patrono y a ampliar la iglesia Matriz. En 1783 se construyeron las Portas da Cidade junto al muelle. En el siglo XIX la exportación de naranjas hizo ricas a las familias terratenientes, que llenaron la ciudad de casonas y jardines; cuando las plagas arruinaron la naranja, la isla se volcó al ananá en invernadero y al té. En 1861 se colocó la piedra fundamental del puerto artificial, cuyas obras se extendieron hasta 1942. Tras la Revolución de 1974, las Azores pasaron a ser Región Autónoma y Ponta Delgada quedó como sede de la Presidencia del Gobierno Regional. Hoy es la mayor ciudad del archipiélago.",
+  "queVer": [
+    {
+      "nombre": "Lagunas de Sete Cidades (Lagoa das Sete Cidades)",
+      "desc": "Dos lagunas, una azul y otra verde, en el fondo de una caldera volcánica en el oeste de la isla: la postal más conocida de las Azores.",
+      "detalle": "Sete Cidades (Siete Ciudades) es un complejo volcánico en el extremo oeste de São Miguel. Su caldera casi circular se formó en tres colapsos sucesivos, el primero hace unos 35.700 años. En el fondo están la Lagoa Azul y la Lagoa Verde, unidas por un puente angosto, y un pueblito del mismo nombre.\n\nLa vista clásica es desde el Miradouro da Vista do Rei (mirador de la Vista del Rey), sobre el borde sur del cráter. Más arriba está el mirador de la Boca do Inferno, al que se llega con una caminata corta desde el estacionamiento; muestra las lagunas y los conos interiores de una sola vez. Abajo, en el pueblo, se puede caminar por la orilla de las lagunas.\n\nLo que más conviene saber es el clima. La caldera se llena de nubes con facilidad y la vista puede desaparecer en minutos. Mirá el pronóstico y, si podés, dejá un día libre para volver. Andá temprano: a media mañana llegan las excursiones.\n\nLlegar sin auto es posible pero lento: hay colectivos de Auto Viação Micaelense con pocas salidas por día. Por eso muchos van en excursión de medio día en 4x4.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Oeste de São Miguel; se llega en auto, colectivo interurbano o excursión desde Ponta Delgada"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año, en días despejados; temprano a la mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (miradores y pueblo, espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Valle de Furnas y Lagoa das Furnas",
+      "desc": "Un pueblo dentro de un valle volcánico con fumarolas, fuentes calientes y la laguna donde se cocina el cozido enterrado en la tierra.",
+      "detalle": "Furnas es un pueblo del municipio de Povoação metido en una caldera volcánica, en el este de la isla. Es el lugar donde mejor se siente que la isla está viva: hay caldeiras (fuentes de agua hirviendo) humeando en plena calle, olor a azufre y decenas de manantiales con aguas de distinta temperatura y sabor.\n\nA orillas de la Lagoa das Furnas está la zona de las caldeiras donde los restaurantes entierran las ollas del cozido das Furnas, un guiso de carnes, embutidos y verduras que se cocina entre 5 y 7 horas con el calor del suelo. Si llegás a media mañana, ves cómo sacan las ollas. Alrededor de la laguna hay senderos para caminar.\n\nEl acceso a la zona de las caldeiras de la laguna se cobra a los visitantes no residentes. Dentro del pueblo están también el Parque Terra Nostra y la Poça da Dona Beija, así que lo lógico es dedicarle un día entero.\n\nDesde Ponta Delgada el colectivo tarda alrededor de 1 h 15. Si querés comer cozido, reservá con un día de anticipación.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Este de la isla; alrededor de 1 h 15 en colectivo desde Ponta Delgada (según Travel Azores)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; a media mañana para ver salir las ollas del cozido"
+        },
+        {
+          "label": "Entrada",
+          "value": "Zona de caldeiras de la laguna: 3 € por adulto, residentes de las Azores exentos (fuente: Lusa, agosto de 2025, y RTP Açores; tasa de la Câmara Municipal da Povoação, verificado octubre 2026). El pueblo es gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "Día entero (junto con Terra Nostra y Dona Beija)"
+        }
+      ]
+    },
+    {
+      "nombre": "Parque Terra Nostra (Furnas)",
+      "desc": "Jardín botánico histórico de Furnas con una gran piscina de agua termal anaranjada, a entre 38 y 42 °C, abierta a los visitantes.",
+      "detalle": "El Parque Terra Nostra empezó en 1782, cuando Thomas Hickling, un comerciante de Boston, compró el terreno, plantó un roble que todavía está y al año siguiente construyó su casa de campo, la Yankee Hall, con un estanque. En 1848 lo compraron los vizcondes de la Praia, que lo ampliaron y le sumaron las araucarias y el trazado que hoy se recorre.\n\nHoy es un jardín de varias hectáreas con colecciones de camelias, helechos, cícadas y bromelias, senderos entre arroyos y, en el centro, el tanque termal. El agua sale de un manantial volcánico a entre 38 y 42 °C y es rica en hierro, de ahí el color anaranjado. También hay jacuzzis termales, vestuarios con duchas y lockers.\n\nOjo con la ropa: el agua ferrosa mancha. Conviene una malla oscura y lavarla antes de que se seque. Está prohibido tirarse al tanque y entrar con comida o botellas de vidrio.\n\nLa entrada incluye el jardín, las colecciones y el uso del tanque y los jacuzzis. Se compra online para una fecha; los residentes de las Azores tienen precio reducido sólo en la boletería. Si te alojás en el Terra Nostra Garden Hotel, el acceso es ilimitado.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En el centro de Furnas (Largo Marquês da Praia e Monforte)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; días de lluvia también sirven, porque el agua está caliente"
+        },
+        {
+          "label": "Entrada",
+          "value": "17 € por persona (IVA incluido); hay boletos para familias (2 adultos + 2 niños) y tarifa reducida para residentes de las Azores sólo en boletería (fuente: parqueterranostra.com, verificado octubre 2026). Horario publicado: todos los días 10:30–16:30, cerrado el 25 de diciembre"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Lagoa do Fogo (Laguna del Fuego)",
+      "desc": "Laguna en el cráter del volcán Água de Pau, en el centro de la isla; reserva natural sin construcciones alrededor y con playa de arena.",
+      "detalle": "La Lagoa do Fogo ocupa la caldera del macizo de Água de Pau, en el centro de São Miguel, y es la laguna más alta de la isla. Es reserva natural desde 1974 y hoy forma parte del Parque Natural de São Miguel. No hay ninguna construcción alrededor: sólo el cráter verde, el agua y una playita de arena en la orilla.\n\nSe la mira desde varios miradores sobre la ruta que cruza la isla entre Lagoa y Ribeira Grande. Desde la zona del mirador se puede bajar caminando hasta la orilla.\n\nEn verano el acceso cambia. De junio a fines de septiembre, entre las 9 y las 19, la ruta al mirador se cierra a los autos de alquiler y se sube con un shuttle (colectivo lanzadera) que sale de dos estacionamientos: Caldeira Velha, del lado de Ribeira Grande, y la Casa da Água, del lado de Lagoa. El boleto vale para subir y bajar en las paradas (Bela Vista, Lagoa do Fogo y Pico da Barrosa) durante el día reservado.\n\nComo en Sete Cidades, la niebla manda: si está cerrado, no vas a ver nada. Combinalo con un baño en la Caldeira Velha.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de la isla, sobre la ruta entre Lagoa (costa sur) y Ribeira Grande (costa norte)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días despejados; en verano, con el shuttle reservado"
+        },
+        {
+          "label": "Entrada",
+          "value": "Mirador y sendero gratis. En temporada de verano, shuttle obligatorio de 9 a 19 h: 5 €, gratis para menores de 6 y residentes de las Azores (fuente: lagoadofogo.pt, operador Atlântico Energy, y Gobierno de las Azores; verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 4 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Portas da Cidade y casco histórico",
+      "desc": "Los tres arcos de 1783 frente al puerto, la iglesia Matriz de San Sebastián y las calles empedradas del centro, para recorrer caminando.",
+      "detalle": "Las Portas da Cidade (Puertas de la Ciudad) son tres arcos de piedra basáltica oscura y revoque blanco, levantados en 1783 junto al antiguo muelle. Hoy están en la plaza Gonçalo Velho, frente a la costanera, y son el símbolo de Ponta Delgada.\n\nA pasos está la iglesia Matriz de São Sebastião (San Sebastián), patrono de la ciudad desde que los vecinos lo eligieron tras la peste de 1523–1531; su campanario se terminó en 1624. Siguiendo la costanera hacia el oeste llegás al Fuerte de São Brás, construido entre 1552 y comienzos de la década de 1580 para defender la ciudad de los corsarios, y al Campo de São Francisco, con el convento de Nossa Senhora da Esperança.\n\nLo lindo es caminar sin apuro: veredas con dibujos de piedra blanca y negra, casonas del siglo XIX pagadas con la exportación de naranjas, plazas, el mercado y el puerto deportivo.\n\nUna mañana alcanza para el centro. Si venís en crucero o con pocas horas, este es el plan. Para moverte por la ciudad sin caminar, el Mini BUS urbano cuesta 0,50 €.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Ponta Delgada, frente al puerto"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; a la mañana o al atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Avistamiento de ballenas y delfines",
+      "desc": "Salidas en barco desde la marina de Ponta Delgada para ver cachalotes, otras ballenas y delfines en mar abierto, todo el año.",
+      "detalle": "Frente a São Miguel se ven delfines y, según la época, cachalotes y otras ballenas. Las salidas parten de la marina de Ponta Delgada, a pasos del centro.\n\nLa excursión dura medio día, unas 3 horas. Los operadores trabajan con vigías en tierra que avisan a los barcos dónde hay animales. Se puede elegir entre catamarán, más estable y con baño, o semirrígido tipo Zodiac, más rápido y movido; el Zodiac no se recomienda para menores de 6 años ni para quien se marea mucho.\n\nFuturismo, uno de los operadores de la marina, publica una tasa de éxito del 98%. Antes de reservar, preguntá qué pasa si no se ve nada: en general ofrecen repetir otro día.\n\nLlevá abrigo y protector solar aunque esté nublado, y tomá algo para el mareo si sos sensible. Si el mar está bravo, la salida se cancela y te devuelven el dinero o te reprograman.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sale de la marina de Ponta Delgada"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; la variedad de especies cambia según la estación"
+        },
+        {
+          "label": "Entrada",
+          "value": "Desde 70 € por adulto con Futurismo (fuente: futurismo.pt, verificado octubre 2026); desde 74,90 € con Picos de Aventura (fuente: picosdeaventura.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Unas 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Gruta do Carvão",
+      "desc": "El tubo de lava más largo de São Miguel, debajo de la propia ciudad, con visitas guiadas cortas o largas para ver cómo corrió la lava.",
+      "detalle": "La Gruta do Carvão (Gruta del Carbón) es un antiguo túnel de lava en la parroquia de Santa Clara, en el oeste de Ponta Delgada. Con 1.650 metros es el tubo de lava más largo de la isla. Ya lo describía el cronista Gaspar Frutuoso en el siglo XVI, y desde 2005 es Monumento Natural Regional.\n\nSe entra siempre con guía. La visita corta recorre unos 200 metros y dura entre 30 y 45 minutos: se ven las paredes con las marcas de los distintos niveles de lava, estalactitas de lava y formaciones de colores. La visita larga dura entre 2 y 3 horas, es para grupos muy chicos y se hace por reserva, según la disponibilidad de guías.\n\nLa visita corta sale a las 10:30, 11:30, 14:30, 15:30 y 16:30. Conviene reservar online, porque los grupos son reducidos. Si sos estudiante o menor, llevá documento.\n\nEs un buen plan para un día de lluvia, cuando las lagunas están tapadas, y queda dentro de la ciudad.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Oeste de Ponta Delgada (parroquia de Santa Clara)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; ideal en días de lluvia"
+        },
+        {
+          "label": "Entrada",
+          "value": "Visita corta: 11 € adulto; 8,50 € estudiantes y mayores de 65; gratis para residentes de las Azores. Visita larga: 35 € por reserva (fuente: grutadocarvao.pt, verificado octubre 2026). Abre todos los días 10–12:30 y 14–18 h"
+        },
+        {
+          "label": "Duración",
+          "value": "30 a 45 minutos (corta); 2 a 3 horas (larga)"
+        }
+      ]
+    },
+    {
+      "nombre": "Poça da Dona Beija (Furnas)",
+      "desc": "Piletas de agua termal a unos 39 °C entre helechos en Furnas, abiertas hasta la noche; boletos sólo online.",
+      "detalle": "La Poça da Dona Beija es un complejo de piletas chicas de agua termal en Lomba das Barracas, en Furnas, rodeado de vegetación. El agua sale a alrededor de 39 °C y, como en Terra Nostra, es ferrosa: mancha la ropa clara, así que llevá una malla oscura.\n\nA diferencia de Terra Nostra no hay jardín para recorrer: es directamente para bañarse. Su ventaja es el horario largo. Abre todos los días de 8:30 a 23:00, con última entrada a las 21:30, y de noche, con las piletas iluminadas, es una experiencia distinta.\n\nLos boletos se compran sólo online en el sitio oficial y no se devuelven ni se cambian; hay que mostrar el código QR. A la noche cuesta más. Hay vestuarios, duchas frías incluidas, ducha caliente con monedas (1 €), alquiler de toalla (4 € más 20 € de garantía en efectivo) y lockers (2 € más garantía).\n\nEl agua ferrosa baja la presión: embarazadas, bebés, mayores y personas con problemas de salud deben tener cuidado y no quedarse mucho tiempo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Furnas, este de la isla"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; de noche tiene menos gente que en el mediodía"
+        },
+        {
+          "label": "Entrada",
+          "value": "Hasta las 17:30: 12 € por persona; desde las 18:00: 16 €. Niños de 2 a 6 años: 10 € y 14 €. Menores de 2, gratis. Sólo online (fuente: pocadadonabeija.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Plantación de ananás Augusto Arruda (Fajã de Baixo)",
+      "desc": "Invernaderos de vidrio de más de cien años donde se cultiva el ananá de São Miguel; visita gratuita y degustación de licor.",
+      "detalle": "El ananá (piña) de São Miguel es un caso raro: se cultiva en invernaderos de vidrio desde el siglo XIX, cuando la isla buscó reemplazar a la naranja. La plantación Augusto Arruda, en Fajã de Baixo, en las afueras de Ponta Delgada, tiene más de cien años de historia y funciona como museo vivo de este cultivo.\n\nLa visita es gratuita y permite recorrer los invernaderos y ver las distintas fases de crecimiento de la planta. En la tienda se puede probar gratis el licor de ananá de la familia, hecho con una receta propia, y en el quiosco venden jugo, torta de ananá, piña colada y la fruta.\n\nEs una visita corta, de alrededor de una hora, y fácil de sumar a un día en la ciudad o de camino al aeropuerto en auto.\n\nPara llegar sin auto, desde el centro conviene un taxi corto.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Fajã de Baixo, afueras de Ponta Delgada"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis, con degustación de licor gratuita (fuente: ananasesarruda.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Plantación y fábrica de té Gorreana",
+      "desc": "La plantación de té de 1883 en la costa norte, con fábrica centenaria en funcionamiento; visita y degustación gratis, sin reserva.",
+      "detalle": "En la costa norte de São Miguel, entre colinas que bajan al mar, está la plantación de té Gorreana, que produce desde 1883 y se presenta como la plantación de té orgánico más antigua de Europa. Hace té negro y verde con técnicas tradicionales.\n\nLa visita recorre la fábrica sala por sala: la de marchitado, donde las hojas pierden humedad; la de enrollado, que libera los aceites; la de oxidación, que define el té negro; y las de secado y esterilización. Al final se prueba el té gratis, y en la tienda se compran hebras y mezclas, como té negro con menta de Maia o verde con hibisco.\n\nLas visitas y degustaciones son gratuitas y no hace falta reservar. Después podés caminar libremente entre las hileras de té y mirar el paisaje. Una hora alcanza, pero si te gustan las caminatas hay senderos por las plantaciones.\n\nQueda a trasmano si no tenés auto: lo más práctico es sumarlo a una excursión de día completo o a un recorrido en auto por la costa norte.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Costa norte de São Miguel (Gorreana, cerca de Maia)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; con sol, la vista de las plantaciones es mucho mejor"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis, sin reserva (fuente: gorreana.pt, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Caldeira Velha (Ribeira Grande)",
+      "desc": "Monumento natural con cascada de agua tibia y pozones termales entre helechos gigantes, en la ladera norte del volcán de la Lagoa do Fogo.",
+      "detalle": "La Caldeira Velha es un monumento natural en la ladera norte del macizo de Água de Pau, en el municipio de Ribeira Grande, sobre la ruta que sube a la Lagoa do Fogo. Es un valle angosto, cubierto de helechos arborescentes, donde hay una cascada de agua tibia y pozones de agua termal.\n\nTiene un centro de interpretación sobre la geología y la vegetación de la zona. Se puede entrar sólo a recorrer o pagar el boleto que incluye el baño en los pozones, que es lo que la mayoría elige.\n\nEl lugar está gestionado por los Parques Naturales de las Azores, que limitan la cantidad de visitantes. Los boletos se compran online en la boletería oficial, pero sólo para el día siguiente: no se venden online para el mismo día. Los residentes de las Azores no pagan la primera entrada del día.\n\nEn verano su estacionamiento es una de las dos cabeceras del shuttle de la Lagoa do Fogo, así que podés combinar las dos cosas en una mañana. Llevá malla oscura: el agua ferrosa mancha.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Ribeira Grande, costa norte, sobre la ruta a la Lagoa do Fogo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; en verano reservá con un día de anticipación"
+        },
+        {
+          "label": "Entrada",
+          "value": "Visita: 3 € adulto, 1 € jóvenes y mayores, 5 € familia, gratis menores de 7. Con baño: 10 € adulto, 5 € jóvenes y mayores. Residentes de las Azores gratis (fuente: parquesnaturais.azores.gov.pt, boletería oficial, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Parque Terra Nostra (jardín + piscina termal), Furnas",
+      "precio": "17 € por persona, IVA incluido; boletos familiares (2 adultos + 2 niños) y tarifa reducida para residentes de las Azores sólo en boletería (fuente: parqueterranostra.com, verificado octubre 2026). Se compra online para una fecha o en la boletería del parque"
+    },
+    {
+      "tipo": "Poça da Dona Beija (piletas termales), Furnas",
+      "precio": "12 € por persona hasta las 17:30; 16 € desde las 18:00. Niños de 2 a 6 años: 10 € / 14 €. Menores de 2 gratis. Toalla 4 € + 20 € de garantía (fuente: pocadadonabeija.com, verificado octubre 2026). Sólo online en bookings.pocadadonabeija.com, sin devoluciones"
+    },
+    {
+      "tipo": "Gruta do Carvão (tubo de lava), Ponta Delgada",
+      "precio": "Visita corta 11 € adulto; 8,50 € estudiantes y mayores de 65; gratis residentes de las Azores. Visita larga 35 € (fuente: grutadocarvao.pt, verificado octubre 2026). Reserva online en grutadocarvao.pt o por teléfono"
+    },
+    {
+      "tipo": "Caldeira Velha (monumento natural con pozones termales), Ribeira Grande",
+      "precio": "Sólo visita: 3 € adulto, 1 € jóvenes y mayores, 5 € familia, gratis menores de 7. Con baño: 10 € adulto, 5 € jóvenes y mayores. Residentes de las Azores gratis (fuente: parquesnaturais.azores.gov.pt, verificado octubre 2026). Online sólo para el día siguiente"
+    },
+    {
+      "tipo": "Shuttle de la Lagoa do Fogo (obligatorio en verano, 9 a 19 h)",
+      "precio": "5 € por persona, gratis menores de 6; residentes de las Azores gratis; boleto no reembolsable y válido todo el día reservado (fuente: lagoadofogo.pt y Gobierno de las Azores, verificado octubre 2026). Se compra online o en agentes"
+    },
+    {
+      "tipo": "Zona de caldeiras de la Lagoa das Furnas",
+      "precio": "3 € por adulto para visitantes; residentes de las Azores exentos (fuente: Lusa, agosto de 2025, y RTP Açores; tasa de la Câmara Municipal da Povoação, verificado octubre 2026). Se paga en el acceso"
+    },
+    {
+      "tipo": "Miradores de Sete Cidades (Vista do Rei, Boca do Inferno) y Lagoa do Fogo fuera de temporada",
+      "precio": "Gratis (espacio público)"
+    },
+    {
+      "tipo": "Plantación de ananás Augusto Arruda",
+      "precio": "Gratis, con degustación de licor sin cargo (fuente: ananasesarruda.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Fábrica de té Gorreana",
+      "precio": "Gratis, visita y degustación sin reserva (fuente: gorreana.pt, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Portas da Cidade y casco histórico de Ponta Delgada",
+      "precio": "Gratis (espacio público)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Avistamiento de ballenas y delfines desde la marina",
+      "precio": "Desde 70 € por adulto con Futurismo (fuente: futurismo.pt, verificado octubre 2026); desde 74,90 € con Picos de Aventura (fuente: picosdeaventura.com, verificado octubre 2026); 70 € en Civitatis (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "Medio día (unas 3 horas)",
+      "operador": "Futurismo, Picos de Aventura y otros operadores de la marina de Ponta Delgada"
+    },
+    {
+      "actividad": "Jeep tour a Sete Cidades (medio día)",
+      "precio": "Desde 50 € por persona (fuente: futurismo.pt, verificado octubre 2026)",
+      "duracion": "Medio día",
+      "operador": "Futurismo"
+    },
+    {
+      "actividad": "Excursión de día completo a Sete Cidades y Lagoa do Fogo",
+      "precio": "Desde 80 € en jeep (fuente: futurismo.pt, verificado octubre 2026); 70 € en excursión en español (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "Día completo (unas 8 horas)",
+      "operador": "Futurismo; excursiones vendidas por Civitatis"
+    },
+    {
+      "actividad": "Excursión a Furnas con plantación de té",
+      "precio": "Desde 90 € en van (fuente: futurismo.pt, verificado octubre 2026); 70 € excursión en español a Furnas + plantaciones de té (fuente: civitatis.com, verificado octubre 2026). Entradas a termas, en general, aparte",
+      "duracion": "Día completo (unas 8 horas)",
+      "operador": "Futurismo; operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Nado con delfines en São Miguel",
+      "precio": "150 € por persona (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "2 a 2,5 horas",
+      "operador": "Operadores de la marina (Picos de Aventura ofrece esta salida; reserva vía Civitatis)"
+    },
+    {
+      "actividad": "Barranquismo (canyoning) en Ribeira dos Caldeirões",
+      "precio": "65–80 € por persona según salida (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "2 a 4 horas",
+      "operador": "Operadores de aventura vía Civitatis; Picos de Aventura también lo ofrece"
+    },
+    {
+      "actividad": "Paseo en barco con fondo de vidrio o avistamiento + islote de Vila Franca",
+      "precio": "50 € el paseo con fondo de vidrio; desde 65 € el avistamiento con paso por el islote (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "2 a 3 horas",
+      "operador": "Operadores de Vila Franca do Campo y Ponta Delgada vía Civitatis"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Mini BUS urbano de Ponta Delgada",
+      "precio": "0,50 € el boleto a bordo; 4 € el bono de 10 viajes; pase semanal 5 €; pase mensual general 16 € (fuente: cm-pontadelgada.pt, Câmara Municipal, verificado octubre 2026)",
+      "duracion": "Recorridos cortos dentro de la ciudad",
+      "notas": "Lo opera la Municipalidad. Funciona días hábiles de 7:30 a 19:30 y sábados de 8:30 a 13:00; los domingos no hay servicio. Los pases se compran en los puntos de venta habituales, no a bordo. Útil para no caminar las subidas o llegar a la zona de hoteles."
+    },
+    {
+      "medio": "Colectivos interurbanos de São Miguel",
+      "precio": "Ponta Delgada–Furnas: entre 3 y 5 € según el recorrido, pagado al chofer (fuente: Travel Azores, guía, marzo 2026; los operadores no publican tarifario online, verificado octubre 2026)",
+      "duracion": "Ponta Delgada–Furnas, alrededor de 1 h 15",
+      "notas": "Hay tres empresas: Auto Viação Micaelense (oeste y norte, incluida Sete Cidades), Caetano Raposo e Pereiras y Varela & Cª. Publican horarios en PDF y hay una app no oficial de horarios de colectivos de la isla (sólo Android). Las frecuencias a Sete Cidades y a la costa norte son bajas y los domingos hay menos salidas: armá el día con el horario de vuelta en la mano."
+    },
+    {
+      "medio": "Shuttle de la Lagoa do Fogo (temporada de verano)",
+      "precio": "5 € por persona, gratis menores de 6 (fuente: lagoadofogo.pt, operador Atlântico Energy, verificado octubre 2026)",
+      "duracion": "Servicio de 9 a 19 h, sube y baja en el día",
+      "notas": "Sale de los estacionamientos de Caldeira Velha (Ribeira Grande) y Casa da Água (Lagoa), con paradas en Bela Vista, Lagoa do Fogo y Pico da Barrosa. En 2025 rigió del 15 de junio al 30 de septiembre, con prohibición de circular a los autos de alquiler en ese horario (Gobierno de las Azores). Reservá online en julio y agosto."
+    },
+    {
+      "medio": "Taxi",
+      "precio": "Aeropuerto–centro de Ponta Delgada: alrededor de 12–15 € (fuente: Travel Azores, guía, marzo 2026)",
+      "duracion": "Aeropuerto–centro: pocos minutos",
+      "notas": "Hay paradas en el aeropuerto y en el centro. Para excursiones de día completo algunos taxistas ofrecen recorridos a precio cerrado: acordá el valor antes de salir."
+    },
+    {
+      "medio": "Auto de alquiler",
+      "precio": "Octubre (temporada media): económicos ~22–34 € por día y compactos manuales ~28–42 € con reserva anticipada; automáticos ~40–55 € (fuente: Auto Jardim, guía de alquiler, verificado octubre 2026)",
+      "duracion": "Libre",
+      "notas": "Es la forma más cómoda de recorrer la isla, porque los colectivos tienen pocas salidas a los miradores. La mayoría retira en el aeropuerto. En general piden 21 años como mínimo y cobran recargo a menores de 25. En verano, el auto no puede subir a la Lagoa do Fogo entre las 9 y las 19."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Lisboa → Ponta Delgada (avión)",
+      "empresas": "TAP Air Portugal y Azores Airlines (SATA), entre otras",
+      "precio": "Desde 130 € ida y vuelta en económica según fechas (fuente: flytap.com, tarifas vistas en octubre 2026)",
+      "duracion": "Vuelo directo de unas 2 horas y media"
+    },
+    {
+      "ruta": "Oporto o Faro → Ponta Delgada (avión)",
+      "empresas": "TAP Air Portugal y Azores Airlines (SATA), entre otras",
+      "precio": "Desde 164 € ida y vuelta desde Oporto y desde 163 € desde Faro (fuente: flytap.com, tarifas vistas en octubre 2026)",
+      "duracion": "Vuelo directo"
+    },
+    {
+      "ruta": "Sudamérica → Ponta Delgada (con escala en Lisboa)",
+      "empresas": "TAP Air Portugal (desde Brasil, conectando en Lisboa); desde Argentina, Chile, Colombia o México hay que llegar primero a Lisboa u otra ciudad europea",
+      "precio": "Desde Brasil, desde 943 € ida y vuelta (fuente: flytap.com, tarifas vistas en octubre 2026)",
+      "duracion": "Un día de viaje con la conexión"
+    },
+    {
+      "ruta": "Aeropuerto João Paulo II (PDL) → centro de Ponta Delgada",
+      "empresas": "Taxis en la parada del aeropuerto; autos de alquiler en el hall",
+      "precio": "Taxi alrededor de 12–15 € (fuente: Travel Azores, guía, marzo 2026)",
+      "duracion": "El aeropuerto está en Relva, unos 3 km al oeste del centro: pocos minutos"
+    },
+    {
+      "ruta": "Otras islas de las Azores → Ponta Delgada (avión interislas)",
+      "empresas": "SATA Air Açores",
+      "precio": "No residentes: en general 60–120 € por tramo a Terceira o Faial; la Tarifa Açores es sólo para residentes (fuente: Travel Azores, guía, marzo 2026)",
+      "duracion": "Terceira ~35 min; Pico ~45 min; Faial ~50 min"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Hostels y albergues en el centro",
+      "nivel": 2,
+      "opciones": "Hay varios hostels en la ciudad con camas en dormitorio: Azores Dream Hostel desde 20 € y Passal Hostel desde 25 € la noche (fuente: momondo.pt, precios de octubre 2026). A eso se suma la tasa turística municipal de 2 € por persona por noche, hasta 3 noches. En julio y agosto los precios suben y conviene reservar con tiempo."
+    },
+    {
+      "categoria": "Hoteles sencillos y económicos",
+      "nivel": 3,
+      "opciones": "Opciones con habitación privada a precio contenido, como Hotel Solar do Conde desde 40 € o Hotel Vip Executive Azores desde 53 € la noche (fuente: momondo.pt, precios de octubre 2026). Verificá la ubicación: algunos quedan lejos del centro y conviene tener auto. Precios de temporada media; en verano suben."
+    },
+    {
+      "categoria": "Hoteles intermedios cerca de la costanera",
+      "nivel": 4,
+      "opciones": "Mercure Ponta Delgada Azores desde 105 €, Vila Galé Collection São Miguel desde 107 € y Octant Ponta Delgada desde 149 € la noche (fuente: momondo.pt, precios de octubre 2026). Buena base para caminar al centro y a la marina de donde salen los barcos de ballenas. En julio–agosto pueden duplicarse."
+    },
+    {
+      "categoria": "Hoteles de cinco estrellas",
+      "nivel": 5,
+      "opciones": "Grand Hotel Açores Atlântico, cinco estrellas sobre la costanera, desde 108 € la noche en octubre (fuente: momondo.pt, octubre 2026); Azor Hotel, cinco estrellas junto a la marina, alrededor de 166 € la noche en temporada alta según Kayak (fuente: kayak.de, consultado octubre 2026). El Terra Nostra Garden Hotel, en Furnas, incluye acceso ilimitado al parque termal (fuente: parqueterranostra.com, 2026)."
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Cozido das Furnas (guiso cocinado en la tierra volcánica)",
+      "nivel": 4,
+      "opciones": "Carnes de vaca, cerdo y pollo, chorizo, morcilla, repollo, papa y batata, cocinados entre 5 y 7 horas en ollas enterradas junto a la Lagoa das Furnas. En el restaurante del Terra Nostra Garden Hotel cuesta 31 € para uno y 57 € para dos (fuente: Guía Repsol, verificado octubre 2026). También lo sirven Tony's, Caldeiras & Vulcões, Banhos Férreos y Miroma, en Furnas; casi todos piden reservar con 24 horas (fuente: byAçores, marzo 2026)."
+    },
+    {
+      "tipo": "Tascas del centro: lapas, pulpo y petiscos",
+      "nivel": 3,
+      "opciones": "Las lapas (moluscos de roca) a la plancha con manteca y ajo son el clásico. A Tasca (Rua do Aljube 16) sirve lapas, pulpo y pregos (sándwich de bife) por 20–30 € por persona con bebida; no toma reservas, conviene llegar antes de las 19. O Galego tiene platos desde 15 € y Alcides, un clásico del centro, ronda 20–30 € (fuente: Dica de Portugal, blog, 2026)."
+    },
+    {
+      "tipo": "Bife regional y carne de las Azores",
+      "nivel": 3,
+      "opciones": "La carne vacuna de pastura es uno de los orgullos de la isla. El restaurante de la Associação Agrícola de São Miguel, en la costa norte, sirve el bife regional de 400 g con ajo y pimienta de la tierra por 20–30 € por persona con bebida (fuente: Dica de Portugal, blog, 2026). Probá también el queso de São Jorge y el bolo lêvedo, el pan dulce chato de la isla."
+    },
+    {
+      "tipo": "Cocina de autor con producto local",
+      "nivel": 5,
+      "opciones": "Para una cena especial: Tasquinha Vieira, cocina portuguesa contemporánea, 25–40 € por persona; Sacas Rolhas, taberna moderna en São Roque, 25–35 €; Õtaka, cocina nikkei con pescado azoreano, 40–60 € con menú degustación y vino (fuente: Dica de Portugal, blog, 2026). En los tres conviene reservar."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa para ir a las Azores si soy latinoamericano?",
+      "a": "Las Azores son Portugal y forman parte del espacio Schengen. Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos entran como turistas sin visa por hasta 90 días dentro de cualquier período de 180, sumando todos los países Schengen. Desde el 10 de abril de 2026 funciona plenamente el EES: en el primer ingreso al espacio Schengen te toman huellas y foto en vez de sellarte el pasaporte. El ETIAS, un permiso online de 20 € válido por tres años, todavía no está en marcha; la Unión Europea dice que anunciará la fecha con meses de anticipación. Revisalo antes de comprar el pasaje. Llevá pasaje de salida, reserva de alojamiento y seguro médico."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse en Ponta Delgada?",
+      "a": "La ciudad se ve en un día, pero São Miguel pide más. Con cuatro días completos podés hacer Sete Cidades, Furnas con Terra Nostra y la Poça da Dona Beija, la Lagoa do Fogo con la Caldeira Velha, y una salida de ballenas con la Gruta do Carvão o la plantación de ananá en la ciudad. Con una semana sumás Gorreana y la costa norte, Nordeste y algún sendero sin correr. Dejá siempre un día de margen: la neblina puede tapar los cráteres y conviene poder cambiar el plan."
+    },
+    {
+      "q": "¿Hace falta alquilar auto?",
+      "a": "No es obligatorio, pero ayuda mucho. Los colectivos interurbanos llegan a Furnas, Sete Cidades y la costa norte, aunque con pocas salidas y menos los domingos, y no suben a los miradores de altura. El auto en octubre ronda 22–42 € por día en categorías chicas con reserva anticipada. Se maneja por la derecha, con rutas angostas y neblina en las partes altas. En verano, entre las 9 y las 19, los autos de alquiler no pueden subir a la Lagoa do Fogo: se usa el shuttle de 5 €. Sin auto, la otra opción son las excursiones desde 50 € el medio día."
+    },
+    {
+      "q": "¿Qué tasas extra hay que pagar?",
+      "a": "La principal es la tasa turística municipal de Ponta Delgada: 2 € por huésped por noche, con un máximo de 3 noches, que cobra el hotel o el alojamiento local. Están exentos los residentes de las Azores, los menores de hasta 13 años y las personas con discapacidad del 60% o más. Los otros municipios de São Miguel aplican una tasa similar. Además, varias atracciones naturales cobran a los no residentes: 3 € la zona de caldeiras de la Lagoa das Furnas, 3 € la visita a la Caldeira Velha (10 € con baño) y 5 € el shuttle de verano a la Lagoa do Fogo."
+    },
+    {
+      "q": "¿Es seguro Ponta Delgada?",
+      "a": "Es una ciudad tranquila y se puede caminar de noche por el centro y la costanera sin problemas; aplicá las precauciones de siempre con el celular y la billetera en zonas con gente. Los riesgos reales son naturales. En los senderos el clima cambia rápido, hay barro y niebla: llevá abrigo, agua y el celular cargado, y no te salgas de los caminos marcados. En el mar, respetá las banderas y no te metas con oleaje. En las aguas termales no te quedes demasiado tiempo si tenés presión baja. La emergencia en Portugal es el 112."
+    },
+    {
+      "q": "¿Puedo pagar con tarjeta y cuánto se gasta por día?",
+      "a": "Se paga en euros y la tarjeta se acepta casi en todos lados; las entradas a Terra Nostra, Dona Beija, Caldeira Velha y el shuttle de la Lagoa do Fogo se compran online. Llevá efectivo para colectivos y para la garantía de toallas en las termas. Para tener una referencia con precios de 2026: cama en hostel desde 20 €, hotel intermedio desde 105 €, Mini BUS 0,50 €, Terra Nostra 17 €, Dona Beija 12 €, salida de ballenas desde 70 €, un plato de tasca desde 15 € y el cozido de Furnas 31 € por persona en el Terra Nostra."
+    },
+    {
+      "q": "¿Cuándo es mejor ir y qué pasa si llueve?",
+      "a": "El verano europeo, de junio a septiembre, es lo más estable y también lo más caro y lleno. Primavera y otoño tienen menos gente y precios más bajos, con más chance de lluvia. El invierno es templado pero húmedo. Haga el tiempo que haga, las ballenas y delfines se ven todo el año. Si llueve o hay niebla, no vale la pena subir a Sete Cidades o la Lagoa do Fogo: es el día para la Gruta do Carvão, la plantación de ananá, las termas de Furnas, que se disfrutan igual bajo la lluvia, y la fábrica de té Gorreana."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (PT) — «Ponta Delgada»: https://pt.wikipedia.org/wiki/Ponta_Delgada",
+      "Wikipedia (EN) — «Gruta do Carvão»: https://en.wikipedia.org/wiki/Gruta_do_Carv%C3%A3o",
+      "Wikipedia (EN) — «Lagoa do Fogo»: https://en.wikipedia.org/wiki/Lagoa_do_Fogo",
+      "Wikipedia (EN) — «Sete Cidades Massif»: https://en.wikipedia.org/wiki/Sete_Cidades_Massif",
+      "Parque Terra Nostra — «História»: https://www.parqueterranostra.com/pt/historia/"
+    ],
+    "que_ver_atracciones": [
+      "Gruta do Carvão — «Tipos de Visita / Reservas»: https://grutadocarvao.pt/pt",
+      "Parque Terra Nostra — «O que precisa de saber (horário e bilhete)»: https://www.parqueterranostra.com/pt/o-parque/o-que-precisa-de-saber/",
+      "Parque Terra Nostra — «Águas termais: o que precisa de saber»: https://www.parqueterranostra.com/pt/as-aguas-termais/o-que-precisa-de-saber/",
+      "Poça da Dona Beija — «Info: bilhetes e acesso»: https://pocadadonabeija.com/info/",
+      "Gorreana — «Visite a Plantação de Chá»: https://www.gorreana.pt/visit",
+      "Plantações de Ananases A. Arruda — «Visita gratuita»: https://www.ananasesarruda.com/",
+      "byAçores — «Cozido das Furnas – How It’s Made and Where to Eat»: https://byacores.com/en/?p=34104"
+    ],
+    "precios_2026": [
+      "Parques Naturais dos Açores — «Caldeira Velha – Bilheteira»: https://parquesnaturais.azores.gov.pt/en/parques/9/centro/21/bilheteira",
+      "Atlântico Energy — «Lagoa do Fogo shuttle»: https://lagoadofogo.pt",
+      "Governo dos Açores — «Shuttle service to Lagoa do Fogo begins on June 15»: https://portal.azores.gov.pt/en/web/comunicacao/-/gacs-6352",
+      "Lusa vía AMAN Alliance — «LUSA 08/04/2025 (Lagoa das Furnas)»: https://aman-alliance.org/Home/ContentDetail/93256",
+      "RTP Açores — «Aumento da taxa de entrada na zona das caldeiras da Lagoa das Furnas»: https://acores.rtp.pt/?p=22837",
+      "Futurismo — «Tours em São Miguel»: https://www.futurismo.pt/",
+      "Picos de Aventura — «Whale and Dolphin Watching»: https://www.picosdeaventura.com/",
+      "Civitatis — «Excursiones en las Azores»: https://www.civitatis.com/es/azores/",
+      "Câmara Municipal de Ponta Delgada — «Taxa Turística do Município de Ponta Delgada»: https://taxaturistica.cm-pontadelgada.pt/",
+      "Câmara Municipal de Ponta Delgada — «Eu não vou aumentar os impostos... em detrimento da taxa turística»: https://www.cm-pontadelgada.pt/municipio/assembleia-municipal/noticia/eu-nao-vou-aumentar-os-impostos-aos-cidadaos-de-ponta-delgada-em-detrimento-da-taxa-turistica-frisa-pedro-nascimento-cabral"
+    ],
+    "como_llegar_transporte": [
+      "Câmara Municipal de Ponta Delgada — «Mini BUS (horário e preçário)»: https://www.cm-pontadelgada.pt/pages/16",
+      "Travel Azores — «Transportes Públicos nos Açores: guia de transportes e voos inter-ilhas»: https://travel-azores.com/pt/magazine/azores-public-transport-buses-ferries-and-inter-island-flights-guide",
+      "byAçores — «Public Transport in the Azores: Schedules, Prices, and Routes»: https://byacores.com/en/public-transport/",
+      "TAP Air Portugal — «Voos para Ponta Delgada (PDL)»: https://www.flytap.com/pt_pt/voos-para-ponta-delgada",
+      "TAP Air Portugal — «Voos do Brasil para Ponta Delgada»: https://www.flytap.com/pt_pt/voos-de-brasil-para-ponta-delgada",
+      "Auto Jardim — «Aluguer de carros Açores»: https://auto-jardim.com/pt/aluguer-de-carros-acores/"
+    ],
+    "alojamiento_gastronomia": [
+      "momondo — «Hotéis em Ponta Delgada»: https://www.momondo.pt/hoteis/ponta-delgada",
+      "KAYAK — «Azor Hotel, Ponta Delgada»: https://www.kayak.de/Ponta-Delgada-Azoren-Hotels-Azor-Hotel.2582063.ksp",
+      "Guía Repsol — «Cozido das Furnas, São Miguel»: https://www.guiarepsol.com/pt/comer/cozido-furnas-sao-miguel/",
+      "Dica de Portugal — «Melhores Restaurantes em São Miguel nos Açores»: https://dicadeportugal.com/acores/melhores-restaurantes-em-sao-miguel-dos-acores"
+    ],
+    "visas_entrada": [
+      "Euronews — «EU's ETIAS travel authorisation delayed until 2026»: https://www.euronews.com/2025/03/14/eus-etias-travel-authorisation-delayed-until-2026-heres-when-youll-have-to-pay",
+      "TTG Media — «EU confirms October start date for new biometric border rules and ETIAS price hike»: https://www.ttgmedia.com/news/eu-confirms-october-start-date-for-new-biometric-border-rules-and-etias-visa-waiver-price-hike-52893"
+    ]
+  }
+}
