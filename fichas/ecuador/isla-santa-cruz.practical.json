@@ -1,0 +1,671 @@
+{
+  "slug": "isla-santa-cruz",
+  "name": "Isla Santa Cruz",
+  "region": "Islas Galápagos",
+  "lat": -0.7428,
+  "lon": -90.3131,
+  "datosRapidos": [
+    {
+      "label": "Provincia",
+      "value": "Isla Santa Cruz (Galápagos, Ecuador). Es la segunda isla más grande del archipiélago después de Isabela, con unos 986 km², y está en el centro del archipiélago. Su punto más alto es el Cerro Crocker, de 864 metros. En la costa sur está Puerto Ayora, la ciudad más poblada de las islas: 12.696 habitantes en el censo de 2022, y el cantón Santa Cruz completo sumaba 17.233 personas ese año. Ahí tienen su sede la Dirección del Parque Nacional Galápagos y la Estación Científica Charles Darwin, abierta en 1964. Por eso a Puerto Ayora le dicen 'el corazón de las Galápagos'. Santa Cruz se conoce por ser la base más práctica para recorrer el archipiélago por tu cuenta: desde su muelle salen las lanchas a Isabela, San Cristóbal y Floreana, y los tours de un día a islas deshabitadas como Seymour Norte, Plaza Sur, Bartolomé y Santa Fe. En la propia isla hay tortugas gigantes en libertad en la parte alta, túneles de lava, un bosque de escalesias y Bahía Tortuga, una playa de arena blanca a la que se llega caminando desde el pueblo. Según el Parque, Bahía Tortuga, el Centro de Crianza Fausto Llerena y Las Grietas fueron los sitios más visitados de Santa Cruz en 2024. El 97% del archipiélago es parque nacional desde 1959, y las islas son Patrimonio Mundial de la Unesco desde 1978"
+    },
+    {
+      "label": "Moneda",
+      "value": "Ecuador usa el dólar estadounidense (US$), así que en Galápagos se paga todo en dólares. El tributo del Parque se paga al llegar al aeropuerto y la Tarjeta de Control de Tránsito (US$ 20) en Quito o Guayaquil, así que conviene llegar con efectivo en billetes chicos. Hoteles, agencias y restaurantes medianos de Puerto Ayora suelen aceptar tarjeta, pero los taxis, los taxis acuáticos (bote-taxis) y los kioscos de comida cobran en efectivo. Viajeros que estuvieron en 2025 avisan que hay pocos cajeros en las islas. Si venís de Argentina, Chile, Colombia, México, Perú o Uruguay, comprá dólares antes o sacá en el continente, y calculá la comisión de tu banco"
+    },
+    {
+      "label": "Ciudad de servicio",
+      "value": "Puerto Ayora concentra hoteles, agencias, bancos, el muelle de lanchas y las oficinas del Parque. El aeropuerto que sirve a Santa Cruz está en la isla vecina de Baltra (código GPS), al norte. Para llegar al pueblo hay que tomar un bus hasta el Canal de Itabaca, cruzarlo en barcaza (US$ 1) y seguir en bus o taxi unos 45 minutos hasta Puerto Ayora. Al aeropuerto de Baltra se vuela sólo desde Quito y Guayaquil, que son los aeropuertos autorizados para pasajeros y carga hacia las islas. Desde el muelle de Puerto Ayora salen lanchas rápidas a Isabela (Puerto Villamil), San Cristóbal (Puerto Baquerizo Moreno) y Floreana, en unas 2 horas"
+    },
+    {
+      "label": "Visado y requisitos",
+      "value": "Para entrar a Ecuador, argentinos, uruguayos, chilenos, colombianos, peruanos y el resto de los sudamericanos pueden usar su cédula o DNI vigente; los demás, pasaporte con seis meses de vigencia. México no está en la lista oficial de países que piden visa (Venezuela y Cuba sí). Para Galápagos hay tres pasos más: la Tarjeta de Control de Tránsito (TCT) de US$ 20 del Consejo de Gobierno, con pasaje de ida y vuelta; la revisión de equipaje de la Agencia de Bioseguridad (ABG) antes de embarcar; y el tributo del Parque al aterrizar. Como turista podés estar hasta 60 días por año en la provincia de Galápagos"
+    }
+  ],
+  "intro": [
+    "Santa Cruz es la isla donde casi todos los que viajan a Galápagos por su cuenta terminan armando la base. Puerto Ayora tiene hoteles para todos los bolsillos, comida barata en la calle de los kioscos y un muelle desde el que salen lanchas y tours a media docena de islas. Y sin subirte a ningún barco ya ves mucho: lobos marinos durmiendo en los bancos del muelle de pescadores, iguanas marinas en la playa y tortugas gigantes caminando entre los pastos de la parte alta.",
+    "La isla cambia mucho en pocos kilómetros. En la costa hace calor, crecen cactus y hay playas de arena blanca como Bahía Tortuga. Subiendo hacia el Cerro Crocker el aire se pone húmedo y aparecen los bosques de escalesia de Los Gemelos y los potreros donde se juntan las tortugas de El Chato. En media hora de auto pasás de un paisaje casi desértico a uno verde y con neblina, y eso explica buena parte de la variedad de animales que vas a cruzarte.",
+    "Galápagos no es barato: sólo entrar cuesta US$ 100 o US$ 200 según tu nacionalidad, más US$ 20 de la tarjeta de tránsito, y los tours a otras islas salen más de US$ 200. Pero Santa Cruz es donde mejor se estira el presupuesto. Muchos de sus sitios de visita son gratis o cuestan unos pocos dólares, se llega a pie o en un bote-taxi, y podés elegir qué excursiones pagar en vez de comprar un crucero completo."
+  ],
+  "historia_corta": "Las Galápagos fueron descubiertas por casualidad el 10 de marzo de 1535 por fray Tomás de Berlanga, que navegaba de Panamá a Perú. Durante siglos fueron refugio de piratas y balleneros, que bautizaron a esta isla con varios nombres: el pirata inglés William Ambrosia Cowley la llamó Duke of Norfolk's Island en 1684 y los británicos después la conocieron como Indefatigable, por el buque HMS Indefatigable. Ecuador anexó el archipiélago el 12 de febrero de 1832, y en el cambio de nombres de 1892 la isla pasó a llamarse Santa Cruz. Charles Darwin llegó con el Beagle en septiembre de 1835 y estudió cuatro islas del archipiélago. La bahía de Puerto Ayora, Academy Bay (Bahía de la Academia), debe su nombre a la goleta Academy de la Academia de Ciencias de California, que la visitó en 1905. En 1926 llegó un grupo de colonos noruegos que soñaba con una fábrica de conservas y una comuna agrícola; con ellos empezó el poblado, que tomó el nombre del presidente Isidro Ayora. En 1959 el gobierno de Camilo Ponce Enríquez declaró parque nacional el 97% del archipiélago, el primer área protegida del Ecuador, y en 1964 abrió la Estación Científica Charles Darwin en Puerto Ayora. Las Galápagos se volvieron Patrimonio Mundial de la Unesco en 1978 y provincia ecuatoriana el 18 de febrero de 1973. En 1971 se encontró en la isla Pinta al Solitario George, la última tortuga de su especie, que vivió en Santa Cruz hasta su muerte el 24 de junio de 2012; su cuerpo embalsamado se exhibe desde 2017 en el Centro de Crianza Fausto Llerena. Hoy Puerto Ayora es la ciudad más grande de Galápagos y vive del turismo, la pesca artesanal y el transporte. En 2024 entraron 279.277 turistas al archipiélago, y el 78% eligió hospedarse en tierra",
+  "queVer": [
+    {
+      "nombre": "Bahía Tortuga (Tortuga Bay)",
+      "desc": "Playa de arena blanca a la que se llega caminando desde Puerto Ayora, con iguanas marinas y una caleta tranquila para nadar.",
+      "detalle": "Bahía Tortuga fue el sitio más visitado de Santa Cruz en 2024, según el Parque Nacional Galápagos. Es una playa larga de arena blanca y fina al suroeste de Puerto Ayora, y se llega sólo a pie por un sendero empedrado entre cactus.\n\nEl camino arranca en el extremo alto del pueblo, donde hay una caseta del Parque en la que tenés que anotarte al entrar y al salir. Una guía de viaje calcula unos 3 km y media hora de caminata por tramo. En la playa larga rompen olas fuertes; para bañarse, la gente camina hasta el final, donde está Playa Mansa, una caleta rodeada de manglares con agua calma.\n\nVas a ver iguanas marinas tomando sol sobre la arena y las rocas, y pelícanos pardos pescando cerca de la orilla.\n\nNo hay baños, ni comida, ni sombra, así que llevá agua, almuerzo y protector solar. La misma guía indica que la playa está abierta de 6 a 18 h y que en la caleta se alquilan kayaks por unos US$ 10. También se puede ir y volver en bote-taxi desde el muelle, pero caminar es gratis.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 3 km del centro de Puerto Ayora por sendero (unos 30 minutos por tramo)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año. Mañana temprano, antes del calor y de los grupos"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (sitio del Parque Nacional; registro obligatorio en la caseta). Horario 6 a 18 h según guía de viaje (fuente: notyouraverageamerican.com, blog, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Centro de Crianza Fausto Llerena y el Solitario George",
+      "desc": "El centro del Parque donde se crían tortugas gigantes y se exhibe el cuerpo del Solitario George, la última tortuga de Pinta.",
+      "detalle": "El Centro de Crianza de Tortugas Gigantes Fausto Llerena está al final de la avenida Charles Darwin, junto a la Estación Científica, y es parte del sitio de visita Ruta de la Tortuga. Lo administra la Dirección del Parque Nacional Galápagos y, según el propio Parque, recibe unos 160.000 turistas por año. Lleva el nombre del guardaparques que cuidó tortugas durante más de treinta años.\n\nAcá ves tortugas en distintas etapas: corrales con crías nacidas en el centro, juveniles que se preparan para volver a su isla y adultos. El programa sirvió para repoblar islas donde las tortugas casi desaparecieron.\n\nLa sala 'Símbolo de Esperanza' guarda el cuerpo embalsamado del Solitario George, el último ejemplar de la tortuga de la isla Pinta, que murió en 2012. Volvió a Galápagos en 2017 y desde 2022 se exhibe en una urna remodelada con vista de 360 grados.\n\nDesde 2019 la visita es guiada, dentro del programa Galapagos Up de la Asociación de Guías Naturalistas, con aval del Parque. En 2021 se cobraba US$ 10 por persona por el guía. Calculá una hora y media.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al final de la avenida Charles Darwin, a unos 20 minutos a pie del muelle"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año. A la mañana, cuando las tortugas están más activas"
+        },
+        {
+          "label": "Entrada",
+          "value": "Visita guiada US$ 10 por persona según la última información publicada (fuente: El Universo, 2021, y web de operador 1835 Galapagos, verificado octubre 2026). Confirmá el valor en la entrada"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Estación Científica Charles Darwin",
+      "desc": "El campus de la Fundación Charles Darwin, abierto en 1964, con sala de exhibiciones, jardín nativo y museo; la entrada es libre.",
+      "detalle": "La Estación Científica Charles Darwin es la base de la Fundación Charles Darwin, una organización científica que trabaja en Galápagos desde que abrió esta sede en 1964. Está en la avenida Charles Darwin, al este del centro de Puerto Ayora, pegada al centro de crianza del Parque.\n\nEl campus que se visita incluye la Sala de Exhibiciones Charles Darwin, con más de 60 años de investigación, colecciones de historia natural y muestras que van rotando. También está el Centro de Interpretación Van Straelen, dedicado a los ecosistemas marinos y a la investigación de tiburones, y el jardín de plantas nativas, con especies endémicas y datos del proyecto Galápagos Verde 2050. La biblioteca G. T. Corley Smith está abierta al público.\n\nSegún la Fundación, el campus abre todos los días de 8 a 18 h, feriados incluidos, y el Centro Van Straelen de lunes a viernes de 8 a 15:30. La entrada es libre.\n\nEs buena idea combinarla con el Centro de Crianza Fausto Llerena, que está al lado, y con la Playa de la Estación, una playita en la misma zona. Se llega caminando en unos 20 minutos desde el muelle.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Avenida Charles Darwin, a unos 20 minutos a pie del muelle de Puerto Ayora"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año. Días de semana si querés ver también el Centro Van Straelen"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis. Abierto todos los días de 8 a 18 h (fuente: darwinfoundation.org, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Las Grietas",
+      "desc": "Una grieta volcánica con agua cristalina, mezcla de agua dulce y salada, entre paredes de lava, a un bote-taxi del pueblo.",
+      "detalle": "Las Grietas es una fisura en la roca volcánica, cerca de Puerto Ayora, que se llenó con agua de mar y de lluvia. El agua es transparente y se nada entre paredes de lava de varios metros. Era el lugar de baño de los vecinos de Santa Cruz y hoy es uno de los tres sitios más visitados de la isla.\n\nEl Parque informó en 2023 que recibe entre 300 y 400 visitantes por día, y hasta 600 en feriados. Por eso construyó una caseta de control en la entrada. En 2022 abrió una 'segunda grieta' con escalinatas de madera, plataforma y miradores.\n\nPara llegar, tomá un bote-taxi desde el muelle de Puerto Ayora hasta el otro lado de la bahía y caminá unos 15 a 20 minutos por un sendero de piedra, con algunas escaleras al final. Muchos combinan la visita con la Playa de los Alemanes, que queda en el camino.\n\nDesde noviembre de 2020 la visita para turistas está dentro del programa Galapagos Up: grupos chicos con guía, reserva en una agencia local y un recorrido de una hora y media. En 2021 y 2023 el guía costaba US$ 10 por persona. Los residentes entran sin pagar. Llevá máscara de snorkel.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al otro lado de la Bahía de la Academia: bote-taxi y 15–20 minutos a pie"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año. A la mañana, cuando la luz entra a la grieta y hay menos gente"
+        },
+        {
+          "label": "Entrada",
+          "value": "Guía obligatorio US$ 10 por persona según El Universo (2021) y Voyagers (2023) (verificado octubre 2026). Reservá en una agencia de Puerto Ayora. Bote-taxi aparte"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 horas de visita, unas 2,5 horas con traslados"
+        }
+      ]
+    },
+    {
+      "nombre": "Reserva de tortugas gigantes El Chato",
+      "desc": "Rancho privado de la parte alta donde las tortugas gigantes salvajes pastan en libertad, con túnel de lava y botas incluidas.",
+      "detalle": "El Chato es un rancho privado en la parte alta de Santa Cruz, al sur del pueblo de Santa Rosa, pegado al área del Parque Nacional. Acá las tortugas gigantes de Santa Cruz están en libertad: bajan de la reserva a los potreros a comer pasto y a revolcarse en las charcas. Es el mejor lugar de la isla para verlas en su ambiente, no en corrales.\n\nLa visita es una caminata por senderos entre pastos y árboles, a veces con barro, y por eso te prestan botas de goma. Dentro del rancho hay un túnel de lava que se recorre a pie.\n\nSegún Voyagers (2023), abre todos los días de 8 a 17:30 y la entrada de US$ 10 incluye guía. Los revendedores en línea lo publican a unos US$ 8 sólo la entrada, sin transporte.\n\nSe llega en taxi desde Puerto Ayora, en unos 30 a 45 minutos. Una opción práctica es parar acá y en Los Gemelos camino del aeropuerto o al volver, negociando con el taxista. Si vas en tour, Civitatis vende la excursión de 3 horas por US$ 106,25.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Parte alta de la isla, al sur de Santa Rosa: 30 a 45 minutos en auto desde Puerto Ayora"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año. En la temporada seca hay más tortugas en los potreros"
+        },
+        {
+          "label": "Entrada",
+          "value": "US$ 10 con guía y botas (fuente: voyagers.travel, 2023); US$ 8 entrada sola en revendedores (fuente: Travelocity, agregador, verificado octubre 2026). Se paga en el rancho"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas en el rancho"
+        }
+      ]
+    },
+    {
+      "nombre": "Rancho Primicias y los túneles de lava",
+      "desc": "Otro rancho de la parte alta con decenas de tortugas sueltas y túneles de lava iluminados, que se visitan sin guía del Parque.",
+      "detalle": "Rancho Primicias está pegado a El Chato y funciona igual: es un campo privado donde las tortugas gigantes entran y salen libremente. Lonely Planet lo describe con decenas de tortugas y la posibilidad de recorrerlo a tu ritmo. La entrada está pasando Santa Rosa, sobre un camino lateral de la ruta principal.\n\nSanta Cruz es un volcán en escudo y tiene un tubo de lava de más de 2 km. Los túneles de lava se formaron cuando la capa exterior de un río de lava se enfrió y endureció mientras el interior seguía corriendo y se vació. Caminar por adentro impresiona: son galerías anchas y altas, con algunos tramos bajos.\n\nComo los túneles están en propiedad privada, se pueden visitar sin guía oficial del Parque. Lonely Planet indica que tienen luz eléctrica y que se alquilan linternas. Hay varios túneles en la parte alta; el de Primicias está incluido en la entrada del rancho. Visitantes de Wanderlog contaron que pagaron US$ 8,50 en diciembre de 2024, con túnel incluido, y otros US$ 10.\n\nLlevá campera liviana: en la parte alta suele haber neblina y garúa, y hace más fresco que en la costa.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Parte alta, cerca de Santa Rosa, a unos 30–45 minutos en taxi de Puerto Ayora"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "US$ 8,50–10 con túnel de lava incluido, según reseñas de visitantes (fuente: Wanderlog, agregador, verificado octubre 2026). Se paga en el lugar"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Los Gemelos",
+      "desc": "Dos enormes cráteres hundidos rodeados de bosque de escalesia, sobre la ruta entre Puerto Ayora y el Canal de Itabaca.",
+      "detalle": "Los Gemelos son dos grandes pozos, uno a cada lado de la ruta que cruza la isla, en la zona húmeda de la parte alta. No son cráteres de erupción: se formaron cuando se hundió el techo de cámaras de magma vacías. Desde los miradores se ve el fondo cubierto de vegetación.\n\nAlrededor crece un bosque de escalesia, un árbol endémico de Galápagos de la familia de las margaritas. Los guardaparques trabajan acá contra plantas invasoras como la mora, el sauco y el chiriyuyo, que le quitan espacio. En este bosque viven aves endémicas y nativas, como pinzones, papamoscas y el pájaro brujo, de color rojo intenso.\n\nEs un sitio del Parque Nacional con un sendero corto y miradores. No se paga entrada. Como queda sobre la ruta, la manera más simple es parar camino a Baltra o combinarlo con El Chato en el mismo taxi.\n\nEs de los lugares más frescos y húmedos de la isla; muchas veces hay neblina. Llevá algo de abrigo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sobre la ruta Puerto Ayora–Canal de Itabaca, pasando Santa Rosa"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año. Días despejados para ver el fondo de los pozos"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (sitio del Parque Nacional Galápagos)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 a 45 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa El Garrapatero",
+      "desc": "Playa tranquila de la costa este con una laguna donde llegan flamencos, y uno de los dos sitios de Santa Cruz donde se puede acampar.",
+      "detalle": "El Garrapatero es una playa de arena blanca en la costa este de Santa Cruz, mucho menos concurrida que Bahía Tortuga. Para llegar se cruza la parte alta en auto y después se camina unos 15 minutos por un sendero hasta la costa.\n\nDetrás de la playa hay una laguna salobre donde pueden aparecer flamencos rosados, patos de cachete blanco y cigüeñuelas. En la playa hay pozas entre las rocas, y con mar calmo se puede hacer snorkel.\n\nEs uno de los dos únicos sitios de Santa Cruz autorizados por el Parque para acampar, junto con Playa Roja. El permiso se pide con anticipación en las oficinas del Parque en Puerto Ayora. En 2025 el Parque anunció mejoras en este sitio.\n\nNo hay transporte público. Viajeros cuentan que el taxi ida y vuelta cuesta unos US$ 40 por auto, con espera o con hora de regreso acordada. Pagá al final, porque en la playa la señal de celular es mala y es difícil llamar un taxi. Llevá agua y comida.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Costa este de la isla: unos 30 minutos en taxi desde Puerto Ayora y 15 minutos a pie"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año. Para snorkel, días de mar calmo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (sitio del Parque Nacional). Acampar requiere permiso del Parque. Taxi ida y vuelta unos US$ 40 por auto (fuente: blogs de viajeros, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Muelle de pescadores (mercado de pescado de Puerto Ayora)",
+      "desc": "El puesto donde los pescadores limpian la pesca del día mientras lobos marinos y pelícanos esperan las sobras a centímetros.",
+      "detalle": "Sobre la avenida Charles Darwin, frente a la bahía, está el muelle donde los pescadores artesanales de Puerto Ayora descargan y limpian la pesca. Es una de las escenas más fotografiadas del pueblo: lobos marinos que se apoyan en el mostrador, pelícanos pardos que esperan restos y garzas que se meten entre la gente.\n\nLa pesca artesanal es, junto con el turismo y el transporte, una de las actividades principales de la ciudad. Entre el 1 de agosto y el 31 de diciembre de 2026 está abierta la temporada de pesca de langosta espinosa, que en Galápagos es exclusiva del sector artesanal.\n\nEs gratis y no hace falta guía. Mantené la distancia con los animales, no los toques ni les des comida: es una regla del Parque en todas las islas.\n\nMuchos restaurantes de la zona compran acá el pescado. Si querés comer pescado fresco, preguntá en los kioscos de la calle Charles Binford cuál es la pesca del día.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Avenida Charles Darwin, en el centro de Puerto Ayora"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año. Mañana y mediodía, cuando vuelven las lanchas"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Bahía de la Academia y Playa de los Alemanes",
+      "desc": "La bahía de Puerto Ayora, con su malecón, los bote-taxis y la playita del otro lado, de camino a Las Grietas.",
+      "detalle": "Academy Bay (Bahía de la Academia) es la bahía sobre la que está Puerto Ayora. Debe su nombre a la goleta Academy de la Academia de Ciencias de California, que llegó en 1905. Es un puerto con mucho movimiento: lanchas de pasajeros entre islas, yates, barcos de crucero fondeados y botes de pesca.\n\nEn el agua y en las rocas del malecón es fácil ver pelícanos, iguanas marinas, garzas, lobos marinos y piqueros de patas azules.\n\nLos bote-taxis cruzan la bahía por poca plata. Del otro lado está la Playa de los Alemanes, una playita protegida, y el sendero a Las Grietas. Civitatis vende una excursión de 2,5 horas a Las Grietas y Playa de los Alemanes por US$ 55.\n\nAl atardecer, el malecón y la avenida Charles Darwin se llenan de gente. Es el paseo gratis más simple del pueblo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Puerto Ayora; la Playa de los Alemanes, a un bote-taxi"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año. Al atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis. Bote-taxi US$ 0,50–1 por persona según la fuente (fuentes: mochileandoporelmundo.com, blog 2024; Get Travel Galapagos, operador, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Isla Seymour Norte (excursión de un día)",
+      "desc": "Islote plano al norte de Baltra con colonias de fragatas y piqueros de patas azules, que se visita en tour diario con guía.",
+      "detalle": "Seymour Norte es un islote chico y plano al norte de Baltra. Es uno de los mejores sitios del archipiélago para ver aves marinas anidando: fragatas, con los machos inflando su bolsa roja, piqueros de patas azules y gaviotas de cola bifurcada. También hay iguanas terrestres y lobos marinos.\n\nSólo se puede ir con un tour autorizado y un guía naturalista. El Parque informó en 2025 que el sitio recibe un promedio de 120 turistas por día y que inauguró un muelle nuevo para desembarcar con más seguridad.\n\nLas excursiones salen desde Puerto Ayora: bus hasta el Canal de Itabaca y desde ahí en barco. En la isla se camina por un sendero marcado, siempre con el guía, y muchos tours suman una parada de snorkel o de playa.\n\nLos cupos son limitados porque el Parque asigna los sitios por barco y por día. Reservá con varios días de anticipación, sobre todo en temporada alta.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al norte de Baltra: bus de 45 minutos al Canal de Itabaca y navegación"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Incluida en el tour (no se puede visitar por libre). Tour Civitatis US$ 306,25 (fuente: civitatis.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo (unas 8 horas)"
+        }
+      ]
+    },
+    {
+      "nombre": "Isla Plaza Sur (excursión de un día)",
+      "desc": "Islote con alfombra roja de sesuvium, cactus gigantes, iguanas terrestres y lobos marinos, al este de Santa Cruz.",
+      "detalle": "Plaza Sur es un islote angosto frente a la costa este de Santa Cruz. Es muy fotogénico: el suelo está cubierto de sesuvium, una planta suculenta que se pone roja en la temporada seca, y hay cactus de tuna altos. Debajo de los cactus esperan las iguanas terrestres amarillas a que caiga fruta.\n\nDel lado de los acantilados hay aves marinas y del otro lado una colonia de lobos marinos. El sendero es corto y se recorre con un guía naturalista.\n\nLa excursión de Civitatis pasa a buscarte por el hotel, sigue en bus unos 45 minutos hasta el Canal de Itabaca y de ahí en barco. Necesita un mínimo de 3 personas. Otros agregadores indican 8 horas con almuerzo y equipo de snorkel incluidos.\n\nComo en todos los tours a islas deshabitadas, el día y el sitio dependen del permiso del barco. Si hay mar movido, llevá pastillas para el mareo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Frente a la costa este de Santa Cruz, saliendo desde el Canal de Itabaca"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año. En temporada seca el sesuvium está más rojo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Incluida en el tour. Tour Civitatis US$ 243,75 (fuente: civitatis.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo (unas 8 horas)"
+        }
+      ]
+    },
+    {
+      "nombre": "Isla Bartolomé (excursión de un día)",
+      "desc": "El paisaje más fotografiado de Galápagos: conos volcánicos y el Pináculo sobre dos bahías, con subida a un mirador.",
+      "detalle": "Bartolomé es una isla volcánica chica frente a Santiago. La vista desde su mirador, con el Pináculo, una roca puntiaguda junto a dos playas en forma de media luna, es una de las imágenes más conocidas del archipiélago.\n\nLa visita tiene dos partes. Primero, una subida por escaleras de madera a través de un terreno de lava, ceniza y conos volcánicos hasta la cima. Después, tiempo en la playa y snorkel cerca del Pináculo, donde con suerte se ven pingüinos de Galápagos, lobos marinos y peces de colores.\n\nEs la excursión diaria más cara desde Santa Cruz porque el viaje en barco es largo. Civitatis la publica en US$ 368,75 por persona y unas 10 horas. Las salidas son tempranas, con bus hasta el Canal de Itabaca.\n\nLlevá gorra, protector solar y agua: en el sendero no hay sombra.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Frente a la isla Santiago, a varias horas de navegación desde el Canal de Itabaca"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año. Mañana temprano en el mirador, antes del calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "Incluida en el tour. Tour Civitatis US$ 368,75 (fuente: civitatis.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo (unas 10 horas)"
+        }
+      ]
+    },
+    {
+      "nombre": "Isla Santa Fe (excursión de un día)",
+      "desc": "Isla al sureste de Santa Cruz con su propia especie de iguana terrestre, bosque de cactus y snorkel con lobos marinos.",
+      "detalle": "Santa Fe queda al sureste de Santa Cruz. Tiene una especie de iguana terrestre que sólo vive acá, de color más claro que las de otras islas, y un bosque de cactus de tuna gigantes.\n\nLas excursiones de un día desde Puerto Ayora se concentran en el mar: snorkel en una bahía con lobos marinos que juegan con los nadadores, tortugas marinas, rayas y peces. Civitatis vende la combinación de Santa Fe y Playa Escondida por US$ 200 y unas 7 horas y media.\n\nUna opción parecida de precio es Pinzón, un islote al oeste de Santa Cruz donde el foco también es el snorkel; Civitatis la publica a US$ 200 por unas 8 horas.\n\nEstos tours salen directo desde el muelle de Puerto Ayora, así que no necesitan el traslado al Canal de Itabaca. La navegación puede ser movida.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al sureste de Santa Cruz, saliendo desde el muelle de Puerto Ayora"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año. De diciembre a mayo el agua es más cálida y el mar suele estar más calmo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Incluida en el tour. Snorkel Santa Fe + Playa Escondida US$ 200 (fuente: civitatis.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Unas 7,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Lanchas a Isabela, San Cristóbal y Floreana",
+      "desc": "Desde el muelle de Puerto Ayora salen lanchas rápidas a las otras islas habitadas, para pasar unos días o volver en el día.",
+      "detalle": "Santa Cruz es el punto de conexión entre las islas habitadas: no hay lancha directa entre San Cristóbal e Isabela y hay que pasar por Puerto Ayora. Las lanchas rápidas tardan unas 2 horas por tramo y salen a la mañana temprano y a la tarde.\n\nEl operador Get Travel Galapagos publica el pasaje en US$ 30 y un blog de 2024 pagó US$ 35. Hay que estar en el muelle 30 a 50 minutos antes para el control de equipaje de la Agencia de Bioseguridad, que también revisa los traslados entre islas. El bote-taxi hasta la lancha se paga aparte.\n\nIsabela (Puerto Villamil) tiene volcanes, humedales y otro centro de crianza de tortugas. Al llegar se paga una tasa municipal: US$ 10 los extranjeros y US$ 5 los ecuatorianos y los del Mercosur, según el operador. San Cristóbal (Puerto Baquerizo Moreno) es la capital de la provincia y tiene playas con lobos marinos en el pueblo. Floreana es la menos poblada; las excursiones de un día cuestan entre US$ 220 y US$ 253 en agregadores.\n\nEl mar es más calmo de enero a junio. Si te mareás, sentate atrás.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Muelle de Puerto Ayora; unas 2 horas a cada isla"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año. De enero a junio el mar suele estar más tranquilo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Lancha US$ 30–35 por tramo (fuentes: Get Travel Galapagos, operador; mochileandoporelmundo.com, blog 2024, verificado octubre 2026). Tasa de Isabela US$ 10 extranjeros / US$ 5 Mercosur"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas por tramo; mínimo una noche por isla para aprovecharla"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Tributo de ingreso al Parque Nacional Galápagos (se paga una vez al llegar)",
+      "precio": "Tributo de ingreso al Parque Nacional Galápagos: US$ 200 extranjeros mayores de 12 años y US$ 100 menores de 12; US$ 100 y US$ 50 para nacionales de la Comunidad Andina (Bolivia, Colombia, Perú) y del Mercosur (Argentina, Brasil, Paraguay, Uruguay); chilenos y mexicanos pagan la tarifa general de US$ 200 (fuente: galapagos.gob.ec, Ordenanza 001-CGREG-30-06-2025, verificado octubre 2026). Ecuatorianos y extranjeros residentes en Ecuador US$ 30; estudiantes extranjeros matriculados en Ecuador US$ 50; menores de 2 años exentos. Se paga en efectivo a los guardaparques en el aeropuerto de Baltra o de San Cristóbal"
+    },
+    {
+      "tipo": "Tarjeta de Control de Tránsito (TCT) del Consejo de Gobierno de Galápagos",
+      "precio": "US$ 20 por persona y por viaje (fuente: gobiernogalapagos.gob.ec, verificado octubre 2026). Se compra en el mostrador del Consejo de Gobierno en los aeropuertos de Quito o Guayaquil antes de despachar, con documento y pasaje de ida y vuelta. Hay pre-registro en línea y, desde el 29 de mayo de 2025, emisión y pago en línea (fuente: Primicias)"
+    },
+    {
+      "tipo": "Centro de Crianza Fausto Llerena (visita guiada)",
+      "precio": "US$ 10 por persona por el guía del programa Galapagos Up (fuente: El Universo 2021; operador 1835 Galapagos, verificado octubre 2026). Se paga en la entrada; confirmá el valor"
+    },
+    {
+      "tipo": "Estación Científica Charles Darwin",
+      "precio": "Gratis. Todos los días de 8 a 18 h (fuente: darwinfoundation.org, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Las Grietas (visita guiada obligatoria)",
+      "precio": "US$ 10 por persona por el guía (fuentes: El Universo 2021; voyagers.travel 2023, verificado octubre 2026). Se reserva en agencias de Puerto Ayora. Residentes gratis. Bote-taxi aparte"
+    },
+    {
+      "tipo": "Bahía Tortuga, Los Gemelos, Playa El Garrapatero y muelle de pescadores",
+      "precio": "Gratis (sitios del Parque Nacional y espacio público; registro obligatorio en la caseta de Bahía Tortuga). Acampar en El Garrapatero requiere permiso de la Dirección del Parque"
+    },
+    {
+      "tipo": "Reserva de tortugas El Chato (rancho privado)",
+      "precio": "US$ 10 con guía y botas (fuente: voyagers.travel, 2023); US$ 8 entrada sola en revendedores (fuente: Travelocity, agregador, verificado octubre 2026). Se paga en el rancho. Abre 8 a 17:30 h"
+    },
+    {
+      "tipo": "Rancho Primicias (tortugas y túnel de lava)",
+      "precio": "US$ 8,50–10 según reseñas de visitantes de diciembre de 2024 (fuente: Wanderlog, agregador, verificado octubre 2026). Se paga en el lugar"
+    },
+    {
+      "tipo": "Tasa municipal de ingreso a Isabela",
+      "precio": "US$ 10 extranjeros; US$ 5 ecuatorianos y ciudadanos del Mercosur (fuente: Get Travel Galapagos, operador, verificado octubre 2026). Se paga en efectivo al llegar al muelle de Puerto Villamil"
+    },
+    {
+      "tipo": "Kayak en Playa Mansa (Bahía Tortuga)",
+      "precio": "Unos US$ 10 por persona según guías de viaje (fuente: notyouraverageamerican.com, blog, verificado octubre 2026). Se alquila en la playa, en efectivo"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Tour de un día a la isla Seymour Norte (fragatas y piqueros)",
+      "precio": "US$ 306,25 por persona (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "8 horas",
+      "operador": "Agencias de Puerto Ayora / Civitatis"
+    },
+    {
+      "actividad": "Tour de un día a la isla Bartolomé (mirador y snorkel)",
+      "precio": "US$ 368,75 por persona (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "10 horas",
+      "operador": "Agencias de Puerto Ayora / Civitatis"
+    },
+    {
+      "actividad": "Tour de un día a la isla Plaza Sur",
+      "precio": "US$ 243,75 por persona (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "Unas 8 horas",
+      "operador": "Agencias de Puerto Ayora / Civitatis (mínimo 3 personas)"
+    },
+    {
+      "actividad": "Snorkel en Santa Fe + Playa Escondida o en isla Pinzón",
+      "precio": "US$ 200 por persona cada una (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "7,5 a 8 horas",
+      "operador": "Agencias de Puerto Ayora / Civitatis"
+    },
+    {
+      "actividad": "Tour de un día a Floreana",
+      "precio": "US$ 220–253 por persona (fuentes: Travelocity y The Abroad Guide, agregadores, verificado octubre 2026)",
+      "duracion": "Día completo",
+      "operador": "BM Tours y otras agencias de Puerto Ayora"
+    },
+    {
+      "actividad": "Buceo de día (2 inmersiones; Gordon Rocks pide más de 25 buceos)",
+      "precio": "US$ 250 por día con equipo y almuerzo, tarifa 2025 (fuente: Academy Bay Diving en WeTravel, verificado octubre 2026)",
+      "duracion": "7 a 15 h",
+      "operador": "Academy Bay Diving y otros centros de buceo de Puerto Ayora"
+    },
+    {
+      "actividad": "Excursión a Las Grietas y Playa de los Alemanes",
+      "precio": "US$ 55 por persona (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "2,5 horas",
+      "operador": "Agencias de Puerto Ayora / Civitatis"
+    },
+    {
+      "actividad": "Tour a la reserva de tortugas El Chato (con transporte)",
+      "precio": "US$ 106,25 por persona (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "3 horas",
+      "operador": "Agencias de Puerto Ayora / Civitatis"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Taxi (camionetas blancas de doble cabina) dentro de Puerto Ayora",
+      "precio": "US$ 1,50 por viaje (fuente: Parque Nacional Galápagos, galapagos.gob.ec, actualizado agosto 2024, verificado octubre 2026)",
+      "duracion": "5 a 10 minutos",
+      "notas": "Llevan hasta 4 pasajeros. Para la parte alta (El Chato, Los Gemelos) o El Garrapatero se negocia por viaje o por horas; viajeros reportan unos US$ 40 ida y vuelta a El Garrapatero"
+    },
+    {
+      "medio": "Bote-taxi (taxi acuático) en la Bahía de la Academia",
+      "precio": "US$ 0,50–1 por persona según la fuente (fuentes: mochileandoporelmundo.com, blog 2024; Get Travel Galapagos, operador, verificado octubre 2026)",
+      "duracion": "5 minutos",
+      "notas": "Cruza a Playa de los Alemanes y Las Grietas, y lleva a los pasajeros hasta las lanchas interislas y los barcos fondeados. Se paga en efectivo"
+    },
+    {
+      "medio": "Lancha rápida interislas (Isabela, San Cristóbal, Floreana)",
+      "precio": "US$ 30–35 por tramo (fuentes: Get Travel Galapagos, operador; mochileandoporelmundo.com, blog 2024, verificado octubre 2026)",
+      "duracion": "Unas 2 horas",
+      "notas": "Salidas a la mañana temprano y a la tarde. Llegá 30–50 minutos antes para el control de bioseguridad. No hay lancha directa San Cristóbal–Isabela. Civitatis vende el traslado con reserva desde US$ 59,50"
+    },
+    {
+      "medio": "Bicicleta de alquiler",
+      "precio": "Unos US$ 10 por día (fuente: mochileandoporelmundo.com, blog 2024, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Útil para moverse por Puerto Ayora y llegar al arranque del sendero de Bahía Tortuga. Subir a la parte alta es cuesta arriba todo el camino"
+    },
+    {
+      "medio": "Bus de Puerto Ayora al Canal de Itabaca (rumbo a Baltra)",
+      "precio": "US$ 5 (fuente: mochileandoporelmundo.com, blog 2024, verificado octubre 2026)",
+      "duracion": "Unos 45 minutos",
+      "notas": "Según ese blog, sale del malecón a las 7:30, 8 y 8:30. El Parque Nacional indicaba en 2024 unos US$ 2 para el bus entre el canal y Puerto Ayora. Preguntá en tu hotel el horario del día"
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Avión Quito o Guayaquil → Aeropuerto Seymour de Baltra (GPS)",
+      "empresas": "Avianca y LATAM (Equair dejó de volar en 2023)",
+      "precio": "LATAM publicaba Guayaquil–Galápagos desde US$ 156,66 el tramo para septiembre de 2026 (fuente: latamairlines.com, verificado octubre 2026). Viajeros reportan US$ 100–300 por tramo según fecha (fuente: mochileandoporelmundo.com, blog 2024)",
+      "duracion": "Unas 2 horas desde Guayaquil; desde Quito suele hacer escala en Guayaquil"
+    },
+    {
+      "ruta": "Trámites antes de volar en Quito o Guayaquil (TCT + ABG)",
+      "empresas": "Consejo de Gobierno de Galápagos (TCT) y Agencia de Regulación y Control de la Bioseguridad (ABG)",
+      "precio": "TCT US$ 20 (fuente: gobiernogalapagos.gob.ec, verificado octubre 2026). La revisión de equipaje de la ABG no tiene costo para el pasajero",
+      "duracion": "Llegá al aeropuerto con 2 horas o más de anticipación"
+    },
+    {
+      "ruta": "Aeropuerto de Baltra → Canal de Itabaca → Puerto Ayora (bus + barcaza + bus o taxi)",
+      "empresas": "Bus del aeropuerto, barcaza del canal, buses y taxis de Santa Cruz",
+      "precio": "Barcaza US$ 1; bus del canal a Puerto Ayora unos US$ 2 o taxi US$ 25 por vehículo (hasta 4 personas) (fuente: galapagos.gob.ec, actualizado agosto 2024, verificado octubre 2026). El Parque dice que el bus del aeropuerto al canal es gratuito, pero operadores y viajeros reportan US$ 5 (fuente: galapatours.com, verificado octubre 2026)",
+      "duracion": "10 min de bus + 10 min de barcaza + 45 min hasta Puerto Ayora"
+    },
+    {
+      "ruta": "Lancha desde San Cristóbal, Isabela o Floreana → Puerto Ayora",
+      "empresas": "Lanchas rápidas interislas (ej. Get Travel Galapagos)",
+      "precio": "US$ 30–35 por tramo (fuentes: Get Travel Galapagos, operador; mochileandoporelmundo.com, blog 2024, verificado octubre 2026)",
+      "duracion": "Unas 2 horas"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Hostales y posadas económicas en Puerto Ayora",
+      "nivel": 2,
+      "opciones": "Hay varios hostales familiares en el centro: Hostal La Mirada del Solitario George desde US$ 17 en dormitorio y US$ 40 en privada; Posada del Caminante desde US$ 15 en dormitorio y US$ 32,50 en privada; Hostal Galapagos by Bar de Beto desde US$ 27,64 en dormitorio (fuente: Hostelz, actualizado septiembre 2024, verificado octubre 2026). Reservá con tiempo en feriados ecuatorianos y en julio-agosto"
+    },
+    {
+      "categoria": "Hoteles intermedios en el centro",
+      "nivel": 3,
+      "opciones": "Hoteles medianos con pileta o patio, a pocas cuadras del muelle: Hotel Fiesta alrededor de US$ 155 la noche y Hotel Silberstein desde unos AED 624 (unos US$ 170 al cambio del sitio) (fuentes: Travelocity y Kayak, agregadores, verificado octubre 2026). Los precios suben en temporada alta"
+    },
+    {
+      "categoria": "Hoteles frente a la bahía",
+      "nivel": 4,
+      "opciones": "Angermeyer Waterfront Inn, sobre la Bahía de la Academia: US$ 259–269 la noche según la fecha (fuente: Travelocity, agregador, verificado octubre 2026). Conviene comparar con hoteles boutique del centro en las mismas fechas"
+    },
+    {
+      "categoria": "Hoteles de lujo",
+      "nivel": 5,
+      "opciones": "Finch Bay Galapagos Hotel, con restaurante propio: US$ 517–596 la noche según la fecha (fuente: Travelocity, agregador, verificado octubre 2026). Galapagos Habitat, sobre la avenida Charles Darwin, es otra opción de alta gama"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Los Kioscos de la calle Charles Binford (pescado y mariscos a la parrilla)",
+      "nivel": 2,
+      "opciones": "Al caer la tarde, desde las 18 h, una cuadra de la calle Charles Binford se llena de mesas en la vereda con pesca del día, encocado y arroz con mariscos. Una viajera pagó US$ 10 por un ceviche de pulpo y camarón, US$ 16 por una parrillada de mariscos y pescado y US$ 5 por una cerveza grande (fuente: infoviajera.com, blog, 2018; precios a confirmar, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Encocado de pescado (guiso de la costa ecuatoriana con leche de coco)",
+      "nivel": 2,
+      "opciones": "Pescado local en salsa de coco, que suele venir con arroz y patacones (plátano verde frito). Lonely Planet lo nombra como un favorito local, y lectores recomiendan Las Delicias de Ludmila, en los kioscos (fuente: infoviajera.com, comentarios de lectores, verificado octubre 2026). Precio por plato no publicado: miralo en la carta"
+    },
+    {
+      "tipo": "Ceviche y almuerzo del día",
+      "nivel": 2,
+      "opciones": "El 'almuerzo' o menú del día (sopa, plato principal y jugo) es la forma más barata de comer en Ecuador. En Puerto Ayora, un ceviche abundante de pulpo y camarón cuesta alrededor de US$ 10 (fuente: infoviajera.com, blog, verificado octubre 2026). Las guías de viaje recomiendan pedir platos locales para gastar menos (fuente: iExplore)"
+    },
+    {
+      "tipo": "Langosta de Galápagos (temporada 1 de agosto al 31 de diciembre)",
+      "nivel": 4,
+      "opciones": "La langosta espinosa sólo se pesca en temporada: en 2026, del 1 de agosto al 31 de diciembre (fuente: Parque Nacional Galápagos, verificado octubre 2026). Fuera de esas fechas, desconfiá si te la ofrecen. Restaurantes de hotel como el de Finch Bay la sirven, junto con el corviche de atún (croqueta de plátano) (fuente: Wanderlust); precio según carta"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Cuánto cuesta entrar a Galápagos si soy latinoamericano?",
+      "a": "Depende de tu nacionalidad. El tributo del Parque Nacional es de US$ 200 para extranjeros mayores de 12 años y US$ 100 para menores. Si sos de un país de la Comunidad Andina (Bolivia, Colombia, Perú) o del Mercosur (Argentina, Brasil, Paraguay, Uruguay), pagás US$ 100, y US$ 50 los menores de 12. Chile y México no figuran en la lista oficial de países del Parque, así que pagan la tarifa general de US$ 200 (fuente: galapagos.gob.ec/tributo-de-ingreso, verificado octubre 2026). Los menores de 2 años no pagan. Se paga en efectivo a los guardaparques al aterrizar en Baltra. Además, todos pagan la Tarjeta de Control de Tránsito: US$ 20 en Quito o Guayaquil. Fuente: galapagos.gob.ec y gobiernogalapagos.gob.ec, verificado octubre 2026."
+    },
+    {
+      "q": "¿Necesito visa o pasaporte?",
+      "a": "Para entrar a Ecuador, los sudamericanos pueden usar su cédula o DNI vigente, según el Ministerio de Gobierno. Argentinos, uruguayos, chilenos, colombianos y peruanos pueden viajar con el documento nacional. Los mexicanos no figuran en la lista de países que necesitan visa y entran con pasaporte de seis meses de vigencia. Venezuela y Cuba sí están en la lista. Para volar a Galápagos tenés que mostrar ese mismo documento en el mostrador del Consejo de Gobierno, junto con el pasaje de ida y vuelta, para obtener la TCT. Como turista podés estar hasta 60 días por año en Galápagos."
+    },
+    {
+      "q": "¿Qué no puedo llevar a las islas?",
+      "a": "La Agencia de Regulación y Control de la Bioseguridad para Galápagos (ABG) revisa el equipaje en Quito o Guayaquil antes de embarcar y de nuevo al llegar, y también en los muelles al viajar entre islas. Su lista oficial divide los productos en permitidos (verde), restringidos (amarillo) y prohibidos (rojo). En general, no podés llevar productos frescos sin procesar de origen animal o vegetal: frutas, carnes, lácteos sin procesar, semillas, plantas o flores. La comida envasada y procesada suele estar permitida. Antes de aterrizar, la tripulación fumiga la cabina con un producto aprobado por la OMS. Revisá la lista en bioseguridadgalapagos.gob.ec."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse en Santa Cruz?",
+      "a": "Con cuatro días completos en Santa Cruz ves lo principal y hacés una excursión. Un día para Bahía Tortuga y la Estación Darwin con el centro de crianza. Otro para la parte alta (El Chato, túneles de lava, Los Gemelos) y Las Grietas a la tarde. Uno o dos más para tours a Seymour Norte, Plaza Sur o Bartolomé. Si podés sumar días, conviene combinar Santa Cruz con Isabela o San Cristóbal en lancha: unas 2 horas por tramo. El Parque calcula que el 78% de los turistas eligió en 2024 hospedarse en tierra y no en crucero."
+    },
+    {
+      "q": "¿Puedo pagar con tarjeta o necesito efectivo?",
+      "a": "Llevá efectivo en dólares estadounidenses, que es la moneda de Ecuador. El tributo del Parque se paga en efectivo en el aeropuerto, y también los taxis, la barcaza del Canal de Itabaca (US$ 1), los bote-taxis y la tasa de Isabela. Viajeros que estuvieron en 2025 avisan que hay pocos cajeros. Hoteles, agencias y restaurantes medianos suelen aceptar tarjeta. Si venís de Argentina, Chile, Colombia, México, Perú o Uruguay, cambiá o sacá dólares en el continente y llevá billetes chicos."
+    },
+    {
+      "q": "¿Puedo visitar las islas por mi cuenta, sin crucero?",
+      "a": "Sí, y la mayoría lo hace. En Santa Cruz muchos sitios del Parque se recorren sin guía: Bahía Tortuga, Los Gemelos, El Garrapatero y la Estación Darwin. El Centro de Crianza Fausto Llerena y Las Grietas tienen guía obligatorio (US$ 10 según la última información publicada). Las islas deshabitadas, como Seymour Norte, Plaza Sur, Bartolomé o Santa Fe, sólo se visitan en tours autorizados con guía naturalista, que cuestan US$ 200–370 por día en Civitatis. Isabela, San Cristóbal y Floreana tienen pueblos y se llega en lancha pública por US$ 30–35."
+    },
+    {
+      "q": "¿Es seguro? ¿Qué reglas tengo que respetar?",
+      "a": "Cuidá tus cosas como en cualquier lugar turístico, pero muchos de los riesgos para el visitante tienen que ver con el mar y el sol: corrientes en playas abiertas como la playa larga de Bahía Tortuga, insolación en los senderos sin sombra y mareos en las lanchas. En Los Gemelos el Parque tuvo que rescatar a un turista, así que no salgas de los senderos. Las reglas del Parque valen en todas las islas: no tocar ni alimentar a los animales, mantener distancia, no llevarse arena, piedras ni conchas, y no exceder los 60 días de estadía como turista, que se sanciona con expulsión."
+    }
+  ],
+  "fuentes": {
+    "precios_2026": [
+      "Dirección del Parque Nacional Galápagos — «Tributo de ingreso»: https://galapagos.gob.ec/tributo-de-ingreso/",
+      "Consejo de Gobierno de Galápagos — «Entrance fee to the Galapagos National Park»: https://www.gobiernogalapagos.gob.ec/galapagos-fee/",
+      "Consejo de Gobierno de Galápagos — «Preguntas y respuestas frecuentes – Control migratorio (TCT)»: https://www.gobiernogalapagos.gob.ec/preguntas-y-respuestas-frecuentes-control-migratorio-tct/",
+      "Fundación Charles Darwin — «Our campus»: https://www.darwinfoundation.org/en/about/our-campus/",
+      "El Universo — «Programa Galapagos Up regula ciertos atractivos naturales de las islas Encantadas»: https://www.eluniverso.com/larevista/turismo/programa-galapagos-up-regula-ciertos-atractivos-naturales-de-las-islas-encantadas-nota/",
+      "Civitatis — «Excursiones y actividades en isla Santa Cruz»: https://www.civitatis.com/es/isla-santa-cruz/",
+      "Civitatis — «Excursión a la isla Plaza Sur»: https://civitatis.com/en/santa-cruz-island/south-plaza-island-excursion",
+      "Voyagers Travel — «Las Grietas Galapagos: a detailed visitor guide»: https://www.voyagers.travel/blog/las-grietas-galapagos-a-detailed-visitor-guide",
+      "Voyagers Travel — «El Chato Giant Tortoise Reserve»: https://www.voyagers.travel/blog/el-chato-giant-tortoise-reserve",
+      "Travelocity — «El Chato 2 Reserve admission ticket»: https://www.travelocity.com/things-to-do/el-chato-2-reserve-admission-ticket-in-santa-cruz-island.a582534.activity-details",
+      "Wanderlog — «Rancho Primicias Giant Tortoise Reserve»: https://wanderlog.com/place/details/332/rancho-primicias-giant-tortoise-reserve",
+      "WeTravel / Academy Bay Diving — «Daily Dive Tours 2025»: https://wetravel.com/trips/daily-dive-tours-academy-bay-diving-ecuador-90882462",
+      "Travelocity — «Full-day Floreana tour»: https://www.travelocity.com/es/things-to-do/null.a2135051.detalles-actividades",
+      "The Abroad Guide — «Full-Day Tour to Floreana Island & Cave of Pirates»: https://theabroadguide.com/?p=468494"
+    ],
+    "como_llegar_transporte": [
+      "Dirección del Parque Nacional Galápagos — «Información de interés para la llegada a las islas»: https://galapagos.gob.ec/informacion-de-interes-para-la-llegada-a-las-islas/",
+      "Consejo de Gobierno de Galápagos — «Simplifica tu viaje a Galápagos con el pre registro en línea para obtener la TCT»: https://www.gobiernogalapagos.gob.ec/simplifica-tu-viaje-a-galapagos-con-el-pre-registro-en-linea-para-obtener-la-tarjeta-de-control-de-transito-tct/",
+      "Primicias — «Viajes a Galápagos: Tarjeta de Control de Tránsito en línea»: https://www.primicias.ec/sociedad/viajes-galapagos-tarjeta-control-transito-registro-ecuador-97309/",
+      "Galapatours — «Transport Baltra – Puerto Ayora»: https://www.galapatours.com/faq/transport-baltra-puerto-ayora",
+      "Galapatours — «What is the INGALA fee / TCT»: https://www.galapatours.com/faq/what-is-ingala-fee-what-is-the-tcc-what-is-the-tct",
+      "WeTravel / Get Travel Galapagos — «Ferry inter islas, lancha rápida»: https://www.wetravel.com/trips/ferry-inter-islas-get-travel-galapagos-santa-cruz-13375082",
+      "Mochileando por el Mundo — «Guía de transporte en Galápagos»: https://www.mochileandoporelmundo.com/transporte-en-galapagos/",
+      "LATAM Airlines — «Vuelos desde Guayaquil a Isla Galápagos»: https://www.latamairlines.com/ec/es/destinos/vuelos-desde-guayaquil-a-isla-galapagos",
+      "Despegar — «Equair: rutas y servicios de la aerolínea ecuatoriana»: https://www.despegar.com.ar/lugares-turisticos/corpus/gen-46/list-of-airlines-of-ecuador/equair-rutas-y-servicios.html"
+    ],
+    "requisitos_ingreso_bioseguridad": [
+      "Ministerio de Gobierno de Ecuador — «Requisitos para ingresar a Ecuador»: https://www.ministeriodegobierno.gob.ec/requisitos-para-ingresar-a-ecuador/",
+      "Agencia de Regulación y Control de la Bioseguridad para Galápagos — «Lista de productos»: https://bioseguridadgalapagos.gob.ec/lista-de-productos/",
+      "gob.ec / ABG — «Inspección de carga que ingresa a las islas Galápagos en los aeropuertos de Quito y Guayaquil»: https://www.gob.ec/abg/tramites/inspeccion-carga-ingresa-islas-galapagos-aeropuertos-quito-guayaquil"
+    ],
+    "que_ver_atracciones": [
+      "Dirección del Parque Nacional Galápagos — «279.277 visitantes llegaron a las Islas Galápagos durante 2024»: https://galapagos.gob.ec/279-277-visitantes-llegaron-a-las-islas-galapagos-durante-2024/",
+      "Dirección del Parque Nacional Galápagos — «Inauguración de una nueva caseta de control en Las Grietas»: https://galapagos.gob.ec/inauguracion-de-una-nueva-caseta-de-control-en-las-grietas/",
+      "Dirección del Parque Nacional Galápagos — «Apertura de nuevo acceso al sitio de visita Las Grietas»: https://galapagos.gob.ec/apertura-de-nuevo-acceso-al-sitio-de-visita-las-grietas-una-alternativa-de-recreacion-para-la-comunidad/",
+      "Dirección del Parque Nacional Galápagos — «Visita técnica a la Ruta de la Tortuga y Centro de Crianza Fausto Llerena»: https://galapagos.gob.ec/directores-de-png-y-fcd-realizan-una-visita-tecnica-a-la-ruta-de-la-tortuga-y-centro-de-crianza-de-tortugas-gigantes-fausto-llerena/",
+      "Dirección del Parque Nacional Galápagos — «La Sala Símbolo de Esperanza reabre sus puertas»: https://galapagos.gob.ec/la-sala-simbolo-de-esperanza-reabre-sus-puertas/",
+      "Dirección del Parque Nacional Galápagos — «Guardaparques protegen el ecosistema en la zona de Los Gemelos»: https://galapagos.gob.ec/guardaparques-protegen-el-ecosistema-en-la-zona-de-los-gemelos/",
+      "Dirección del Parque Nacional Galápagos — «Permisos para campamentos en El Garrapatero y Playa Roja»: https://galapagos.gob.ec/permisos-para-campamentos-en-el-garrapatero-y-playa-roja/",
+      "Dirección del Parque Nacional Galápagos — «Nuevo muelle en Seymour Norte»: https://galapagos.gob.ec/nuevo-muelle-en-seymour-norte-mejora-la-experiencia-turistica-en-galapagos/",
+      "Dirección del Parque Nacional Galápagos — «Inicia pesquería de langosta espinosa en la Reserva Marina de Galápagos»: https://galapagos.gob.ec/inicia-pesqueria-de-langosta-espinosa-en-la-reserva-marina-de-galapagos-2/",
+      "Lonely Planet — «Rancho Primicias»: https://www.lonelyplanet.com/points-of-interest/rancho-primicias/1169729",
+      "Lonely Planet — «Lava Tunnels»: https://www.lonelyplanet.com/pois/1169728",
+      "Not Your Average American — «Tortuga Bay, Galápagos»: https://notyouraverageamerican.com/tortuga-bay-galapagos/"
+    ],
+    "historia_origen": [
+      "Wikipedia (ES) — «Puerto Ayora»: https://es.wikipedia.org/wiki/Puerto_Ayora",
+      "Wikipedia (ES) — «Islas Galápagos»: https://es.wikipedia.org/wiki/Islas_Gal%C3%A1pagos",
+      "Wikipedia (EN) — «Santa Cruz Island (Galápagos)»: https://en.wikipedia.org/wiki/Santa_Cruz_Island_(Gal%C3%A1pagos)",
+      "Wikipedia (EN) — «Lonesome George»: https://en.wikipedia.org/wiki/Lonesome_George",
+      "Dirección del Parque Nacional Galápagos — «Parque Nacional Galápagos celebra 66 años de creación»: https://galapagos.gob.ec/parque-nacional-galapagos-primera-area-protegida-del-ecuador-celebra-66-anos-de-creacion/",
+      "Galapagos.to — «Part III: Island and Other Place Names»: https://galapagos.to/NOTES-3.php",
+      "Kupi — «Puerto Ayora history»: https://kupi.com/en/explore/ecuador/puerto-ayora/history"
+    ],
+    "alojamiento_gastronomia": [
+      "Hostelz — «Best hostels in the Galápagos Islands»: https://hostelz.com/best-hostels-galapagos-islands",
+      "Travelocity — «Hoteles en Puerto Ayora»: https://travelocity.com/Puerto-Ayora-Hotels.d602686.Travel-Guide-Hotels",
+      "Kayak — «Puerto Ayora Hotels»: https://kayak.ae/Puerto-Ayora-Hotels.28835.hotel.ksp",
+      "Infoviajera — «Comiendo mucho en Los Kioskos de Puerto Ayora»: https://www.infoviajera.com/?p=44840",
+      "Infoviajera — «Ingreso a las islas Galápagos: trámites, controles y precios»: https://www.infoviajera.com/?p=44706",
+      "Wanderlust — «Evolutionary gastronomy: how the Galápagos Islands make the most of local produce»: https://www.wanderlustmagazine.com/inspiration/evolutionary-gastronomy-how-the-galapagos-islands-make-the-most-of-local-produce/",
+      "iExplore — «Galápagos Islands food and restaurants»: https://www.iexplore.com/articles/travel-guides/central-and-south-america/ecuador/galapagos-islands/food-and-restaurants"
+    ],
+    "seguridad": [
+      "Dirección del Parque Nacional Galápagos — «Turista es rescatado en Los Gemelos»: https://galapagos.gob.ec/turista-es-rescatado-en-los-gemelos/"
+    ]
+  }
+}
