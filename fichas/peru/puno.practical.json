@@ -1,0 +1,634 @@
+{
+  "slug": "puno",
+  "name": "Puno",
+  "region": "Puno (Altiplano, lago Titicaca)",
+  "lat": -15.8402,
+  "lon": -70.0219,
+  "datosRapidos": [
+    {
+      "label": "Departamento",
+      "value": "Puno (Perú). Es la capital de la provincia y del departamento del mismo nombre, en el sureste del país, sobre el altiplano andino y a orillas del lago Titicaca. La ciudad está a unos 3.828 metros sobre el nivel del mar de promedio y sube por los cerros hasta unos 4.050 metros, así que el aire se siente desde que bajás del micro. Según el censo de 2025 (dato citado por Wikipedia), la ciudad tiene 138.418 habitantes y la provincia, 219.268. Se la conoce sobre todo por dos cosas. La primera es el lago: desde su puerto salen las lanchas a las islas flotantes de los Uros, a Taquile y a Amantaní, dentro y alrededor de la Reserva Nacional del Titicaca. La segunda es su música y su danza: en 1985 un decreto ley la nombró 'Capital del Folklore Peruano', y su Festividad de la Virgen de la Candelaria, cada febrero, está en la lista de Patrimonio Cultural Inmaterial de la Unesco desde 2014. Es una ciudad de trabajo, comercio y frontera, con un casco colonial chico alrededor de la Plaza de Armas y la catedral de piedra. Para la mayoría de los viajeros es la escala natural entre Cusco, Arequipa y Bolivia, y la base para conocer el lado peruano del Titicaca, las torres funerarias de Sillustani y pueblos del altiplano como Chucuito y Lampa."
+    },
+    {
+      "label": "Altura y soroche",
+      "value": "Puno está por encima de los 3.800 metros y el mal de altura (soroche) es real. Los CDC de Estados Unidos recomiendan no pasar en un solo día de baja altura a dormir por encima de 2.750 metros, y por encima de 3.000 metros no subir más de 500 metros por día la altura a la que dormís. Por eso conviene llegar desde Arequipa o después de unos días en Cusco, en vez de volar directo desde Lima. Evitá el alcohol las primeras 48 horas, comé liviano y tomá agua. El síntoma típico es dolor de cabeza con cansancio, náuseas o falta de apetito, y suele aparecer entre 2 y 12 horas después de llegar. Confusión, falta de coordinación o ahogo en reposo son señales de alarma: hay que bajar y buscar un médico. Si querés medicación preventiva (acetazolamida), consultalo con tu médico antes de viajar."
+    },
+    {
+      "label": "Visado",
+      "value": "Según Migraciones del Perú, los ciudadanos de países de la Comunidad Andina o del Mercosur pueden entrar con su cédula o DNI vigente; el resto necesita pasaporte con al menos seis meses de vigencia y la visa cuando corresponda. Eso cubre a argentinos, uruguayos, chilenos y colombianos, que entran como turistas sin visa. Los mexicanos tampoco necesitan visa de turista desde abril de 2024 (Decreto Supremo 012-2024-RE), pero entran con pasaporte. Migraciones otorga como turista hasta 183 días; si te pasás, se cobra una multa diaria del 0,1% de la UIT. Si vas a cruzar a Bolivia, revisá también sus requisitos: la Embajada de Bolivia en Argentina indica que los ciudadanos del Mercosur y de la CAN entran con cédula o DNI vigente."
+    },
+    {
+      "label": "Ciudad de servicio",
+      "value": "Puno tiene terminal terrestre, estación de tren de PeruRail y puerto lacustre, pero no aeropuerto propio. El aeropuerto que la sirve es el Inca Manco Cápac de Juliaca (JUL), a unos 5 km del centro de Juliaca y a unos 40 km de Puno, con vuelos de LATAM y SKY a Lima y Cusco. Del aeropuerto a Puno se tarda alrededor de una hora por ruta. Juliaca, más grande y más comercial, es también la puerta a Lampa y al norte del departamento. Para las islas, todo sale del muelle de Puno."
+    }
+  ],
+  "intro": [
+    "Puno no es una ciudad de postal: es comercio, combis, mercados y frío seco. Pero a dos cuadras del puerto empieza el Titicaca, a unos 3.810 metros de altura, y eso lo cambia todo. En una mañana podés estar caminando sobre una isla hecha de totora, y a la tarde subir a un cerro a ver cómo el sol se apaga sobre el agua. Venir acá es entender que el altiplano tiene su propio ritmo, y que conviene seguirlo.",
+    "Lo que más se recuerda de Puno es la gente del lago. Los uros, que siguen viviendo sobre islas que ellos mismos arman con juncos. Los tejedores de Taquile, cuyo arte textil la Unesco reconoce desde 2005. Las familias de Amantaní, que reciben viajeros en sus casas y les sirven la cena a la luz de una vela. Y en tierra firme, las chullpas de Sillustani, torres funerarias de piedra de hasta 12 metros que miran a la laguna Umayo desde tiempos de los collas, antes de los incas.",
+    "Además, Puno es un buen lugar para cortar el viaje entre Cusco, Arequipa y Bolivia sin gastar de más. Los tours a las islas arrancan en unos pocos soles si vas en lancha colectiva, Sillustani cobra S/ 15 de entrada y los miradores de la ciudad son gratis. La comida es simple y contundente: trucha del lago, chairo, pesque de quinua. Si llegás en febrero, la Candelaria te va a mostrar por qué a Puno le dicen la capital del folklore peruano. Si llegás cualquier otro mes, el lago igual está ahí."
+  ],
+  "historia_corta": "La orilla del Titicaca donde hoy está Puno fue habitada primero por pueblos puquina y uro, y más tarde por los collas, señores aimaras del altiplano que levantaron las chullpas de Sillustani y que fueron conquistados por los incas en el siglo XV. Tras la conquista española, el 1 de agosto de 1535 Francisco Pizarro entregó el territorio en encomienda a Gómez de Mazuelas, y en 1543 ya se menciona el tambo de Puno en las ordenanzas de tambos. En 1563 se construyó la primera parroquia para la población indígena, San Juan Bautista. El gran cambio llegó con la plata: en 1657 se descubrieron las minas de Laykakota y a su alrededor creció el asentamiento de San Luis de Alba, a unos 5 km. Tras los conflictos entre mineros, el virrey Conde de Lemos mandó destruir San Luis de Alba y ejecutar a los hermanos Salcedo, y el 9 de septiembre de 1668 se fundó la villa española sobre el actual centro histórico; la tradición celebra el 4 de noviembre de 1668 como fecha fundacional. La catedral de piedra se terminó en 1757. Después de la rebelión de Túpac Amaru II, en 1784, Puno pasó a ser capital de intendencia, y en 1805 recibió el título de ciudad. En 1856 se fundó la Universidad San Carlos. En 1870 se botó en Puno el vapor Yavari, y entre 1871 y 1874 la llegada de barcos y del ferrocarril consolidó el puerto. En 1985 un decreto ley la declaró Capital del Folklore Peruano, y en 2014 la Unesco inscribió la Festividad de la Virgen de la Candelaria como Patrimonio Cultural Inmaterial de la Humanidad. Hoy vive del comercio, la administración regional y el turismo hacia el lago.",
+  "queVer": [
+    {
+      "nombre": "Islas flotantes de los Uros",
+      "desc": "Islas artificiales de totora a pocos kilómetros del puerto, donde viven familias uros. Es la visita más hecha de Puno y la más fácil de combinar.",
+      "detalle": "Los uros son un pueblo del lago que vive sobre islas que ellos mismos construyen con totora, el junco que crece en la bahía de Puno. La base son bloques de raíces (khili) de 1 a 2 metros de espesor, atados con sogas a postes de eucalipto. Arriba van agregando capas de totora nueva cada pocas semanas porque la de abajo se pudre. Según Wikipedia, una isla dura unos 25 años. Están a unos 5 km al este del puerto de Puno.\n\nLa visita típica es así: la lancha llega a una isla, una familia te explica cómo se arma, te muestra su casa y su artesanía, y te ofrece un paseo en balsa de totora hasta otra isla. Es un circuito armado para el turismo, y conviene saberlo antes: el turismo es hoy la principal fuente de ingresos de los isleños, y por eso la venta de artesanías está siempre presente.\n\nPodés ir en lancha colectiva desde el muelle o en tour. Las islas están dentro de la Reserva Nacional del Titicaca. El sector de Uros Chulluni cobra el ingreso directamente la comunidad, según SERNANP. Llevá efectivo en soles chicos, protector solar y abrigo: en el agua el sol quema y el viento enfría.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 5 km al este del muelle de Puno"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mejor a la mañana, con el lago más calmo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Ingreso a las islas unos S/ 10 por persona, pagado a la comunidad (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026). Paseo opcional en balsa de totora S/ 15 por persona, pagado a la familia (fuente: Turismo Liberty, operador, verificado octubre 2026). Los tours suelen incluir el ingreso"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día (unas 3 horas y media en tour)"
+        }
+      ]
+    },
+    {
+      "nombre": "Isla Taquile",
+      "desc": "Isla quechua famosa por su arte textil, reconocido por la Unesco. Se llega en lancha y se recorre a pie entre terrazas y arcos de piedra.",
+      "detalle": "Taquile es una isla de roca y terrazas agrícolas en el Titicaca, habitada por una comunidad quechua que vivió bastante aislada del continente hasta la década de 1950. Su fama viene de los tejidos: la Unesco proclamó 'El arte textil de Taquile' Obra Maestra del Patrimonio Oral e Inmaterial en 2005 y lo inscribió en su lista representativa en 2008. Tejen hombres y mujeres de todas las edades, a mano o en telares de pedal. Las piezas más conocidas son el chullo (gorro con orejeras) y el cinturón calendario, que representa los ciclos rituales y agrícolas del año.\n\nLa visita incluye una caminata desde el muelle hasta la plaza del pueblo, donde está la tienda comunitaria de tejidos, y un almuerzo en casa de familia, casi siempre trucha con papas o quinua. La subida es corta pero se hace a más de 3.800 metros: andá despacio.\n\nEn tour de un día se combina con los Uros y se vuelve a Puno a media tarde. También podés ir en la lancha colectiva que sale del puerto. Los precios del almuerzo varían: un operador lo cobra S/ 30 aparte (fuente: Titicaca Perú, operador, verificado octubre 2026).",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unas 3 horas en lancha colectiva desde Puno; menos en lancha turística rápida"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; la estación seca da días más claros"
+        },
+        {
+          "label": "Entrada",
+          "value": "Ingreso a la isla unos S/ 10 por persona (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026). Suele estar incluido en los tours; confirmalo antes de pagar"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo con los Uros (8 a 10 horas)"
+        }
+      ]
+    },
+    {
+      "nombre": "Isla Amantaní (turismo vivencial)",
+      "desc": "Isla agrícola donde dormís en casa de una familia local, comés con ellos y subís al atardecer a los templos de Pachatata y Pachamama.",
+      "detalle": "Amantaní es una isla agrícola del Titicaca y su gran atractivo es el turismo vivencial: pasás la noche en la casa de una familia de la isla, que te da cama y comidas. Es simple, sin lujos, y justamente por eso es una de las experiencias más recordadas del Titicaca.\n\nEl programa más común es de dos días. Según el itinerario publicado por un operador local, la lancha sale de Puno a la mañana, para en los Uros, llega a Amantaní al mediodía, almorzás en la casa de tu familia y a las 16 h subís caminando a uno de los dos cerros con restos ceremoniales, Pachatata o Pachamama, para ver el atardecer. Cena y noche en la casa. Al día siguiente sigue a Taquile y vuelve a Puno a media tarde.\n\nLlevá abrigo de verdad: de noche hace mucho frío y las casas no tienen calefacción. Una linterna, papel higiénico y algo de efectivo también ayudan. Si querés hacerlo por tu cuenta, la lancha colectiva sale del puerto de Puno y las familias se organizan por turnos para recibir viajeros.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unas 5 horas en lancha desde Puno con parada en los Uros (según el itinerario de Titicaca Perú)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; para el atardecer, días despejados de la estación seca"
+        },
+        {
+          "label": "Entrada",
+          "value": "Ingreso a la isla unos S/ 10 por persona; alojamiento en casa de familia desde S/ 30 la noche (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 días y 1 noche"
+        }
+      ]
+    },
+    {
+      "nombre": "Reserva Nacional del Titicaca",
+      "desc": "Área protegida de SERNANP que abarca la bahía de Puno, los totorales y las islas de los Uros. Hay sectores para observar aves.",
+      "detalle": "La Reserva Nacional del Titicaca protege los totorales y la fauna del lado peruano del lago, y la administra el Servicio Nacional de Áreas Naturales Protegidas (SERNANP). Según su ficha turística, tiene cuatro sectores de uso turístico: el sector Puno (bahía interior, islas de los Uros y el centro poblado de Chimu), el sector del río Huili, el sector Carata–Mocco y las islas Uros Titino y Kapi.\n\nLa mayoría de los viajeros la conoce sin darse cuenta, porque la lancha a los Uros navega dentro de ella. Pero hay otras opciones menos conocidas: en el sitio de Carata se puede observar aves y acampar, y en los Uros Titino y Kapi se hace intercambio cultural y paseos en balsa de totora, con intérpretes locales. Para Titino, Carata y Huili hay que coordinar antes con la jefatura de la reserva y registrarse en el puesto de control.\n\nEl horario de visita que publica SERNANP es de 8 a 16 h. La oficina de la reserva está en el Pasaje 2 de Febrero 154, en Puno, y atiende de lunes a viernes. Si te interesan las aves, Carata queda a una hora por ruta desde Puno.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sector Puno: desde el muelle; Carata–Mocco: 1 hora por ruta; Uros Titino: 1 h 30 min"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañanas para observar aves"
+        },
+        {
+          "label": "Entrada",
+          "value": "Uros Chulluni: cobro directo de la comunidad; Uros Titino, Carata y Huili: ingreso sin costo por promoción (fuente: SERNANP, ficha de potencialidades turísticas de ANP de Puno, verificado octubre 2026). No encontramos tarifa SERNANP vigente publicada para 2026"
+        },
+        {
+          "label": "Duración",
+          "value": "De 1 hora a un día según el sector"
+        }
+      ]
+    },
+    {
+      "nombre": "Chullpas de Sillustani",
+      "desc": "Torres funerarias de piedra de los collas e incas, de hasta 12 metros, sobre una península de la laguna Umayo. A 45 minutos de Puno.",
+      "detalle": "Sillustani es una necrópolis prehispánica en la orilla de la laguna Umayo, cerca de Puno. Lo que se ve son chullpas: torres funerarias cilíndricas donde se enterraba a la élite de los collas, un pueblo del altiplano que los incas conquistaron en el siglo XV, y luego también a la élite del período inca. La más alta mide unos 12 metros, con piedra labrada que recuerda a la mejor mampostería incaica.\n\nEl sitio está sobre una península alta y la vista sobre la laguna es amplia. Se camina por un sendero en subida, a casi 4.000 metros, así que tomalo con calma. Al atardecer la luz sobre la piedra es muy buena para fotos, y hace frío: llevá abrigo.\n\nPara ir por tu cuenta, el blog Sinmapa explica que se toma una combi hacia Juliaca, te bajás en el desvío a Sillustani y desde ahí sale un auto por unos S/ 5. La forma más simple es un tour de medio día con traslado desde el hotel; Civitatis calcula 45 minutos de viaje y dos horas de visita. La entrada se paga en efectivo en la boletería.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 35 km de Puno (unos 45 minutos en minibús)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; la tarde da la mejor luz"
+        },
+        {
+          "label": "Entrada",
+          "value": "General S/ 15; estudiantes de educación superior S/ 5; menores de edad S/ 2; 50% de descuento para mayores de 60, profesores y personas con discapacidad; gratis para residentes del distrito de Atuncolla con DNI (fuente: Ministerio de Cultura, TUSNE RM 000451-2024-MC, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "3 horas y media en tour"
+        }
+      ]
+    },
+    {
+      "nombre": "Festividad de la Virgen de la Candelaria",
+      "desc": "La gran fiesta de Puno cada febrero: miles de danzantes y músicos en concursos y procesión. Patrimonio Inmaterial de la Unesco desde 2014.",
+      "detalle": "La Festividad de la Virgen de la Candelaria es la celebración más grande de Puno. La Unesco la inscribió en 2014 en la Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad. Se hace cada febrero, durante las dos primeras semanas; para 2026 la Unesco lista del 1 al 15 de febrero.\n\nMezcla tradición católica y cosmovisión andina. Arranca con una misa al amanecer y una ceremonia de purificación ancestral. Al día siguiente, la imagen de la Virgen sale en procesión por la ciudad acompañada de música y danza. Según la Unesco, participan unos 170 conjuntos de toda la región en dos concursos, con alrededor de 40.000 danzantes y músicos, quechuas y aimaras de zonas rurales y urbanas. Tres federaciones regionales la organizan y sostienen talleres de máscaras, música y danza.\n\nPara el viajero, la fiesta significa ciudad llena, calles cortadas, mucha música hasta tarde y precios altos de alojamiento y transporte. Reservá con mucha anticipación. Si te interesa la danza, es el momento. Si buscás tranquilidad para hacer las islas, evitá esas dos semanas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En toda la ciudad; la procesión recorre el centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primeras dos semanas de febrero (1 al 15 de febrero en 2026, según la Unesco)"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis en la calle; no encontramos tarifas publicadas para ver los concursos"
+        },
+        {
+          "label": "Duración",
+          "value": "Uno a varios días"
+        }
+      ]
+    },
+    {
+      "nombre": "Plaza de Armas y Catedral de Puno",
+      "desc": "El centro colonial de la ciudad, con la catedral de piedra terminada en 1757 y el Balcón del Conde de Lemos a un costado.",
+      "detalle": "La Plaza de Armas es el punto de partida para caminar Puno. Ahí está la catedral, construida sobre el sitio de un antiguo lugar andino llamado Supay Kancha y terminada el 25 de mayo de 1757, con trabajo de cantería de Simón de Asto. Su fachada de piedra labrada es la imagen más fotografiada de la ciudad. Por dentro es más sobria.\n\nMuy cerca está el Balcón del Conde de Lemos, una casona colonial que lleva el nombre del virrey que ordenó fundar la villa en 1668. Desde la plaza sale el jirón Lima, la calle de restaurantes, agencias y cafés donde vas a terminar comiendo más de una vez. Otro punto para sumar en la caminata es el Arco Deustua, que el blog Sinmapa también lista como visita gratuita.\n\nEs una visita corta y gratuita, que conviene combinar con el Museo Carlos Dreyer, a una cuadra, y con la subida al Cerrito de Huajsapata. Según el blog Sinmapa, la catedral abre de lunes a viernes de 8 a 12 y de 15 a 18, con horarios más largos los fines de semana. Respetá las misas si entrás en horario de culto.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En el centro de Puno"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; de día, cuando la catedral está abierta"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Chucuito e Inca Uyo (templo de la fertilidad)",
+      "desc": "Pueblo colonial a orillas del lago con el Inca Uyo, un recinto de piedra famoso por sus esculturas fálicas. Se combina con Juli.",
+      "detalle": "Chucuito es un pueblo a unos 18 km de Puno, a orillas del lago. Tiene una plaza con la iglesia de Nuestra Señora de la Asunción y miradores al lago. Su atracción más comentada es el Inca Uyo, llamado templo de la fertilidad: un recinto de muros de piedra con esculturas de piedra en forma de falo.\n\nConviene ir con información. El tour de Civitatis lo presenta como un lugar ligado a la observación de solsticios y equinoccios, con un observatorio, ventanas de piedra y una piedra de sacrificios. Pero un artículo de Atlas Obscura publicado en Slate sostiene que los falos son un agregado mucho más reciente. Lonely Planet advierte que sin guía la visita se queda corta.\n\nLa forma más fácil es un tour corto desde Puno (unas 2 horas y media) o una excursión de día completo que suma Aramu Muru y Juli, el pueblo de las iglesias coloniales. No encontramos una tarifa oficial publicada para entrar al Inca Uyo: llevá efectivo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 18 km de Puno"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; de día"
+        },
+        {
+          "label": "Entrada",
+          "value": "Tour corto desde US$ 23,24 (fuente: Civitatis, precio publicado en dólares, verificado octubre 2026). No encontramos tarifa oficial de ingreso al Inca Uyo"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas y media en tour; día completo si sumás Juli"
+        }
+      ]
+    },
+    {
+      "nombre": "Cerrito de Huajsapata",
+      "desc": "Cerro dentro de la ciudad, a pocas cuadras de la plaza, con un monumento a Manco Cápac y vista abierta sobre Puno y el lago.",
+      "detalle": "Huajsapata es un cerro rocoso a unos 450 metros de la Plaza de Armas, según el blog Sinmapa. Arriba hay un monumento a Manco Cápac, el fundador mítico del imperio inca que, según la leyenda, salió de las aguas del Titicaca. Desde la cima se ve la ciudad entera, la bahía y los totorales. Wikipedia indica que el cerro se eleva unos 39 metros sobre su entorno.\n\nTiene también su leyenda: se dice que sus cuevas se conectan con el Coricancha de Cusco, algo que nadie confirmó. Es más un mirador de barrio que un sitio histórico, y justamente por eso es una buena primera salida para aclimatarte: está cerca, la subida es corta y te da la idea del lugar donde estás.\n\nSubí despacio porque estás a más de 3.800 metros. Andá de día y acompañado. El atardecer es el mejor momento, pero bajá antes de que oscurezca del todo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 450 m de la Plaza de Armas"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Mirador Kuntur Wasi",
+      "desc": "Mirador en lo alto del oeste de la ciudad, con un cóndor metálico de 11 metros de envergadura y 620 escalones para subir.",
+      "detalle": "Kuntur Wasi significa 'casa del cóndor' en quechua. Es un mirador en la parte alta y occidental de Puno, coronado por una escultura metálica de un cóndor con alas abiertas de unos 11 metros de envergadura, a unos 3.990 metros de altura, según Wikipedia. Se llega por ruta o subiendo unos 620 escalones.\n\nLa vista es más amplia que la de Huajsapata: abarca la ciudad, el puerto, la bahía con los totorales y, en días claros, buena parte del lago. Es el lugar que se ve en muchas fotos panorámicas de Puno.\n\nLos 620 escalones a casi 4.000 metros son exigentes si recién llegaste. Una opción razonable es subir en taxi y bajar caminando. Como en todo mirador alejado del centro, conviene ir de día, en grupo y sin mostrar objetos de valor. Llevá agua, gorro y protector solar: el sol de altura quema rápido aunque haga frío.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En la parte alta del oeste de Puno; 620 escalones desde la base"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañanas despejadas o atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "No encontramos tarifa publicada: es un mirador urbano al aire libre"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo Municipal Carlos Dreyer",
+      "desc": "Museo municipal en una casona del centro, con piezas prehispánicas, coloniales y republicanas, y documentos de la fundación de Puno.",
+      "detalle": "El Museo Carlos Dreyer es el museo municipal de Puno. Está en la calle Conde de Lemos 289, a pasos de la catedral. Su colección recorre la historia de la región, desde piezas preincaicas hasta la época republicana, pasando por el período inca y la colonia. Según Lonely Planet, incluye una colección de sellos postales y documentos de la fundación de Puno.\n\nEs un museo chico y se recorre rápido. Sirve para ponerle contexto a lo que vas a ver en Sillustani y en las islas. Lonely Planet advierte que los guías suelen irse una hora antes del cierre, así que no llegues sobre la hora.\n\nOjo con el precio: el blog Sinmapa (actualizado en mayo de 2026) lo lista como gratuito, mientras que un tour a pie lo incluye con un ingreso de S/ 15. No encontramos tarifa oficial publicada por la municipalidad, así que confirmalo en la puerta. El horario que publica Sinmapa es todos los días de 9 a 19 h.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Conde de Lemos 289, a una cuadra de la Plaza de Armas"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Precio sin confirmar: gratis según el blog Sinmapa (actualizado mayo 2026); S/ 15 según un tour a pie (agregador Lokalee). Verificado octubre 2026; confirmalo en la puerta"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Barco museo Yavari",
+      "desc": "Vapor de hierro construido en Inglaterra en 1862, llevado en piezas a lomo de mula hasta el lago y botado en Puno en 1870.",
+      "detalle": "El Yavari es un vapor de casco de hierro con una de las historias más curiosas del lago. Lo terminó de construir la Thames Ironworks, en West Ham (Londres), en 1862. Como no había forma de llevar un barco entero a 3.812 metros, se embarcó desarmado en piezas que pudiera cargar una mula. Según Wikipedia, entre el Yavari y su gemelo, el Yapurá, sumaban 2.766 piezas, que recorrieron unos 350 km desde Tacna hasta Puno. Lo botaron en 1870.\n\nEn 1987 una iniciativa sin fines de lucro lo compró para restaurarlo. Hoy es un museo registrado, amarrado en la bahía de Puno, detrás del hotel Sonesta Posada del Inca, entre la ciudad y la isla Esteves. Se llega en taxi o en lancha. A bordo se ve la sala de máquinas con su motor Bolinder de 1914, que con aviso previo se puede encender.\n\nSegún la web oficial, abre todos los días de 9 a 17 h con cita con el encargado, Máximo Flores, mientras no tenga un nuevo pontón. Escribí antes por la web para coordinar. También ofrece alojamiento a bordo tipo bed and breakfast.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "En la bahía de Puno, detrás del hotel Sonesta Posada del Inca; unos minutos en taxi desde el centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Visita con cita previa, de 9 a 17 h; la web oficial no publica tarifa de entrada (fuente: yavari.org, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Lampa, la ciudad rosada",
+      "desc": "Pueblo colonial a una hora de Puno, con casonas de piedra rosa, un puente de cal y canto y réplicas de La Piedad de Miguel Ángel.",
+      "detalle": "Lampa es un pueblo del altiplano a 3.927 metros, cerca de Juliaca, al que llaman la ciudad rosada por el color de sus calles y de sus casonas de sillar labrado. Es una salida para quien quiere ver el altiplano sin la presión turística del lago.\n\nSu gran edificio es la iglesia de Santiago Apóstol, del siglo XVII, declarada Monumento Nacional en 1941, con una torre de 37 metros. Adentro hay pinturas de la escuela cusqueña, un órgano y una réplica en aluminio de La Piedad de Miguel Ángel. La historia cuenta que en 1960 el senador Enrique Torres Belón consiguió del Papa Juan XXIII la autorización para hacer una copia exacta. Hay otra réplica, de yeso, en la biblioteca de la municipalidad.\n\nRPP suma otros lugares: el puente colonial de cal y canto de 1845, de tres arcos y unos 77,5 metros de largo, y el edificio municipal de sillar rosa con un reloj de 1876. Se puede ir en tour privado desde Juliaca o Puno. No encontramos la tarifa de ingreso a la iglesia publicada: llevá efectivo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 60 minutos al noroeste de Juliaca; cerca de una hora desde Puno según RPP"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; de día"
+        },
+        {
+          "label": "Entrada",
+          "value": "Tour privado desde Juliaca desde US$ 113,33 (fuente: Civitatis, precio publicado en dólares, verificado octubre 2026). Ingreso a la iglesia: tarifa no publicada"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Cruce a Copacabana (Bolivia)",
+      "desc": "Ruta en micro hasta el pueblo boliviano de Copacabana, base para la Isla del Sol. Hay que pasar migraciones en la frontera.",
+      "detalle": "Desde Puno salen micros diarios hacia Copacabana, el pueblo boliviano a orillas del Titicaca desde donde se va a la Isla del Sol. Según el blog Sinmapa, el viaje lleva unas 3 horas más el tiempo de los trámites de frontera, y lo hacen empresas como Panamericano, TransTiticaca, Tour Perú y Colectur. La frontera queda a unos 8 km de Copacabana.\n\nEn la frontera hacés salida de Perú y entrada a Bolivia. Según la Embajada de Bolivia en Argentina, los ciudadanos del Mercosur y de la Comunidad Andina pueden entrar como turistas con cédula o DNI vigente y les dan hasta 90 días. Si sos de otro país, como México, revisá en un consulado boliviano si necesitás visa: no lo pudimos confirmar con fuente oficial. Llevá el documento físico y en buen estado: según El Cronista, para argentinos, el DNI digital o una constancia en trámite pueden traer problemas en la frontera.\n\nLos horarios de las oficinas de migración en la frontera no están publicados de forma oficial; salí temprano. Si preferís no complicarte, hay excursiones de día completo a Copacabana e Isla del Sol desde Puno.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unas 3 horas en micro, más los trámites de frontera"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; salí a la mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "Micro Puno–Copacabana unos S/ 20 (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026). Excursión de día completo con Isla del Sol US$ 78,85 (fuente: Civitatis, en dólares, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Un día de excursión; o seguir viaje a Bolivia"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Complejo arqueológico de Sillustani",
+      "precio": "General S/ 15; estudiantes universitarios o técnicos S/ 5; menores de edad S/ 2; 50% de descuento a mayores de 60, profesores, servicio militar voluntario y personas con discapacidad; gratis para residentes de Atuncolla con DNI (fuente: Ministerio de Cultura, TUSNE aprobado por RM 000451-2024-MC, verificado octubre 2026). Se paga en la boletería del sitio, en efectivo"
+    },
+    {
+      "tipo": "Complejo arqueológico de Cutimbo",
+      "precio": "General S/ 15; estudiantes S/ 5; menores S/ 2; 50% de descuento para mayores de 60 y otros casos de ley (fuente: Ministerio de Cultura, TUSNE RM 000451-2024-MC, verificado octubre 2026). Se paga en el sitio"
+    },
+    {
+      "tipo": "Islas flotantes de los Uros (Uros Chulluni)",
+      "precio": "Unos S/ 10 por persona, cobrado por la comunidad (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026; SERNANP confirma que el cobro es directo de la comunidad). Suele estar incluido en los tours; si vas en lancha colectiva, se paga al llegar"
+    },
+    {
+      "tipo": "Paseo en balsa de totora en los Uros",
+      "precio": "S/ 15 por persona, opcional, pagado a la familia uro (fuente: Turismo Liberty, operador, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Isla Taquile",
+      "precio": "Unos S/ 10 por persona (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026). Se paga al llegar a la isla; muchos tours lo incluyen"
+    },
+    {
+      "tipo": "Isla Amantaní",
+      "precio": "Unos S/ 10 por persona de ingreso; casa de familia desde S/ 30 la noche (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Reserva Nacional del Titicaca (Uros Titino, Carata y Huili)",
+      "precio": "Ingreso sin costo por promoción, con coordinación previa y registro en el puesto de control; horario de 8 a 16 h (fuente: SERNANP, potencialidades turísticas en ANP de Puno, verificado octubre 2026). No encontramos tarifa 2026 publicada"
+    },
+    {
+      "tipo": "Catedral de Puno y Plaza de Armas",
+      "precio": "Gratis (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Cerrito de Huajsapata",
+      "precio": "Gratis (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Museo Municipal Carlos Dreyer",
+      "precio": "Sin tarifa oficial publicada: gratis según el blog Sinmapa (actualizado mayo 2026); S/ 15 según un tour a pie (agregador Lokalee). Verificado octubre 2026. Confirmalo en la puerta, Conde de Lemos 289"
+    },
+    {
+      "tipo": "Barco museo Yavari",
+      "precio": "La web oficial no publica tarifa; visitas con cita de 9 a 17 h (fuente: yavari.org, verificado octubre 2026)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Excursión de medio día a las islas de los Uros",
+      "precio": "Unos S/ 30 en lancha de tour local (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026); US$ 17 en Civitatis (precio publicado en dólares, verificado octubre 2026)",
+      "duracion": "3 horas y media",
+      "operador": "Agencias del jirón Lima y del muelle; Civitatis"
+    },
+    {
+      "actividad": "Día completo Uros + Taquile",
+      "precio": "Unos S/ 40 sin almuerzo o S/ 70 con almuerzo (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026); desde US$ 34 en Civitatis y desde US$ 55 en Turismo Liberty (precios en dólares, verificado octubre 2026)",
+      "duracion": "8 a 10 horas",
+      "operador": "Civitatis, Turismo Liberty y agencias locales"
+    },
+    {
+      "actividad": "Uros, Amantaní y Taquile en 2 días con noche en casa de familia",
+      "precio": "Unos S/ 85–90 (fuente: blog Sinmapa, actualizado mayo 2026); US$ 79 en Civitatis; US$ 40 más el pago a la familia en Titicaca Perú (precios en dólares; verificado octubre 2026)",
+      "duracion": "2 días y 1 noche",
+      "operador": "Civitatis, Titicaca Perú y agencias locales"
+    },
+    {
+      "actividad": "Excursión a las chullpas de Sillustani",
+      "precio": "US$ 19 por persona, sin confirmar si incluye la entrada de S/ 15 (fuente: Civitatis, precio en dólares, verificado octubre 2026)",
+      "duracion": "3 horas y media",
+      "operador": "Civitatis y agencias de Puno"
+    },
+    {
+      "actividad": "Chucuito, Aramu Muru y Juli",
+      "precio": "US$ 34,86 (fuente: Civitatis, precio en dólares, verificado octubre 2026)",
+      "duracion": "9 horas",
+      "operador": "Civitatis"
+    },
+    {
+      "actividad": "Kayak por las islas de los Uros",
+      "precio": "US$ 31,25 (fuente: Civitatis, precio en dólares, verificado octubre 2026)",
+      "duracion": "4 horas",
+      "operador": "Civitatis"
+    },
+    {
+      "actividad": "Copacabana e Isla del Sol (Bolivia) en el día",
+      "precio": "US$ 78,85 (fuente: Civitatis, precio en dólares, verificado octubre 2026)",
+      "duracion": "13 horas y media",
+      "operador": "Civitatis"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Lancha colectiva a los Uros",
+      "precio": "S/ 10–15 ida y vuelta, más el ingreso a las islas (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026)",
+      "duracion": "Paseo de unas 3 horas",
+      "notas": "Sale del muelle lacustre de Puno. Es la forma más barata de ir. Preguntá si el boleto incluye el ingreso a la isla"
+    },
+    {
+      "medio": "Lancha colectiva a Taquile y Amantaní",
+      "precio": "S/ 30–35 (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026)",
+      "duracion": "Unas 3 horas a Taquile",
+      "notas": "Según Sinmapa sale del puerto a las 8:20 y vuelve al día siguiente cerca de las 15:30. No incluye los ingresos a las islas. Los horarios cambian sin aviso: confirmalos en el muelle el día anterior"
+    },
+    {
+      "medio": "Taxi desde el terminal terrestre",
+      "precio": "Taxi oficial del terminal S/ 7 (a dividir entre pasajeros); afuera, unos S/ 4 (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026)",
+      "duracion": "10 a 15 minutos al centro",
+      "notas": "Acordá el precio antes de subir. De noche, usá los del terminal o pedí uno por teléfono al hotel"
+    },
+    {
+      "medio": "Combi hacia Juliaca + auto al desvío de Sillustani",
+      "precio": "Auto desde el desvío hasta Sillustani unos S/ 5 (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026)",
+      "duracion": "Alrededor de 1 hora en total",
+      "notas": "Tomás una combi en dirección a Juliaca y pedís que te dejen en el desvío a Sillustani. El pasaje de la combi no está publicado: preguntalo al subir. La entrada al sitio se paga aparte"
+    },
+    {
+      "medio": "Traslado privado (aeropuerto, hotel, terminal)",
+      "precio": "Desde US$ 13,50 por auto (fuente: Civitatis, precio en dólares, verificado octubre 2026)",
+      "duracion": "Según el trayecto",
+      "notas": "Servicio puerta a puerta con chofer que espera en el aeropuerto, el hotel o el terminal. Útil si llegás de noche o con mucho equipaje"
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Avión Lima / Cusco → Juliaca (JUL) + traslado a Puno",
+      "empresas": "LATAM y SKY Airline; bus o traslado del aeropuerto a Puno",
+      "precio": "Vuelo Lima–Juliaca desde US$ 57 reservando con anticipación (fuente: Omio, agregador, verificado octubre 2026); bus del aeropuerto a Puno unos S/ 20 (fuente: blog Sinmapa, actualizado mayo 2026)",
+      "duracion": "Vuelo 1 h 48 min desde Lima + 1 hora por ruta a Puno"
+    },
+    {
+      "ruta": "Bus Cusco → Puno",
+      "empresas": "Turismo Mer, Transzela (redBus); Cruz del Sur tiene terminal propio en Puno, Jr. 1 de Mayo 703",
+      "precio": "Desde PEN 50 el más barato listado (fuente: redBus, verificado octubre 2026); el blog Sinmapa da S/ 95–200 según servicio (actualizado mayo 2026)",
+      "duracion": "7 a 9 horas según la empresa"
+    },
+    {
+      "ruta": "Bus Arequipa → Puno",
+      "empresas": "Varias empresas desde el terminal terrestre de Arequipa; las guías de viaje mencionan a Julsa y Cruz del Sur",
+      "precio": "S/ 25 en días normales; subió a S/ 60 en la víspera de las elecciones del 4 de octubre de 2026 (fuente: Diario Correo, 3 de octubre de 2026, verificado octubre 2026)",
+      "duracion": "Unas 6 horas (fuente: HowToPeru, guía de viaje)"
+    },
+    {
+      "ruta": "Tren PeruRail Titicaca Cusco (Wanchaq) → Puno",
+      "empresas": "PeruRail",
+      "precio": "PeruRail no publica tarifa fija en su web: se cotiza por fecha en book.perurail.com; Seat61 la ubica en US$ 250–350 con comidas (fuente: Seat61, actualizado junio 2026, verificado octubre 2026)",
+      "duracion": "Unas 10 h 30 min; sale de Cusco miércoles, viernes y domingo y de Puno lunes, jueves y sábado (fuente: perurail.com)"
+    },
+    {
+      "ruta": "Bus Copacabana / La Paz (Bolivia) → Puno",
+      "empresas": "Panamericano, TransTiticaca, Tour Perú, Colectur",
+      "precio": "Copacabana unos S/ 20; La Paz unos S/ 75 (fuente: blog Sinmapa, actualizado mayo 2026, verificado octubre 2026)",
+      "duracion": "Unas 3 horas desde Copacabana, más los trámites de frontera"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Hostales y económicos en el centro",
+      "nivel": 2,
+      "opciones": "Hostal Los Uros desde US$ 15 y Pacha Suite desde US$ 16 la noche (fuente: Kayak, verificado octubre 2026); Huaytusive Hotel desde US$ 21 (fuente: Booking, verificado octubre 2026); Quechuas Backpackers desde US$ 25 con desayuno y baño privado (fuente: blog Sinmapa, actualizado mayo 2026). Pedí que tengan agua caliente y frazadas extra: las noches son muy frías. En la Candelaria (febrero) los precios suben y se agotan"
+    },
+    {
+      "categoria": "Intermedios y lodges en los Uros",
+      "nivel": 3,
+      "opciones": "Casa Andina Standard Puno desde US$ 66 y Mirador del Titikaka desde US$ 70 la noche (fuente: Booking, verificado octubre 2026); Hotel Ciudad del Lago desde S/ 204 (fuente: Atrapalo.pe, verificado octubre 2026). Para dormir sobre el lago, los lodges de los Uros arrancan en US$ 36 y llegan a US$ 153 (fuente: Booking, verificado octubre 2026)"
+    },
+    {
+      "categoria": "Hoteles de cuatro estrellas cerca de la plaza",
+      "nivel": 4,
+      "opciones": "Tierra Viva Puno Plaza US$ 83,75–104,94 y Hotel José Antonio desde US$ 88,55 la noche (fuente: Booking, verificado octubre 2026); Royal Inn Hotel desde US$ 62 (fuente: Kayak, verificado octubre 2026). Conviene pedir habitación con calefacción. Febrero es temporada alta por la Candelaria"
+    },
+    {
+      "categoria": "Alta gama frente al lago",
+      "nivel": 5,
+      "opciones": "GHL Hotel Lago Titicaca, en la isla Esteves, US$ 150–272 la noche; Sonesta Posadas del Inca desde US$ 181 (fuente: Kayak, verificado octubre 2026); Casa Andina Premium Puno US$ 131–175,78 (fuente: Kayak y Booking, verificado octubre 2026). Son los que tienen vista directa a la bahía. Reservá con meses de anticipación si vas en febrero"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Desayuno de mercado: caldo de cabeza y pesque de quinua",
+      "nivel": 1,
+      "opciones": "En el Mercado Laykakota (Latkacota) desde las 6 de la mañana: caldo de cabeza de cordero S/ 8–12, pesque de quinua (puré de quinua con leche y queso) S/ 8–12, jugos de maca. Mejor entre las 7 y las 9. Sólo efectivo (fuente: Turismo Liberty, guía gastronómica 2026, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Trucha del Titicaca frita y chairo",
+      "nivel": 2,
+      "opciones": "La trucha frita con papas andinas en el Mercado Laykakota cuesta S/ 15–22; el chairo, la sopa espesa con chuño negro, chalona y habas, S/ 10–18 en almuerzos de restaurantes locales (fuente: Turismo Liberty, 2026, verificado octubre 2026). En Taquile el almuerzo de trucha en casa de familia lo cobra aparte un operador a S/ 30 (fuente: Titicaca Perú, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Cocina puneña en el centro: cancacho y alpaca",
+      "nivel": 3,
+      "opciones": "Mojsa (Jr. Lima 635, 2.º piso), con trucha a la plancha, cancacho (cordero adobado y horneado) y lomo de alpaca: S/ 35–65; La Casa del Corregidor (Jr. Deustua 576), desayunos andinos y platos típicos: S/ 20–45 (fuente: Turismo Liberty, 2026, verificado octubre 2026). El cancacho ronda S/ 30–45 la porción"
+    },
+    {
+      "tipo": "Parrilla andina: chicharrón de alpaca",
+      "nivel": 4,
+      "opciones": "La Estancia Grill (Av. Circunvalación), con chicharrón de alpaca, cancacho y carnes a la brasa: S/ 40–70 (fuente: Turismo Liberty, 2026, verificado octubre 2026). La Casona (Jr. Lima 423) ronda S/ 40–60 por persona en almuerzo (fuente: Tripadvisor, verificado octubre 2026)"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa o pasaporte para entrar a Perú?",
+      "a": "Depende de tu nacionalidad. Migraciones del Perú indica que los ciudadanos de países de la Comunidad Andina o del Mercosur pueden entrar con su cédula o DNI vigente. Argentinos, uruguayos, chilenos y colombianos entran como turistas sin visa y sin pasaporte. Los mexicanos no necesitan visa de turista desde abril de 2024 (Decreto Supremo 012-2024-RE), pero entran con pasaporte de al menos seis meses de vigencia. Los peruanos, obviamente, sólo necesitan su DNI. Como turista te dan hasta 183 días; si te pasás, pagás una multa diaria del 0,1% de la UIT. Si viajás con menores, averiguá en tu país qué autorización de viaje te piden."
+    },
+    {
+      "q": "¿Cómo evito el soroche en Puno?",
+      "a": "Lo más útil es subir de a poco. Los CDC de Estados Unidos aconsejan no pasar en un solo día de baja altura a dormir a más de 2.750 metros, y Puno está por encima de 3.800. Si podés, llegá desde Arequipa o después de unos días en Cusco. El primer día no hagas nada exigente: caminá despacio, comé liviano, tomá agua y evitá el alcohol las primeras 48 horas. Lo normal es dolor de cabeza, cansancio o náuseas, que suelen pasar en uno o dos días. Si aparecen confusión, falta de coordinación, tos con ahogo o falta de aire en reposo, bajá de altura y buscá atención médica. Para medicación preventiva, hablalo con tu médico antes del viaje."
+    },
+    {
+      "q": "¿Cuántos días necesito en Puno?",
+      "a": "Con dos días completos ves lo principal: uno para el tour de día completo a los Uros y Taquile (8 a 10 horas) y otro para Sillustani a la tarde (3 horas y media) más el centro, la catedral y un mirador. Si querés dormir en Amantaní con una familia, sumá una noche: el programa clásico es de dos días con salida a la mañana y vuelta a media tarde del día siguiente. Agregá un día más para Chucuito y Juli o para cruzar a Copacabana. Y dejá margen para aclimatarte: llegar y salir al lago a primera hora del día siguiente funciona, pero el primer día conviene tomarlo con calma."
+    },
+    {
+      "q": "¿Conviene ir a las islas por mi cuenta o con tour?",
+      "a": "Las dos opciones funcionan. Por tu cuenta, la lancha colectiva a los Uros cuesta S/ 10–15 ida y vuelta y la de Taquile y Amantaní S/ 30–35, según el blog Sinmapa (actualizado mayo 2026); a eso le sumás unos S/ 10 de ingreso por isla. Con tour, pagás más pero tenés guía y el almuerzo suele estar resuelto: el día completo a Uros y Taquile arranca en unos S/ 40 en agencias locales o US$ 34 en Civitatis. Antes de pagar, preguntá siempre si el precio incluye los ingresos a las islas y el almuerzo. El paseo en balsa de totora en los Uros casi nunca está incluido: S/ 15 aparte."
+    },
+    {
+      "q": "¿Puedo pagar con tarjeta o necesito efectivo?",
+      "a": "La moneda es el sol peruano (S/). En Puno vas a necesitar efectivo, y en billetes chicos. La entrada a Sillustani se paga en efectivo, según el blog Trexperience Peru. Los ingresos a las islas los cobran las comunidades al llegar, el paseo en balsa de totora se le paga a la familia y los puestos del Mercado Laykakota no aceptan tarjeta, según la guía de Turismo Liberty. En hoteles y restaurantes del centro, preguntá antes de pedir si aceptan tarjeta. Sacá plata en la ciudad antes de ir a las islas o a Sillustani."
+    },
+    {
+      "q": "¿Cómo cruzo a Copacabana, en Bolivia?",
+      "a": "Hay micros directos desde Puno, de empresas como Panamericano, TransTiticaca, Tour Perú o Colectur, por unos S/ 20 y unas 3 horas más los trámites de frontera, según el blog Sinmapa. En la frontera hacés la salida de Perú y la entrada a Bolivia. La Embajada de Bolivia en Argentina indica que los ciudadanos del Mercosur y de la CAN entran con cédula o DNI vigente, con estadía de 90 días. Si sos mexicano o de otro país, consultá en un consulado boliviano si necesitás visa: no pudimos confirmarlo con fuente oficial. No encontramos horarios oficiales del puesto fronterizo, así que salí temprano."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Puno»: https://es.wikipedia.org/wiki/Puno",
+      "Wikipedia (EN) — «Yavari (ship)»: https://en.wikipedia.org/wiki/Yavari_(ship)",
+      "Wikipedia (EN) — «Uros»: https://en.wikipedia.org/wiki/Uros",
+      "Wikipedia (EN) — «Sillustani»: https://en.wikipedia.org/wiki/Sillustani",
+      "Unesco — «La festividad de la Virgen de la Candelaria de Puno»: https://ich.unesco.org/es/RL/la-festividad-de-la-virgen-de-la-candelaria-de-puno-00956",
+      "Unesco — «El arte textil de Taquile»: https://ich.unesco.org/es/RL/el-arte-textil-de-taquile-00166"
+    ],
+    "que_ver_atracciones": [
+      "SERNANP — «Potencialidades turísticas en Áreas Naturales Protegidas de Puno»: https://media.peru.travel/seminarios-turisticos/puno/Potencialidades-turisticas-en-ANP-Puno_SERNANP.pdf",
+      "Yavari Project — «Yavari, museo en la bahía de Puno»: https://yavari.org/",
+      "RPP — «Cinco lugares que debes visitar en Lampa, la ciudad rosa»: https://rpp.pe/viajes/peru/cinco-lugares-que-debes-visitar-en-lampa-la-ciudad-de-las-siete-maravillas-noticia-1183625",
+      "Slate / Atlas Obscura — «The Penis Temple of Peru is a fun and phallic hoax»: https://www.slate.com/blogs/atlas_obscura/2014/04/01/the_penis_temple_of_peru_is_a_fun_and_phallic_hoax.html",
+      "Lonely Planet — «Museo Carlos Dreyer»: https://www.lonelyplanet.com/peru/puno/attractions/museo-carlos-dreyer/a/poi-sig/465830/363410",
+      "Lonely Planet — «Templo de la Fertilidad»: https://www.lonelyplanet.com/peru/chucuito/attractions/templo-de-la-fertilidad/a/poi-sig/1167129/1317671"
+    ],
+    "precios_2026": [
+      "Ministerio de Cultura — «Anexo TUSNE 2025, RM 000451-2024-MC»: https://cdn.www.gob.pe/uploads/document/file/7433837/6333080-resolucion-ministerial-000451-2024-mc-anexo-tusne-2025.pdf?v=1735480838",
+      "Sinmapa (blog) — «Qué ver en Puno e islas del Titicaca: guía de viaje»: https://www.sinmapa.net/guia-de-viaje-puno-e-islas-del-titicaca/",
+      "Turismo Liberty (operador) — «Tour Islas Uros Puno 2026: precio, qué incluye y cómo reservar»: https://turismoliberty.pe/tour-islas-flotantes-uros-puno-2026-precio-que-incluye/",
+      "Titicaca Perú (operador) — «Classic Amantani Island, Uros, Taquile (2 days)»: https://titicacaperu.com/tours/amantani-island/",
+      "Civitatis — «Actividades en Puno»: https://www.civitatis.com/es/puno/",
+      "Civitatis — «Excursión a Sillustani»: https://www.civitatis.com/es/puno/excursion-sillustani/",
+      "Civitatis — «Excursión a Chucuito»: https://www.civitatis.com/es/puno/excursion-chucuito/",
+      "Civitatis — «Excursión a Lampa»: https://www.civitatis.com/es/juliaca/excursion-lampa/",
+      "Trexperience Peru (blog) — «Sillustani Tombs: How to Visit»: https://trexperienceperu.com/blog/sillustani"
+    ],
+    "como_llegar_transporte": [
+      "PeruRail — «Plan de viaje en el PeruRail Titicaca»: https://www.perurail.com/train-services/perurail-titicaca-journeys/",
+      "Seat61 — «Train travel in Peru»: https://www.seat61.com/Peru.htm",
+      "Cruz del Sur — «Terminal Puno»: https://www.cruzdelsur.com.pe/terminal-puno/",
+      "redBus — «Terminal Terrestre Puno a Cusco»: https://www.redbus.pe/pasajes-de-bus/terminal-terrestre-puno-a-cusco",
+      "HowToPeru — «Arequipa to Puno by Bus»: https://howtoperu.com/?p=11645",
+      "Diario Correo — «A un día de las elecciones, pasajes desde Arequipa cuestan hasta el doble»: https://diariocorreo.pe/edicion/arequipa/a-un-dia-de-las-elecciones-pasajes-desde-arequipa-cuestan-hasta-el-doble-noticia/",
+      "Omio — «Vuelos Juliaca a Lima con LATAM»: https://www.omio.com.ar/vuelos/juliaca/lima-bheql"
+    ],
+    "requisitos_ingreso": [
+      "Radio Nacional / Migraciones — «Migraciones brinda recomendaciones a turistas extranjeros que visitan Perú»: https://www.radionacional.gob.pe/noticias/locales/migraciones-brinda-recomendaciones-a-turistas-extranjeros-que-visitan-peru",
+      "Migraciones (gob.pe) — «Viajar con DNI»: https://www.gob.pe/158",
+      "El Peruano — «Perú formaliza dejar sin efecto exigencia de visa a los ciudadanos mexicanos»: https://elperuano.pe/noticia/241073",
+      "El Cronista — «Perú, Bolivia y Paraguay impedirán el ingreso de argentinos que presenten así su DNI»: https://www.cronista.com/internacionales/confirmado-peru-bolivia-y-paraguay-impediran-el-ingreso-de-argentinos-que-presenten-asi-su-dni-en-los-controles-fronterizos/",
+      "Embajada de Bolivia en Argentina — «Visas de turismo»: https://www.embajadadebolivia.com.ar/turismo/visas-de-turismo/"
+    ],
+    "salud_altura": [
+      "CDC Yellow Book — «High-Altitude Travel and Altitude Illness»: https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html"
+    ],
+    "alojamiento_gastronomia": [
+      "Kayak — «Hoteles en Puno»: https://www.kayak.com/Puno-Hotels.47563.hotel.ksp",
+      "Booking — «Hoteles en Puno»: https://www.booking.com/city/pe/puno.html",
+      "Atrapalo.pe — «Hoteles de 3 estrellas en Puno»: https://www.atrapalo.pe/hoteles/3estrellas/america/peru/puno/puno/",
+      "Turismo Liberty — «Gastronomía de Puno 2026: 8 platos que debes probar»: https://turismoliberty.pe/gastronomia-de-puno-platos-tipicos-2026/",
+      "Tripadvisor — «La Casona Restaurant, Puno»: https://www.tripadvisor.com/LocationPhotoDirectLink-g298442-d1085887-i238346702-La_Casona_Restaurant-Puno_Puno_Region.html"
+    ]
+  }
+}
