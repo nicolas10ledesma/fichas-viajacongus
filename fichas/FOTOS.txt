@@ -36,3 +36,4 @@ FOTO portugal/sesimbra | https://upload.wikimedia.org/wikipedia/commons/6/64/Vie
 FOTO espana/benalmadena | https://upload.wikimedia.org/wikipedia/commons/e/ec/Benalmadena_-_Puerto_Marina.jpg | Benalmadena - Puerto Marina.jpg | CC BY-SA 3.0 | Tiia Monto
 FOTO espana/corralejo | https://upload.wikimedia.org/wikipedia/commons/c/c0/Fuerteventura-Corralejo-Duenen-08-2015-gje.jpg | Fuerteventura-Corralejo-Duenen-08-2015-gje.jpg | CC BY 4.0 | Gerd Eichmann
 FOTO espana/la-coruna | https://upload.wikimedia.org/wikipedia/commons/0/06/Torre_de_H%C3%A9rcules%2C_La_Coru%C3%B1a%2C_Espa%C3%B1a%2C_2015-09-24%2C_DD_11.jpg | Torre de Hércules, La Coruña, España, 2015-09-24, DD 11.jpg | CC BY-SA 4.0 | Diego Delso
+FOTO espana/vigo | https://upload.wikimedia.org/wikipedia/commons/0/06/Vigo_-_Panor%C3%A1mica_08.jpg | Vigo - Panorámica 08.jpg | CC0 | Zarateman
