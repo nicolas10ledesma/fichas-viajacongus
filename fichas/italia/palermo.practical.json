@@ -1,0 +1,688 @@
+{
+  "slug": "palermo",
+  "name": "Palermo",
+  "region": "Sicilia",
+  "lat": 38.1156,
+  "lon": 13.3614,
+  "datosRapidos": [
+    {
+      "label": "Región",
+      "value": "Palermo (Sicilia, Italia). Es la capital y la ciudad más grande de Sicilia, sobre la costa norte de la isla, en una bahía abierta al mar Tirreno y cerrada por el Monte Pellegrino. El municipio tiene unos 626.000 habitantes (dato de 2026) y su ciudad metropolitana ronda 1,2 millones. La fundaron los fenicios en el siglo VIII a. C. y desde entonces pasaron por acá griegos, romanos, bizantinos, árabes, normandos, suevos, aragoneses, españoles y Borbones. Esa mezcla se ve en la calle: cúpulas rojas de aire árabe, mosaicos dorados bizantinos, iglesias barrocas y mercados que parecen un zoco. Desde julio de 2015, nueve monumentos del conjunto 'Palermo árabe-normanda y las catedrales de Cefalú y Monreale' son Patrimonio Mundial de la Unesco. Se la conoce también por su comida callejera (arancine, panelle, pani ca' meusa), por su patrona Santa Rosalía, que según la tradición liberó a la ciudad de la peste en 1624, y por haber sido la ciudad favorita del emperador Federico II. Es una ciudad intensa, ruidosa y con barrios históricos que todavía muestran cicatrices de los bombardeos de 1943 y de la especulación inmobiliaria de la posguerra, conocida como el 'Sacco di Palermo'. Para el viajero es la puerta de entrada a todo el oeste de Sicilia."
+    },
+    {
+      "label": "Moneda y pagos",
+      "value": "Euro (€). La tarjeta funciona en hoteles, museos estatales y la mayoría de los restaurantes, y en los colectivos del aeropuerto se puede pagar a bordo con tarjeta. Igual conviene andar con algo de efectivo: las Catacumbas de los Capuchinos cobran sólo en su boletería, y en puestos de comida callejera y trattorias chicas el efectivo es más rápido. Los cajeros (bancomat) de bancos son la opción más segura para sacar plata."
+    },
+    {
+      "label": "Mejor época",
+      "value": "Primavera (abril-junio) y otoño (septiembre-octubre): hace calor sin el horno de julio y agosto, y el mar todavía está agradable en septiembre. El clima es mediterráneo, con una media anual de unos 18 °C y nieve casi inexistente. Ojo: según Kayak, septiembre es el mes más caro para dormir y diciembre el más barato. El 14 y 15 de julio se celebra el Festino de Santa Rosalía, con procesión y fuegos artificiales; la ciudad se llena."
+    },
+    {
+      "label": "Ciudad de servicio",
+      "value": "La propia Palermo concentra todo. El aeropuerto Falcone Borsellino (PMO), en Punta Raisi, está al oeste de la ciudad y se conecta con el centro por un colectivo cada 30 minutos (unos 50 minutos de viaje) y por tren de Trenitalia hasta la Estación Central. Al puerto llegan los ferris nocturnos desde Nápoles y otros puertos del Tirreno. Desde Palermo salen trenes y micros hacia Cefalú, Agrigento, Catania y Trapani, y es la base para Monreale, Mondello, Erice, Segesta y la reserva del Zingaro."
+    }
+  ],
+  "intro": [
+    "Palermo no se parece a ninguna otra ciudad italiana. En una misma cuadra podés pasar de una iglesia normanda con cúpulas rojas a un mercado donde los vendedores cantan los precios a los gritos, y de ahí a un palacio barroco con la fachada descascarada. Es caótica y no lo disimula, pero detrás de ese desorden hay más de 2.500 años de historia apilada: fenicios, árabes, normandos y españoles dejaron su marca en piedras, mosaicos y recetas.",
+    "Para quien viaja con presupuesto ajustado, Palermo rinde mucho. Varias de sus iglesias se visitan por pocos euros, los mercados de Ballarò, Capo y Vucciria se recorren gratis, y comer en la calle (una arancina, un pan con panelle, un cannolo) sale bastante menos que sentarse en un restaurante. El primer domingo de cada mes varios museos y monumentos regionales abren sin cargo, y la playa de Mondello está a un colectivo de distancia.",
+    "Lo que más cuesta es elegir. La Capilla Palatina y la catedral de Monreale, con sus mosaicos dorados del siglo XII, justifican el viaje por sí solas. Sumale la catedral, las catacumbas con sus miles de momias, el Teatro Massimo, los oratorios de estuco de Serpotta y el atardecer desde el Monte Pellegrino. Con tres o cuatro días ves lo esencial, y si te quedás más, Palermo es la base perfecta para salir a Cefalú, Erice o el Zingaro."
+  ],
+  "historia_corta": "Los fenicios fundaron el asentamiento en el siglo VIII a. C. con el nombre de Ziz; los griegos la llamaron Panormos, 'todo puerto', por su bahía protegida. Fue una plaza fuerte cartaginesa hasta que Roma la conquistó en el 254 a. C., durante la Primera Guerra Púnica. Tras siglos bajo Roma y Bizancio, los árabes la tomaron en 831 después de un largo asedio y la convirtieron en capital del emirato de Sicilia: llegaron los cítricos, el azúcar, los sistemas de riego y una ciudad que crecía con mezquitas y jardines. En 1072 capituló ante los normandos, que en lugar de borrar lo anterior lo absorbieron. Palermo fue capital del Reino de Sicilia desde 1130, y Roger II mandó construir la Capilla Palatina (encargada en 1132) con mosaicos bizantinos y un techo de madera de tradición islámica. Su nieto Guillermo II levantó Monreale. Con Federico II, rey de Sicilia desde 1198 y emperador desde 1220, la corte palermitana fue un centro de poesía y ciencia. En 1282 la revuelta de las Vísperas Sicilianas expulsó a los franceses y abrió paso a los aragoneses. España gobernó de 1479 a 1713: de esa época son los Quattro Canti, la Fontana Pretoria y buena parte del barroco. Los Borbones unieron Sicilia a Nápoles en 1734. En mayo de 1860 Garibaldi entró con la Expedición de los Mil y en 1861 la ciudad pasó al Reino de Italia. Los bombardeos aliados de 1943 destrozaron el puerto y barrios enteros, y el 'Sacco di Palermo' de las décadas siguientes demolió palacios y jardines. Hoy el centro histórico vive una recuperación lenta, impulsada por el turismo y por la declaración de la Unesco de 2015.",
+  "queVer": [
+    {
+      "nombre": "Palacio de los Normandos y Capilla Palatina (Palazzo dei Normanni, Cappella Palatina)",
+      "desc": "El palacio real normando, sede del Parlamento siciliano, con la capilla de mosaicos dorados más famosa de Sicilia.",
+      "detalle": "El Palazzo dei Normanni (o Palazzo Reale) fue la residencia de los reyes normandos y hoy es sede de la Asamblea Regional Siciliana. Lo gestiona la Fundación Federico II. La joya es la Cappella Palatina, la capilla real que Roger II encargó en 1132: las paredes están cubiertas de mosaicos bizantinos sobre fondo de oro, con el Cristo Pantocrátor en lo alto, y el techo de madera tallada en mocárabes (muqarnas) es de tradición islámica. Esa mezcla es la esencia de la Palermo árabe-normanda.\n\nEl boleto completo incluye también los Apartamentos Reales y los Jardines Reales. Los martes y miércoles se ve sólo la capilla y los jardines, con tarifa más baja. Hay obras de restauración de mosaicos en curso, así que algunas zonas pueden estar tapadas, y como el palacio es sede institucional puede cerrar total o parcialmente sin aviso. Los domingos la capilla cierra de 9:30 a 11:00 por misa.\n\nEs un lugar de culto: no se entra con musculosa, short ni minifalda. Abre todos los días; último ingreso 16:30 de lunes a sábado y 12:30 domingos y feriados. Comprá online para evitar la fila (hasta 20 minutos antes del último ingreso).",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Piazza del Parlamento 1, extremo oeste del Cassaro (Corso Vittorio Emanuele)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Temprano a la mañana; evitá domingos por la misa y el horario corto"
+        },
+        {
+          "label": "Entrada",
+          "value": "Jueves a lunes (capilla, apartamentos y jardines): € 14,50 adulto; € 12,50 18-25 años UE; € 11 mayores de 65 UE; € 9 de 14 a 17 años; gratis hasta 13 años. Martes y miércoles (capilla y jardines): € 10 (fuente: federicosecondo.org, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Catedral de Palermo (Cattedrale di Maria Santissima Assunta)",
+      "desc": "Una catedral que resume nueve siglos: muros normandos, pórtico gótico-catalán, cúpula neoclásica y terrazas con vista.",
+      "detalle": "La catedral se levantó a fines del siglo XII por iniciativa del arzobispo Gualtiero Offamilio y fue reformada muchas veces; la última gran intervención, de Ferdinando Fuga a fines del siglo XVIII, le agregó la cúpula y rehízo el interior en estilo neoclásico. Por fuera conserva las almenas, las torres y el pórtico del siglo XV que da a la plaza ajardinada. Adentro está la capilla de Santa Rosalía, la patrona.\n\nLa nave se visita gratis. La 'Área Monumental' es paga e incluye las tumbas reales (entre ellas las de Federico II y Roger II), la cripta, el Tesoro con la corona de Constanza de Aragón y la subida a los techos (tetti), desde donde se ve la ciudad hasta el mar. La subida tiene escaleras angostas y no se recomienda con vértigo o claustrofobia.\n\nLa catedral vende sus entradas sólo en su web oficial y en sus boleterías: desconfiá de reventas. Área monumental: lunes a sábado 9:30-18:00 y domingo 10:00-18:00, último ingreso una hora antes del cierre. Ojo: la catedral cierra por mantenimiento desde el mediodía del 13 de octubre hasta el 14 de octubre de 2026.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Corso Vittorio Emanuele, a 10 minutos a pie de los Quattro Canti"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana para los techos (más fresco) o atardecer desde la plaza"
+        },
+        {
+          "label": "Entrada",
+          "value": "Nave: gratis. Techos + cripta + tesoro + tumbas: € 13 adulto; € 11 mayores de 65; € 6 de 11 a 17 años. Sólo techos: € 7 adulto; € 6 mayores de 65; € 4 de 11 a 17 (fuente: ticket-shop-cattedraledipalermo.it, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Monreale: catedral y claustro (Duomo di Monreale, Chiostro di Santa Maria Nuova)",
+      "desc": "En la colina sobre Palermo, la catedral normanda de Guillermo II con sus mosaicos dorados y un claustro de columnas únicas.",
+      "detalle": "Monreale es un pueblo en la ladera que domina la Conca d'Oro, el valle de Palermo. Su catedral, fundada por Guillermo II en 1174, forma parte del sitio Unesco árabe-normando. Por dentro está forrada de mosaicos bizantinos sobre fondo de oro que cuentan el Antiguo y el Nuevo Testamento, con un enorme Cristo Pantocrátor en el ábside.\n\nAl lado está el claustro del antiguo monasterio benedictino: un patio rodeado de columnas de a pares, cada una con decoración distinta, y una fuente en una esquina con aire de patio árabe. Se paga aparte y lo gestiona CoopCulture, con boletería propia.\n\nSegún la lista de la Oficina de Turismo de Palermo, la catedral abre de lunes a sábado 9:00-12:45 y 14:00-16:45, y domingos y feriados sólo de 14:00 a 17:00 (a la mañana hay misas). Desde junio de 2026 la línea AMAT 389 vuelve a terminar en la Rocca, abajo del pueblo, y una lanzadera municipal sube hasta el centro. Con la ida y vuelta, reservá medio día.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Monreale, en la colina al suroeste de Palermo; colectivo AMAT 389 desde Piazza Indipendenza + lanzadera municipal"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana de lunes a sábado (el domingo la catedral sólo abre a la tarde)"
+        },
+        {
+          "label": "Entrada",
+          "value": "Catedral: gratis (fuente: Comune di Palermo, Ufficio Turismo, cuadro de horarios y precios actualizado al 12/11/2025, consultado octubre 2026). Claustro: € 8 adulto; € 4 reducido; gratis el primer domingo del mes (fuente: coopculture.it, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día con el viaje"
+        }
+      ]
+    },
+    {
+      "nombre": "Quattro Canti y Piazza Pretoria",
+      "desc": "El cruce barroco que divide la ciudad vieja en cuatro barrios y, a pasos, la fuente de las estatuas desnudas.",
+      "detalle": "Los Quattro Canti (oficialmente Piazza Vigliena) son el cruce de las dos calles principales del centro: el Cassaro (Corso Vittorio Emanuele) y la Via Maqueda. Las cuatro esquinas tienen fachadas cóncavas de tres pisos, levantadas durante el dominio español a comienzos del siglo XVII, con fuentes, estatuas de las estaciones, de reyes españoles y de las santas patronas de cada barrio. El cruce marca los cuatro 'mandamenti' históricos: Kalsa, Albergheria, Capo y Loggia.\n\nA media cuadra está la Piazza Pretoria, con una fuente monumental de mármol del siglo XVI, hecha originalmente en Florencia y llena de estatuas desnudas, por lo que los palermitanos la apodaron 'fontana della vergogna' (fuente de la vergüenza). Frente a ella está el Palazzo delle Aquile, la municipalidad.\n\nEs el punto ideal para orientarte el primer día. La Via Maqueda es peatonal en buena parte y une el centro con el Teatro Massimo. Pasá también de noche: hay artistas callejeros y mucho movimiento. Es todo al aire libre y sin costo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro exacto del casco histórico"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Cualquier momento; a la mañana temprano para fotos sin gente"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Iglesias de la Martorana y San Cataldo (Piazza Bellini)",
+      "desc": "Dos iglesias normandas pegadas: una forrada de mosaicos bizantinos, la otra desnuda y con tres cúpulas rojas.",
+      "detalle": "En la Piazza Bellini, a un paso de la Piazza Pretoria, hay dos iglesias del siglo XII que integran el sitio Unesco. La Martorana (Santa Maria dell'Ammiraglio) fue fundada por Jorge de Antioquía, almirante de Roger II, y hoy pertenece a la comunidad católica de rito bizantino. Su interior mezcla mosaicos medievales, entre ellos uno que muestra a Roger II coronado directamente por Cristo, con agregados barrocos. Los domingos sólo se entra a la misa de las 11.\n\nSan Cataldo, al lado, es casi lo contrario: un cubo de piedra con tres cúpulas rojas y un interior despojado, sin decoración, que deja ver la estructura normanda con influencia árabe. Es una de las fotos clásicas de Palermo.\n\nLas dos se ven en menos de una hora. Si pensás visitar varias iglesias del centro, preguntá por el 'Circuito del Sacro', que da descuentos en varias de ellas. Desde la plaza se ve también Santa Caterina, cuyo monasterio tiene una dulcería que vende los dulces de las monjas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Piazza Bellini, junto a la Piazza Pretoria"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana de lunes a sábado (la Martorana abre 10:00-13:00)"
+        },
+        {
+          "label": "Entrada",
+          "value": "Martorana € 2 (€ 1 con el Circuito del Sacro); San Cataldo € 2,50 (€ 1,50 con el Circuito) (fuente: Comune di Palermo, Ufficio Turismo, cuadro de horarios y precios actualizado al 12/11/2025, consultado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Mercados históricos: Ballarò, Capo y Vucciria",
+      "desc": "Los mercados callejeros de Palermo, con gritos de vendedores, pescado fresco, especias y la mejor comida al paso.",
+      "detalle": "Los mercados son la forma más directa de entender Palermo. Ballarò, en el barrio de la Albergheria, entre la Estación Central y el Palacio de los Normandos, es el más grande y popular: frutas, verduras, pescado, carne y puestos que fríen panelle y crocchè delante tuyo. El Capo, detrás del Teatro Massimo, es más angosto y laberíntico, con mucho puesto de pescado y quesos. La Vucciria, cerca de la Piazza San Domenico, hoy tiene menos puestos de día y se anima de noche con bares y parrillas al aire libre.\n\nLos vendedores pregonan a los gritos, la 'abbanniata', una tradición que viene de los zocos árabes. Es el lugar para probar pani ca' meusa (pan con bazo), sfincione (una pizza alta con cebolla) o una arancina recién hecha.\n\nAndá a la mañana, que es cuando hay más actividad; a la tarde muchos puestos cierran. Cuidá la mochila y el celular en las zonas más apretadas, y preguntá el precio antes de que te sirvan, sobre todo en puestos de pescado cocinado.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Ballarò y Capo, centro histórico; Vucciria, junto a la Via Roma"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana de lunes a sábado; la Vucciria, de noche"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (mercados públicos)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Teatro Massimo",
+      "desc": "El gran teatro de ópera de Palermo, obra de los Basile, que se visita con guía todos los días entre funciones.",
+      "detalle": "El Teatro Massimo Vittorio Emanuele, diseñado por Giovan Battista Filippo Basile y terminado por su hijo Ernesto, se inauguró en 1897 sobre la Piazza Verdi, en el extremo de la Via Maqueda. Es un edificio neoclásico enorme, con escalinata custodiada por dos leones de bronce, y es el escenario de la escena final de El Padrino III.\n\nLa visita guiada dura unos 40 minutos y recorre la sala grande, el salón anexo al palco real, la Sala Pompeiana, la Sala de los Escudos y el foyer. Se hace en varios idiomas y es accesible. Con suplemento de € 5 podés sumar la visita al escenario, en horarios que dependen de los ensayos.\n\nAbre todos los días de 9:30 a 19:00 (última visita 18:20). Entradas en la boletería o online. Hay entradas combinadas: Teatro Massimo + Palazzo Butera por € 19, y Teatro Massimo + Palazzo Branciforte + Villa Zito por € 19. Si te da el presupuesto, ver una ópera o un ballet en la temporada 2025/26 o 2026/27 es otra forma de conocerlo por dentro.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Piazza Verdi, extremo norte de la Via Maqueda"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañana temprano para grupos más chicos"
+        },
+        {
+          "label": "Entrada",
+          "value": "Visita guiada: € 14 adulto; € 7 menores de 26; € 4 residentes en Palermo; familia (2 adultos + 2 menores de 26) € 36; gratis menores de 6 (fuente: teatromassimo.it, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "40 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Catacumbas de los Capuchinos (Catacombe dei Cappuccini)",
+      "desc": "Galerías subterráneas con cientos de cuerpos momificados y vestidos, del siglo XVII al XIX. Impactante, no apto para todos.",
+      "detalle": "Bajo el convento de los frati cappuccini hay un cementerio que empezó como lugar de entierro de los propios frailes, a fines del siglo XVI. Al descubrir que los cuerpos se momificaban de forma natural, empezaron a aceptar laicos y desde 1783 a cualquiera que pudiera pagar el proceso. El resultado son largas galerías con cuerpos de pie o acostados, vestidos con su ropa, separados por sexo, profesión y condición social: frailes, sacerdotes, profesionales, mujeres, niños.\n\nEl cementerio se cerró en 1880, con dos excepciones posteriores. La más conocida es Rosalia Lombardo, una nena que murió en 1920 a los dos años y cuyo cuerpo se conserva de forma sorprendente.\n\nNo se pueden sacar fotos ni tocar nada. La entrada se paga sólo en la boletería del lugar: la dirección avisa que no autoriza ventas online de terceros. El horario de verano publicado es de corrido, de 9:00 a 17:30 (último ingreso 17:10); la Oficina de Turismo indica cierre al mediodía en otras épocas y el domingo a la tarde de fin de octubre a fin de marzo. Es una visita fuerte: pensalo si vas con chicos.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Piazza Cappuccini 1, al oeste del Palacio de los Normandos"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana, al abrir, para evitar grupos"
+        },
+        {
+          "label": "Entrada",
+          "value": "€ 5 entero; € 3 reducido; sólo en la boletería (fuente: catacombefraticappuccini.com, sitio oficial, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "San Giovanni degli Eremiti",
+      "desc": "Iglesia normanda de cúpulas rojas rodeada de un jardín de palmeras y un claustro chico. Muy fotogénica.",
+      "detalle": "San Giovanni degli Eremiti es otra de las piezas del sitio Unesco árabe-normando. La iglesia, del siglo XII, es casi una caja de piedra coronada por cinco cúpulas rojas que recuerdan a una mezquita. El interior es austero; lo que vale es el conjunto con el jardín, lleno de cítricos, palmeras y plantas mediterráneas, y el pequeño claustro con columnas de a pares, lo que queda del monasterio benedictino.\n\nEstá a pocas cuadras del Palacio de los Normandos, así que se combina fácil con la Capilla Palatina en la misma mañana. Es un buen respiro del ruido del centro: en el jardín hay sombra y bancos.\n\nAbre de lunes a sábado de 9:00 a 19:00 (último ingreso 18:30) y domingos y feriados de 9:00 a 13:30. El primer domingo de cada mes la entrada es gratis, igual que en otros sitios regionales; esos días hay más gente, así que llegá temprano.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Via dei Benedettini 20, a 5 minutos a pie del Palacio de los Normandos"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera, con el jardín florecido; primer domingo del mes gratis"
+        },
+        {
+          "label": "Entrada",
+          "value": "€ 8; gratis el primer domingo del mes (fuente: Comune di Palermo, Ufficio Turismo, cuadro de horarios y precios actualizado al 12/11/2025, consultado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Galería Regional Palazzo Abatellis",
+      "desc": "El gran museo de arte medieval y renacentista de Sicilia, con el Triunfo de la Muerte y la Anunciata de Antonello.",
+      "detalle": "La Galleria Regionale della Sicilia funciona en el Palazzo Abatellis, un palacio de fines del siglo XV en el barrio de la Kalsa que mezcla gótico catalán y renacimiento. La restauración y el montaje de la década de 1950, del arquitecto Carlo Scarpa, son en sí una razón para ir.\n\nDos obras justifican la visita. El 'Triunfo de la Muerte', un fresco enorme del siglo XV que muestra a la Muerte a caballo disparando flechas sobre nobles y clérigos, mientras los pobres miran a un costado. Y la 'Anunciata' de Antonello da Messina, un retrato pequeño de la Virgen interrumpida en su lectura, la obra más conocida del pintor siciliano en Palermo. Hay además esculturas de Francesco Laurana y tablas medievales.\n\nAbre de martes a sábado de 9:00 a 19:00 y domingos y feriados de 9:00 a 13:30; cierra los lunes. El primer domingo del mes la entrada es gratis. Se combina con un paseo por la Kalsa y la Piazza Marina.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Via Alloro 4, barrio de la Kalsa"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año (lunes cerrado); primer domingo del mes gratis"
+        },
+        {
+          "label": "Entrada",
+          "value": "€ 10; gratis el primer domingo del mes (fuente: Comune di Palermo, Ufficio Turismo, cuadro de horarios y precios actualizado al 12/11/2025, consultado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo Arqueológico Regional Antonino Salinas",
+      "desc": "El museo arqueológico de Palermo, con las metopas griegas de los templos de Selinunte y piezas de toda la isla.",
+      "detalle": "El Museo Salinas ocupa un antiguo convento de los padres filipinos en la Piazza Olivella, a pasos del Teatro Massimo, y fue reabierto tras una larga restauración. Su colección recorre la Sicilia antigua: fenicios, griegos, romanos y etruscos, con piezas de toda la isla.\n\nLo más importante son las metopas de los templos de Selinunte, relieves de piedra del período griego con escenas mitológicas, y las gárgolas con cabeza de león del templo de Himera. El edificio, con sus claustros, también suma.\n\nAbre de martes a sábado de 9:00 a 18:30 y domingo de 9:00 a 13:00; cierra los lunes. El primer domingo del mes es gratis. Si pensás ir al Orto Botanico, existe un combinado Salinas + Orto Botanico + Museo Doderlein por € 13, y el 'Palermo Culture Pass' suma además el Steri y el Palazzo Riso. Para los que vienen de afuera de la UE: el reducido de € 4 es para ciudadanos UE de 18 a 25 años, y para otros países sólo aplica con reciprocidad.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Piazza Olivella 24, a 3 minutos del Teatro Massimo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año (lunes cerrado); ideal un día de calor o lluvia"
+        },
+        {
+          "label": "Entrada",
+          "value": "€ 8; € 4 ciudadanos UE de 18-25 años; combinado con Orto Botanico y Doderlein € 13 (fuente: coopculture.it, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1,5 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Oratorios de Santa Cita y del Rosario en San Domenico",
+      "desc": "Dos salas barrocas donde Giacomo Serpotta convirtió el estuco blanco en encaje, con escenas y figuras casi vivas.",
+      "detalle": "Los oratorios eran salas de reunión y oración de las cofradías, y en Palermo se convirtieron en vidrieras del barroco. El escultor palermitano Giacomo Serpotta (1656-1732) los decoró con estucos blancos de una delicadeza que sorprende: angelitos, alegorías, cortinas que parecen de tela.\n\nEn el Oratorio de Santa Cita, la pared del fondo muestra en relieve la batalla de Lepanto, y en los laterales hay pequeños 'teatritos' con escenas de los misterios del Rosario. El Oratorio del Rosario en San Domenico, a pocas cuadras, suma al estuco un altar con una tela de Van Dyck, la 'Virgen del Rosario'.\n\nLas dos salas se ven con un único boleto combinado. Abren todos los días salvo martes, de 9:00 a 13:30 y de 14:00 a 17:00 (último ingreso 16:40). Están en el barrio de la Loggia, cerca de la Vucciria y de la Via Roma, así que se combinan con el mercado. Son poco conocidas y casi nunca están llenas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Via Valverde 3 (Santa Cita) y Via dei Bambinai 2 (Rosario), barrio de la Loggia"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año, salvo martes"
+        },
+        {
+          "label": "Entrada",
+          "value": "€ 6 el combinado de ambos oratorios (€ 1 de descuento con el Circuito del Sacro) (fuente: Comune di Palermo, Ufficio Turismo, cuadro de horarios y precios actualizado al 12/11/2025, consultado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Castillo de la Zisa (Castello della Zisa)",
+      "desc": "El palacio de verano de los reyes normandos, construido al estilo árabe, con un museo de arte islámico adentro.",
+      "detalle": "La Zisa, del árabe 'al-Aziz' (la espléndida), fue un palacio de recreo que mandó construir Guillermo I en el siglo XII y terminó su hijo Guillermo II, en lo que entonces era un gran parque real fuera de las murallas. Es arquitectura civil árabe-normanda y forma parte del sitio Unesco.\n\nPor fuera es un bloque rectangular y sobrio. Por dentro, la Sala de la Fuente tiene una cascada que corría por un canal hasta las piletas del jardín para refrescar el ambiente, con mosaicos y bóvedas de mocárabes. Los pisos superiores alojan un museo de arte islámico con objetos de la Sicilia árabe y del Mediterráneo.\n\nAbre de martes a sábado de 9:00 a 18:30 y domingos y feriados de 9:00 a 13:00; cierra lunes. El primer domingo del mes es gratis pero hay que reservar en coopculture.it. Por obras, en 2026 el pórtico de planta baja puede no estar accesible. Queda fuera del casco histórico: desde la estación Orleans/Palazzo Reale son 15-20 minutos a pie.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Piazza Zisa, ingreso por Via dei Normanni; fuera del centro histórico, al oeste"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año (lunes cerrado)"
+        },
+        {
+          "label": "Entrada",
+          "value": "€ 8; € 4 ciudadanos UE de 18-25; gratis menores de 18 (fuente: coopculture.it, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa de Mondello",
+      "desc": "La playa de los palermitanos: arena blanca, agua turquesa y un pueblo de pescadores con balneario liberty.",
+      "detalle": "Mondello es una bahía entre el Monte Pellegrino y el Monte Gallo, al norte de la ciudad, que pasó de aldea de pescadores a playa de moda a principios del siglo XX. De esa época queda el Charleston, un edificio liberty sobre pilotes en el agua que es la postal del lugar. La arena es clara y el agua, en días calmos, de un turquesa que sorprende tan cerca de una ciudad grande.\n\nBuena parte de la costa está ocupada por balnearios con sombrilla y reposera pagas, pero hay tramos de playa libre. En julio y agosto, los fines de semana, se llena de familias palermitanas; entre semana o en septiembre está mucho más tranquila.\n\nSe llega con la línea AMAT 806, que se refuerza en verano, con el boleto urbano común. Del 15 de junio al 31 de octubre de 2026 funciona además un micro directo Mondello-aeropuerto de Prestia e Comandè. Probá en la piazza del pueblo el pescado frito o un 'pane e panelle' y, si tenés tiempo, seguí caminando hacia la reserva de Capo Gallo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al norte de la ciudad, entre el Monte Pellegrino y el Monte Gallo; colectivo AMAT 806"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio y septiembre (julio y agosto, entre semana)"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa libre); reposeras y sombrillas en balnearios privados se pagan aparte"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Monte Pellegrino y Santuario de Santa Rosalía",
+      "desc": "El promontorio que cierra la bahía, con el santuario-gruta de la patrona y vistas amplias sobre Palermo y el mar.",
+      "detalle": "Es la montaña que ves desde casi cualquier punto de Palermo. En lo alto está el Santuario de Santa Rosalía, construido sobre la gruta donde, según la tradición, vivió como ermitaña la santa en el siglo XII. En 1624, en plena peste, se encontraron allí sus restos y la epidemia cedió; desde entonces es la patrona de la ciudad.\n\nLa gruta es húmeda y está llena de exvotos, con el agua que gotea de la roca recogida en canaletas. Afuera, desde los miradores, se ve toda la Conca d'Oro, el puerto y, del otro lado, Mondello.\n\nSe sube con la línea AMAT 812 o a pie por la antigua 'Scala Vecchia', un camino en zigzag que usan los fieles: cada año, a comienzos de septiembre, miles suben caminando en la 'acchianata'. Esos días los colectivos van repletos. El santuario abre todos los días de 8:00 a 18:00 (19:00 en horario de verano).",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al norte del centro; colectivo AMAT 812 o subida a pie por la Scala Vecchia"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Atardecer, con buena visibilidad; evitá el calor del mediodía si subís caminando"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: Comune di Palermo, Ufficio Turismo, cuadro de horarios y precios actualizado al 12/11/2025, consultado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Jardín Botánico (Orto Botanico di Palermo)",
+      "desc": "Un jardín botánico universitario de fines del siglo XVIII, con ficus gigantes, palmeras y plantas de todo el mundo.",
+      "detalle": "El Orto Botanico de la Universidad de Palermo se fundó a fines del siglo XVIII y es uno de los jardines botánicos históricos de Italia. Ocupa varias hectáreas junto a la Villa Giulia, al lado de la Kalsa, y se recorre a la sombra de árboles monumentales. El más famoso es un Ficus macrophylla con raíces aéreas enormes. Hay invernaderos, una gran pileta con plantas acuáticas, colecciones de cactus y suculentas y especies tropicales que acá crecen al aire libre gracias al clima.\n\nEn la entrada están los edificios neoclásicos del Gymnasium, de la misma época. Es un buen plan para el mediodía de verano, cuando las calles queman.\n\nAbre a las 9:00 todo el año (10:00 domingos y feriados) y cierra según la estación: 18:00 en octubre y marzo, 17:00 de noviembre a febrero, 19:00 en abril y 20:00 de mayo a agosto. Desde la Estación Central llegan las líneas 231 y 107. Hay combinados con el Steri (€ 12) y con el Museo Doderlein (€ 8,50).",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Via Lincoln 2, junto a la Villa Giulia, a 10 minutos a pie de la Estación Central"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño; en verano, como refugio de sombra"
+        },
+        {
+          "label": "Entrada",
+          "value": "€ 8; € 5 de 6 a 25 años y mayores de 70; combinado con Doderlein € 8,50 (fuente: coopculture.it, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Palacio de los Normandos + Capilla Palatina + Jardines Reales",
+      "precio": "Jueves a lunes: € 14,50 adulto; € 12,50 ciudadanos UE 18-25 y docentes; € 11 UE mayores de 65; € 9 de 14 a 17 años; gratis hasta 13 años; audioguía € 5. Martes y miércoles (sólo capilla y jardines): € 10 adulto, € 6 de 14 a 17 (fuente: federicosecondo.org, verificado octubre 2026). Comprar en federicosecondo.org o en boletería. Reducciones para no UE sólo con reciprocidad"
+    },
+    {
+      "tipo": "Catedral de Palermo (área monumental y techos)",
+      "precio": "Nave gratis. Techos + Pozzo della Maddalena + cripta + ábsides + tesoro: € 13 adulto, € 11 mayores de 65, € 6 de 11 a 17. Sólo techos: € 7 / € 6 / € 4 (fuente: ticket-shop-cattedraledipalermo.it, verificado octubre 2026). Comprar sólo en la web oficial o en sus boleterías"
+    },
+    {
+      "tipo": "Monreale (catedral y claustro)",
+      "precio": "Catedral gratis (fuente: Comune di Palermo, Ufficio Turismo, cuadro de horarios y precios actualizado al 12/11/2025, consultado octubre 2026). Claustro de Santa Maria Nuova: € 8 adulto, € 4 reducido, gratis el primer domingo del mes (fuente: coopculture.it, verificado octubre 2026). Boletería en el claustro o online"
+    },
+    {
+      "tipo": "Teatro Massimo (visita guiada)",
+      "precio": "€ 14 adulto; € 7 menores de 26; € 4 residentes en Palermo; familia € 36 (2 adultos + 2 menores de 26); gratis menores de 6; escenario +€ 5; combinado con Palazzo Butera € 19 (fuente: teatromassimo.it, verificado octubre 2026). Boletería, web del teatro o TicketOne"
+    },
+    {
+      "tipo": "Catacumbas de los Capuchinos",
+      "precio": "€ 5 entero; € 3 reducido (fuente: catacombefraticappuccini.com, sitio oficial, verificado octubre 2026). Pago sólo en la boletería del lugar; la dirección no autoriza ventas online"
+    },
+    {
+      "tipo": "Martorana y San Cataldo (Piazza Bellini)",
+      "precio": "Martorana € 2 (€ 1 con Circuito del Sacro); San Cataldo € 2,50 (€ 1,50 con Circuito del Sacro) (fuente: Comune di Palermo, Ufficio Turismo, cuadro de horarios y precios actualizado al 12/11/2025, consultado octubre 2026). Se paga en cada iglesia"
+    },
+    {
+      "tipo": "Sitios regionales: San Giovanni degli Eremiti, Palazzo Abatellis, Castillo de la Zisa",
+      "precio": "Eremiti € 8; Abatellis € 10; Zisa € 8 (fuente: Comune di Palermo, Ufficio Turismo, cuadro de horarios y precios actualizado al 12/11/2025, consultado octubre 2026; Zisa confirmado en coopculture.it, verificado octubre 2026). Gratis el primer domingo de cada mes (Zisa con reserva previa en coopculture.it)"
+    },
+    {
+      "tipo": "Museo Arqueológico Salinas y Palermo Culture Pass",
+      "precio": "Salinas € 8; € 4 UE 18-25; combinado Salinas + Orto Botanico + Doderlein € 13 (fuente: coopculture.it, verificado octubre 2026). Palermo Culture Pass (Steri, Salinas, Orto Botanico y Palazzo Riso, 7 días) € 25,60 (fuente: Comune di Palermo, Ufficio Turismo, cuadro de horarios y precios actualizado al 12/11/2025, consultado octubre 2026)"
+    },
+    {
+      "tipo": "Oratorios de Santa Cita y del Rosario en San Domenico",
+      "precio": "€ 6 el boleto combinado para los dos oratorios; € 1 de descuento con el Circuito del Sacro (fuente: Comune di Palermo, Ufficio Turismo, cuadro de horarios y precios actualizado al 12/11/2025, consultado octubre 2026). Cerrados los martes"
+    },
+    {
+      "tipo": "Jardín Botánico y Palazzo Steri",
+      "precio": "Orto Botanico € 8; € 5 de 6 a 25 años y mayores de 70 (fuente: coopculture.it, verificado octubre 2026). Steri € 8; combinado Steri + Orto Botanico € 12 (fuente: Comune di Palermo, Ufficio Turismo, cuadro de horarios y precios actualizado al 12/11/2025, consultado octubre 2026)"
+    },
+    {
+      "tipo": "Museo Internacional de las Marionetas Antonio Pasqualino",
+      "precio": "€ 5 la visita; € 10 con función de títeres (opera dei pupi) (fuente: Comune di Palermo, Ufficio Turismo, cuadro de horarios y precios actualizado al 12/11/2025, consultado octubre 2026). Horarios de funciones en museodellemarionette.it"
+    },
+    {
+      "tipo": "Tasa de estadía (imposta di soggiorno), por persona y por noche",
+      "precio": "Hoteles: 1 estrella € 3; 2 estrellas € 3,50; 3 estrellas € 4; 4 estrellas € 4,50; 5 estrellas y 5 lujo € 5. B&B, extrahoteleros y alquileres temporarios: € 4. Vigente desde el 1/7/2025 por Delibera del Consejo Municipal n.º 34 del 30/4/2025 (fuente: idsportale.comune.palermo.it, portal oficial del Comune di Palermo, verificado octubre 2026). Se paga en el alojamiento, normalmente en efectivo, aparte de la reserva"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Free tour por el centro histórico de Palermo (en español)",
+      "precio": "Gratis; se deja propina a voluntad al guía (fuente: civitatis.com, precio publicado, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Guías locales vía Civitatis"
+    },
+    {
+      "actividad": "Tour por los mercados de Palermo con degustación",
+      "precio": "~€ 77 por persona (fuente: civitatis.com, precio publicado, verificado octubre 2026)",
+      "duracion": "3 horas",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Excursión a Cefalú (pueblo costero con catedral normanda Unesco)",
+      "precio": "~€ 78 por persona (fuente: civitatis.com, precio publicado, verificado octubre 2026). Alternativa por cuenta propia: tren Palermo-Cefalú desde € 7,10 (fuente: trenitalia.com, verificado octubre 2026)",
+      "duracion": "6 horas",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Excursión a Monreale por libre (traslado organizado)",
+      "precio": "~€ 45 por persona (fuente: civitatis.com, precio publicado, verificado octubre 2026); por cuenta propia, colectivo AMAT 389 con boleto de € 1,40 más lanzadera municipal",
+      "duracion": "4 horas",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Paseo en barco por la Reserva Natural de Capo Gallo",
+      "precio": "~€ 78 por persona (fuente: civitatis.com, precio publicado, verificado octubre 2026)",
+      "duracion": "4 horas",
+      "operador": "Operadores náuticos de Mondello/Palermo vía Civitatis"
+    },
+    {
+      "actividad": "Excursión a Mondello y al Monte Pellegrino",
+      "precio": "~€ 50 por persona (fuente: civitatis.com, precio publicado, verificado octubre 2026)",
+      "duracion": "Medio día",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Excursión a Erice y Marsala (pueblo medieval y salinas)",
+      "precio": "~€ 155 por persona (fuente: civitatis.com, precio publicado, verificado octubre 2026)",
+      "duracion": "Día completo",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Visita guiada por los oratorios de Giacomo Serpotta",
+      "precio": "~€ 77 por persona (fuente: civitatis.com, precio publicado, verificado octubre 2026); por cuenta propia, boleto combinado € 6 (fuente: Comune di Palermo, Ufficio Turismo, cuadro de horarios y precios actualizado al 12/11/2025, consultado octubre 2026)",
+      "duracion": "2 a 3 horas",
+      "operador": "Guías locales vía Civitatis"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Colectivo urbano AMAT (boleto ordinario)",
+      "precio": "€ 1,40 el boleto de 90 minutos; € 1,80 si lo comprás a bordo al chofer; carnet de 20 boletos € 23,50 sólo por app (fuente: amat.pa.it, verificado octubre 2026)",
+      "duracion": "Variable según tránsito",
+      "notas": "Se valida apenas subís y vale 90 minutos. Se compra en tabaquerías, kioscos autorizados y en la app de AMAT. El tránsito del centro es lento: para tramos cortos dentro del casco histórico conviene caminar."
+    },
+    {
+      "medio": "Boleto diario y multiday AMAT",
+      "precio": "Diario € 3,50; 2 días € 6; 3 días € 8; 7 días € 16,50, válidos en toda la red hasta el fin del servicio (fuente: amat.pa.it, verificado octubre 2026)",
+      "duracion": "1 a 7 días",
+      "notas": "Rinde si vas a Mondello, al Monte Pellegrino o a Monreale el mismo día. La validez empieza con la primera validación a bordo."
+    },
+    {
+      "medio": "Colectivo a Monreale (AMAT 389 + lanzadera municipal)",
+      "precio": "389 con boleto AMAT de € 1,40; lanzadera municipal Rocca-centro de Monreale € 1,20 (fuente: Balarm, nota del 16/6/2026 sobre la suspensión del prolongamiento, verificado octubre 2026)",
+      "duracion": "Variable; lanzadera cada 30 minutos de 6:30 a 20:30",
+      "notas": "La 389 sale de Piazza Indipendenza. Desde el 16 de junio de 2026 volvió a terminar en la Rocca, abajo del pueblo, mientras se resuelve el trámite para llegar al Duomo. Revisá amat.pa.it antes de salir."
+    },
+    {
+      "medio": "Micro directo Mondello - Aeropuerto (Prestia e Comandè)",
+      "precio": "€ 6 ida; € 10 ida y vuelta; de 3 a 12 años € 4 / € 8 (fuente: prestiaecomande.it, cuadro 2026, verificado octubre 2026)",
+      "duracion": "40 minutos",
+      "notas": "Funciona del 15 de junio al 31 de octubre de 2026. Útil si te alojás en Mondello. Para ir de Palermo a Mondello en el día, usá la línea AMAT 806."
+    },
+    {
+      "medio": "A pie por el centro histórico",
+      "precio": "Gratis",
+      "duracion": "De los Quattro Canti al Palacio de los Normandos, unos 15 minutos",
+      "notas": "El casco histórico es compacto y gran parte de la Via Maqueda es peatonal. Llevá calzado cómodo: hay adoquines y veredas angostas. De noche, preferí las calles principales y con movimiento."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto Falcone Borsellino (PMO) → centro / Estación Central (colectivo)",
+      "empresas": "Prestia e Comandè (shuttle cada 30 minutos, todo el año)",
+      "precio": "€ 6 ida y € 10 ida y vuelta online o en boletería; € 6,50 / € 11 a bordo; 3 a 12 años € 4; menores de 3 gratis (fuente: prestiaecomande.it, cuadro de la línea 2026, verificado octubre 2026)",
+      "duracion": "50 minutos a la Estación Central; 40 minutos a Politeama"
+    },
+    {
+      "ruta": "Aeropuerto Falcone Borsellino (PMO) → Palermo Centrale (tren)",
+      "empresas": "Trenitalia, trenes regionales desde la estación Palermo Aeroporto",
+      "precio": "€ 6,80 por tramo (fuente: trenitalia.com/lefrecce.it, verificado octubre 2026)",
+      "duracion": "53 minutos a 1 h 10 según el tren"
+    },
+    {
+      "ruta": "Tren desde otras ciudades de Sicilia (Cefalú, Agrigento, Catania)",
+      "empresas": "Trenitalia regional",
+      "precio": "Cefalú desde € 7,10; Agrigento € 11,40; Catania desde € 17,20 en tren directo (fuente: trenitalia.com/lefrecce.it, verificado octubre 2026)",
+      "duracion": "Cefalú 45-55 minutos; Agrigento unas 2 horas; Catania unas 3 horas"
+    },
+    {
+      "ruta": "Micro Catania → Palermo",
+      "empresas": "SAIS Autolinee y otras líneas regionales",
+      "precio": "Desde ~€ 14 (fuente: Omio, agregador, verificado octubre 2026)",
+      "duracion": "2 h 25 a 2 h 50"
+    },
+    {
+      "ruta": "Ferry nocturno Nápoles → Palermo",
+      "empresas": "GNV (Grandi Navi Veloci) y Grimaldi Lines",
+      "precio": "Pasajero a pie desde ~€ 28 en butaca; las tarifas cambian según fecha y camarote (fuente: aferry.com, agregador, verificado octubre 2026)",
+      "duracion": "8 h 30 (Grimaldi) a 11 h (GNV)"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Hostels y opciones económicas",
+      "nivel": 2,
+      "opciones": "Cama en dormitorio compartido en hostels del centro ~€ 18-22 la noche (fuente: hostelgeeks.com, blog, verificado octubre 2026); Ostello Bello Palermo, uno de los más buscados, desde ~€ 78 la noche según tipo de habitación (fuente: Kayak, verificado octubre 2026). En septiembre y en el Festino de julio suben"
+    },
+    {
+      "categoria": "Hoteles 3 estrellas y B&B en el centro histórico",
+      "nivel": 3,
+      "opciones": "Ofertas de 3 estrellas desde € 49 la noche; ejemplos: Vado al Massimo ~€ 86, Hotel Bel 3 ~€ 76-96, B&B Hotel Palermo Quattro Canti ~€ 139 (fuente: Kayak, verificado octubre 2026). Sumá la tasa de estadía de € 4 por persona y noche. Diciembre es el mes más barato y septiembre el más caro"
+    },
+    {
+      "categoria": "Hoteles 4 estrellas cerca de los monumentos",
+      "nivel": 4,
+      "opciones": "Best Western Ai Cavalieri ~€ 151, Ambasciatori Hotel ~€ 187, NH Palermo ~€ 212, Grand Hotel Piazza Borsa ~€ 243 la noche (fuente: Kayak, verificado octubre 2026). Tasa de estadía € 4,50 por persona y noche. En temporada alta reservá con anticipación"
+    },
+    {
+      "categoria": "Hoteles 5 estrellas y de lujo",
+      "nivel": 5,
+      "opciones": "Grand Hotel Wagner ~€ 293 (fuente: Kayak, verificado octubre 2026); Grand Hotel et des Palmes ~€ 435 y Rocco Forte Villa Igiea ~€ 830 la noche en fechas de primavera (fuente: Expedia, verificado octubre 2026). Tasa de estadía € 5 por persona y noche"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Comida callejera (street food)",
+      "nivel": 2,
+      "opciones": "Pani ca' meusa (pan con bazo y pulmón de ternera, 'maritata' con ricotta y caciocavallo) € 4 y pane e panelle (pan con buñuelos de garbanzo) € 3,50 en la Antica Focacceria San Francesco (fuente: carta oficial de la Antica Focacceria San Francesco, anticafocacceria.it, verificado octubre 2026). En bares y mercados, una arancina ronda € 2-4 (fuente: guías de viaje/blogs, verificado octubre 2026). Probá también sfincione y crocchè en Ballarò o el Capo"
+    },
+    {
+      "tipo": "Trattoria y cocina palermitana",
+      "nivel": 3,
+      "opciones": "Pasta chi sardi (con sardinas, hinojo silvestre, piñones y pasas) € 16, timballo de anelletti al horno € 11, sarde a beccafico € 12 y caponata de berenjenas € 9 en la Antica Focacceria San Francesco (fuente: carta oficial de la Antica Focacceria San Francesco, anticafocacceria.it, verificado octubre 2026). Trattorias populares como Ai Cascinari, detrás del mercado del Capo, rondan menos de € 20 por persona al mediodía (fuente: Scatti di Gusto, guía gastronómica, consultada octubre 2026)"
+    },
+    {
+      "tipo": "Dulces sicilianos (cannoli y cassata)",
+      "nivel": 2,
+      "opciones": "Cannolo de ricotta € 4, cannolo de pistacho € 4,50 y cassata siciliana € 6,50 (fuente: carta oficial de la Antica Focacceria San Francesco, anticafocacceria.it, verificado octubre 2026). En la dulcería del monasterio de Santa Caterina, en Piazza Bellini, venden dulces de receta conventual. Tour de dulces de Palermo ~€ 56 por persona (fuente: civitatis.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Alta cocina siciliana contemporánea",
+      "nivel": 5,
+      "opciones": "Gagini Restaurant, en la Vucciria (Via Cassari 35): menú degustación de 4 pasos € 85, de 6 pasos € 110 y recorrido 'Segni' en cinco actos € 130, maridaje € 40-70; a la carta platos de € 26 a € 36 (mínimo dos pasos) y cubierto € 4 (fuente: gaginirestaurant.com, verificado octubre 2026). Reservá con días de anticipación"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Es seguro viajar a Palermo?",
+      "a": "Palermo es una ciudad grande y con zonas pobres en pleno centro, pero el turista que toma precauciones básicas no suele tener problemas. Lo más común son los robos al descuido: cuidá la mochila y el celular en los mercados, en los colectivos llenos (sobre todo la 806 a Mondello y la 389 a Monreale) y en las aglomeraciones de fiestas como el Festino. De noche, quedate en calles iluminadas y con gente, como la Via Maqueda, la zona del Teatro Massimo o la Vucciria, y evitá los callejones vacíos de la Albergheria o la Kalsa. Si alquilás auto, no dejes nada a la vista. En el tránsito, cruzá con atención: los motoqueros no siempre respetan la senda peatonal."
+    },
+    {
+      "q": "¿Necesito visa? ¿Qué son el EES y el ETIAS para latinoamericanos?",
+      "a": "Con pasaporte de Argentina, Uruguay, Chile, México, Colombia o Perú no necesitás visa para turismo: podés estar hasta 90 días dentro de cualquier período de 180 en todo el espacio Schengen, Italia incluida. Desde el 10 de abril de 2026 funciona plenamente el EES (Entry/Exit System): en tu primera entrada te toman huellas y foto en el control y ya no sellan el pasaporte; el sistema cuenta tus días automáticamente. El ETIAS, una autorización online previa, todavía no está en funcionamiento en octubre de 2026 y la UE no confirmó la fecha de inicio. No pagues trámites en webs no oficiales. Si tenés otro pasaporte de la región, consultá en el consulado italiano."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse?",
+      "a": "Con tres días completos ves lo esencial: uno para el eje Palacio de los Normandos, Capilla Palatina, catedral, Quattro Canti y mercados; otro para la Kalsa, Abatellis, el Orto Botanico, los oratorios y el Teatro Massimo; y medio día para Monreale, con la tarde en Mondello o el Monte Pellegrino. Con cuatro o cinco días podés sumar las catacumbas, la Zisa y excursiones a Cefalú (menos de una hora en tren) o a Erice y Segesta. Tené en cuenta los horarios: muchos sitios regionales cierran los lunes y los domingos abren sólo de mañana."
+    },
+    {
+      "q": "¿Cuánto es la tasa de estadía y cómo se paga?",
+      "a": "Palermo cobra la imposta di soggiorno por persona y por noche, según el tipo de alojamiento: en hoteles va de € 3 (1 estrella) a € 5 (5 estrellas), y en B&B, hostels registrados como extrahoteleros y departamentos de alquiler temporario es de € 4. Rige desde el 1 de julio de 2025. Se paga directamente en el alojamiento, casi siempre al llegar o al irte, y en general no está incluida en el precio que ves en Booking o Airbnb. Guías comerciales señalan un tope de noches consecutivas y exenciones para menores, pero confirmá las condiciones con tu alojamiento. Para una pareja en un 3 estrellas son € 8 por noche."
+    },
+    {
+      "q": "¿Conviene alquilar auto?",
+      "a": "Para moverte dentro de Palermo, no. El centro tiene una Zona de Tránsito Limitado (ZTL) que exige un pase pagado, el estacionamiento es escaso y el tránsito es caótico; caminar y usar colectivos AMAT es más práctico. El auto sí sirve para recorrer el oeste de Sicilia (Segesta, Erice, el Zingaro, San Vito lo Capo) o el interior, donde los micros son menos frecuentes. Si alquilás, retiralo al salir de la ciudad, por ejemplo en el aeropuerto, y averiguá en amat.pa.it las reglas de la ZTL si tu hotel está en el centro. Necesitás registro de conducir de tu país y, según el caso, el permiso internacional."
+    },
+    {
+      "q": "¿Cuándo es temporada baja y qué cambia?",
+      "a": "De noviembre a marzo hay menos turistas y los hoteles bajan: según Kayak, diciembre es el mes más barato para dormir. El clima es suave para el norte de Europa, aunque llueve más y el mar está frío. Los horarios se acortan: el Orto Botanico cierra a las 17:00 de noviembre a febrero y las Catacumbas no abren el domingo a la tarde de fin de octubre a fin de marzo. Septiembre, en cambio, es el más caro. Aprovechá el primer domingo de cada mes: Zisa, Eremiti, Abatellis, Salinas y el claustro de Monreale abren gratis, con más gente."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Palermo»: https://es.wikipedia.org/wiki/Palermo",
+      "Wikipedia (EN) — «Palermo»: https://en.wikipedia.org/wiki/Palermo",
+      "Wikipedia (EN) — «Palatine Chapel, Palermo»: https://en.wikipedia.org/wiki/Palatine_Chapel,_Palermo",
+      "Catacombe Frati Cappuccini (sitio oficial) — «La Storia»: https://www.catacombefraticappuccini.com/it_it/storia/"
+    ],
+    "que_ver_atracciones": [
+      "Fondazione Federico II — «Visita – Orari e ingressi Palazzo Reale»: https://www.federicosecondo.org/visita/",
+      "Fondazione Federico II — «Acquista ticket online»: https://www.federicosecondo.org/acquista-ticket-online/",
+      "Cattedrale di Palermo — «Orari e modalità di visita della Cattedrale»: https://www.ticket-shop-cattedraledipalermo.it/amc/orari-e-modalita-di-visita-della-cattedrale/",
+      "Teatro Massimo — «Visite guidate»: https://www.teatromassimo.it/visite-guidate/",
+      "Catacombe Frati Cappuccini (sitio oficial) — «Orari»: https://www.catacombefraticappuccini.com/it_it/orari/",
+      "Ministero della Cultura — «Catacombe dei Cappuccini»: https://cultura.gov.it/luogo/catacombe-dei-cappuccini"
+    ],
+    "precios_2026": [
+      "Cattedrale di Palermo — «Biglietteria»: https://www.ticket-shop-cattedraledipalermo.it/amc/categoria-prodotto/biglietteria/",
+      "Cattedrale di Palermo — «Tetti, Pozzo della Maddalena, Cripta, Absidi, Tesoro»: https://www.ticket-shop-cattedraledipalermo.it/amc/prodotto/tetti-pozzo-della-maddalena-cripta-absidi-tesoro/",
+      "Catacombe Frati Cappuccini (sitio oficial) — «Tariffe»: https://www.catacombefraticappuccini.com/tariffe/",
+      "Comune di Palermo – Ufficio Turismo — «Orari d'apertura dei principali luoghi di interesse (12/11/2025)»: https://turismo.comune.palermo.it/js/server/uploads/new/_17112025093804.pdf",
+      "Comune di Palermo – Ufficio Turismo — «Domenica al Museo, 3 maggio 2026»: https://docs.comune.palermo.it/js/server/uploads/turismo/news/_21042026095129.pdf",
+      "CoopCulture — «Biglietto Castello della Zisa»: https://www.coopculture.it/it/prodotti/biglietto-castello-della-zisa/",
+      "CoopCulture — «Chiostro di Santa Maria Nuova Monreale – biglietto di ingresso»: https://www.coopculture.it/it/prodotti/chiostro-di-santa-maria-nuova-monreale-biglietto-di-ingresso/",
+      "CoopCulture — «Biglietto Museo archeologico regionale Antonino Salinas»: https://www.coopculture.it/it/prodotti/biglietto-museo-archeologico-regionale-antonino-salinas/",
+      "CoopCulture — «Biglietto Orto Botanico dell'Università degli Studi di Palermo»: https://www.coopculture.it/it/prodotti/biglietto-orto-botanico-delluniversita-degli-studi-di-palermo/",
+      "Comune di Palermo — «Portale dell'imposta di soggiorno»: https://idsportale.comune.palermo.it/web/ids",
+      "Civitatis — «Excursiones y visitas guiadas en Palermo»: https://www.civitatis.com/es/palermo/"
+    ],
+    "como_llegar_transporte": [
+      "AMAT Palermo — «Biglietti»: https://www.amat.pa.it/biglietti/",
+      "Prestia e Comandè — «Orari e linee»: https://www.prestiaecomande.it/orari-e-linee/",
+      "Prestia e Comandè — «Linea Palermo – Aeroporto (PDF 2026)»: https://www.prestiaecomande.it/wp-content/uploads/2026/07/LineaPalermoAeroporto-V4.pdf",
+      "Prestia e Comandè — «Linea Mondello – Aeroporto 2026 (PDF)»: https://www.prestiaecomande.it/wp-content/uploads/2026/09/Linea-Mondello-2026-Prestia-V11.pdf",
+      "Trenitalia — «Lefrecce – ricerca soluzioni di viaggio»: https://www.lefrecce.it/",
+      "Regione Siciliana — «Mobilità, Regione autorizza prolungamento linea 389 Amat a Monreale»: https://www.regione.sicilia.it/la-regione-informa/mobilita-regione-autorizza-prolungamento-linea-389-amat-monreale",
+      "Balarm — «A Monreale ci risiamo, il bus 389 non arriva più»: https://www.balarm.it/news/a-monreale-ci-risiamo-il-bus-389-non-arriva-piu-c-e-una-navetta-sostitutiva-orari-e-costo-167302",
+      "aFerry (agregador) — «Traghetto Napoli Palermo»: https://www.aferry.com/it-it/naples-palermo/",
+      "Omio (agregador) — «Autobus Palermo-Catania con Sais»: https://www.omio.it/autobus/palermo/catania"
+    ],
+    "alojamiento_gastronomia": [
+      "Kayak — «Hotel a Palermo»: https://www.kayak.it/Hotel-a-Palermo.14184.hotel.ksp",
+      "Hostelgeeks (blog) — «Best hostels in Palermo»: https://hostelgeeks.com/best-hostels-in-palermo-sicily/",
+      "Antica Focacceria San Francesco — «Menu Palermo (PDF)»: https://www.anticafocacceria.it/wp-content/uploads/2025/10/Menu-Palermo-sito_ITA.pdf",
+      "Gagini Restaurant — «Menu degustazione»: https://www.gaginirestaurant.com/menu/menu-degustazione/",
+      "Gagini Restaurant — «Menu alla carta»: https://www.gaginirestaurant.com/menu/menu-alla-carta/",
+      "Scatti di Gusto — «5 trattorie nel centro storico di Palermo»: https://www.scattidigusto.it/2022/08/31/5-migliori-trattorie-palermo/"
+    ],
+    "visados_entrada": [
+      "Comisión Europea – Migration and Home Affairs — «Entry/Exit System (EES)»: https://home-affairs.ec.europa.eu/policies/schengen/smart-borders/entry-exit-system_en",
+      "Comisión Europea – Migration and Home Affairs — «Visa policy»: https://home-affairs.ec.europa.eu/policies/schengen/visa-policy_en",
+      "Schengen Traveler (seguimiento no oficial) — «ETIAS Launch Date: Latest Updates & Timeline (2026)»: https://schengentraveler.com/etias-launch-date/"
+    ]
+  }
+}

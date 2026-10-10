@@ -1,3 +1,4 @@
 FOTO espana/palma-mallorca | https://upload.wikimedia.org/wikipedia/commons/5/5a/Catedral_de_Santa_Mar%C3%ADa%2C_Palma_de_Mallorca%2C_Espa%C3%B1a%2C_2022-10-06%2C_DD_01-03_HDR.jpg | Catedral de Santa María, Palma de Mallorca, España, 2022-10-06, DD 01-03 HDR.jpg | CC BY-SA 4.0 | Diego Delso
 FOTO singapur/singapur | https://upload.wikimedia.org/wikipedia/commons/7/78/Marina_Bays_Sands_Hotel_and_skyline_of_the_Central_Business_District_Singapore.jpg | Marina Bays Sands Hotel and skyline of the Central Business District Singapore.jpg | CC BY-SA 4.0 | Basile Morin
 FOTO brasil/foz-iguazu | https://upload.wikimedia.org/wikipedia/commons/4/48/00_1838_Iguazu_Falls_from_the_Brazilian_side.jpg | 00 1838 Iguazu Falls from the Brazilian side.jpg | CC BY-SA 4.0 | W. Bulach
+FOTO italia/palermo | https://upload.wikimedia.org/wikipedia/commons/f/f4/Palermo_Cathedral_BW_2025-04-29_11-57-44.jpg | Palermo Cathedral BW 2025-04-29 11-57-44.jpg | CC BY-SA 4.0 | Berthold Werner
