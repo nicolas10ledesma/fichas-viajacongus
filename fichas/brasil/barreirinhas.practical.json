@@ -1,0 +1,577 @@
+{
+  "slug": "barreirinhas",
+  "name": "Barreirinhas",
+  "region": "Maranhão (Lençóis Maranhenses)",
+  "lat": -2.7469,
+  "lon": -42.8258,
+  "datosRapidos": [
+    {
+      "label": "Estado",
+      "value": "Maranhão, nordeste de Brasil. Barreirinhas es un municipio del norte del estado, a orillas del río Preguiças y a unos 260 km de la capital, São Luís. El Censo del IBGE de 2022 le contó 65.589 habitantes. Se lo conoce como el 'Portal dos Lençóis Maranhenses' (la puerta de entrada a los Lençóis) porque es la base más usada para visitar el Parque Nacional dos Lençóis Maranhenses: un campo de dunas blancas de 156.608 hectáreas que, después de las lluvias, se llena de lagunas de agua dulce entre los médanos. El parque fue creado en 1981 y la Unesco lo inscribió como Patrimonio Natural de la Humanidad en 2024. En 2025 recibió más de 650.000 visitantes, según el ICMBio (el organismo federal que lo administra). El pueblo en sí es chico y práctico: tiene la Avenida Beira Rio con restaurantes y el muelle, decenas de posadas y agencias que venden los paseos en 4x4 y en lancha. No hay vuelos comerciales regulares, así que se llega por ruta desde São Luís, en bus o en van, en unas cuatro o cinco horas. Desde acá salen las excursiones a la Lagoa Azul, la Lagoa Bonita, el río Preguiças hasta Caburé y el pueblito de Atins."
+    },
+    {
+      "label": "Mejor época",
+      "value": "Las lagunas se forman con la lluvia. Según el Ministerio de Turismo (septiembre 2026), la estación de lluvias va de febrero a mayo y, después, entre mayo y septiembre, los Lençóis alcanzan los niveles de agua más altos. Julio y agosto suelen ser el punto justo: lagunas llenas y poca lluvia. El parque abre todo el año (ICMBio), pero de octubre a enero muchas lagunas bajan o se secan, y el nivel cambia de un año a otro según cuánto llovió. Preguntá a la agencia cómo están antes de reservar."
+    },
+    {
+      "label": "Acceso al parque",
+      "value": "El ICMBio no cobra entrada. Lo que pagás es el paseo. Pero no se puede entrar por tu cuenta en vehículo: dentro del parque sólo circulan vehículos, choferes y guías (condutores) acreditados por el ICMBio. Están prohibidos los autos particulares, motos, buggies, cuatriciclos y UTV no autorizados, y está prohibido manejar sobre el campo de dunas. Pedile al guía la credencial (crachá) y la autorización. Adentro no se permiten alcohol, fogatas, parrillas, vidrio ni mascotas."
+    },
+    {
+      "label": "Moneda e idioma",
+      "value": "Real brasileño (R$). Se habla portugués, y los guías de los paseos regulares hablan portugués (Civitatis). Adentro de los circuitos de lagunas no hay dónde comprar comida ni bebida: llevá agua, protector solar y repelente desde el pueblo."
+    }
+  ],
+  "intro": [
+    "Barreirinhas es la puerta de los Lençóis Maranhenses, ese paisaje que parece trucado: médanos blancos hasta el horizonte y, entre ellos, lagunas de agua dulce, verdes y azules, donde te podés bañar. No es un desierto, aunque lo parezca. Llueve mucho la primera mitad del año y el agua queda atrapada entre las dunas. Por eso el viaje se planifica por calendario: si vas entre junio y septiembre, ves el parque lleno; si vas en diciembre, ves otro lugar, más seco y más arena.",
+    "El pueblo no es lindo en sí, pero funciona. Tiene una costanera sobre el río Preguiças con restaurantes y el muelle de las lanchas, posadas para todos los bolsillos y agencias en cada esquina. Desde acá salen los dos paseos clásicos de medio día, la Lagoa Azul y la Lagoa Bonita, en camionetas 4x4 por huellas de arena. Y el paseo en lancha río abajo, que pasa por Vassouras, el faro de Mandacaru y la playa de Caburé, hasta donde el río se encuentra con el mar.",
+    "Lo bueno para quien viaja con poca plata: la entrada al parque es gratis y los paseos regulares compartidos rondan los R$ 120 por persona. Lo que encarece es querer ir a todos lados o en privado. Conviene combinar: dos o tres días en Barreirinhas para las lagunas y el río, y una o dos noches en Atins, el pueblito de arena al borde del parque. Si tenés más tiempo, Santo Amaro, del otro lado del parque, tiene dunas altas y lagunas cerca del pueblo."
+  ],
+  "historia_corta": "La región del bajo río Preguiças estuvo habitada por pueblos indígenas tapuios y caetés; los caetés vivían en los arenales cerca de la desembocadura. En el siglo XVIII la Compañía de Jesús instaló allí la hacienda Santo Inácio, que tras la expulsión de los jesuitas pasó a manos de distintos señores de ingenio. A mediados del siglo XIX, nuevos caminos entre el Piauí y el litoral maranhense y las buenas pasturas a orillas de los ríos atrajeron colonos y dieron origen a pequeños poblados. En 1858 se creó la parroquia de Nossa Senhora da Conceição das Barreirinhas y, por la Ley Provincial 951 del 14 de julio de 1871, Barreirinhas fue elevada a villa, separada de Tutóia. Recibió la categoría de ciudad en 1938. El municipio vivió de la pesca, la agricultura y la cría de ganado en las márgenes de sus ríos. Desde los años sesenta, estudios de Petrobras sobre petróleo y gas en la zona hicieron conocido el campo de dunas en la prensa nacional. El 2 de junio de 1981, el Decreto 86.060 creó el Parque Nacional dos Lençóis Maranhenses, hoy con 156.608 hectáreas y administrado por el ICMBio desde 2007. Las imágenes de las lagunas recorrieron el mundo: aparecieron en la película Vengadores: Infinity War (2018) y The New York Times eligió los Lençóis entre sus destinos de 2023. En 2024 la Unesco inscribió el parque en la Lista del Patrimonio Mundial. El éxito trajo presión: en 2025 el parque recibió más de 650.000 visitantes, más del 400% que en 2019, y en enero de 2026 el ICMBio empezó a estudiar un número máximo de visitantes por área para proteger dunas y lagunas.",
+  "queVer": [
+    {
+      "nombre": "Circuito Lagoa Azul (Parque Nacional dos Lençóis Maranhenses)",
+      "desc": "El paseo clásico de medio día: 4x4 por huellas de arena, caminata entre dunas y baño en la Lagoa Azul y lagunas vecinas.",
+      "detalle": "Es la excursión más vendida de Barreirinhas y, para mucha gente, el primer contacto con los Lençóis. El circuito incluye la Lagoa Azul y otras lagunas que aparecen y desaparecen según la lluvia, el viento y el movimiento de las dunas, como la Lagoa da Preguiça, la Lagoa do Peixe o la da Esmeralda (ICMBio).\n\nCómo es: te buscan por la posada, la camioneta cruza el río Preguiças en balsa y sigue unos 12 km por huella de arena, cerca de 45 minutos. Al pie de las dunas se baja y se camina hasta las lagunas. El recorrido no es fijo: el guía elige las lagunas que están mejor esa semana.\n\nHay salidas a la mañana y a la tarde; la de la tarde suma el atardecer sobre las dunas. Adentro no venden nada, así que llevá agua y algo para comer. Usá ropa liviana, sombrero y protector: la arena refleja mucho el sol. Las camionetas suelen llevar conservadora, así que podés cargar bebidas frías (Melhores Destinos). Es un paseo apto para casi todos, con caminatas cortas en arena blanda.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 12 km de huella de arena desde el cruce del río (45 minutos en 4x4), más caminata"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre, con lagunas llenas; salida de la tarde para el atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Parque gratis (ICMBio). Paseo regular R$ 120 por persona con traslado, 4x4, balsa y guía en portugués (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "3,5 a 4 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Circuito Lagoa Bonita",
+      "desc": "Subida por una duna alta con escalera de madera y vista a un mar de lagunas; es el paseo favorito para el atardecer.",
+      "detalle": "La Lagoa Bonita es el otro circuito clásico del sector Barreirinhas. Incluye la Lagoa do Clone, la Lagoa do Descanso y la propia Lagoa Bonita (ICMBio). Se llega en 4x4 por caminos de arena y después se sube a las dunas por una escalera de madera.\n\nLo que la distingue es la vista: desde arriba de la duna, de unos 20 metros según los blogs de viaje, se ve un campo enorme de médanos y lagunas. Por eso muchos la eligen si sólo tienen tiempo para un paseo. La salida típica es después del mediodía (buscan entre 13.30 y 13.50) y la vuelta es cerca de las 19.30, después del atardecer (blog Viagens e Caminhos, 2026).\n\nLa subida cansa un poco, pero es corta. Arriba tenés tiempo libre para bañarte y esperar la puesta de sol. Llevá linterna o el celular cargado para el regreso, que es de noche. Igual que en la Lagoa Azul, no hay venta de comida ni bebida.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Salida desde Barreirinhas en 4x4; el trayecto es más largo que el de la Lagoa Azul"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre; ideal a la tarde por el atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Parque gratis (ICMBio). Paseo regular R$ 120 por persona con traslado y 4x4 (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Unas 6 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Paseo en lancha por el río Preguiças (Vassouras y Pequenos Lençóis)",
+      "desc": "Río abajo en lancha rápida entre manglares y dunas, con parada en Vassouras, donde hay monos y agua de coco.",
+      "detalle": "El río Preguiças atraviesa Barreirinhas y desemboca en el Atlántico. El paseo en lancha rápida (voadeira) es la forma de ver el lado del agua: manglares, pueblos de pescadores y los Pequenos Lençóis, dunas más bajas que están fuera del parque nacional, en un área de protección ambiental.\n\nLa primera parada es Vassouras, una pequeña comunidad de pescadores, donde podés tomar agua de coco y ver monos capuchinos (macaco-prego) en los manglares. Después sigue a Mandacaru, con su faro, y termina en la playa de Caburé, donde se almuerza (cada uno paga lo suyo).\n\nLa salida es desde el muelle de la Avenida Beira Rio; si tu posada está sobre el río, la lancha te puede buscar ahí. Es un día largo, de casi ocho horas. Algunos viajeros lo encuentran menos impactante que las lagunas, pero es la mejor manera de entender el paisaje completo, y es buena opción para el día que llegás cansado o cuando las lagunas están bajas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sale del muelle de la Avenida Beira Rio, en el centro de Barreirinhas"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; no depende del nivel de las lagunas"
+        },
+        {
+          "label": "Entrada",
+          "value": "R$ 120 por persona, almuerzo no incluido (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "7 h 50 min el circuito completo hasta Caburé"
+        }
+      ]
+    },
+    {
+      "nombre": "Faro de Mandacaru (Farol de Preguiças)",
+      "desc": "Faro de unos 35 metros y 160 escalones sobre el río; desde arriba se ven las dunas, el río y la costa.",
+      "detalle": "Mandacaru es un pueblito de pescadores sobre el Preguiças, parada fija del paseo en lancha. Su gran atractivo es el Farol de Preguiças, una torre de hormigón de unos 35 metros. La luz actual funciona desde 1940; antes hubo una torre de 1909 (Wikipedia).\n\nSe suben unos 160 escalones hasta arriba. El esfuerzo vale: desde arriba se entiende cómo el río serpentea entre manglares y dunas hasta el mar, y se ven los Pequenos Lençóis. El faro está en un área de la Marina de Brasil, pero los relatos de viaje coinciden en que se puede subir sin pagar. Confirmá en el lugar, porque eso puede cambiar.\n\nLa parada del paseo en lancha es corta, así que si querés subir, andá directo al faro al bajar del barco y dejá para después el agua de coco. Son 160 escalones seguidos: tomalo con calma si no estás acostumbrado a subir escaleras, y llevá agua.\n\nSi preferís verlo desde el aire, el sobrevuelo en avioneta también pasa por Mandacaru y Caburé.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sobre el río Preguiças, en el trayecto en lancha entre Barreirinhas y Caburé"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mejor con cielo despejado"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis la subida según relatos de viajeros (fuente: blog Esse Mundo é Nosso, consultado octubre 2026). Se llega con el paseo en lancha de R$ 120"
+        },
+        {
+          "label": "Duración",
+          "value": "30 a 45 minutos de parada"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa de Caburé",
+      "desc": "Franja de arena entre el río Preguiças y el mar, con restaurantes de pescado; es la parada de almuerzo del paseo en lancha.",
+      "detalle": "Caburé es una lengua de arena con el río de un lado y el océano Atlántico del otro. Tiene restaurantes de playa donde los paseos paran a almorzar, con fama de buenos mariscos (Civitatis). Es el final del circuito en lancha y también una parada del circuito en cuatriciclo, que suma el parque eólico de Caburé, con molinos gigantes en medio de las dunas.\n\nAcá el plan es simple: comer pescado frito con arroz de cuxá, bañarte y descansar a la sombra. Un blog de viaje registró platos de pescado a R$ 98 para dos en uno de sus restaurantes y los encontró algo caros (Viciada em Viajar, 2023). Algunos restaurantes recomiendan pedir la comida apenas llegás, irte a la playa y volver a la hora acordada.\n\nDesde Caburé, una travesía corta en bote cruza a Atins; si querés seguir viaje hasta allá con la lancha del paseo, coordinalo antes con la agencia. En el circuito en cuatriciclo la parada en Caburé es de unas dos horas (Viagens e Caminhos). Llevá efectivo además de la tarjeta por si algún local no acepta.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Desembocadura del río Preguiças, al final del paseo en lancha"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mediodía para almorzar"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis la playa. Se llega con el paseo en lancha de R$ 120 por persona (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Unas 2 horas de parada; o una noche si te quedás"
+        }
+      ]
+    },
+    {
+      "nombre": "Atins (vilarejo de Atins)",
+      "desc": "Pueblito de calles de arena frente a la desembocadura del Preguiças, base para kitesurf y para las lagunas del extremo noreste.",
+      "detalle": "Atins es un pueblo de pescadores que se convirtió en la base alternativa a Barreirinhas. Queda fuera del parque, frente a la desembocadura del río Preguiças, y tiene calles de arena, posadas, restaurantes chicos y un ambiente mucho más tranquilo (ICMBio).\n\nLas actividades son caminatas, kitesurf, windsurf, kayak, stand-up paddle, bici, cabalgatas y surf (ICMBio). Desde Atins también salen 4x4 a lagunas del sector noreste, como las del Kite, Gavião, Maria Vitória y Gorjeta, con atardecer en la Lagoa Tropical (Civitatis).\n\nOtro paseo desde Atins es la desembocadura del Rio Negro y la Lagoa Verde, por la playa del parque: cuando el río tiene agua forma pequeñas cascadas sobre el mar. El ICMBio recomienda consultar a los operadores locales si el paseo está viable antes de ir. Se llega en lancha directa, en camioneta 4x4 o con el paseo por el río.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 50 minutos en lancha directa desde Barreirinhas, o 2 horas en 4x4 (Buenas Dicas, 2026)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre para las lagunas; el pueblo, todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis el pueblo. Lancha directa desde R$ 170 por tramo (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Ideal 1 o 2 noches"
+        }
+      ]
+    },
+    {
+      "nombre": "Canto dos Lençóis (ex Canto de Atins) y sus lagunas",
+      "desc": "Comunidad al borde de las dunas, famosa por el camarón a la parrilla y punto de partida de la Travesía de los Lençóis.",
+      "detalle": "El Canto dos Lençóis, antes llamado Canto de Atins, es una comunidad de pescadores en el extremo noreste del parque, con vista a las dunas (ICMBio). Es donde empieza la Travessia dos Lençóis, el trekking hacia Santo Amaro.\n\nPara el visitante común, el Canto es el almuerzo del paseo de un día a Atins: dos restaurantes vecinos, el de la Luzia y el del Antônio, son conocidos por el camarón marinado y asado a la parrilla. Los guías suelen preguntar de antemano a cuál de los dos querés ir. Después se camina a las lagunas cercanas, que en temporada son de las más lindas del parque.\n\nDesde Barreirinhas, el paseo en 4x4 a las lagunas de Atins cruza el río en balsa, recorre 1,5 horas de huella, para en la playa de Atins, en la desembocadura del Preguiças, y sigue al Canto con unos 15 minutos de caminata. El almuerzo no está incluido. Es un día largo y con mucho traqueteo, pero muestra un sector menos concurrido que la Lagoa Azul.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Extremo noreste del parque; 4x4 desde Barreirinhas con balsa y 1,5 h de huella"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre"
+        },
+        {
+          "label": "Entrada",
+          "value": "Parque gratis. Excursión 4x4 desde Barreirinhas R$ 200 por persona (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "9 h 30 min desde Barreirinhas"
+        }
+      ]
+    },
+    {
+      "nombre": "Lagoa da Esperança",
+      "desc": "Laguna rodeada de dunas grandes en el límite con Santo Amaro, donde nace el Rio Negro; más lejos y con menos gente.",
+      "detalle": "La Lagoa da Esperança está en el límite entre Barreirinhas y Santo Amaro do Maranhão, rodeada de dunas grandes. Es donde nace el Rio Negro (ICMBio). Por estar más lejos del pueblo, el viaje lleva más de una hora, y eso filtra a buena parte del público de los paseos cortos.\n\nEs una opción para quien ya hizo la Lagoa Azul y la Bonita y quiere ver otro sector sin cruzar a Santo Amaro. Algunos guías de viaje la señalan como alternativa cuando las demás lagunas están bajas, porque suele conservar agua más tiempo, aunque eso depende siempre de las lluvias del año. Preguntá en la agencia antes de contratarla fuera de temporada.\n\nSe vende como paseo propio en algunas agencias de Barreirinhas o como parte de recorridos privados en 4x4. Como siempre en el parque, sólo con vehículo y conductor acreditados por el ICMBio. Llevá todo lo que vayas a comer y beber, más protector y sombrero, porque no hay sombra.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Más de una hora en 4x4 desde Barreirinhas (ICMBio)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre; consultar el nivel fuera de temporada"
+        },
+        {
+          "label": "Entrada",
+          "value": "Parque gratis. Se hace con tour privado en 4x4 por el parque desde US$ 337,55 por grupo (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o día completo, según el operador"
+        }
+      ]
+    },
+    {
+      "nombre": "Sobrevuelo en avioneta (sobrevoo de monomotor)",
+      "desc": "Media hora en avioneta sobre dunas, lagunas, el río y la costa; la única forma de ver la escala real de los Lençóis.",
+      "detalle": "Desde el aire se entiende lo que desde la arena no: el campo de dunas, el más grande de Brasil según el ICMBio, se extiende hasta perderse, con miles de lagunas entre médanos. El sobrevuelo sale del aeropuerto de Barreirinhas en avionetas monomotor de pocos pasajeros.\n\nEl recorrido estándar dura unos 30 minutos. Según los operadores y blogs, pasa sobre Vassouras, Caburé, Mandacaru y Atins y vuelve sobre la Lagoa Azul y la Lagoa do Peixe antes de aterrizar. Hay rutas más largas, de hasta una hora, con precio mayor.\n\nEs caro, así que pensalo como el gasto especial del viaje. Conviene hacerlo con lagunas llenas y cielo despejado, a primera hora o al final de la tarde, cuando la luz marca mejor las dunas. Se puede reservar hasta un día antes y cancelar sin costo con 48 horas en Civitatis.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sale del aeropuerto de Barreirinhas, a pocos minutos del centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre, con cielo despejado"
+        },
+        {
+          "label": "Entrada",
+          "value": "US$ 239,11 por persona en Civitatis (fuente: Civitatis, verificado octubre 2026); R$ 1.200 según el blog Viagens e Caminhos (precios del segundo semestre de 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "30 minutos de vuelo"
+        }
+      ]
+    },
+    {
+      "nombre": "Santo Amaro do Maranhão (lagunas de la Gaivota y Andorinha, Betânia)",
+      "desc": "El lado oeste del parque, con dunas más altas y lagunas grandes; alternativa a Barreirinhas con menos gente.",
+      "detalle": "Santo Amaro do Maranhão es el otro gran acceso al parque, del lado oeste. Ahí las dunas son altas y las lagunas quedan cerca del pueblo, como la Lagoa da Gaivota y la da Andorinha. Desde Santo Amaro salen también el circuito Betânia, que suma un cruce en bote a la comunidad de Betânia, y caminatas a las Lagoas Emendadas.\n\nSe puede ir de excursión en el día desde Barreirinhas: micro hasta Santo Amaro, cambio a 4x4, paradas en las lagunas, almuerzo en el pueblo o en un poblado cercano y regreso. Son más de 11 horas, así que si te interesa, es mejor dormir allá una o dos noches.\n\nOjo con la tasa: Santo Amaro cobra una Taxa de Turismo Sustentável municipal. La creó en 2023, la suspendió en 2024 por una decisión judicial y la retomó en julio de 2024 con una ley nueva; da tres días de acceso y los vecinos están exentos (O Imparcial). Civitatis la informa en R$ 15 por persona, no incluida en el paseo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Excursión desde Barreirinhas: micro hasta Santo Amaro y 4x4 en el parque"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre"
+        },
+        {
+          "label": "Entrada",
+          "value": "Excursión en el día desde Barreirinhas R$ 400 por persona, más tasa turística de R$ 15 (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "11 h 30 min la excursión; mejor 1 o 2 noches"
+        }
+      ]
+    },
+    {
+      "nombre": "Boia-cross en el río Formiga (Cardosa)",
+      "desc": "Flotar con una boya por un río de agua clara entre palmeras; paseo tranquilo para una mañana sin lagunas.",
+      "detalle": "El río Formiga es un afluente de agua transparente que corre entre vegetación tropical. El paseo, conocido como boia-cross o flutuação, consiste en dejarse llevar por la corriente sentado en una boya, en la zona de la comunidad de Cardosa.\n\nTe buscan por la posada entre 7.40 y 8.20 y la 4x4 tarda unos 50 minutos por caminos secundarios y de tierra. Después se flota durante una hora y veinte minutos entre palmeras altas y plantas acuáticas, y con suerte se ven monos y aves. Se vuelve a Barreirinhas alrededor de las 13.\n\nEs un paseo tranquilo, bueno para familias con chicos, para la mañana de un día en que a la tarde vas a la Lagoa Bonita o para cuando las lagunas están secas. Llevá malla, ropa que se pueda mojar y una bolsa estanca para el celular. El paseo incluye traslado, 4x4, acompañante en portugués y la boya (Civitatis).",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 50 minutos en 4x4 desde Barreirinhas"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "R$ 133,50 por persona con traslado, 4x4 y boya (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "5 h 20 min con traslados"
+        }
+      ]
+    },
+    {
+      "nombre": "Travesía de los Lençóis (Travessia dos Lençóis)",
+      "desc": "Trekking de varios días por la Zona Primitiva del parque, de Atins a Santo Amaro, durmiendo en comunidades.",
+      "detalle": "La Travessia dos Lençóis es un trekking de larga distancia que cruza el parque desde el extremo noreste, en Atins, hasta Santo Amaro do Maranhão, por la Zona Primitiva, la región más sensible del parque, donde sólo se entra caminando (ICMBio).\n\nPara la temporada 2026 el ICMBio fijó reglas: es obligatorio reservar antes los puntos de apoyo comunitarios (Atins, Baixa Grande, Queimada dos Britos y Betânia) y llevar el comprobante; los grupos no pueden superar las 10 personas por guía; es obligatorio llevar colectores de desechos humanos si hay pernocte; están prohibidos el vidrio y las fogatas. Además, hay que registrar la entrada y la salida en formularios online del parque.\n\nEl ICMBio recomienda no caminar entre las 11 y las 15 y cargar al menos tres litros de agua por persona por día, porque sólo hay agua y apoyo en las comunidades. Se hace con guía; las agencias lo venden en dos o tres días según el recorrido.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "De Atins (Barreirinhas) a Santo Amaro do Maranhão, cruzando la Zona Primitiva"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre, con lagunas para refrescarse"
+        },
+        {
+          "label": "Entrada",
+          "value": "Parque gratis. Trekking privado de 2 días Barreirinhas–Atins desde US$ 1.195,57 por grupo; 3 días a Santo Amaro desde US$ 1.557,04 por grupo (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 días"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Parque Nacional dos Lençóis Maranhenses (ICMBio)",
+      "precio": "Gratis: el ICMBio no cobra entrada; se paga sólo el servicio del operador acreditado (fuente: gov.br/icmbio, Orientações ao Visitante, verificado octubre 2026). Abierto todo el año"
+    },
+    {
+      "tipo": "Circuito Lagoa Azul (paseo regular en 4x4)",
+      "precio": "R$ 120 por persona, con traslado, 4x4, balsa y guía en portugués (fuente: Civitatis, verificado octubre 2026). También en agencias de la Avenida Beira Rio"
+    },
+    {
+      "tipo": "Circuito Lagoa Bonita (paseo regular en 4x4)",
+      "precio": "R$ 120 por persona, con traslado y 4x4 (fuente: Civitatis, verificado octubre 2026). Se compra online o en agencias del centro"
+    },
+    {
+      "tipo": "Lancha por el río Preguiças (Vassouras, Mandacaru, Caburé)",
+      "precio": "R$ 120 por persona, almuerzo aparte (fuente: Civitatis, verificado octubre 2026). Sale del muelle de la Avenida Beira Rio"
+    },
+    {
+      "tipo": "4x4 a las lagunas de Atins y Canto dos Lençóis",
+      "precio": "R$ 200 por persona, almuerzo aparte (fuente: Civitatis, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Excursión a Santo Amaro en el día",
+      "precio": "R$ 400 por persona; tasa turística municipal de Santo Amaro R$ 15 aparte (fuente: Civitatis, verificado octubre 2026). Vecinos de Santo Amaro y Primeira Cruz exentos de la tasa (O Imparcial, 2024)"
+    },
+    {
+      "tipo": "Sobrevuelo en avioneta (30 minutos)",
+      "precio": "US$ 239,11 por persona (fuente: Civitatis, verificado octubre 2026); R$ 1.200 por persona según el blog Viagens e Caminhos (precios segundo semestre 2026)"
+    },
+    {
+      "tipo": "Boia-cross en el río Formiga",
+      "precio": "R$ 133,50 por persona con traslado y boya (fuente: Civitatis, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Faro de Mandacaru (Farol de Preguiças)",
+      "precio": "Gratis la subida según relatos de viajeros (fuente: blog Esse Mundo é Nosso, consultado octubre 2026); confirmá en el lugar"
+    },
+    {
+      "tipo": "Playas de Caburé, Atins y Vassouras",
+      "precio": "Gratis (playas y pueblos de acceso libre); sólo se paga el transporte (fuente: ICMBio, verificado octubre 2026)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Cuatriciclo por el Circuito Caburé (Pequenos Lençóis, Vassouras, Caburé y parque eólico)",
+      "precio": "US$ 159,41 por persona en Civitatis (verificado octubre 2026); R$ 800 según el blog Viagens e Caminhos (segundo semestre 2026). Se maneja con licencia y desde 18 años",
+      "duracion": "8 a 9 horas",
+      "operador": "Agencias de Barreirinhas vía Civitatis y Enjoy Maranhão"
+    },
+    {
+      "actividad": "Lagoas Azul y Bonita en privado, con caminata",
+      "precio": "Desde R$ 1.440 por grupo (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "10 h 45 min",
+      "operador": "Operadores locales acreditados, vía Civitatis"
+    },
+    {
+      "actividad": "Amanecer en los Lençóis, tour privado",
+      "precio": "Desde R$ 1.200 por grupo (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "5 horas",
+      "operador": "Operadores de Barreirinhas, vía Civitatis"
+    },
+    {
+      "actividad": "Circuito Betânia en 4x4 (Santo Amaro)",
+      "precio": "R$ 360 por persona, almuerzo aparte (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "9 horas",
+      "operador": "Agencias de Santo Amaro do Maranhão"
+    },
+    {
+      "actividad": "Caminata a las Lagoas Emendadas (Santo Amaro)",
+      "precio": "R$ 360 por persona (fuente: Civitatis, verificado octubre 2026); R$ 207 en el blog Viagens e Caminhos (segundo semestre 2026)",
+      "duracion": "4 a 5 horas",
+      "operador": "Agencias de Santo Amaro do Maranhão"
+    },
+    {
+      "actividad": "Atardecer en 4x4 por las dunas desde Atins",
+      "precio": "US$ 63,76 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "3 h 30 min",
+      "operador": "Operadores de Atins, vía Civitatis"
+    },
+    {
+      "actividad": "Visita a Tapuio y a la Casa de Mujeres Artesanas de Marcelino (artesanía en fibra de buriti)",
+      "precio": "Desde R$ 1.866,66 por grupo, privado (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "3 horas",
+      "operador": "Operadores del río Preguiças, vía Civitatis"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Lancha directa Barreirinhas–Atins (voadeira)",
+      "precio": "R$ 100 por tramo con Satur Turismo (fuente: blog Buenas Dicas, actualizado enero 2026); desde R$ 170 en Civitatis (verificado octubre 2026)",
+      "duracion": "50 minutos a 2 h 30 min, según paradas",
+      "notas": "Sale del muelle del centro. Reservá con anticipación la vuelta Atins–Barreirinhas, que se llena. Otros operadores: Lancha Belíssima."
+    },
+    {
+      "medio": "Lancha a Atins con paradas en Vassouras, Mandacaru y Caburé",
+      "precio": "Desde R$ 300 por persona (fuente: Civitatis, verificado octubre 2026); o el paseo náutico desde R$ 120 más cruce a Atins coordinado (blog Buenas Dicas, 2026)",
+      "duracion": "5 h a 5 h 45 min",
+      "notas": "Sirve para ir a Atins y hacer el paseo del río el mismo día. Coordiná el cruce final desde Caburé antes de salir."
+    },
+    {
+      "medio": "Camioneta 4x4 compartida (jardineira) a Atins",
+      "precio": "Unos R$ 20 menos que la lancha, la opción más barata (fuente: blog Buenas Dicas, actualizado enero 2026)",
+      "duracion": "Unas 2 horas",
+      "notas": "Salen de la avenida principal, cerca de la Prefeitura. Vas en la caja de la camioneta, por dunas, arroyos y campos; el blog advierte golpes con ramas y hierros, así que no es lo más cómodo."
+    },
+    {
+      "medio": "Traslados de las agencias y taxis dentro de Barreirinhas",
+      "precio": "Los paseos regulares incluyen búsqueda en la posada del centro (fuente: Civitatis, verificado octubre 2026). Taxi dentro del pueblo desde unos R$ 20 (fuente: blog Viciada em Viajar, relevado 2019, actualizado 2023)",
+      "duracion": "5 a 15 minutos",
+      "notas": "El centro es chico y se recorre caminando. Algunas posadas fuera del centro (ej. Chalés Passagem do Canto, Pousada Mangaba) no tienen búsqueda incluida en ciertos paseos: preguntá al reservar."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "São Luís (rodoviária) → Barreirinhas en bus",
+      "empresas": "Viação Cisne Branco (venta online en Buson y en la terminal)",
+      "precio": "Desde R$ 83 (fuente: buson.com.br, verificado octubre 2026)",
+      "duracion": "Unas 4 h 45 min; primera salida 6.00 y última 19.30"
+    },
+    {
+      "ruta": "São Luís (hotel o aeropuerto) → Barreirinhas en van/transfer puerta a puerta",
+      "empresas": "Agencias de transfer de São Luís y Barreirinhas (vía Civitatis y otras)",
+      "precio": "São Luís–Barreirinhas US$ 26,56 por persona; Barreirinhas–São Luís R$ 133,33 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "Unas 4 horas, con una parada a mitad de camino"
+    },
+    {
+      "ruta": "Avión hasta São Luís (SLZ, Aeropuerto Marechal Cunha Machado) + ruta",
+      "empresas": "Azul, LATAM y Gol, con vuelos desde São Paulo, Brasília, Recife, Fortaleza y Belo Horizonte, entre otros",
+      "precio": "Tarifas variables según fecha; el tramo terrestre se suma con bus desde R$ 83 o transfer de US$ 26,56 (fuente: airportroutes.com y Civitatis, verificado octubre 2026)",
+      "duracion": "Vuelo + 4 a 5 horas de ruta (unos 260 km)"
+    },
+    {
+      "ruta": "Aeropuerto de Barreirinhas (vuelos directos)",
+      "empresas": "Sin vuelos comerciales regulares: sólo aviación general, ejecutiva y vuelos fletados",
+      "precio": "Sin tarifa regular; incluido en abril de 2026 en la concesión de GRU Airport con R$ 58,1 millones de inversión prevista (fuente: oimparcial.com.br, abril 2026)",
+      "duracion": "No aplica por ahora"
+    },
+    {
+      "ruta": "Excursión de un día desde São Luís",
+      "empresas": "Agencias de São Luís (vía Civitatis)",
+      "precio": "Desde US$ 84,68 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "17 horas; poco recomendable, conviene dormir en Barreirinhas"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Hostel y posadas simples",
+      "nivel": 2,
+      "opciones": "Hostel Lençóis Park desde R$ 65 la noche; Pousada e Agência Cledio Turismo desde R$ 140; Recanto das Árvores desde R$ 150 (fuente: Kayak, verificado octubre 2026). Según Kayak, febrero es el mes más barato y junio el más caro: en julio reservá con tiempo"
+    },
+    {
+      "categoria": "Posadas intermedias en el centro y sobre el río",
+      "nivel": 3,
+      "opciones": "Pousada Brilho dos Lençóis desde R$ 190; Pousada Nossa Casa desde R$ 256; Pousada Vida Nova y Pousada Mangaba desde R$ 280; Pousada Sol Nascente desde R$ 310, con nota 9,4 (fuente: Kayak, verificado octubre 2026). Precios para fechas de octubre; en julio y fin de año suben"
+    },
+    {
+      "categoria": "Hoteles con pileta y flats",
+      "nivel": 4,
+      "opciones": "Hotel Gran Lençóis Flat desde R$ 335; Orla Náutica desde R$ 335; Portal do Sol Lençóis desde R$ 445; Encantes do Nordeste desde R$ 477, con spa (fuente: Kayak, verificado octubre 2026). Gran Lençóis tiene muelle propio para embarcar en las lanchas a Atins (blog Buenas Dicas, 2026)"
+    },
+    {
+      "categoria": "Resort y hoteles boutique",
+      "nivel": 5,
+      "opciones": "Porto Preguiças Resort desde R$ 530 la noche, a orillas del río; en Atins, Oásis Atins Boutique Hotel desde R$ 565 (fuente: Kayak, verificado octubre 2026). Según Kayak, el promedio de junio (R$ 829) es casi cuatro veces el de febrero (R$ 215): en temporada alta reservá con meses"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Comida al paso y lanches",
+      "nivel": 1,
+      "opciones": "En la Rua Professor Viana, peatonal que baja a la Avenida Beira Rio, hay cafeterías con sándwiches tostados y jugos de frutas regionales (bacuri, cupuaçu, murici). Referencia: tostado R$ 5,50 y jugo R$ 8 en Divino Cafeteria (fuente: blog Viciada em Viajar, precios de 2019 actualizados en 2023, consultado octubre 2026; hoy pueden ser más altos)"
+    },
+    {
+      "tipo": "Pescado con arroz de cuxá en la Avenida Beira Rio",
+      "nivel": 2,
+      "opciones": "El plato maranhense: arroz de cuxá (arroz con camarón seco, sésamo y hojas de vinagreira). En A Canoa, filé de pescado a la plancha con arroz de cuxá, porotos, farofa y vinagreta: R$ 92 para dos; bolinho de aipim con camarón R$ 17,90 (fuente: blog Viciada em Viajar, relevado 2019, actualizado 2023; consultado octubre 2026). Los platos suelen ser para dos"
+    },
+    {
+      "tipo": "Mariscos y pizza a la leña",
+      "nivel": 3,
+      "opciones": "Bambaê, cerca del río, con camarón en ananá y robalo a la parrilla: platos para dos de mariscos promedio R$ 110; pizza grande para tres R$ 54; buscan gratis en auto por el pueblo (fuente: blog Viciada em Viajar, actualizado 2023; consultado octubre 2026). Pedí que tu posada llame para la búsqueda"
+    },
+    {
+      "tipo": "Camarón a la parrilla en el Canto dos Lençóis (Atins)",
+      "nivel": 3,
+      "opciones": "Restaurante da Luzia y Restaurante do Antônio, vecinos y rivales, con camarón marinado asado a la parrilla. Un blog registró R$ 45 el plato con arroz, porotos y ensalada (Mala de Aventuras, actualizado septiembre 2025) y reseñas de 2024 hablan de R$ 120 por media docena de camarones (cardapio.menu). Calculá el precio alto. En Atins, Restaurante da Sesé, con risotto de camarón en ananá"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Cuándo conviene ir para ver las lagunas llenas?",
+      "a": "Las lagunas son agua de lluvia acumulada entre las dunas, así que todo depende del calendario de lluvias. El Ministerio de Turismo indica que llueve entre febrero y mayo y que, después, entre mayo y septiembre, el parque alcanza los niveles de agua más altos. Julio y agosto son el pico: lagunas llenas y menos lluvia, pero también más gente y posadas más caras (Kayak marca junio como el mes más caro). De octubre a enero muchas lagunas bajan o se secan. Cada año es distinto: si llovió poco, en septiembre ya hay lagunas vacías. Antes de pagar, pedile a la agencia fotos recientes o preguntá cómo está el nivel esa semana."
+    },
+    {
+      "q": "¿Puedo entrar al parque por mi cuenta, con auto propio o caminando?",
+      "a": "Con vehículo, no. Según el ICMBio, sólo pueden llevar visitantes al parque los vehículos, choferes y guías acreditados, y están prohibidos autos particulares, motos, buggies, cuatriciclos y UTV no autorizados. Tampoco se puede manejar sobre las dunas. La entrada es gratis, pero en la práctica tenés que contratar un paseo con una agencia o un conductor acreditado; pedile la credencial y la autorización. A pie, la Zona Primitiva sólo se recorre caminando, y para la Travessia dos Lençóis el ICMBio exige reservas en las comunidades, registro online y grupos de hasta 10 personas por guía."
+    },
+    {
+      "q": "¿Qué documentos necesito para entrar a Brasil?",
+      "a": "Si sos argentino, uruguayo, paraguayo, chileno, colombiano, peruano, boliviano o ecuatoriano, podés entrar como turista con tu documento nacional de identidad vigente (DNI tarjeta, cédula) o con pasaporte, sin visa, por el acuerdo de documentos de viaje del Mercosur. El documento tiene que estar en buen estado y ser físico: la versión digital del celular no sirve. Los mexicanos entran sin visa como turistas hasta 90 días, pero necesitan pasaporte. Si viajás con menores sin uno de los padres, averiguá la autorización de viaje en tu país. Confirmá todo con tu cancillería y la Polícia Federal antes de salir, porque las reglas pueden cambiar."
+    },
+    {
+      "q": "¿Cuántos días necesito?",
+      "a": "Con tres noches en Barreirinhas hacés lo esencial: Lagoa Azul una mañana, Lagoa Bonita una tarde y el paseo en lancha por el río Preguiças otro día. Sumá una o dos noches en Atins para ver el sector noreste, el Canto dos Lençóis y la desembocadura con más calma. Con una semana podés agregar Santo Amaro, que es mejor dormir allá que hacerlo en el día (la excursión desde Barreirinhas dura más de 11 horas). Tené en cuenta que desde São Luís son unas cuatro o cinco horas de ruta en cada sentido, así que el día de llegada y el de salida casi no rinden para paseos largos."
+    },
+    {
+      "q": "¿Se paga alguna tasa o entrada?",
+      "a": "El ICMBio no cobra entrada al Parque Nacional: pagás sólo el paseo. Barreirinhas no cobra tasa turística; en 2023 la prefeitura desmintió un documento falso que hablaba de una tasa. Santo Amaro do Maranhão sí cobra una Taxa de Turismo Sustentável municipal: la creó en 2023, la suspendió en 2024 por una decisión judicial y la volvió a cobrar desde julio de 2024 con una ley nueva. Da tres días de acceso y los vecinos de Santo Amaro y Primeira Cruz están exentos. Civitatis la informa en R$ 15 por persona, aparte del paseo. Si vas a Santo Amaro, preguntá el valor vigente."
+    },
+    {
+      "q": "¿Qué llevo al paseo y qué está prohibido en el parque?",
+      "a": "Adentro de los circuitos no hay dónde comprar nada: Melhores Destinos avisa que en la Lagoa Azul no hay venta de comida ni bebida, así que llevá todo desde Barreirinhas (las camionetas suelen tener conservadora). El ICMBio recomienda agua, repelente y protector solar. Sumá sombrero, anteojos de sol, malla y una bolsa para el celular. Está prohibido vender, llevar o tomar alcohol, llevar drogas, hacer fogatas o usar parrillas y anafes, y entrar con mascotas. Para 2026, el ICMBio también prohibió el vidrio dentro del parque. Si hacés la Travessia, el parque pide al menos tres litros de agua por persona por día y evitar caminar entre las 11 y las 15."
+    },
+    {
+      "q": "¿Me quedo en Barreirinhas o en Atins?",
+      "a": "Barreirinhas es la base práctica: tiene más posadas, restaurantes y agencias, y de ahí salen todos los paseos clásicos y los buses y vans a São Luís. Atins es más chico y tranquilo, con calles de arena, ambiente de playa y el viento que buscan los kitesurfistas; queda frente a la desembocadura del río y más cerca del sector noreste del parque. Lo más cómodo es combinar: llegar a Barreirinhas, hacer ahí la Lagoa Azul, la Bonita y el río, y después ir a Atins en lancha (unos 50 minutos) por una o dos noches. Para volver, reservá la lancha Atins–Barreirinhas con anticipación porque se llena."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (PT) — «Barreirinhas»: https://pt.wikipedia.org/wiki/Barreirinhas",
+      "ICMBio — «Parque Nacional dos Lençóis Maranhenses»: https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/parna-dos-lencois-maranhenses",
+      "Ministério do Turismo — «Lençóis Maranhenses: paisagem única reconhecida pela Unesco»: https://www.gov.br/turismo/pt-br/lencois-maranhenses-paisagem-unica-reconhecida-pela-unesco",
+      "O Imparcial — «ICMBio estuda limitar visitantes nos Lençóis Maranhenses para proteger título da Unesco»: https://oimparcial.com.br/noticias/2026/01/icmbio-estuda-limitar-visitantes-nos-lencois-maranhenses-para-proteger-titulo-da-unesco/",
+      "Wikipedia (EN) — «Preguiças Lighthouse»: https://en.wikipedia.org/wiki/Pregui%C3%A7as_Lighthouse",
+      "Ministério do Turismo — «Lençóis Maranhenses fazem participação especial em Vingadores: Guerra Infinita»: https://www.gov.br/turismo/pt-br/assuntos/noticias/lencois-maranhenses-fazem-participacao-especial-em-vingadores-guerra-infinita",
+      "ICMBio — «The New York Times escolhe Lençóis Maranhenses como um dos destinos turísticos de 2023»: https://www.gov.br/icmbio/pt-br/assuntos/noticias/ultimas-noticias/the-new-york-times-escolhe-lencois-maranhenses-como-um-dos-destinos-turisticos-de-2023",
+      "Ministério do Turismo — «Cheia nos Lençóis (MA) vai até o mês de setembro»: https://www.gov.br/turismo/pt-br/assuntos/noticias/temporada-de-cheia-nos-lencois-maranhenses-vai-ate-setembro"
+    ],
+    "que_ver_atracciones": [
+      "ICMBio — «Barreirinhas (atrativos do Parque)»: https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/parna-dos-lencois-maranhenses/barreirinhas",
+      "ICMBio — «Orientações ao Visitante»: https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/parna-dos-lencois-maranhenses/orientacoes-ao-visitante",
+      "ICMBio — «Trekking - Travessia dos Lençóis»: https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/parna-dos-lencois-maranhenses/trekking-travessia-dos-lencois",
+      "Melhores Destinos — «Circuito Lagoa Azul»: https://guia.melhoresdestinos.com.br/circuito-lagoa-azul-220-6105-l.html",
+      "Viagens e Caminhos (blog) — «Os 10 melhores passeios nos Lençóis Maranhenses»: https://www.viagensecaminhos.com/passeios-lencois-maranhenses/",
+      "Esse Mundo é Nosso (blog) — «Passeio pelo rio Preguiças»: https://www.essemundoenosso.com.br/?p=35989"
+    ],
+    "precios_2026": [
+      "Civitatis — «Excursões e atividades nos Lençóis Maranhenses»: https://www.civitatis.com/br/lencois-maranhenses/",
+      "Civitatis — «Tour de lancha pelo rio Preguiças»: https://www.civitatis.com/br/barreirinhas/tour-lancha-rio-preguicas/",
+      "Civitatis — «Passeio de monomotor pelos Lençóis Maranhenses»: https://www.civitatis.com/br/barreirinhas/passeio-monomotor-lencois-maranhenses/",
+      "Civitatis — «Excursão a Santo Amaro de 4x4»: https://www.civitatis.com/br/barreirinhas/tour-4x4-santo-amaro/",
+      "Civitatis — «Tour de quadriciclo pelo Circuito Caburé»: https://www.civitatis.com/br/barreirinhas/tour-quadriciclo-circuito-cabure/",
+      "Civitatis — «Boia cross no rio Formiga»: https://www.civitatis.com/br/barreirinhas/flutuacao-rio-formiga/",
+      "Civitatis — «Excursão às lagoas de Atins»: https://www.civitatis.com/br/barreirinhas/trilha-lagoas-atins/"
+    ],
+    "como_llegar_transporte": [
+      "Buson — «Viação Cisne Branco: passagens»: https://www.buson.com.br/viacao/cisne-branco",
+      "Civitatis — «Atividades em São Luís (transfer a Barreirinhas)»: https://www.civitatis.com/br/sao-luis/",
+      "Buenas Dicas (blog) — «Como chegar em Atins: lancha direta e alternativas»: https://www.buenasdicas.com/como-chegar-atins-19111/",
+      "O Imparcial — «Aeroporto de Barreirinhas receberá R$ 58 milhões em investimentos após concessão federal»: https://oimparcial.com.br/noticias/2026/04/aeroporto-de-barreirinhas-recebera-r-58-milhoes-em-investimentos-apos-concessao-federal/",
+      "Airport Routes — «São Luís Marechal Cunha Machado (SBSL)»: https://www.airportroutes.com/airports/SBSL/"
+    ],
+    "alojamiento_gastronomia": [
+      "Kayak — «Hotéis em Barreirinhas»: https://www.kayak.com.br/Barreirinhas-Hoteis.51945.hotel.ksp",
+      "Viciada em Viajar (blog) — «Onde comer em Barreirinhas (e onde não comer)»: https://www.viciadaemviajar.com/onde-comer-em-barreirinhas/",
+      "360meridianos (blog) — «Onde comer em Barreirinhas, nos Lençóis Maranhenses»: https://www.360meridianos.com/onde-comer-barreirinhas-lencois-maranhenses/",
+      "Mala de Aventuras (blog) — «Restaurantes em Atins»: https://maladeaventuras.com/restaurantes-em-atins/",
+      "cardapio.menu — «Da Luzia - Atins»: https://cardapio.menu/restaurants/atins/da-luzia"
+    ],
+    "requisitos_tasas": [
+      "Polícia Federal — «Imigração»: http://www.pf.gov.br/servicos-pf/carta-de-servicos/imigracao",
+      "Itamaraty, Consulado en Mendoza — «Ingreso a Brasil (información para turistas)»: https://www.gov.br/mre/pt-br/consulado-mendoza/servicos-consulares/vistos-visas/ingreso-a-brasil-informacion-para-turistas",
+      "Grupo Animal (verificación) — «Brasil suprimió la visa de turismo para mexicanos desde 2013»: https://grupoanimal.mx/verificacion-viral/brasil-suprimio-visa-mexicanos-2013",
+      "O Imparcial — «Prefeitura de Santo Amaro volta a cobrar taxa de turismo após Câmara modificar lei»: https://oimparcial.com.br/cidades/2024/07/prefeitura-de-santo-amaro-volta-a-cobrar-taxa-de-turismo-apos-camara-modificar-lei/",
+      "O Imparcial — «Prefeitura de Barreirinhas nega cobrança de taxas nos Lençóis Maranhenses»: https://oimparcial.com.br/noticias/2023/09/fake-news-prefeitura-de-barreirinhas-nega-cobranca-de-taxas-nos-lencois-maranhenses/"
+    ]
+  }
+}
