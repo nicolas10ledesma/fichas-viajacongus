@@ -28,3 +28,4 @@ FOTO china/taipei | https://upload.wikimedia.org/wikipedia/commons/6/6f/View_fro
 FOTO espana/los-cristianos | https://upload.wikimedia.org/wikipedia/commons/b/b3/Playa_de_Los_Cristianos.jpg | Playa de Los Cristianos.jpg | CC BY-SA 2.0 | Mike__Lawrence
 FOTO espana/playa-blanca | https://upload.wikimedia.org/wikipedia/commons/e/ed/Lanzarote_-_Playa_Blanca_Beach_towards_Marina.jpg | Lanzarote - Playa Blanca Beach towards Marina.jpg | CC BY-SA 4.0 | Cayambe
 FOTO ecuador/isla-santa-cruz | https://upload.wikimedia.org/wikipedia/commons/f/f2/Bah%C3%ADa_Tortuga%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-26%2C_DD_26.JPG | Bahía Tortuga, isla Santa Cruz, islas Galápagos, Ecuador, 2015-07-26, DD 26.JPG | CC BY-SA 4.0 | Diego Delso
+FOTO espana/puerto-de-la-cruz | https://upload.wikimedia.org/wikipedia/commons/8/8b/Lago_Marti%C3%A1nez_qtl1.jpg | Lago Martiánez qtl1.jpg | CC BY-SA 3.0 | Quartl
