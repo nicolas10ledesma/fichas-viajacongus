@@ -1,0 +1,731 @@
+{
+  "slug": "singapur",
+  "name": "Singapur",
+  "region": "Ciudad-Estado de Singapur",
+  "lat": 1.2903,
+  "lon": 103.8519,
+  "datosRapidos": [
+    {
+      "label": "Ciudad-Estado",
+      "value": "Singapur (Singapore en inglés, Singapura en malayo) es una ciudad-estado insular en el extremo sur de la península malaya, separada de Malasia por el estrecho de Johor y de las islas indonesias de Riau por el estrecho de Singapur. Es a la vez país, ciudad y capital: no hay provincias ni otra ciudad aparte. Tiene unos 720 km² (719,9 km² según Wikipedia), una superficie que creció cerca de un 25 % desde la independencia gracias a los rellenos ganados al mar. Según el informe Population Trends 2026 del departamento oficial de estadística (SingStat), a fines de junio de 2026 vivían 6,21 millones de personas, contando residentes y extranjeros con permiso de trabajo o estudio. Tiene cuatro idiomas oficiales (inglés, mandarín, malayo y tamil) y una mezcla de comunidades china, malaya e india que se nota en cada barrio, templo y puesto de comida. Se la conoce por su orden y limpieza, por el horizonte de Marina Bay con el hotel Marina Bay Sands y los Supertrees de Gardens by the Bay, por su aeropuerto de Changi y por la cultura de los hawker centres (patios de comida popular), inscripta por la Unesco como patrimonio inmaterial en 2020. El Jardín Botánico de Singapur es Patrimonio Mundial desde 2015. Independiente desde el 9 de agosto de 1965, hoy es uno de los grandes centros financieros y portuarios de Asia."
+    },
+    {
+      "label": "Moneda",
+      "value": "Dólar de Singapur (SGD, se escribe S$). Las tarjetas Visa y Mastercard se aceptan casi en todos lados y también sirven para pagar el MRT y los colectivos apoyándolas en el molinete, aunque el aeropuerto de Changi avisa que con tarjetas emitidas en el exterior se cobra un cargo administrativo. En los hawker centres más chicos todavía conviene tener efectivo o una app de pago. Los precios de hoteles y restaurantes con mantel suelen ir con '++': se suman 10 % de servicio y 9 % de GST (el IVA local). No hay costumbre de dejar propina aparte"
+    },
+    {
+      "label": "Mejor época",
+      "value": "Hace calor húmedo todo el año y llueve en todos los meses, así que no hay una temporada 'mala' de verdad. El servicio meteorológico oficial (MSS) distingue el monzón del noreste (diciembre a comienzos de marzo), con lluvias largas sobre todo en diciembre y principios de enero y una fase más seca y ventosa desde fines de enero; el período entre monzones de fines de marzo a mayo, con tormentas de tarde y máximas de más de 32 °C; y el monzón del sudoeste (junio a septiembre). Octubre y noviembre vuelven a ser de tormentas de tarde. Planificá museos y shoppings para las horas de lluvia"
+    },
+    {
+      "label": "Visado",
+      "value": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos no necesitan visa de turista: ninguno de esos países figura en la lista de visa obligatoria de la autoridad migratoria (ICA). Todos tienen que completar gratis la SG Arrival Card dentro de los 3 días previos a llegar, tener pasaporte con 6 meses de vigencia y, si estuvieron en Argentina, Colombia, Perú, Brasil u otro país con riesgo de fiebre amarilla en los 6 días anteriores, mostrar el certificado de vacunación. Los días de estadía los fija el oficial al entrar y llegan por e-mail (e-Pass)"
+    }
+  ],
+  "intro": [
+    "Singapur es una puerta de entrada cómoda al Sudeste Asiático: en una sola isla, unida por metro, conviven templos chinos, mezquitas, templos hindúes, rascacielos y reservas de selva. Todo funciona, el transporte es barato y la ciudad está pensada para caminar entre un barrio y otro. Para quien viene de Latinoamérica es también una buena escala para cortar el viaje largo antes de seguir a Bali, Tailandia, Vietnam o Australia.",
+    "Lo que más sorprende es la comida. En los hawker centres, los patios de comida que la Unesco reconoció como patrimonio, se come arroz con pollo hainanés, laksa, satay o char kway teow por unos pocos dólares locales, sentado al lado de oficinistas y familias. Con eso compensás lo caro del alojamiento, que es el gran gasto del viaje. Comer bien y barato en Singapur no es un truco de mochilero: es lo que hace la gente que vive acá todos los días.",
+    "Mucho de lo mejor es gratis: los jardines exteriores y el show de luces de Gardens by the Bay, el Jardín Botánico, el show Spectra en Marina Bay, la cascada del Jewel en el aeropuerto, los puentes de los Southern Ridges y los barrios de Chinatown, Little India y Kampong Glam. Con tres o cuatro días te alcanza para lo principal; con una semana sumás Sentosa, el zoológico, la isla de Pulau Ubin y los museos con calma."
+  ],
+  "historia_corta": "Antes de ser Singapur la isla se llamó Temasek. Las primeras menciones escritas son del viajero chino Wang Dayuan, hacia 1330, y del poema javanés Nagarakretagama, de 1365. Durante siglos fue un puesto comercial menor dentro del mundo malayo. En 1819 Stamford Raffles, de la Compañía Británica de las Indias Orientales, instaló allí una factoría comercial con permiso de un pretendiente al sultanato de Johor, y el tratado de 1824 cedió la isla de forma definitiva a los británicos. En 1826 pasó a formar parte de los Establecimientos de los Estrechos junto con Penang y Malaca, y el 1 de abril de 1867 se convirtió en colonia de la Corona. El puerto libre atrajo inmigrantes chinos, malayos, indios y árabes, y cada comunidad dejó su barrio: Chinatown, Kampong Glam y Little India nacen de esa época. El 15 de febrero de 1942 la ciudad cayó en manos de Japón, que la ocupó hasta 1945. Tras la guerra volvió a manos británicas, logró el autogobierno el 3 de junio de 1959 con Lee Kuan Yew como primer ministro y el 16 de septiembre de 1963 se unió a la Federación de Malasia. La convivencia duró poco: el 9 de agosto de 1965 Singapur se separó y nació como Estado independiente. Lee Kuan Yew gobernó hasta 1990 y llevó adelante la industrialización, la vivienda pública y el crecimiento del puerto. Le siguieron Goh Chok Tong y Lee Hsien Loong, y desde 2024 el primer ministro es Lawrence Wong. Hoy es uno de los grandes centros financieros de Asia.",
+  "queVer": [
+    {
+      "nombre": "Marina Bay (Merlion Park, Marina Bay Sands y SkyPark)",
+      "desc": "La bahía que es la postal de Singapur: el Merlion, el hotel de las tres torres con su mirador y un show de luces gratis cada noche.",
+      "detalle": "Marina Bay es la cara moderna de Singapur y el lugar donde todos sacan la foto. Del lado del centro financiero está el Merlion, la estatua mitad león y mitad pez que es el símbolo de la ciudad: mide 8,6 metros, se inauguró en 1972 y en 2002 la mudaron a su ubicación actual frente a la bahía.\n\nEnfrente se levanta el Marina Bay Sands, abierto en 2010 y diseñado por Moshe Safdie: tres torres de 55 pisos unidas arriba por el SkyPark, una plataforma de 340 metros a unos 200 metros de altura. La pileta infinita es sólo para huéspedes, pero el mirador (SkyPark Observation Deck) está abierto a cualquiera con entrada. A su lado está el ArtScience Museum, con forma de flor de loto.\n\nTodas las noches, frente al shopping The Shoppes, se hace Spectra, un show gratis de luces, agua y música de unos 15 minutos sobre la bahía. El horario habitual es de domingo a jueves a las 20 y 21 h, y viernes y sábado a las 20, 21 y 22 h, aunque cambia en fechas especiales.\n\nConviene recorrer la bahía caminando por el paseo costero al atardecer: arrancás en el Merlion, cruzás el Helix Bridge y terminás en Spectra.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de la ciudad; MRT Bayfront (Circle y Downtown Line) o Raffles Place"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Atardecer y noche, para ver el skyline encendido y el show Spectra"
+        },
+        {
+          "label": "Entrada",
+          "value": "Paseo, Merlion y show Spectra: gratis. SkyPark Observation Deck: S$ 35 adulto en horario no pico (9:30 a 16:30) y S$ 39 en horario pico (17 a 22 h) (fuente: marinabaysands.com, verificado octubre 2026). Se compra online o en la boletería de la Torre 3"
+        },
+        {
+          "label": "Duración",
+          "value": "3 a 4 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Gardens by the Bay",
+      "desc": "Parque de 105 hectáreas con los Supertrees, dos invernaderos gigantes y un show de luces nocturno gratis entre los árboles de metal.",
+      "detalle": "Gardens by the Bay abrió en 2012 sobre terrenos ganados al mar, al lado del Marina Bay Sands. Ocupa 105 hectáreas y su imagen más conocida son los 18 Supertrees, estructuras verticales cubiertas de plantas de entre 25 y 50 metros de alto. Recorrer los jardines exteriores es gratis.\n\nLo pago son los dos invernaderos. El Flower Dome, de 1,2 hectáreas, recrea un clima fresco y seco de tipo mediterráneo con flores que cambian según la temporada. El Cloud Forest tiene en el centro una montaña de 42 metros cubierta de vegetación de altura y una cascada interior de 35 metros; se sube por dentro y se baja por pasarelas colgantes. Arriba de los Supertrees están el OCBC Skyway, una pasarela entre dos árboles, y el Supertree Observatory.\n\nA la noche, a las 19:45 y a las 20:45, se hace Garden Rhapsody en el Supertree Grove: un show gratis de luces y música. Lo mejor es tirarse en el piso y mirar para arriba.\n\nPara ahorrar, combiná: domos de día, cuando más calor hace afuera, y jardines y show al caer el sol. Fijate en la web los días de mantenimiento, porque cada atracción cierra en fechas puntuales.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Junto a Marina Bay; MRT Gardens by the Bay (Thomson-East Coast Line) o Bayfront"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Domos a la tarde (aire acondicionado); jardines y Garden Rhapsody de noche"
+        },
+        {
+          "label": "Entrada",
+          "value": "Jardines exteriores y Garden Rhapsody: gratis. Flower Dome + Cloud Forest: S$ 46 adulto y S$ 32 niño de 3 a 12 años no residente (fuente: gardensbythebay.com.sg, verificado octubre 2026). Abren 9 a 21 h"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Chinatown (Buddha Tooth Relic Temple y Maxwell)",
+      "desc": "El barrio chino histórico: casas-tienda de colores, un templo budista de cinco plantas, un templo hindú y comida barata de hawker.",
+      "detalle": "Chinatown nació en el siglo XIX como el sector que Raffles asignó a la comunidad china y hoy es uno de los barrios más vivos de la ciudad. Las calles Pagoda, Trengganu y Smith están llenas de shophouses (casas-tienda de dos o tres pisos) pintadas de colores, con puestos de recuerdos, farmacias de medicina china y casas de té.\n\nEl edificio más llamativo es el Buddha Tooth Relic Temple and Museum (templo de la Reliquia del Diente de Buda), en South Bridge Road, inaugurado en 2007 en estilo de la dinastía Tang. Tiene cuatro pisos con un museo budista y, en la terraza, una pagoda con una gran rueda de oración. Entrar es gratis; vestite con hombros y rodillas cubiertas.\n\nMuy cerca, en la misma South Bridge Road, está el Sri Mariamman, fundado en 1827 y considerado el templo hindú más antiguo de Singapur, con una torre de entrada de seis niveles cubierta de figuras de dioses. Y a una cuadra, el Maxwell Food Centre, uno de los hawker centres más famosos, donde está el puesto Tian Tian de arroz con pollo hainanés.\n\nAndá a la tarde para comer en Maxwell y quedate a la noche, cuando se encienden los faroles.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al sur del río; MRT Chinatown (North East y Downtown Line) o Maxwell (Thomson-East Coast Line)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; en el Año Nuevo Chino (enero o febrero) se decora entero y se llena"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (templos y calles). Comer en Maxwell: arroz con pollo de Tian Tian S$ 5 a 6 el plato (fuente: notas de prensa gastronómica, agosto 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "3 a 4 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Jardín Botánico de Singapur (Singapore Botanic Gardens)",
+      "desc": "Jardín de 82 hectáreas fundado en 1859, Patrimonio Mundial de la Unesco desde 2015, con entrada gratis y un jardín de orquídeas.",
+      "detalle": "El Jardín Botánico es el espacio verde más querido por los locales y el sitio de Singapur inscripto como Patrimonio Mundial de la Unesco, distinción que recibió en 2015. Se fundó en 1859 en el barrio de Tanglin y ocupa 82 hectáreas, con lagos, selva original, el lago de los cisnes (Swan Lake, excavado en 1866) y una glorieta donde en los años 30 tocaban bandas.\n\nAbre todos los días de 5 a 24 h y la entrada es gratis. Lo único que se paga es el National Orchid Garden (Jardín Nacional de Orquídeas), con más de 1.500 especies y 3.000 híbridos de orquídeas, que es lo que justifica el viaje. Abre de 8:30 a 19 h, con última entrada a las 18 h, y las entradas se compran en la boletería de la puerta.\n\nPara familias está el Jacob Ballas Children's Garden, con entrada propia sobre Bukit Timah Road. A la mañana temprano vas a ver gente corriendo y haciendo tai chi; es el mejor horario, antes de que apriete el calor.\n\nSe puede combinar con Orchard Road, la avenida de los shoppings, que queda muy cerca.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Barrio de Tanglin, cerca de Orchard Road; MRT Botanic Gardens (Circle y Downtown Line) o Napier (Thomson-East Coast Line)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano, antes del calor y de las tormentas de la tarde"
+        },
+        {
+          "label": "Entrada",
+          "value": "Jardín: gratis. National Orchid Garden: S$ 15 adulto, S$ 3 mayores de 60 y estudiantes, gratis menores de 12 (tarifa estándar para turistas); residentes S$ 5 (fuente: sbg.nparks.gov.sg, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Kampong Glam (Mezquita del Sultán y Haji Lane)",
+      "desc": "El antiguo barrio malayo y árabe, con la Mezquita del Sultán de cúpulas doradas, la calle Haji Lane y tiendas de telas y perfumes.",
+      "detalle": "Kampong Glam fue el barrio de la realeza malaya y de los comerciantes árabes y bugis en el siglo XIX. Su centro es la Masjid Sultan (Mezquita del Sultán), en Muscat Street: el primer templo lo mandó construir en 1819 el sultán Hussein Shah de Johor, y el edificio actual, de estilo con influencia indo-sarracena y cúpulas doradas, se terminó en 1932 según proyecto del arquitecto irlandés Denis Santry. Un detalle curioso: la base de las cúpulas está decorada con culos de botellas de vidrio donados por familias pobres. Es monumento nacional desde 1975.\n\nLos visitantes pueden entrar fuera de los horarios de oración, con ropa que cubra brazos y piernas. Los viernes al mediodía es la oración principal, así que conviene evitar ese momento.\n\nAlrededor están Arab Street, con tiendas de telas y alfombras, Bussorah Street, peatonal y con palmeras, y Haji Lane, un callejón angosto lleno de murales, bares chicos y tiendas de diseño. Es buen lugar para probar comida malaya y de Medio Oriente.\n\nA la noche el barrio se llena de gente joven y bares; de día es más tranquilo y fotogénico.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al norte del Civic District; MRT Bugis (East West y Downtown Line)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Tarde y primeras horas de la noche"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (mezquita y calles; respetá los horarios de oración)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Little India",
+      "desc": "El barrio indio de Singapur: el templo de Sri Veeramakaliamman, guirnaldas de flores, especias y comida del sur de la India.",
+      "detalle": "Little India es el barrio más colorido y ruidoso de la ciudad, organizado alrededor de Serangoon Road. Es el centro de la comunidad tamil y del sur de la India, y se siente distinto al resto de Singapur: puestos de guirnaldas de jazmín, joyerías de oro, tiendas de especias y saris, olor a incienso y música de Bollywood.\n\nEl templo principal es el Sri Veeramakaliamman, en el 141 de Serangoon Road, dedicado a la diosa Kali. Empezó como un pequeño santuario en 1855 y el templo se construyó en 1881, en estilo tamil del sur de la India, con una torre de entrada llena de figuras. Se entra descalzo y con ropa discreta. Durante la ocupación japonesa sirvió de refugio a gente sin techo.\n\nPara comer, el Tekka Centre, junto a la estación de MRT, tiene puestos de biryani, dosa y roti prata a precios de hawker. \n\nEn la fiesta de Deepavali (octubre o noviembre) las calles se iluminan y el barrio se llena.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Sobre Serangoon Road; MRT Little India (North East y Downtown Line)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; en Deepavali (octubre o noviembre) con iluminación especial"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (templos y calles)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Zoológico de Singapur (Singapore Zoo, Mandai)",
+      "desc": "Zoológico abierto en medio de la selva, con más de 4.200 animales y recintos sin jaulas a la vista, al borde de un embalse.",
+      "detalle": "El Singapore Zoo está en Mandai, en el norte de la isla, rodeado de selva y a orillas del embalse de Upper Seletar. Es famoso por su concepto de 'zoológico abierto': en lugar de jaulas, los animales están separados por fosos, vegetación y vidrios, y en algunos sectores, como el de los orangutanes, hay animales que se mueven libres entre los árboles.\n\nTiene más de 4.200 animales. Abre todos los días de 8:30 a 18 h, con última entrada a las 17 h, y la entrada incluye el tranvía interno. Hay presentaciones de animales en horarios fijos durante el día; revisá el programa en la app de Mandai al llegar.\n\nEn el mismo predio están el Night Safari, el River Wonders y el Bird Paradise, cada uno con su entrada; hay pases combinados si querés hacer más de uno. Para chicos menores de 3 años la entrada es gratis acompañados por un adulto con ticket.\n\nOjo con las obras: en 2026 el recinto de los pingüinos africanos está cerrado de agosto a fines de noviembre por remodelación. Llegar lleva tiempo: MRT hasta Khatib y después el colectivo-shuttle hasta Mandai.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Mandai, en el norte de la isla; MRT Khatib + shuttle"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano, cuando los animales están más activos y hace menos calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "No residente: S$ 49 adulto y S$ 34 niño de 3 a 12 años; residentes desde S$ 39 en días de semana (fuente: mandai.com, verificado octubre 2026). Incluye tranvía"
+        },
+        {
+          "label": "Duración",
+          "value": "4 a 5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Night Safari (Mandai)",
+      "desc": "El zoológico nocturno que Guinness reconoció como el primero del mundo: tranvía y senderos entre animales que se mueven de noche.",
+      "detalle": "El Night Safari abrió el 26 de mayo de 1994 en Mandai, al lado del zoológico, y Guinness World Records lo reconoce como el primer zoológico nocturno del mundo. La idea es ver a los animales en el momento en que están activos: tigres, leopardos, hienas, tapires, pangolines y otros, en 35 hectáreas de selva iluminadas con luz tenue.\n\nTiene más de 900 animales de más de 100 especies. El recorrido se hace en dos partes: un tranvía con guía que cubre todo el parque, incluido en la entrada, y cuatro senderos a pie (del pangolín, del leopardo, del tigre y del demonio de Tasmania) donde ves animales más de cerca. También está el show Creatures of the Night, con animales nocturnos y mensajes de conservación.\n\nNo uses flash, porque molesta a los animales, y llevá repelente.\n\nVolver tarde al centro es posible en transporte público, pero chequeá el último colectivo o tomá un taxi o Grab.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Mandai, en el norte de la isla, junto al zoológico; MRT Khatib + shuttle"
+        },
+        {
+          "label": "Mejor época",
+          "value": "De noche, todo el año; evitá los fines de semana si podés"
+        },
+        {
+          "label": "Entrada",
+          "value": "No residente: S$ 58 adulto y S$ 41 niño de 3 a 12 años (fuente: mandai.com, verificado octubre 2026). Incluye tranvía"
+        },
+        {
+          "label": "Duración",
+          "value": "3 a 4 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Sentosa (playas, Universal Studios y Singapore Oceanarium)",
+      "desc": "La isla de playas y parques temáticos al sur de la ciudad: se llega caminando gratis por la pasarela o en monorriel.",
+      "detalle": "Sentosa es la isla de entretenimiento de Singapur, unida a la ciudad por un puente y una pasarela peatonal desde el shopping VivoCity. Tiene tres playas (Siloso, Palawan y Tanjong), hoteles, bares de playa y varias atracciones pagas.\n\nEntrar caminando por el Sentosa Boardwalk es gratis. El monorriel Sentosa Express cuesta S$ 4 para entrar desde VivoCity y después es gratis moverse entre estaciones dentro de la isla.\n\nDentro de Resorts World Sentosa están Universal Studios Singapore, el parque temático con zonas de Jurassic Park, Shrek, Transformers y Egipto antiguo, y el Singapore Oceanarium, el gran acuario que reemplazó al viejo S.E.A. Aquarium. En la isla también están el Skyline Luge (trineos sobre ruedas) y el teleférico que la une con el Mount Faber.\n\nLas playas son agradables para pasar la tarde, pero el agua no es cristalina: se ven barcos de carga en el horizonte, porque enfrente está la zona de fondeo del puerto. Si vas sólo a la playa, no gastes en entradas; si vas a Universal, comprá online para tu fecha.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Isla al sur de la ciudad; MRT HarbourFront y Sentosa Express o pasarela desde VivoCity"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días de semana, para evitar filas en Universal; tardes para la playa"
+        },
+        {
+          "label": "Entrada",
+          "value": "Entrada a la isla caminando: gratis; Sentosa Express S$ 4 (fuente: sentosa.com.sg, verificado octubre 2026). Universal Studios desde S$ 76 adulto según fecha (fuente: rwsentosa.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "National Gallery Singapore",
+      "desc": "El museo de arte del Sudeste Asiático, armado en dos edificios coloniales: la ex Corte Suprema y el ex Ayuntamiento.",
+      "detalle": "La National Gallery Singapore abrió el 24 de noviembre de 2015 y ocupa dos monumentos nacionales unidos por un techo nuevo: la antigua Corte Suprema, con su cúpula, y el antiguo City Hall (Ayuntamiento). Entre los dos suman 64.000 m².\n\nSu colección tiene más de 9.000 obras y se concentra en el arte de Singapur y del Sudeste Asiático desde el siglo XIX hasta hoy. Es una buena manera de entender la región más allá de las playas: pintura de Indonesia, Filipinas, Tailandia y Malasia que es difícil ver en otros lados. Además de las salas permanentes, siempre hay muestras temporales pagas aparte.\n\nEl edificio en sí vale la visita: se pueden ver las salas de audiencia de la vieja corte y, desde la terraza, hay vista al Padang (la gran explanada verde) y a Marina Bay.\n\nLas visitas guiadas están incluidas con la entrada según disponibilidad. Es plan ideal para una tarde de lluvia, y queda a pasos del Raffles Hotel, la catedral de San Andrés y el río.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro, en el Civic District; MRT City Hall (North South y East West Line)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Tardes de lluvia o de mucho calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "Turistas: entrada general S$ 20; descuento de S$ 5 para niños de 7 a 12 años y mayores de 60 (fuente: nationalgallery.sg, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Singapur y Fort Canning Park",
+      "desc": "El museo más antiguo del país, para entender la historia de la isla, y al lado la colina de Fort Canning con jardines y búnker.",
+      "detalle": "El National Museum of Singapore, en Stamford Road, es el museo de historia del país y ocupa un edificio blanco de época colonial con cúpula. Es el lugar para entender cómo una isla de pescadores pasó a ser colonia, sufrió la ocupación japonesa y terminó como Estado independiente en 1965. Abre de 10 a 19 h y los ciudadanos y residentes permanentes entran gratis.\n\nDetrás del museo se sube a Fort Canning Park, la colina donde, según la tradición, estaban los palacios de los antiguos reyes de Temasek. Hoy es un parque con árboles enormes y un jardín de especias que replica el primer jardín botánico experimental que armó Raffles para probar clavo y nuez moscada. En la colina están también los búnkeres subterráneos (el Battlebox) desde donde el general británico Percival comandó la defensa hasta la rendición ante Japón, el 15 de febrero de 1942.\n\nSi vas a mediados de octubre de 2026 en adelante, fijate en la web qué galerías están abiertas: el museo está renovando sus salas y cambió el esquema de entradas.\n\nBuena combinación con la National Gallery y el Asian Civilisations Museum en un mismo día de museos.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro; MRT Bras Basah (Circle Line) o Dhoby Ghaut"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana o tarde de lluvia; el parque, temprano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Turistas: entrada general S$ 18 adulto y S$ 13 concesión desde el 13 de octubre de 2026; pase All Access S$ 20. Gratis menores de 6 (fuente: nhb.gov.sg/nationalmuseum, verificado octubre 2026). Fort Canning: gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Asian Civilisations Museum y el río Singapur",
+      "desc": "Museo de las culturas de Asia a orillas del río, punto de partida para caminar por Boat Quay y Clarke Quay al atardecer.",
+      "detalle": "El Asian Civilisations Museum (ACM) está en el Empress Place, un edificio colonial frente al río Singapur. Es el museo para entender de dónde viene cada comunidad que forma Singapur: arte y objetos de China, del sudeste asiático, de la India y del mundo islámico, con mucho espacio dedicado al comercio marítimo que hizo crecer la ciudad. Hay que pagar aparte las exposiciones temporales.\n\nSaliendo del museo, el río es el mejor paseo gratis del centro. Hacia la desembocadura están el puente Cavenagh, uno de los más viejos de la ciudad, y el Fullerton Hotel, que fue el correo central. Río arriba, Boat Quay es una hilera de casas-tienda convertidas en bares y restaurantes con mesas sobre el agua, frente a los rascacielos del distrito financiero. Más allá está Clarke Quay, la zona de boliches y bares, más cara y turística.\n\nDesde los muelles salen los bumboats, botes de madera que hacen el paseo por el río en unos 40 minutos.\n\nCaminá el tramo entre el ACM y Clarke Quay cuando cae el sol: se encienden las luces de los edificios y baja el calor.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro; MRT Raffles Place o Clarke Quay"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Museo de día; paseo por el río al atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "ACM, turistas y residentes extranjeros: S$ 15 adulto y S$ 10 concesión; gratis menores de 6 (fuente: nhb.gov.sg/acm, verificado octubre 2026). Paseo por el río: gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Jewel Changi Airport (Rain Vortex)",
+      "desc": "El edificio del aeropuerto con una cascada interior de 40 metros, descripta como la más alta del mundo, y un bosque de cinco pisos.",
+      "detalle": "El Jewel es un edificio en forma de cúpula de vidrio, diseñado por Moshe Safdie y abierto en 2019, frente a las terminales del aeropuerto de Changi. Se puede visitar sin tomar ningún vuelo: es un shopping con jardín y la gente de la ciudad va a pasear.\n\nEl centro es el Rain Vortex, una cascada de 40 metros que cae desde el techo y que se describe como la cascada interior más alta del mundo. Alrededor está el Shiseido Forest Valley, un jardín interior de unos 22.000 m² que sube por cinco pisos con unos 3.000 árboles. La cascada funciona de 10 a 22 h. A la noche hay show de luces y música sobre el agua: de lunes a jueves a las 20 y 21 h, y de viernes a domingo y feriados también a las 22 h.\n\nEn el último piso está el Canopy Park, pago, con laberintos, redes para caminar en altura y puentes.\n\nEs la mejor forma de aprovechar una escala larga o las últimas horas antes de tu vuelo: dejás la valija en el depósito, ves el show y comés algo antes de embarcar. Se llega con el MRT hasta Changi Airport.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Aeropuerto de Changi, en el este de la isla; MRT Changi Airport"
+        },
+        {
+          "label": "Mejor época",
+          "value": "De noche, para ver el show de luces; o antes de tu vuelo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Rain Vortex y Forest Valley: gratis. Canopy Park: S$ 8 adulto y niño estándar; S$ 6 residentes (fuente: jewelchangiairport.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Southern Ridges (Henderson Waves y Mount Faber)",
+      "desc": "Caminata gratis por pasarelas entre la selva del sur, con el puente ondulado de Henderson Waves y el teleférico a Sentosa.",
+      "detalle": "Los Southern Ridges son un corredor verde que une varios parques sobre las colinas del sur de la isla con pasarelas, senderos y puentes. Es una caminata urbana entre selva y no cuesta nada.\n\nEl punto más famoso es Henderson Waves, un puente peatonal de 274 metros con forma de ola, hecho con costillas de madera curvas, que pasa a 36 metros sobre Henderson Road. Se inauguró en 2008 y une el Mount Faber Park con el Telok Blangah Hill Park. A la noche se ilumina. Más adelante hay pasarelas elevadas entre las copas de los árboles, donde es común ver monos y aves.\n\nDesde la cima del Mount Faber sale el teleférico (Singapore Cable Car) que baja hasta HarbourFront y cruza a Sentosa: es una forma panorámica de terminar el paseo.\n\nLlevá agua, gorra y protector: hay tramos sin sombra y subidas cortas pero empinadas. Lo mejor es empezar temprano a la mañana o a media tarde y terminar cerca del atardecer arriba del Mount Faber.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Colinas del sur de la isla; MRT HarbourFront para empezar o terminar"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano o última hora de la tarde"
+        },
+        {
+          "label": "Entrada",
+          "value": "Caminata: gratis. Teleférico SkyPass ida y vuelta en las dos líneas: S$ 35 adulto y S$ 25 niño de 4 a 12 (online desde S$ 32,90) (fuente: mountfaberleisure.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "3 a 4 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Singapore Flyer",
+      "desc": "Rueda de observación con cabinas cerradas y aire acondicionado sobre Marina Bay, con una vuelta de 30 minutos y vista a la bahía.",
+      "detalle": "El Singapore Flyer es la gran rueda de la ciudad, en el borde de Marina Bay, cerca del circuito de Fórmula 1. Las cabinas son grandes, cerradas y con aire acondicionado, compartidas con otros pasajeros, y cada vuelta dura 30 minutos. Desde lo más alto, a unos 165 metros, se ve la bahía completa con el Marina Bay Sands, los Supertrees, el distrito financiero y, del otro lado, la fila de barcos esperando entrar al puerto.\n\nAbre todos los días, incluidos feriados, de 10 a 22 h, con última entrada a las 21:30, y no hace falta reservar horario. Además de la vuelta común hay opciones con cena o con cócteles, bastante más caras.\n\n¿Conviene o alcanza con el SkyPark? Las dos vistas son distintas: desde el Flyer ves el Marina Bay Sands de frente, que es la foto clásica; desde el SkyPark ves la ciudad pero no el hotel. Si sólo vas a pagar un mirador, el Flyer da la postal más reconocible.\n\nEl momento ideal es subir justo antes del atardecer para ver cómo se encienden las luces de la bahía.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Marina Bay; MRT Promenade (Circle y Downtown Line)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "S$ 40 adulto y S$ 25 niño de 3 a 12 años según folleto oficial; la tienda online mostró S$ 46 adulto (fuente: singaporeflyer.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Pulau Ubin",
+      "desc": "La isla rural del noreste, con el último kampung (aldea) de Singapur, senderos en bicicleta y los humedales de Chek Jawa.",
+      "detalle": "Pulau Ubin es la cara de Singapur que no aparece en las postales: una isla de unos 10 km², a 10 minutos en bote de la costa noreste, con casas de madera, caminos de tierra, viejas canteras de granito inundadas y selva. Los británicos la conocían como la 'isla del granito': de sus canteras salió piedra para el faro Horsburgh y para el puente que une Singapur con Johor. En los años 70 vivían entre 2.000 y 4.000 personas; hoy quedan unas pocas decenas.\n\nSe llega en bumboat desde la Changi Point Ferry Terminal: no hay horario fijo, el bote sale cuando se junta gente (unas 12 personas) y se paga en efectivo a bordo. Al llegar, en el pueblito de Ubin hay locales que alquilan bicicletas y venden comida.\n\nLa visita principal es Chek Jawa, un humedal de unos 100 hectáreas en la punta sudeste, con una pasarela entre manglares y, con marea baja, playas de barro donde se ven cangrejos y estrellas de mar.\n\nLlevá efectivo, agua y repelente, y fijate la hora: conviene estar de vuelta en el muelle antes de las 17:30 para no quedarte sin bote.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Frente a la costa noreste; colectivo hasta Changi Village y bote de unos 10 minutos desde la Changi Point Ferry Terminal"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Días de semana por la mañana; evitá las horas de más calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "Isla: gratis. Bumboat: S$ 4 por persona y por tramo, en efectivo (fuente: blogs de viaje y guías, agregador, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "MacRitchie Reservoir y TreeTop Walk",
+      "desc": "Senderos por la reserva de selva del centro de la isla hasta un puente colgante de 250 metros sobre las copas de los árboles.",
+      "detalle": "El MacRitchie Reservoir es el embalse más antiguo de Singapur, el primer sistema de agua potable de la isla, y forma parte de la Reserva Natural de Central Catchment, la mayor superficie de selva que le queda a la isla. Es el lugar donde los locales van a correr y caminar, y donde se ve mejor la naturaleza original: macacos, varanos, ardillas y muchísimas aves.\n\nEl objetivo de la caminata es el TreeTop Walk, un puente colgante que une los dos puntos más altos de la reserva y pasa por encima de la copa de los árboles. Mide unos 250 metros, llega a 25 metros de altura y une Bukit Peirce con Bukit Kalang, los dos puntos más altos de MacRitchie. Para llegar hay que caminar un buen trecho por senderos y pasarelas desde la entrada del embalse, así que calculá varias horas entre ida y vuelta. Es gratis.\n\nOjo con los horarios: el TreeTop Walk cierra los lunes (salvo feriados); de martes a viernes abre de 9 a 17 h y los fines de semana y feriados de 8:30 a 17 h, con última entrada a las 16:45. El parque abre de 7 a 19 h.\n\nNo le des comida a los monos: está prohibido y se ponen agresivos si ven bolsas. Llevá mucha agua; no hay donde comprar en el medio del recorrido.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro geográfico de la isla, en la Reserva Natural de Central Catchment; colectivo o taxi hasta la entrada del embalse"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano, de martes a domingo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: nparks.gov.sg, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "4 horas"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Gardens by the Bay (Flower Dome + Cloud Forest)",
+      "precio": "No residente: S$ 46 adulto, S$ 32 niño de 3 a 12 años. Residentes: S$ 34 adulto, S$ 29 mayor de 60, S$ 26 niño. Combo con Floral Fantasy desde S$ 58 adulto no residente (fuente: gardensbythebay.com.sg, verificado octubre 2026). Comprar online o en las boleterías del parque; jardines exteriores y Garden Rhapsody gratis"
+    },
+    {
+      "tipo": "Gardens by the Bay (OCBC Skyway y Supertree Observatory)",
+      "precio": "Cada uno: no residente S$ 14 adulto y S$ 10 niño de 3 a 12; residentes S$ 10 adulto (fuente: gardensbythebay.com.sg, verificado octubre 2026). Abren 9 a 21 h; cierran con mal tiempo y en días de mantenimiento"
+    },
+    {
+      "tipo": "Marina Bay Sands SkyPark Observation Deck",
+      "precio": "S$ 35 adulto de 9:30 a 16:30 y S$ 39 adulto de 17 a 22 h; concesión en horario pico S$ 35; menores de 2 gratis (fuente: marinabaysands.com, verificado octubre 2026). Entrada con horario; comprar online o en la boletería de la Torre 3, subsuelo 1"
+    },
+    {
+      "tipo": "Singapore Zoo (Mandai)",
+      "precio": "No residente: S$ 49 adulto y S$ 34 niño de 3 a 12. Residentes con WildPass: S$ 39 adulto en días de semana y S$ 44 fines de semana; mayores de 60 S$ 25. Menores de 3 gratis (fuente: mandai.com, verificado octubre 2026). Comprar en mandai.com"
+    },
+    {
+      "tipo": "Night Safari (Mandai)",
+      "precio": "No residente: S$ 58 adulto y S$ 41 niño de 3 a 12. Residentes con WildPass desde S$ 48 adulto; mayores de 60 S$ 25 (fuente: mandai.com, verificado octubre 2026). Incluye tranvía. Comprar online con horario"
+    },
+    {
+      "tipo": "Universal Studios Singapore (Sentosa)",
+      "precio": "Entrada de un día desde S$ 76 adulto (13 años o más); el precio varía según la fecha y también figura una tarifa estándar de S$ 83 (fuente: rwsentosa.com, verificado octubre 2026). Comprar online en rwsentosa.com eligiendo el día"
+    },
+    {
+      "tipo": "Singapore Oceanarium (Sentosa)",
+      "precio": "Desde S$ 55 adulto de 13 a 59 años, S$ 43 niño de 4 a 12 y S$ 43 mayor de 60 (fuente: rwsentosa.com, verificado octubre 2026). Comprar online; en temporada alta piden horario de entrada"
+    },
+    {
+      "tipo": "Singapore Cable Car (Mount Faber - Sentosa)",
+      "precio": "SkyPass ida y vuelta en las dos líneas: S$ 35 adulto y S$ 25 niño de 4 a 12 (online S$ 32,90 y S$ 23,50). Sólo línea Mount Faber: S$ 33 y S$ 22. Sólo línea Sentosa: S$ 17 y S$ 12 online (fuente: mountfaberleisure.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "National Gallery Singapore",
+      "precio": "Turistas y residentes extranjeros: entrada general S$ 20; exposición especial S$ 25; All Access S$ 30. Descuento de S$ 5 para niños de 7 a 12, mayores de 60 y estudiantes extranjeros (fuente: nationalgallery.sg, verificado octubre 2026). Comprar online o en el museo"
+    },
+    {
+      "tipo": "National Museum of Singapore",
+      "precio": "Turistas: entrada general S$ 18 adulto y S$ 13 concesión desde el 13 de octubre de 2026; All Access S$ 20 y S$ 15. Gratis ciudadanos, residentes permanentes y menores de 6 (fuente: nhb.gov.sg/nationalmuseum, verificado octubre 2026). Abre 10 a 19 h"
+    },
+    {
+      "tipo": "Asian Civilisations Museum",
+      "precio": "Galerías permanentes, turistas: S$ 15 adulto y S$ 10 concesión (mayores de 60, estudiantes); gratis menores de 6. Exposiciones especiales aparte, por ejemplo S$ 25 adulto (fuente: nhb.gov.sg/acm, verificado octubre 2026)"
+    },
+    {
+      "tipo": "National Orchid Garden (Jardín Botánico)",
+      "precio": "Tarifa estándar: S$ 15 adulto, S$ 3 mayores de 60 y estudiantes; residentes S$ 5; menores de 12 gratis (fuente: sbg.nparks.gov.sg, verificado octubre 2026). Se paga sólo en la boletería de la entrada. El resto del Jardín Botánico es gratis"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Paseo en bumboat por el río Singapur",
+      "precio": "S$ 25 adulto y S$ 15 niño de 3 a 11 años, con S$ 2 de descuento comprando online (fuente: BeMyGuest, revendedor de Singapore River Cruise, verificado octubre 2026)",
+      "duracion": "40 minutos",
+      "operador": "Singapore River Cruise (canje del ticket en el mostrador de Clarke Quay)"
+    },
+    {
+      "actividad": "Tour gastronómico por Chinatown y Clarke Quay",
+      "precio": "Desde US$ 85 por persona (precio mostrado en dólares estadounidenses; fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "3 horas 30 minutos",
+      "operador": "Civitatis (operador local, guía en inglés)"
+    },
+    {
+      "actividad": "Free tour por el centro de Singapur (guía en inglés)",
+      "precio": "Gratis; se deja propina a voluntad (fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "2 horas 30 minutos",
+      "operador": "Civitatis"
+    },
+    {
+      "actividad": "Tour nocturno por Marina Bay (guía en inglés)",
+      "precio": "Desde US$ 39 por persona (precio mostrado en dólares; fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "2 horas",
+      "operador": "Civitatis"
+    },
+    {
+      "actividad": "Tour al atardecer con shows de luz y sonido y crucero",
+      "precio": "Desde US$ 77 por persona (precio mostrado en dólares; fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "4 horas, con recogida en el hotel",
+      "operador": "Civitatis (guía en inglés)"
+    },
+    {
+      "actividad": "Autobús turístico hop-on hop-off",
+      "precio": "Desde US$ 50 por persona (precio mostrado en dólares; fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "Pase de 2 días",
+      "operador": "Civitatis / operadores de bus turístico"
+    },
+    {
+      "actividad": "Skyline Luge en Sentosa (trineo sobre ruedas + aerosilla)",
+      "precio": "Paquete de 2 bajadas y 1 aerosilla S$ 30 por persona; 3 bajadas S$ 33 (fuente: blog The Better Vacation, agregador, verificado octubre 2026)",
+      "duracion": "Según la cantidad de bajadas; requiere reservar horario",
+      "operador": "Skyline Luge Sentosa"
+    },
+    {
+      "actividad": "Show nocturno Wings of Time Fireworks Symphony (Sentosa)",
+      "precio": "Desde US$ 10 por persona (precio mostrado en dólares; fuente: civitatis.com, verificado octubre 2026)",
+      "duracion": "20 minutos",
+      "operador": "Civitatis (entrada al show)"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "MRT (metro) y LRT",
+      "precio": "Tarifa por distancia con tarjeta: S$ 1,28 hasta 3,2 km y hasta S$ 2,57 en los viajes de más de 40,2 km; si entrás antes de las 7:45 en días hábiles, de S$ 0,78 a S$ 2,07 (tarifas vigentes desde el 27 de diciembre de 2025; fuente: Public Transport Council, ptc.gov.sg, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Líneas que cubren toda la isla, limpias, con aire acondicionado y señalización en inglés. Pagás apoyando la tarjeta Visa o Mastercard sin contacto o el celular en el molinete, o con tarjeta EZ-Link. Con tarjetas extranjeras se cobra un cargo administrativo. Prohibido comer y beber dentro del sistema. Desde el aeropuerto, el primer tren sale a las 5:31 de lunes a sábado y el último con conexión hacia el centro, a las 23:18 (fuente: changiairport.com)"
+    },
+    {
+      "medio": "Colectivos (buses públicos)",
+      "precio": "Misma estructura por distancia que el MRT con tarjeta; desde el 27 de diciembre de 2025 los adultos pagan 9 a 10 centavos más por viaje y el efectivo 20 centavos más (fuente: Public Transport Council, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Llegan a lugares donde el MRT no llega (Changi Village para Pulau Ubin, Mandai, playas del este). Se sube por delante y se apoya la tarjeta al subir y al bajar. Si pagás en efectivo no dan cambio. Usá Google Maps o la app oficial para ver horarios"
+    },
+    {
+      "medio": "Singapore Tourist Pass (pase ilimitado)",
+      "precio": "1 día S$ 17; 2 días S$ 24; 3 días S$ 29; 4 días S$ 37; 5 días S$ 45 (fuente: thesingaporetouristpass.com.sg, verificado octubre 2026)",
+      "duracion": "1 a 5 días consecutivos",
+      "notas": "Viajes ilimitados en colectivos comunes, MRT y LRT. No sirve para el Sentosa Express ni para buses expresos o especiales. Sólo conviene si hacés muchos viajes por día: con 4 o 5 trayectos a S$ 1,28–2,57 cada uno no llegás a los S$ 17 del pase de un día. Se vende en Changi y en oficinas TransitLink"
+    },
+    {
+      "medio": "Taxis y autos por app (Grab, Gojek, Zig, Tada)",
+      "precio": "Del aeropuerto al centro S$ 25 a 45 con taxímetro, más recargo de aeropuerto de S$ 8 de 17 a 23:59 y S$ 6 el resto del día; recargo de 50 % de medianoche a 5:59 y de 25 % en horas pico (fuente: changiairport.com, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Los taxis son seguros y usan taxímetro; Grab es la app más usada. Útil de noche, con chicos o para lugares como Mandai. En hora pico conviene el MRT porque hay tráfico"
+    },
+    {
+      "medio": "Sentosa Express (monorriel a Sentosa)",
+      "precio": "S$ 4 por entrada desde VivoCity; dentro de la isla es gratis (fuente: sentosa.com.sg, verificado octubre 2026)",
+      "duracion": "Unos minutos",
+      "notas": "Sale del shopping VivoCity, junto al MRT HarbourFront. Funciona de 7 a 24 h. Caminando por el Sentosa Boardwalk se entra gratis. Se paga con tarjeta bancaria o EZ-Link; no está incluido en el Tourist Pass"
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto de Changi (SIN) → centro en MRT",
+      "empresas": "SMRT (East West Line): Changi Airport → Tanah Merah con transbordo, o vía Expo a la Downtown Line",
+      "precio": "Tarifa normal del MRT por distancia, entre S$ 1,28 y S$ 2,57 con tarjeta (fuente: Public Transport Council, vigente desde 27/12/2025, verificado octubre 2026)",
+      "duracion": "Variable, con un transbordo"
+    },
+    {
+      "ruta": "Aeropuerto de Changi → centro en taxi, Grab o van",
+      "empresas": "Taxis con taxímetro, apps (Grab, Gojek, Zig, Tada, Ryde) y vans de tarifa fija del aeropuerto",
+      "precio": "Taxi S$ 25 a 45 más recargo de aeropuerto de S$ 6 a 8; van de tarifa fija S$ 70 para 4 personas o S$ 75 para 6 (fuente: changiairport.com, verificado octubre 2026)",
+      "duracion": "Unos 30 minutos sin tráfico"
+    },
+    {
+      "ruta": "Johor Bahru (Malasia) → Woodlands en tren",
+      "empresas": "KTM Shuttle Tebrau (JB Sentral - Woodlands Train Checkpoint)",
+      "precio": "S$ 5 desde Singapur para no malasios; RM 5 desde Johor Bahru (fuente: blog de Wise, agosto 2026, agregador, verificado octubre 2026)",
+      "duracion": "5 minutos de viaje más migraciones"
+    },
+    {
+      "ruta": "Johor Bahru (Malasia) → Kranji en colectivo",
+      "empresas": "Causeway Link CW1 (Larkin/JB Sentral - Kranji MRT)",
+      "precio": "S$ 2,60 desde Kranji hacia Johor Bahru, con EZ-Link o tarjeta sin contacto (fuente: LandTransportGuru y TheSmartLocal, agregadores, verificado octubre 2026)",
+      "duracion": "Variable según las filas de migraciones"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Hostels y cápsulas (Chinatown, Little India, Bugis)",
+      "nivel": 2,
+      "opciones": "Camas en dormitorio compartido desde S$ 20 (por ejemplo Sports Hostel en Little India; fuente: TheSmartLocal, verificado octubre 2026) y en general S$ 25 a 55 la noche; habitaciones privadas en guesthouses S$ 60 a 100 (fuente: guía Singapore Spirit 2026, agregador, verificado octubre 2026). Little India y Chinatown son las zonas más baratas y con MRT"
+    },
+    {
+      "categoria": "Hoteles de 3 estrellas (Bugis, Chinatown, Clarke Quay)",
+      "nivel": 3,
+      "opciones": "Cadenas como ibis, ibis Styles o Hotel Boss: S$ 120 a 200 la noche (fuente: guía Singapore Spirit 2026, agregador, verificado octubre 2026). Las habitaciones son chicas para lo que cuestan. Fijate si la tarifa ya incluye el 10 % de servicio y el 9 % de GST"
+    },
+    {
+      "categoria": "Hoteles de 4 estrellas (Orchard, Marina, río)",
+      "nivel": 4,
+      "opciones": "Hoteles como Mercure o Holiday Inn: S$ 200 a 350 la noche (fuente: guía Singapore Spirit 2026, agregador, verificado octubre 2026). Suben mucho durante el Gran Premio de Fórmula 1 y el Año Nuevo Chino"
+    },
+    {
+      "categoria": "Lujo (Marina Bay Sands, Fullerton, Raffles)",
+      "nivel": 5,
+      "opciones": "Marina Bay Sands desde unos S$ 544 antes de impuestos en su habitación más barata (fuente: reseña de Trvlogue 2026, agregador, verificado octubre 2026); Fullerton Hotel desde S$ 450 y Raffles Hotel desde S$ 900 la noche (fuente: guía Singapore Spirit 2026, verificado octubre 2026). Hospedarse en el MBS es la única forma de usar la pileta infinita"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Hawker centres: arroz con pollo hainanés, laksa, satay y char kway teow",
+      "nivel": 1,
+      "opciones": "Platos de arroz o fideos S$ 4 a 8 y comida completa con bebida S$ 5 a 10; satay S$ 0,80 a 1,20 el palito (fuente: guía Singapore Spirit 2026, verificado octubre 2026). En Maxwell Food Centre, el arroz con pollo de Tian Tian cuesta S$ 5 a 6 (fuente: prensa gastronómica, agosto 2026, verificado octubre 2026). Otros: Lau Pa Sat, Tekka Centre, Old Airport Road"
+    },
+    {
+      "tipo": "Desayuno local: kaya toast con huevos y kopi",
+      "nivel": 2,
+      "opciones": "Tostadas con kaya (dulce de coco y huevo) y manteca, dos huevos pasados por agua y kopi (café local). En Ya Kun Kaya Toast el set clásico cuesta S$ 6,30 (fuente: Eatbook, julio 2026, verificado octubre 2026); en kopitiams de barrio, menos. Teh tarik (té con leche 'estirado') S$ 1,20 a 1,80 (fuente: Singapore Spirit 2026)"
+    },
+    {
+      "tipo": "Restaurantes medios: cocina peranakan, india o china",
+      "nivel": 3,
+      "opciones": "Restaurantes informales y coffee shops S$ 15 a 30 por persona; restaurantes de nivel medio S$ 40 a 80 por persona (fuente: guía Singapore Spirit 2026, agregador, verificado octubre 2026). Probá la cocina peranakan (chino-malaya) en Katong y el fish head curry en Little India"
+    },
+    {
+      "tipo": "Chilli crab (cangrejo al chile) en restaurantes de mariscos",
+      "nivel": 4,
+      "opciones": "El plato emblema: cangrejo en salsa de tomate, chile y huevo, que se moja con mantou (pancitos fritos). Se cobra por peso a precio de mercado, en general S$ 70 a 120 el kilo (fuente: guía Singapore Spirit 2026, verificado octubre 2026). Casas como JUMBO Seafood en Clarke Quay o East Coast; preguntá el precio por kilo antes de pedir"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa para ir a Singapur si soy argentino, uruguayo, chileno, mexicano, colombiano o peruano?",
+      "a": "No. Ninguno de esos países está en la lista de nacionalidades que necesitan visa según la autoridad migratoria (ICA, ica.gov.sg, verificado octubre 2026). Lo que sí es obligatorio para todos: pasaporte con al menos 6 meses de vigencia, la SG Arrival Card completada gratis en la web de ICA o en la app MyICA dentro de los 3 días anteriores a llegar (no pagues a sitios intermediarios), pasaje de salida y fondos suficientes. Los días de estadía los decide el oficial al entrar y te llegan por e-mail como e-Pass. Muy importante: si estuviste en Argentina, Colombia, Perú, Brasil, Bolivia, Paraguay, Ecuador, Panamá o Venezuela en los 6 días anteriores, o hiciste una escala de más de 12 horas ahí, tenés que mostrar el certificado internacional de vacuna contra la fiebre amarilla; sin él te pueden poner en cuarentena 6 días."
+    },
+    {
+      "q": "¿Es seguro Singapur? ¿Qué leyes tengo que conocer?",
+      "a": "Es uno de los países donde la gente se siente más segura: en el Global Safety Report 2025 de Gallup quedó primero, con 98 % de adultos que dicen sentirse seguros caminando solos de noche (según sg101.gov.sg). Podés andar de noche sin problemas. Lo que sí hay que respetar son las reglas: no se puede comer ni beber en el MRT, tirar basura en la calle se multa, fumar sólo en las zonas marcadas, y el chicle no se vende. Los vapeadores están prohibidos: desde septiembre de 2025 las multas son fuertes y al llegar hay tachos en el aeropuerto para descartarlos sin sanción. Las penas por drogas son muy severas, incluida la pena de muerte por tráfico. Cruzá en las esquinas: cruzar mal también se multa."
+    },
+    {
+      "q": "¿Cuántos días hacen falta para conocer Singapur?",
+      "a": "Con tres días completos ves lo principal: un día para Marina Bay y Gardens by the Bay (con los dos shows de luces de noche), otro para Chinatown, Kampong Glam, Little India y comer en hawker centres, y otro para el Jardín Botánico, los museos del Civic District y el río. Con cinco días sumás el zoológico y el Night Safari en Mandai (te lleva casi un día entero, entre ida, vuelta y visita), Sentosa y los Southern Ridges. Con una semana agregás Pulau Ubin, la reserva de MacRitchie y una excursión a Johor Bahru en Malasia. Es habitual usarlo como escala de 2 o 3 días antes de seguir hacia el Sudeste Asiático, y es una muy buena forma de aclimatarse al calor y al horario."
+    },
+    {
+      "q": "¿Cuánto dinero necesito por día?",
+      "a": "Singapur es caro para dormir y barato para comer. Una guía de costos de 2026 (Singapore Spirit) calcula unos S$ 95 por día para un viaje mochilero (cama en hostel, comida en hawker centres y transporte público) y alrededor de S$ 280 por día para un viaje de nivel medio con hotel de 3 o 4 estrellas. El transporte es barato: un viaje en MRT cuesta entre S$ 1,28 y S$ 2,57 con tarjeta. Lo que más suma son las entradas: Gardens by the Bay, el zoológico y Universal Studios cuestan entre S$ 46 y S$ 83 cada uno, así que elegí cuáles valen para vos y aprovechá lo gratis (shows de luces, jardines, barrios, Jewel). Si comprás algo caro, pedí el reembolso del GST: con S$ 100 gastados en un mismo comercio se tramita en el aeropuerto."
+    },
+    {
+      "q": "¿Puedo pagar con tarjeta? ¿Cómo uso el transporte?",
+      "a": "Sí, la tarjeta se acepta en casi todos lados, incluidos muchos puestos de hawker centres (aunque conviene llevar algo de efectivo para los más chicos). Para el transporte no necesitás comprar nada: apoyás tu tarjeta Visa o Mastercard sin contacto, o el celular con Apple Pay o Google Pay, en el molinete del MRT o en el lector del colectivo, al entrar y al salir. El aeropuerto avisa que con tarjetas emitidas en el exterior se cobra un cargo administrativo; si viajás muchos días, una EZ-Link recargable o el Singapore Tourist Pass (desde S$ 17 por un día) pueden convenir. No hace falta alquilar auto: el transporte público llega a todos lados, el estacionamiento es caro y hay peajes electrónicos. Para la noche o con valijas, Grab y los taxis con taxímetro son seguros."
+    },
+    {
+      "q": "¿Cuál es la mejor época para ir? ¿Llueve mucho?",
+      "a": "Hace calor todo el año, con mucha humedad y tardes que en algunas épocas pasan los 32 °C, y llueve en todos los meses. Según el servicio meteorológico oficial, de diciembre a principios de enero hay lluvias más largas por el monzón del noreste; de fines de enero a comienzos de marzo es la época más seca y ventosa; y entre fines de marzo y mayo, igual que en octubre y noviembre, hay tormentas fuertes por la tarde, que suelen durar una o dos horas. Lo práctico es hacer lo de afuera a la mañana temprano y dejar los museos, shoppings y el Jewel para la tarde. Ojo con las fechas que encarecen el alojamiento: el Gran Premio de Fórmula 1 de Singapur y el Año Nuevo Chino."
+    },
+    {
+      "q": "¿Puedo hacer una escapada a Malasia desde Singapur?",
+      "a": "Sí, y es fácil. Johor Bahru, la ciudad malasia del otro lado del estrecho, se alcanza en tren o en colectivo. El KTM Shuttle Tebrau une Woodlands con JB Sentral en unos 5 minutos y cuesta S$ 5 desde Singapur (según una guía de Wise de agosto de 2026); el colectivo Causeway Link CW1 sale de la estación Kranji del MRT por unos S$ 2,60. Lo que más tarda son las filas de migraciones, sobre todo los fines de semana y en horas pico. Antes de cruzar, revisá en la web oficial de inmigración de Malasia qué pide tu pasaporte, y acordate de que al volver tenés que completar otra vez la SG Arrival Card. Está prevista la apertura del tren RTS Link entre Woodlands North y Bukit Chagar hacia fines de 2026; revisá si ya funciona antes de ir."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Singapur»: https://es.wikipedia.org/wiki/Singapur",
+      "SingStat (Departamento de Estadística de Singapur) — «Population Trends 2026»: https://www.singstat.gov.sg/publication-resources/population-trends-2026",
+      "SingStat — «Population and Population Structure: latest data»: https://www.singstat.gov.sg/find-data/explore-data-themes/population/population-and-population-structure/latest-news-data",
+      "UNESCO — «Hawker culture in Singapore, community dining and culinary practices in a multicultural urban context»: https://ich.unesco.org/en/RL/hawker-culture-in-singapore-community-dining-and-culinary-practices-in-a-multicultural-urban-context-01568"
+    ],
+    "que_ver_atracciones": [
+      "Gardens by the Bay — «Supertree Observatory»: https://www.gardensbythebay.com.sg/en/things-to-do/attractions/supertree-observatory.html",
+      "Gardens by the Bay — «Flower Dome»: https://www.gardensbythebay.com.sg/en/things-to-do/attractions/flower-dome.html",
+      "Gardens by the Bay — «OCBC Skyway»: https://www.gardensbythebay.com.sg/en/things-to-do/attractions/ocbc-skyway.html",
+      "Marina Bay Sands — «SkyPark Observation Deck»: https://www.marinabaysands.com/attractions/skypark-observation-deck.html",
+      "Marina Bay Sands — «Spectra»: https://www.marinabaysands.com/attractions/spectra.html",
+      "Mandai Wildlife Reserve — «Singapore Zoo»: https://www.mandai.com/en/singapore-zoo.html",
+      "Mandai Wildlife Reserve — «Singapore Zoo tickets»: https://www.mandai.com/en/tickets-and-passes/single-attractions/singapore-zoo.html",
+      "Mandai Wildlife Reserve — «Night Safari tickets»: https://www.mandai.com/en/tickets-and-passes/single-attractions/night-safari.html",
+      "NParks — «National Orchid Garden»: https://sbg.nparks.gov.sg/attractions/national-orchid-garden/",
+      "NParks — «Hiking and nature walks at Central Catchment Nature Reserve»: https://www.nparks.gov.sg/visit/parks/central-catchment-nature-reserve/activities/hiking-nature-walk",
+      "Jewel Changi Airport — «Jewel Rain Vortex»: https://www.jewelchangiairport.com/en/attractions/rain-vortex.html",
+      "Jewel Changi Airport — «Canopy Park»: https://www.jewelchangiairport.com/en/attractions/canopy-park.html",
+      "Singapore Flyer — «Plan Your Visit»: https://www.singaporeflyer.com/en/plan-your-visit",
+      "Singapore Flyer — «Singapore Flyer Ticket»: https://www.singaporeflyer.com/en/ticket/singapore-flyer-ticket",
+      "Wikipedia (EN) — «Singapore Botanic Gardens»: https://en.wikipedia.org/wiki/Singapore_Botanic_Gardens",
+      "Wikipedia (EN) — «Gardens by the Bay»: https://en.wikipedia.org/wiki/Gardens_by_the_Bay",
+      "Wikipedia (EN) — «Marina Bay Sands»: https://en.wikipedia.org/wiki/Marina_Bay_Sands",
+      "Wikipedia (EN) — «Merlion»: https://en.wikipedia.org/wiki/Merlion",
+      "Wikipedia (EN) — «Jewel Changi Airport»: https://en.wikipedia.org/wiki/Jewel_Changi_Airport",
+      "Wikipedia (EN) — «Buddha Tooth Relic Temple and Museum»: https://en.wikipedia.org/wiki/Buddha_Tooth_Relic_Temple_and_Museum",
+      "Wikipedia (EN) — «Sultan Mosque»: https://en.wikipedia.org/wiki/Sultan_Mosque",
+      "Wikipedia (EN) — «Sri Veeramakaliamman Temple»: https://en.wikipedia.org/wiki/Sri_Veeramakaliamman_Temple",
+      "Wikipedia (EN) — «Night Safari, Singapore»: https://en.wikipedia.org/wiki/Night_Safari,_Singapore",
+      "Wikipedia (EN) — «National Gallery Singapore»: https://en.wikipedia.org/wiki/National_Gallery_Singapore",
+      "Wikipedia (EN) — «Henderson Waves»: https://en.wikipedia.org/wiki/Henderson_Waves",
+      "Wikipedia (EN) — «Pulau Ubin»: https://en.wikipedia.org/wiki/Pulau_Ubin"
+    ],
+    "precios_2026": [
+      "National Museum of Singapore — «Admissions & Opening Hours»: https://www.nhb.gov.sg/nationalmuseum/plan-your-visit/visitor-information/admissions",
+      "Asian Civilisations Museum — «Admissions»: https://www.nhb.gov.sg/acm/visit/admissions",
+      "National Gallery Singapore — «Visitor Information»: https://www.nationalgallery.sg/sg/en/visit/visitor-information.html",
+      "Resorts World Sentosa — «Universal Studios Singapore Tickets»: https://www.rwsentosa.com/en/play/universal-studios-singapore/tickets",
+      "Resorts World Sentosa — «Singapore Oceanarium»: https://www.rwsentosa.com/en/play/singapore-oceanarium",
+      "Mount Faber Leisure — «Singapore Cable Car»: https://mountfaberleisure.com/attraction/singapore-cable-car/",
+      "Civitatis — «Excursiones y tours en Singapur»: https://www.civitatis.com/es/singapur/",
+      "BeMyGuest — «Singapore River Cruises»: https://src.bemyguest.com.sg/tours/singapore/singapore/singapore-river-cruises",
+      "The Better Vacation — «Skyline Luge Sentosa»: https://thebettervacation.com/singapore/skyline-luge-sentosa/"
+    ],
+    "como_llegar_transporte": [
+      "Public Transport Council — «Fare Review Exercise 2025»: https://www.ptc.gov.sg/media-centre/newsroom/fare-review-exercise-2025/",
+      "Changi Airport — «Leaving Changi Airport: Transport Options»: https://www.changiairport.com/en/at-changi/transport-and-directions/leaving-the-airport.html",
+      "Singapore Tourist Pass — «Type of passes»: https://thesingaporetouristpass.com.sg/type-of-passes",
+      "Sentosa — «Sentosa Express (Monorail)»: https://www.sentosa.com.sg/en/things-to-do/attractions/sentosa-express/",
+      "Wise — «Train to JB from Singapore: KTM Shuttle Tebrau Guide»: https://wise.com/sg/blog/train-to-jb",
+      "LandTransportGuru — «Causeway Link CW1»: https://landtransportguru.net/jbbuscw1/",
+      "Trip.com — «RTS Link Singapore to JB: Opening Date, Fare & Guide»: https://sg.trip.com/guide/transport/rts-link.html"
+    ],
+    "visas_entrada": [
+      "ICA — «Check if You Need an Entry Visa»: https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+      "ICA — «SG Arrival Card with Electronic Health Declaration»: https://www.ica.gov.sg/enter-transit-depart/entering-singapore/sg-arrival-card",
+      "ICA — «Entering Singapore»: https://www.ica.gov.sg/enter-transit-depart/entering-singapore",
+      "ICA — «Yellow Fever Vaccination Certificate»: https://www.ica.gov.sg/enter-transit-depart/entering-singapore/yellow-fever-vaccination-certificate",
+      "IRAS — «Tourist Refund Scheme»: https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/tourist-refund-scheme"
+    ],
+    "seguridad_clima": [
+      "SG101 (Gobierno de Singapur) — «Singapore is the safest country in the world in 2025»: https://www.sg101.gov.sg/learn/resources/singapore-is-the-safest-country-in-the-world-in-2025",
+      "Meteorological Service Singapore — «Climate of Singapore»: https://www.weather.gov.sg/climate-climate-of-singapore/",
+      "Tobacco Asia — «Singapore escalates vaping crackdown»: https://www.tobaccoasia.com/news/singapore-escalates-vaping-crackdown/"
+    ],
+    "alojamiento_gastronomia": [
+      "Singapore Spirit — «Singapore travel costs»: https://www.singapore-spirit.com/guides/singapore-travel-costs/",
+      "TheSmartLocal — «New cheap hostels in Singapore»: https://thesmartlocal.com/read/new-cheap-hostels-singapore/amp",
+      "Trvlogue — «Marina Bay Sands Singapore Review 2026: Pool, Prices & Breakfast»: https://www.trvlogue.com/en/marina-bay-sands-singapore-hotel",
+      "Little Big Red Dot — «Tian Tian Opens at Jewel Changi: Chicken Rice Set From S$11»: https://littlebigreddot.com/tian-tian-jewel-changi-chicken-rice-price/",
+      "Eatbook — «Which Is The Best Kaya Toast In SG?»: https://eatbook.sg/best-kaya-toast-singapore/"
+    ]
+  }
+}
