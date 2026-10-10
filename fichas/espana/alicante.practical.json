@@ -1,0 +1,673 @@
+{
+  "slug": "alicante",
+  "name": "Alicante",
+  "region": "Comunidad Valenciana (Costa Blanca)",
+  "lat": 38.3452,
+  "lon": -0.4815,
+  "datosRapidos": [
+    {
+      "label": "Ciudad",
+      "value": "Alicante (Alacant en valenciano, Comunitat Valenciana, España) es la capital de la provincia del mismo nombre y la ciudad grande de la Costa Blanca, sobre el Mediterráneo. Según el INE (dato recogido en Wikidata) tenía 366.221 habitantes al 1 de enero de 2025, y es el segundo municipio más poblado de la Comunidad Valenciana después de Valencia. Con San Vicente del Raspeig, San Juan, Muchamiel y El Campello forma una conurbación de más de 500.000 personas. La ciudad está dominada por el monte Benacantil, de unos 166 metros, donde se levanta el Castillo de Santa Bárbara; a sus pies quedan el casco antiguo, la playa del Postiguet y el paseo de la Explanada de España, con sus 6.600.000 teselas de mármol que dibujan olas. Se la conoce por esa postal de castillo sobre la playa, por las Hogueras de San Juan de junio (Fiesta de Interés Turístico Internacional desde 1983), por sus arroces y por ser desde 2008 puerto de salida de la regata de vuelta al mundo The Ocean Race. Es además la puerta de entrada de la Costa Blanca: tiene el aeropuerto Alicante-Elche, estación de AVE con Madrid y el TRAM que sube por la costa hacia Benidorm y Dénia. Desde el puerto salen barcos a la Isla de Tabarca, la única isla habitada de la Comunidad Valenciana, y en media hora de tren estás en el Palmeral de Elche."
+    },
+    {
+      "label": "Moneda e idioma",
+      "value": "Se paga en euros y la tarjeta (incluida la de débito sin contacto) se acepta casi en todos lados. Ojo con algunos lugares que piden efectivo: el colectivo urbano y el C6 del aeropuerto se pagan a bordo, y conviene tener el importe justo. Los idiomas oficiales son el castellano y el valenciano: vas a ver 'Alacant', 'platja' (playa), 'castell' (castillo) o 'fogueres' (hogueras) en carteles, pero en la calle se habla sobre todo castellano."
+    },
+    {
+      "label": "Mejor época",
+      "value": "El clima es semiárido cálido: inviernos suaves, veranos secos y calurosos, y lluvias concentradas en otoño, cuando a veces llegan tormentas fuertes (el castillo cerró por alerta naranja el 9 de septiembre de 2026). Según Kayak, enero es el mes más barato para dormir (media de 100 € la noche) y julio el más caro (185 €). Abril y mayo son los meses con más visitas al castillo. Si querés ver las Hogueras, la fiesta va del 20 al 24 de junio; reservá con mucha anticipación."
+    },
+    {
+      "label": "Visado y entrada",
+      "value": "Argentinos, uruguayos, chilenos, mexicanos, colombianos y peruanos entran a España sin visa como turistas hasta 90 días dentro de un período de 180 en el espacio Schengen. En el primer control Schengen te registran con el sistema EES (huellas y foto) en lugar del sello. El ETIAS, el permiso online que se va a cobrar, todavía no se pide en octubre de 2026 y no tiene fecha firme de arranque. Si tenés otro pasaporte, confirmá en el consulado de España."
+    }
+  ],
+  "intro": [
+    "Alicante es una ciudad para caminar con el mar al lado. Bajás del colectivo o del tranvía y en diez minutos estás bajo las palmeras de la Explanada, mirando un castillo medieval que corona un peñón sobre la playa del Postiguet. El casco antiguo trepa por la ladera con casas pintadas y macetas, las iglesias más antiguas se visitan con audioguía y buena parte de los museos son gratis o cuestan pocos euros. Es una ciudad grande que se siente a escala humana.",
+    "Para el bolsillo tiene ventajas claras: el ascensor al castillo cuesta 2,70 €, el MACA, el Museo de Hogueras y el MUSA no cobran entrada, y el MARQ, uno de los museos de arqueología más visitados de España, sale 5 € (3 € los domingos). Las playas urbanas son públicas. Hay colectivos y TRAM para moverte sin auto, y un bus directo al aeropuerto. Con base acá podés ver gran parte de la provincia en excursiones de un día.",
+    "Lo mejor llega cuando sumás lo que está alrededor. Una hora de barco te deja en la Isla de Tabarca, un pueblo amurallado del siglo XVIII con reserva marina para hacer snorkel. En tren o en colectivo llegás al Palmeral de Elche, patrimonio de la Unesco. Y si caés en junio, las Hogueras de San Juan llenan la ciudad de monumentos de cartón, mascletàs a las dos de la tarde y fuego a medianoche."
+  ],
+  "historia_corta": "En el Tossal de Manises, a 3 km del centro actual, hubo una ciudad íbera que los romanos tomaron hacia el 201 a. C. y que en sus mapas llamaron Lucentum; bajo Augusto alcanzó el rango de municipio, con foro, termas y templos. En el siglo III d. C. el puerto se colmató y la población se fue desplazando hacia la falda del monte Benacantil. Con los musulmanes nació la medina de Laqant y a fines del siglo IX se levantó el castillo en la cima. El 4 de diciembre de 1248, día de Santa Bárbara, el infante Alfonso de Castilla, futuro Alfonso X, tomó la fortaleza, que por eso lleva ese nombre. En 1296 Jaime II la incorporó a la Corona de Aragón y poco después al reino de Valencia. Fernando el Católico le dio el título de ciudad el 26 de julio de 1490. En el siglo XVI el puerto pasó a ser el más importante del reino de Valencia, y entre 1562 y 1580 se hizo la gran reforma del castillo. En 1609 salieron por su puerto más de 30.000 moriscos expulsados. La escuadra francesa casi destruyó la ciudad en 1691 y la Guerra de Sucesión dejó la voladura parcial del castillo en 1709. En 1770 Carlos III instaló en la isla de Tabarca a familias de origen genovés rescatadas de Túnez. En 1858 llegó el tren desde Madrid y entre 1854 y 1878 se derribaron las murallas. El 25 de mayo de 1938 un bombardeo italiano sobre el Mercado Central mató a más de 300 personas. Desde los años sesenta el turismo transformó la ciudad. En 1983 las Hogueras fueron declaradas de Interés Turístico Internacional, en 2013 llegó el AVE y desde 2008 Alicante es puerto de salida de The Ocean Race, que volverá a partir de acá el 17 de enero de 2027.",
+  "queVer": [
+    {
+      "nombre": "Castillo de Santa Bárbara (Castell de Santa Bàrbara)",
+      "desc": "La fortaleza sobre el monte Benacantil, con la mejor vista de la bahía; se sube en ascensor desde el Postiguet por 2,70 €.",
+      "detalle": "El Castillo de Santa Bárbara ocupa la cima del monte Benacantil, a unos 166 metros sobre el mar, y es una de las fortalezas medievales más grandes de España. Tiene tres recintos de épocas distintas: arriba, La Torreta, con la Torre del Homenaje y los restos más antiguos (siglo XIV); en el medio, lo levantado en el siglo XVI, como el Salón Felipe II, el Patio de Armas y el Baluarte de la Reina; y abajo, el Revellín del Bon Repós, del siglo XVIII.\n\nDentro está el MUSA, el museo de la ciudad, gratis, con salas en el antiguo hospital, la Sala Larga y las Cuevas de los Ingleses. En 2025 lo visitaron 935.467 personas y en 2026 apunta a superar el millón.\n\nCómo subir: el ascensor sale de la avenida Juan Bautista Lafora, frente a la playa del Postiguet (2,70 €; gratis para jubilados con documento). También hay un microbús lanzadera desde la plaza Puerta del Mar cada 40 minutos y dos rutas a pie, por el Parque de la Ereta o por la cara oeste del monte. Un buen plan es subir en ascensor y bajar caminando por la Ereta hasta el barrio de Santa Cruz. Cierra el 24, 25 y 31 de diciembre, el 1 y 6 de enero y el 24 de junio.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Monte Benacantil, en pleno centro; ascensor frente a la playa del Postiguet"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano o al atardecer; en verano abre hasta las 23 h"
+        },
+        {
+          "label": "Entrada",
+          "value": "Recinto y MUSA gratis. Ascensor 2,70 €; gratis para jubilados que lo acrediten; lanzadera 1,45 € el trayecto (fuente: alicanteturismo.com, verificado octubre 2026). Horario del 5/9 al 14/11: 10 a 20 h"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Explanada de España",
+      "desc": "El paseo marítimo emblema de Alicante: palmeras, 6.600.000 teselas de mármol que forman olas y el puerto deportivo al lado.",
+      "detalle": "La Explanada de España es el paseo que une el puerto con la playa del Postiguet y la imagen más reconocible de la ciudad junto con el castillo. Su piso está hecho con 6.600.000 teselas de mármol en tres colores que dibujan un diseño ondulado, como las olas del mar, y está flanqueado por cuatro filas de palmeras.\n\nEs el lugar del paseo de la tarde de los alicantinos: hay terrazas, puestos de artesanía, músicos y bancos a la sombra. Del lado del mar queda el puerto deportivo, y al final, el Muelle de Levante, donde está el Museo The Ocean Race y de donde salen los barcos a Tabarca. Del otro lado empiezan las calles del centro y del casco antiguo, con la Rambla de Méndez Núñez y la plaza Gabriel Miró, conocida como Plaza de Correos, con sus ficus enormes.\n\nCaminarla es gratis y la recorrés entera en unos veinte minutos, pero vale la pena hacerlo dos veces: de día y de noche, cuando se llena de gente. En enero de 2027 el Ocean Live Park, la villa de la regata The Ocean Race, se instala muy cerca.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro, entre el puerto y la playa del Postiguet; TRAM L5 Puerta del Mar"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mejor al atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (espacio público)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Barrio de Santa Cruz",
+      "desc": "El barrio más antiguo y pintoresco, de calles empinadas con casas de colores y macetas, a los pies del castillo.",
+      "detalle": "El Barrio de Santa Cruz se cuelga de la ladera del Benacantil, justo debajo del castillo. Son callecitas estrechas y en pendiente, con escaleras, casas blancas y de colores, y fachadas llenas de macetas con flores. Es el rincón que mejor conserva el aire del Alicante antiguo y uno de los más fotografiados.\n\nArriba está la Ermita de Santa Cruz. Según Alicante Turismo, se levantó sobre los restos de una mezquita y fue consagrada al culto católico en 1271, a pedido de Violante de Aragón, esposa de Alfonso X; el edificio actual es de 1830. De ahí sale una de las procesiones más emotivas de la Semana Santa alicantina. Al lado, el Mirador de Santa Cruz da una vista del casco antiguo, el puerto y el mar, ideal al atardecer.\n\nEn mayo los vecinos adornan las calles con cruces de flores para la Fiesta de las Cruces de Mayo. Es un barrio residencial: respetá el silencio y no te metas en patios privados. Sólo se accede a pie y las cuestas cuestan; para personas con movilidad reducida es difícil. Combinalo con la bajada a pie desde el castillo por el Parque de la Ereta.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Casco antiguo, a pie desde la plaza del Ayuntamiento; TRAM L5 Puerta del Mar"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Atardecer; en mayo, Cruces de Mayo"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (barrio residencial)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Concatedral de San Nicolás de Bari",
+      "desc": "Templo de los siglos XVII y XVIII con cúpula de casi 45 m, claustro gótico y órgano del siglo XVI; la visita sube a la torre.",
+      "detalle": "La Concatedral de San Nicolás de Bari, en pleno casco antiguo, se construyó entre los siglos XVII y XVIII sobre los restos de una mezquita y de un templo gótico anterior. La diseñó Agustín Bernardino, discípulo de Juan de Herrera, y combina la sobriedad del Renacimiento tardío con las primeras señales del Barroco. Su cúpula, del arquitecto alicantino Miguel del Real, alcanza casi 45 metros y tiene un óculo que llena de luz el interior.\n\nAdentro se destacan la Capilla de la Comunión, una de las muestras del barroco español que más se citan, el retablo de San Juan Nepomuceno y el órgano del siglo XVI, que según Alicante Turismo es el más antiguo de la Comunitat Valenciana. El claustro, de gótico valenciano y del siglo XV, es anterior al templo: un jardín silencioso al que se entra por la calle Labradores.\n\nLa visita cultural, con audioguía incluida, recorre el claustro, la sala capitular-museo, el camarín de la Virgen del Remedio, las galerías superiores, la torre campanario y la cubierta. Del 1 de octubre al 30 de abril abre de lunes a viernes de 10:30 a 19 h, sábados de 10:30 a 17:30 y domingos de 13:30 a 17:30. Última entrada media hora antes.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Plaza del Abad Penalva, casco antiguo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; entre semana hay menos gente"
+        },
+        {
+          "label": "Entrada",
+          "value": "Visita cultural: 18-64 años 8 €; +65 7 €; 13-17 años y carné joven o universitario hasta 25 años 6 €; menores de 12 con adulto gratis (fuente: alicanteturismo.com, verificado octubre 2026). Venta en reservas.procuratiocultural.com"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Basílica de Santa María",
+      "desc": "La iglesia más antigua de Alicante, gótica sobre la antigua mezquita mayor, con portada barroca y torre campanario visitable.",
+      "detalle": "La Basílica de Santa María está en la plaza del mismo nombre, al pie del castillo y a pasos del MACA. Se construyó en el siglo XIV sobre la antigua mezquita mayor de la ciudad y es el templo más antiguo de Alicante. Mezcla estilos: la estructura es gótica valenciana y la portada principal es barroca. Algunos muros conservan cicatrices de los episodios bélicos que vivió la ciudad.\n\nLa visita cultural incluye la sala capitular-museo, el coro, las capillas del Baptisterio, la Inmaculada y la Comunión, y la subida a la torre campanario, con vista panorámica del casco antiguo. La entrada trae audioguía gratuita en castellano, inglés, francés e italiano.\n\nHorario de visitas culturales: lunes a sábado de 10 a 19 h y domingos de 13 a 19 h, con última entrada media hora antes; los oficios religiosos pueden cambiar el horario. Si vas a visitar también la Concatedral, conviene hacer las dos el mismo día y terminar en el MACA, que está enfrente y es gratis. Comprá la entrada online en la web de la empresa que gestiona las visitas o en la taquilla.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Plaza de Santa María 1, casco antiguo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "General (18-64) 6 €; +65 5 €; 13-17 años y carné joven o universitario hasta 25 años 4 €; menores de 12 con adulto gratis (fuente: alicanteturismo.com, verificado octubre 2026). Venta en reservas.procuratiocultural.com"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "MARQ - Museo Arqueológico Provincial de Alicante",
+      "desc": "Museo de arqueología moderno e interactivo, de la Prehistoria a la Edad Contemporánea; 5 € y 3 € los domingos.",
+      "detalle": "El MARQ es el museo arqueológico de la provincia y uno de los más modernos de España en su tipo: combina piezas originales con montajes audiovisuales e interactivos. Sus salas permanentes recorren la Prehistoria, la cultura íbera, la romana, la Edad Media y las edades Moderna y Contemporánea, con hallazgos de yacimientos de toda la provincia. Además tiene salas temporales con exposiciones internacionales: en octubre de 2026 se anuncian, entre otras, una muestra sobre rituales de pastores prehistóricos de la Cova de Randero y otra sobre oro y saberes indígenas de Colombia.\n\nEl museo gestiona también los yacimientos de Lucentum y La Illeta dels Banyets y la Torre Almohade de Almudaina, y vende una entrada conjunta válida 30 días. Las visitas guiadas cuestan 3 € extra.\n\nHorario del 16/9 al 15/6: martes a sábado de 10 a 19 h, domingos y festivos de 10 a 14 h; los lunes cierra. Está en la plaza del Doctor Gómez Ulla, con parada propia del TRAM (MARQ) y de la lanzadera del castillo. Se paga en efectivo o tarjeta; no se permite flash.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Plaza Doctor Gómez Ulla, a 15 minutos a pie del centro; TRAM L1-L4 parada MARQ"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; buen plan para días de lluvia o calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "General 5 € (domingos y festivos 3 €); reducida 3 € (estudiantes, +65, familias numerosas); gratis menores de 8, desempleados, docentes y personas con discapacidad; conjunta MARQ + Lucentum + Illeta + Almudaina 8 € (fuente: marqalicante.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "MACA - Museo de Arte Contemporáneo de Alicante",
+      "desc": "Arte del siglo XX gratis en el edificio civil más antiguo de la ciudad, con obras de Picasso, Miró, Dalí, Chillida y Sempere.",
+      "detalle": "El MACA ocupa la Casa de la Asegurada, un edificio barroco de 1685 pensado como almacén de grano y considerado el edificio civil más antiguo de Alicante. El museo nació en 1977 gracias a la donación del artista alicantino Eusebio Sempere, una de las figuras del arte cinético y abstracto en España.\n\nSu colección es de las más relevantes de arte del siglo XX en el país, según Alicante Turismo: tiene obra de Picasso, Dalí, Miró, Chillida, Saura y Tàpies, además de la colección del propio Sempere. Hay pinturas, esculturas, dibujos, litografías y serigrafías. La exposición permanente rota en parte para conservar las obras, así que cada visita puede ser distinta, y suma muestras temporales.\n\nLa entrada es libre. Horario de invierno (1/10 al 30/6): martes a sábado de 10 a 20 h, domingos y festivos de 10 a 14 h; los lunes cierra. Cierra además el 24, 25 y 31 de diciembre, el 1 y 6 de enero, el 1 de mayo y en las fiestas de Santa Faz y San Juan. Está en la plaza de Santa María, frente a la basílica: combinalos en la misma mañana.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Plaza de Santa María 3, casco antiguo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (acceso libre; fuente: alicanteturismo.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo de Hogueras (Museu de Fogueres)",
+      "desc": "Museo gratuito sobre la fiesta mayor de Alicante, con los ninots indultados del fuego, carteles, trajes y la historia de las Hogueras.",
+      "detalle": "Si no podés estar en Alicante del 20 al 24 de junio, el Museu de Fogueres es la forma de entender la fiesta. Está en la Rambla de Méndez Núñez y guarda los ninots indultats, las figuras que cada año el público salva de la cremà por votación, además de carteles, fotos, maquetas, trajes tradicionales de las Belleas del Foc y material audiovisual sobre cómo se construye una hoguera.\n\nLas hogueras son monumentos de arte efímero de madera y corcho que pueden medir hasta 12 metros y que se queman la noche del 24 de junio. El museo te muestra el trabajo de los artistas foguers, la sátira social que representan las escenas y la evolución de la fiesta desde 1928, cuando la sociedad Alicante Atracción organizó las primeras Hogueras oficiales.\n\nLa entrada es libre. De octubre a junio abre de martes a viernes de 10 a 13:30 y de 17 a 19:30, y los sábados de 10 a 13:30; los lunes cierra. Es totalmente accesible. La parada de TRAM más cercana es Mercado. Lleva menos de una hora y queda de paso entre el Mercado Central y la Explanada.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Rambla de Méndez Núñez 29, centro; TRAM L1-L4 parada Mercado"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; ideal si no vas en junio"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (entrada libre; fuente: alicante.es, Ayuntamiento de Alicante, página actualizada 07/08/2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa del Postiguet",
+      "desc": "La playa urbana de Alicante, a los pies del castillo y pegada a la Explanada: 900 metros de arena fina con Bandera Azul.",
+      "detalle": "El Postiguet es la playa del centro: sale de la Explanada y se extiende unos 900 metros, con 50 de ancho, bajo el monte Benacantil. Tiene arena dorada y fina, agua tranquila, Bandera Azul y certificado Q de Calidad Turística. Hay duchas lavapiés, hamacas y sombrillas de alquiler, juegos infantiles, aparatos de calistenia, baños públicos y un chiringuito en verano.\n\nPegado a la playa corre el Paseo de Gómiz, con palmeras, bares y un piso de baldosas que da efecto tridimensional. Desde la arena se ve el perfil del Benacantil que los alicantinos llaman 'la cara del moro', porque parece un rostro de perfil. Al otro lado de la avenida está el ascensor al castillo, así que podés combinar playa y fortaleza.\n\nPor ser la playa más céntrica se llena en julio y agosto; si buscás espacio, andá a San Juan. En verano hay servicio de ayuda al baño para personas con movilidad reducida en el acceso 13. Los perros sólo pueden ir del 1 de noviembre al 1 de marzo. Del 25 al 29 de junio, al lado, en la playa del Cocó, se hace el concurso de fuegos artificiales de las Hogueras.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro, junto a la Explanada; TRAM L5 Puerta del Mar o L1-L4 Mercado"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio y septiembre; en verano, temprano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa de San Juan (Platja de Sant Joan)",
+      "desc": "2,9 km de arena fina entre el Cabo de la Huerta y El Campello, más amplia y tranquila que el Postiguet; se llega en TRAM.",
+      "detalle": "La playa de San Juan es la gran playa de Alicante: 2.900 metros de largo y 85 de ancho, de arena dorada y fina, que van desde el Cabo de la Huerta hasta las playas de El Campello. Tiene Bandera Azul, canchas de vóley playa, mini arcos de fútbol, aparatos de calistenia, juegos infantiles y un canal náutico para tabla, windsurf o paddle surf, con alquiler de equipos sin motor.\n\nDetrás corre la avenida de Niza, con bares, heladerías y restaurantes; en verano hay chiringuitos sobre la arena. Es la playa que eligen las familias alicantinas porque hay espacio incluso en agosto. Al sur, el Cabo de la Huerta tiene calas rocosas para quien busca algo más agreste.\n\nSe llega en TRAM, líneas 3, 4 y 5 (la L5 sale de Puerta del Mar, junto al Postiguet), o en colectivo con las líneas 21 y 22. En verano hay asistencia al baño para personas con movilidad reducida en el acceso 10, frente a la oficina de turismo. Llevá sombrilla propia si no querés alquilar: la sombra es escasa.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 7 km al noreste del centro; TRAM L3, L4 y L5"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Junio a septiembre"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Mercado Central de Alicante",
+      "desc": "Mercado modernista de 1921 para comprar salazones, turrón, frutas y pescado de la lonja; ideal para un almuerzo barato.",
+      "detalle": "El Mercado Central ocupa un edificio ecléctico con detalles del modernismo valenciano, construido entre 1917 y 1921 sobre la avenida de Alfonso X el Sabio. Se entra por una gran escalinata, y una rotonda con cúpula marca la esquina. Adentro, tres naves de estructura de acero agrupan los puestos: pescado y marisco abajo, carnes, frutas, verduras, especias y quesos.\n\nEs el lugar para ver qué come Alicante: puestos de salazones (mojama de atún, hueva, bacalao salado), encurtidos, aceitunas, frutos secos y turrón de Jijona y de Alicante. Muchos puestos venden porciones para llevar, y alrededor hay bares para tomar una caña con algo del mercado.\n\nAtrás queda la plaza 25 de Mayo, que recuerda el bombardeo italiano del 25 de mayo de 1938, que mató a más de 300 personas, muchas de ellas en el mercado. Horario: lunes a viernes de 7 a 14:30 y sábados y vísperas de fiesta de 7 a 15 h; los domingos cierra (fuente: Alicante Turismo). Andá de mañana: a mediodía muchos puestos ya levantan. Tiene parada de TRAM (Mercado) en la puerta.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Avenida de Alfonso X el Sabio 10, centro; TRAM L1-L4 parada Mercado"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañanas de lunes a sábado"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (entrada libre al mercado)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Isla de Tabarca (Nova Tabarca)",
+      "desc": "La única isla habitada de la Comunidad Valenciana: pueblo amurallado del siglo XVIII y reserva marina, a una hora en barco.",
+      "detalle": "Tabarca está a unos 22 km de Alicante y a poco más de 4 km del cabo de Santa Pola. Mide unos 1.800 metros de largo y 450 de ancho, y administrativamente es un barrio de Alicante, con 60 habitantes en 2025. En 1770 Carlos III instaló ahí a familias de origen genovés rescatadas de la isla tunecina de Tabarka, y se construyó un pueblo fortificado con murallas, puertas y una iglesia, hoy Conjunto Histórico-Artístico.\n\nDesde 1986 sus fondos son reserva marina, con praderas de posidonia, meros, doradas y pulpos: es uno de los mejores lugares de la costa para hacer snorkel. Alicante Turismo pide llevar boya, no entrar con oleaje y no dar de comer a los peces. Hay una playa principal con socorrismo de 11 a 19 h del 15 de junio al 15 de septiembre.\n\nEl barco de Cruceros Kontiki sale del Paseo Màrtirs de la Llibertat, en el puerto, y tarda alrededor de una hora; el billete es de ida y vuelta con regreso abierto. Fuera del verano hay menos salidas: consultá el horario antes. Llevá agua, gorra y protector: la isla tiene muy poca sombra. Comer arroz o caldero en el pueblo es parte del plan.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "22 km por mar; barco desde el puerto de Alicante (1 hora)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mayo, junio y septiembre"
+        },
+        {
+          "label": "Entrada",
+          "value": "Barco ida y vuelta 24 €; niños de 0 a 4 años gratis (fuente: cruceroskontiki.com, verificado octubre 2026). La isla es de acceso libre"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Hogueras de San Juan (Fogueres de Sant Joan)",
+      "desc": "La fiesta mayor, del 20 al 24 de junio: monumentos satíricos, mascletàs diarias en Luceros y la cremà a medianoche.",
+      "detalle": "Las Hogueras de San Juan son las fiestas oficiales de Alicante y se celebran del 20 al 24 de junio. Nacieron en 1928, cuando la sociedad Alicante Atracción, con José María Py, propuso darle a la vieja costumbre de quemar trastos en San Juan una forma parecida a las Fallas de Valencia. Son Fiesta de Interés Turístico Internacional desde 1983 y Bien de Interés Cultural Inmaterial desde 2014.\n\nLa fiesta arranca con el pregón y la plantà, cuando cada barrio levanta su hoguera: monumentos de madera y corcho de hasta 12 metros, con ninots que satirizan la actualidad. Hay desfiles, la Cabalgata del Ninot y, cada día a las 14 h, una mascletà en la plaza de los Luceros: pólvora que se siente en el pecho. La noche del 24, a medianoche, se queman todas en la Nit de la Cremà, seguida de la banyà, cuando los bomberos mojan al público.\n\nDespués, del 25 al 29 de junio, hay concurso de fuegos artificiales en la playa del Cocó, junto al Postiguet. Ojo: el 24 de junio el castillo cierra. Los hoteles se llenan y suben: reservá con meses de anticipación. Llevá tapones para los oídos a la mascletà.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Toda la ciudad; mascletàs en la plaza de los Luceros"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Del 20 al 24 de junio; fuegos del 25 al 29"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fiesta en la calle)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 5 días"
+        }
+      ]
+    },
+    {
+      "nombre": "Yacimiento de Lucentum (Tossal de Manises)",
+      "desc": "La ciudad íbero-romana origen de Alicante, con muralla, foro y termas, a 3 km del centro y cerca de la playa de la Albufereta.",
+      "detalle": "Lucentum es el corazón de la Alicante antigua. En el Tossal de Manises hubo una ciudad íbera que los romanos tomaron hacia el 201 a. C.; con Augusto llegó a municipio romano y se modernizó con foro, termas públicas, templos y un sistema de alcantarillado. Fue abandonada en el siglo III d. C., cuando el puerto se colmató, y más tarde usada como cantera y como necrópolis islámica entre los siglos VIII y X.\n\nEl yacimiento ocupa 5 hectáreas y conserva el trazado urbano rodeado por una muralla de 600 metros de perímetro. Fue declarado Monumento Histórico-Artístico en 1961 y lo gestiona el MARQ, que organiza visitas guiadas (martes a viernes a las 12 h; sábados a las 12 y 16 h).\n\nHorario del 14/9 al 15/6: martes a sábado de 10 a 14 y de 15:30 a 17:30, domingos y festivos de 10 a 14 h; los lunes cierra. Se llega con la parada de TRAM Lucentum (L3, L4, L5) o el colectivo 9, en la calle Zeus, en La Albufereta. Llevá gorra: hay poca sombra. Si vas a ir al MARQ, sacá la entrada conjunta.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "3 km al noreste del centro, en La Albufereta; TRAM parada Lucentum"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Otoño y primavera; evitá el mediodía en verano"
+        },
+        {
+          "label": "Entrada",
+          "value": "General 3 € (domingos y festivos 1,50 €); gratis menores de 8, desempleados y docentes; incluido en la conjunta MARQ de 8 € (fuente: marqalicante.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Elche y su Palmeral (excursión)",
+      "desc": "A media hora: el palmeral más grande de Europa, Patrimonio de la Unesco desde 2000, con el jardín del Huerto del Cura.",
+      "detalle": "Elche está a unos 20 km de Alicante y guarda el Palmeral de Elche, declarado Patrimonio de la Humanidad por la Unesco el 30 de noviembre de 2000. Son huertos de palmeras datileras dentro de la ciudad, entre 200.000 y 300.000 ejemplares en unas 500 hectáreas: es el palmeral más grande de Europa. Lo organizaron los musulmanes con un sistema de riego heredado de épocas anteriores.\n\nLa visita clásica es el Huerto del Cura, Jardín Artístico Nacional, con la Palmera Imperial, de la que salen varios brazos desde un mismo tronco. Abre todos los días desde las 10 h y cierra al atardecer, con hora distinta cada mes; la entrada incluye audioguía en castellano, valenciano, inglés, francés y alemán. Se paga en taquilla u online.\n\nEn la misma excursión podés pasear por el Parque Municipal, gratis, y ver la Basílica de Santa María de Elche, donde se representa el Misteri d'Elx. Para ir: Cercanías de Renfe línea C-1 desde la estación Alicante-Terminal, unos 30 minutos según el agregador Omio. Si vas con guía, hay excursiones de medio día.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 20 km al suroeste; tren de Cercanías C-1"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Primavera y otoño; en verano andá temprano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Huerto del Cura: adulto 6,80 €; niños 5-15 años 3,80 €; +65 y estudiantes desde 16 años 4,80 €; residentes y desempleados 3,80 € (fuente: huertodelcura.com, tarifas 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo The Ocean Race",
+      "desc": "Museo gratuito de la regata de vuelta al mundo que sale de Alicante, con simulador y la visita al velero Brasil 1.",
+      "detalle": "Alicante es puerto de salida de The Ocean Race desde 2008, y la edición 2027 partirá de acá el 17 de enero, por sexta vez consecutiva, con una primera etapa de 14.000 millas náuticas hasta Auckland. En el Muelle de Levante, al final de la Explanada, funciona el museo de la regata, el único del mundo dedicado a ella según Alicante Turismo.\n\nEl recorrido cuenta más de 50 años de competencia con maquetas, juegos y audiovisuales, y explica la tecnología de los barcos y el trabajo de las tripulaciones, además de la protección de los océanos. La entrada es gratis. Se pagan aparte la experiencia inmersiva (simulador de regata The Ride y realidad virtual a bordo del Malama, ganador de 2023) y la visita guiada, que incluye subir al Brasil 1, el Volvo 70 que corrió la edición 2005-06.\n\nHorario del 9/9 al 24/6: miércoles y jueves de 10 a 16 h, viernes y sábados de 10 a 18 h, domingos de 10 a 14 h; lunes y martes cierra. Antes de la salida de enero de 2027 el puerto se llena con el Ocean Live Park, la villa de la regata.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Muelle de Levante 10, puerto de Alicante, al final de la Explanada"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; enero de 2027 por la salida de la regata"
+        },
+        {
+          "label": "Entrada",
+          "value": "Museo gratis. Experiencia inmersiva 5 € (reducida 3 €); visita guiada 12 € (reducida 6 €); guiada + inmersiva 15 €; menores de 12 gratis en inmersiva y guiada (fuente: alicanteturismo.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Castillo de Santa Bárbara (ascensor y lanzadera)",
+      "precio": "Recinto y MUSA gratis. Ascensor 2,70 € general; gratis para pensionistas jubilados con documento; microbús lanzadera desde Puerta del Mar 1,45 € el trayecto (fuente: alicanteturismo.com, verificado octubre 2026). Ticket del ascensor online en castillosantabarbara.alicante.es o en la base"
+    },
+    {
+      "tipo": "MARQ - Museo Arqueológico",
+      "precio": "General 5 € (domingos y festivos 3 €); reducida 3 € para estudiantes, carné joven, +65 y familias numerosas; gratis menores de 8, desempleados, docentes y personas con discapacidad más un acompañante. Visita guiada +3 €; signoguía 1 € (fuente: marqalicante.com, verificado octubre 2026). En taquilla, efectivo o tarjeta"
+    },
+    {
+      "tipo": "Entrada conjunta MARQ + Lucentum + La Illeta + Torre de Almudaina",
+      "precio": "General 8 €, reducida 6 €, válida 30 días para una visita a cada espacio. Lucentum sola 3 € (domingos y festivos 1,50 €) (fuente: marqalicante.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Concatedral de San Nicolás (visita cultural con torre y cubierta)",
+      "precio": "18-64 años 8 €; +65 7 €; 13-17 años y carné joven o universitario hasta 25 años 6 €; diversidad funcional 6 €; menores de 12 con adulto gratis; audioguía incluida (fuente: alicanteturismo.com, verificado octubre 2026). Venta en reservas.procuratiocultural.com"
+    },
+    {
+      "tipo": "Basílica de Santa María (visita cultural con torre)",
+      "precio": "General (18-64) 6 €; +65 5 €; 13-17 años y carné joven o universitario hasta 25 años 4 €; menores de 12 con adulto gratis; audioguía incluida (fuente: alicanteturismo.com, verificado octubre 2026). Venta en reservas.procuratiocultural.com o taquilla"
+    },
+    {
+      "tipo": "Museo The Ocean Race",
+      "precio": "Museo gratis. Experiencia inmersiva 5 € (reducida 3 €); visita guiada con el Brasil 1 12 € (reducida 6 €); guiada + inmersiva 15 €; menores de 12, personas con discapacidad y desempleados gratis en las experiencias (fuente: alicanteturismo.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Barco a la Isla de Tabarca (Cruceros Kontiki)",
+      "precio": "Ida y vuelta 24 €; niños de 0 a 4 años gratis; regreso abierto (fuente: cruceroskontiki.com, verificado octubre 2026). Compra online o en la taquilla del Paseo Màrtirs de la Llibertat"
+    },
+    {
+      "tipo": "Huerto del Cura (Elche)",
+      "precio": "Adulto 6,80 €; niños 5-15 años 3,80 €; +65 y estudiantes desde 16 años 4,80 €; residentes de Elche, desempleados y personas con discapacidad 3,80 €; audioguía incluida (fuente: huertodelcura.com, tarifas 2026, verificado octubre 2026). Taquilla u online"
+    },
+    {
+      "tipo": "MACA, Museo de Hogueras y MUSA",
+      "precio": "Gratis (acceso libre según alicanteturismo.com y alicante.es)"
+    },
+    {
+      "tipo": "Explanada, Barrio de Santa Cruz y Mercado Central",
+      "precio": "Gratis (espacios públicos)"
+    },
+    {
+      "tipo": "Playas del Postiguet y San Juan",
+      "precio": "Gratis (playas públicas)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Excursión en barco a la Isla de Tabarca con regreso abierto",
+      "precio": "24 € ida y vuelta; niños de 0 a 4 gratis (fuente: cruceroskontiki.com, verificado octubre 2026). Revendido en Civitatis desde 26,92 US$ (fuente: civitatis.com, agregador, verificado octubre 2026)",
+      "duracion": "Travesía de 1 hora por tramo; día completo",
+      "operador": "Cruceros Kontiki (Paseo Màrtirs de la Llibertat, puerto de Alicante)"
+    },
+    {
+      "actividad": "Experiencia guiada + inmersiva en el Museo The Ocean Race (simulador, realidad virtual y velero Brasil 1)",
+      "precio": "15 € general; 6 € reducida; 3 € menores de 12 (fuente: alicanteturismo.com, verificado octubre 2026)",
+      "duracion": "1 a 2 horas",
+      "operador": "Museo The Ocean Race (Muelle de Levante)"
+    },
+    {
+      "actividad": "Visita guiada al yacimiento de Lucentum o al MARQ",
+      "precio": "3 € por persona además de la entrada; gratis menores de 8 (fuente: marqalicante.com, verificado octubre 2026)",
+      "duracion": "1 hora aproximadamente",
+      "operador": "MARQ (Diputación de Alicante)"
+    },
+    {
+      "actividad": "Elche, tres patrimonios de la humanidad: Palmeral, Huerto del Cura, Basílica de Santa María, Museo de la Festa y Museo del Palmeral con guía",
+      "precio": "Desde 67 € por persona; traslados no incluidos (fuente: comunitatvalenciana.com, ficha de experiencia, verificado octubre 2026)",
+      "duracion": "4 horas",
+      "operador": "AvanzaTour (Elche)"
+    },
+    {
+      "actividad": "Experiencia Tierra y Agua en Elche: Huerto del Cura + yacimiento de La Alcudia",
+      "precio": "9 € por persona más recargo de grupo de 60 € (hasta 10 personas) por la visita a La Alcudia; degustación de productos locales 4,50 € aparte (fuente: comunitatvalenciana.com, verificado octubre 2026)",
+      "duracion": "2 a 3 horas",
+      "operador": "Huerto del Cura con la Fundación La Alcudia"
+    },
+    {
+      "actividad": "Extras en el Huerto del Cura: degustación de productos locales y demostración de trepado de palmeras",
+      "precio": "Degustación básica 4,50 € o plus 8,50 €; demostración de trepado 65 €; trenzado de palma blanca 50 €; con reserva previa (fuente: huertodelcura.com, verificado octubre 2026)",
+      "duracion": "30 minutos a 1 hora",
+      "operador": "Huerto del Cura (Elche)"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Colectivo urbano e interurbano TAM (Vectalia)",
+      "precio": "Billete sencillo 1,50 € desde el 1 de octubre de 2026 (antes 1,45 €); Bono Móbilis Multiviaje de 10 viajes 5,40 € con la bonificación vigente (fuente: Ayuntamiento de Alicante, nota del 30/9/2026, verificado octubre 2026)",
+      "duracion": "Variable según línea",
+      "notas": "Las líneas útiles para el visitante: 22 al Cabo de la Huerta y la playa de San Juan, 21 a San Juan y El Campello, 9 a la playa de San Juan y 6 entre la estación de autobuses y Renfe. El sencillo se compra a bordo; los bonos Móbilis, en la oficina TAM. Hasta el 31/12/2026 viajan gratis los menores de hasta 14 años y hay descuentos de hasta 50 % para menores de 31."
+    },
+    {
+      "medio": "TRAM d'Alacant (FGV, líneas L1 a L5 y L9)",
+      "precio": "Billete sencillo del TRAM fuera del ámbito TAM 2 € desde el 1/10/2026 (antes 1,45 €); Bono 10 TRAM 5,40 € (fuente: DSAlicante y El Periòdic sobre la nueva orden tarifaria, verificado octubre 2026). Dentro del área TAM rige el sencillo TAM de 1,50 € (fuente: Ayuntamiento de Alicante, verificado octubre 2026)",
+      "duracion": "Luceros - Plaza La Coruña (San Juan) en menos de media hora",
+      "notas": "La L1 va a Benidorm, la L2 a la Universidad y Sant Vicent, la L3 a El Campello, la L4 y la L5 a la playa de San Juan (la L5 sale de Puerta del Mar, junto al Postiguet). Las tarifas por zonas de los trayectos largos no estaban todas publicadas al cierre: confirmá el importe en la máquina o en la app oficial TRAM d'Alacant antes de viajar."
+    },
+    {
+      "medio": "Abono Móbilis Mensual (ilimitado)",
+      "precio": "35 € por 30 días con viajes ilimitados; Móbilis Mensual Jove 29,75 € (fuente: Ayuntamiento de Alicante, nota del 30/9/2026, verificado octubre 2026)",
+      "duracion": "30 días",
+      "notas": "Nuevo desde el 1 de octubre de 2026. Sirve si te quedás un mes, por ejemplo con una Working Holiday o un curso de español. Se tramita en la oficina TAM de la calle Díaz Moreu 6 (lunes a viernes de 9 a 19 h, sábados de 10 a 13 h)."
+    },
+    {
+      "medio": "Lanzadera del Castillo de Santa Bárbara",
+      "precio": "1,45 € por trayecto, a bordo (fuente: alicanteturismo.com, verificado octubre 2026; la web no indica si se actualiza con la subida de octubre)",
+      "duracion": "Cada 40 minutos",
+      "notas": "Microbús desde la plaza Puerta del Mar con paradas en Postiguet-Pasarela, MARQ-Castillo (TRAM) y plaza del Doctor Gómez Ulla. Pagá con importe justo: el cambio máximo es de 10 €."
+    },
+    {
+      "medio": "Ascensor al castillo",
+      "precio": "2,70 € general; gratis para jubilados con documento (fuente: alicanteturismo.com, verificado octubre 2026)",
+      "duracion": "Un par de minutos por el interior del monte",
+      "notas": "Entrada por la avenida Juan Bautista Lafora, frente al Postiguet. El último ascensor de subida sale 40 minutos antes del cierre del castillo y el de bajada 20 minutos antes. Se recomienda comprar el ticket online."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto Alicante-Elche Miguel Hernández (ALC) → centro en colectivo C6",
+      "empresas": "Vectalia (línea C-6), paradas en Renfe, Alfonso X el Sabio, Luceros, Vázquez de Mella y Puerta del Mar",
+      "precio": "Billete sencillo 4,70 €; mayores de 65 pensionistas 1,05 €; bono 10 viajes 8,10 €; se paga a bordo (fuente: alicanteturismo.com, transporte público, verificado octubre 2026)",
+      "duracion": "Unos 12 km; el tiempo depende del tráfico y de las obras (hay desvíos en sentido aeropuerto - Alicante)"
+    },
+    {
+      "ruta": "Madrid → Alicante en tren de alta velocidad",
+      "empresas": "Renfe (AVE y Avlo), Iryo y Ouigo; llegan a la estación Alicante-Terminal (avenida de Salamanca)",
+      "precio": "Variable según operador y anticipación. Ouigo anunciaba en su web billetes 'desde 9 €' en su campaña de septiembre de 2026 sin detallar trayecto (fuente: ouigo.com, verificado octubre 2026): buscá Madrid - Alicante en renfe.com, iryo.eu y ouigo.com",
+      "duracion": "Unas 2 h 15 min (fuente: Wikipedia, dato de contexto)"
+    },
+    {
+      "ruta": "Alicante → Elche en tren de Cercanías",
+      "empresas": "Renfe Cercanías Murcia/Alicante, línea C-1 desde Alicante-Terminal",
+      "precio": "Desde unos 3 € el billete sencillo (fuente: Omio, agregador, verificado octubre 2026); confirmá la tarifa en la app de Renfe",
+      "duracion": "Unos 30 minutos"
+    },
+    {
+      "ruta": "Benidorm o Dénia → Alicante en TRAM",
+      "empresas": "FGV - TRAM d'Alacant, líneas L1 (Benidorm - Luceros) y L9 (Dénia - Benidorm)",
+      "precio": "Billete sencillo fuera del ámbito TAM 2 € desde el 1/10/2026 (fuente: DSAlicante, verificado octubre 2026); la tarifa por zonas del trayecto completo no estaba publicada al cierre, consultala en la máquina",
+      "duracion": "Benidorm - Alicante alrededor de 1 h 15 min"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Hostales y pensiones económicas",
+      "nivel": 2,
+      "opciones": "Hostal El Paraíso (La Albufereta) desde 44 €, Pensión Plaza América desde 55 €, Old Center Inn (Barrio de Santa Cruz) e ibis budget desde 63 € la noche (fuente: Kayak, fechas 17-18 de octubre, verificado octubre 2026). Kayak marca Old Town La Estación desde 45 € como mejor relación calidad-precio. En julio y en Hogueras los precios suben mucho"
+    },
+    {
+      "categoria": "Hoteles medios en el centro",
+      "nivel": 3,
+      "opciones": "Hotel Eden Mar desde 62 €, Travelodge Alicante Puerto desde 82 €, Estudiotel desde 91 € y B&B Hotel Alicante Centro desde 117 € la noche (fuente: Kayak, fechas 17-18 de octubre, verificado octubre 2026). Según la misma fuente, el precio medio de una doble en Alicante es de 153 € y el centro promedia 135 €"
+    },
+    {
+      "categoria": "Hoteles superiores y boutique (centro y San Juan)",
+      "nivel": 4,
+      "opciones": "Occidental Alicante desde 129 €, Les Monges Palace Boutique (casco antiguo) desde 133 €, Eurostars Lucentum desde 149 € y Port Alicante City & Beach (playa de San Juan) desde 155 € la noche (fuente: Kayak, fechas 17-18 de octubre, verificado octubre 2026). Kayak calcula unos 235 € la noche de media para un 4 estrellas"
+    },
+    {
+      "categoria": "Lujo frente al mar y el castillo",
+      "nivel": 5,
+      "opciones": "Hospes Amérigo (calle Rafael Altamira, a 400 m del Postiguet) desde 291 €, Meliá Alicante desde 311 € e INNSiDE by Meliá Porta Maris, sobre el puerto, desde 331 € la noche (fuente: Kayak, fechas 17-18 de octubre, verificado octubre 2026). Kayak da 349 € de media para un 5 estrellas; enero es el mes más barato"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Tapas, salazones y vinos en el centro",
+      "nivel": 2,
+      "opciones": "Las salazones (mojama de atún, hueva, bacalao) y las tapas son la forma más barata de comer bien. La Taberna del Gourmet, con más de 10.000 opiniones, figura en la franja de 20-30 € por persona (fuente: Gastroranking, reseñas de abril 2026, agregador, verificado octubre 2026). Para algo aún más barato, comprá salazones y turrón en el Mercado Central"
+    },
+    {
+      "tipo": "Arroz al horno y clásicos de barra",
+      "nivel": 3,
+      "opciones": "En la barra de Nou Manolín (calle Restaurador Vicente Castelló 3), casa de 1971, la carta marca el arroz al horno a 16 € (viernes a domingo), el buñuelo de bacalao a 4,70 € la unidad y la lama de mojama a 5,50 €, IVA incluido (fuente: carta publicada de Grupo Gastronou, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Arroces marineros y fideuá",
+      "nivel": 4,
+      "opciones": "El plato alicantino por excelencia: arroz seco, meloso o negro y fideuá. En Nou Manolín y en Piripi (avenida Óscar Esplá 30) los arroces van de 26 a 33 € en carta, con mínimo de 2 personas, por ejemplo con salmonete de la lonja de Santa Pola y gambas (fuente: carta publicada de Grupo Gastronou, verificado octubre 2026). Nou Vivaldi, de pulpo y fideuá, figura en la franja de 45-60 € (fuente: Gastroranking, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Menú degustación de cocina mediterránea",
+      "nivel": 5,
+      "opciones": "Para una cena especial, Tabula Rasa ofrece un menú degustación de seis platos por 49 € según una reseña de abril de 2026, con paella en paellera individual (fuente: Gastroranking, reseñas, agregador, verificado octubre 2026). Reservá con anticipación: es un local pequeño"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa, EES o ETIAS para ir a Alicante desde Latinoamérica?",
+      "a": "Con pasaporte argentino, uruguayo, chileno, mexicano, colombiano o peruano no necesitás visa para turismo de hasta 90 días dentro de cualquier período de 180 en el espacio Schengen. En el primer país Schengen donde aterrices (muchas veces Madrid o Barcelona, si hacés escala) te registran con el EES, el Sistema de Entradas y Salidas: huellas y foto en lugar del sello. El ETIAS, la autorización online que se va a cobrar, todavía no se exige en octubre de 2026 y su arranque se corrió sin fecha firme. Llevá pasaje de vuelta, reserva de alojamiento, seguro médico y fondos. Si tenés otra nacionalidad, confirmá en el consulado de España."
+    },
+    {
+      "q": "¿Cómo voy del aeropuerto al centro de Alicante?",
+      "a": "La forma más barata es el colectivo C6 de Vectalia, que sale de la zona de salidas del aeropuerto Alicante-Elche y para en la estación de Renfe, Alfonso X el Sabio, la plaza de los Luceros, Vázquez de Mella (enlace con el TRAM) y Puerta del Mar. El billete sencillo cuesta 4,70 € y se paga a bordo; los mayores de 65 pensionistas pagan 1,05 € y hay bono de 10 viajes por 8,10 € (fuente: Alicante Turismo, octubre 2026). Llevá el importe justo: el cambio máximo es de 10 €. Funciona todos los días del año. El aeropuerto está a unos 12 km. Si llegás tarde o con mucho equipaje, en la salida hay parada de taxis."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse?",
+      "a": "Con tres días ves lo esencial, que es lo que propone la oficina de turismo: un día para el castillo, el casco antiguo, la Concatedral, Santa María y el MACA; otro para la Explanada, el Postiguet, el Mercado Central y el MARQ; y un tercero para la Isla de Tabarca. Con cinco días sumás una tarde en la playa de San Juan, el yacimiento de Lucentum y una excursión a Elche para el Palmeral y el Huerto del Cura. Si querés usar Alicante como base, el TRAM te lleva a El Campello, Benidorm y, con transbordo, a Altea y Dénia."
+    },
+    {
+      "q": "¿Cuánto cuesta moverse en transporte público?",
+      "a": "Desde el 1 de octubre de 2026 el billete sencillo del colectivo TAM cuesta 1,50 € y el Bono Móbilis de 10 viajes 5,40 € con la bonificación vigente; hay un abono nuevo ilimitado de 30 días por 35 € (29,75 € para jóvenes), según el Ayuntamiento. El sencillo del TRAM fuera del ámbito TAM pasó a 2 €. Hasta el 31 de diciembre de 2026 los menores de hasta 14 años viajan gratis. Para el castillo, el ascensor cuesta 2,70 € y la lanzadera 1,45 €. Los precios de tramos largos del TRAM por zonas no estaban todos publicados: mirá la máquina antes de comprar."
+    },
+    {
+      "q": "¿Es seguro Alicante?",
+      "a": "Alicante es una ciudad tranquila para el estándar europeo, pero tiene los problemas de cualquier destino con mucho turismo y cruceros: robos al descuido en la Explanada, la playa del Postiguet, el Mercado y el transporte. No dejes el celular ni la billetera en la toalla, llevá la mochila adelante en el TRAM lleno y usá cajeros dentro de bancos. En Hogueras hay multitudes y pólvora: cuidá a los chicos y usá tapones en la mascletà. En otoño puede haber tormentas fuertes con alerta naranja: seguí los avisos, porque el castillo y otros espacios cierran. En verano, tomá agua y evitá el sol del mediodía."
+    },
+    {
+      "q": "¿Hay que pagar tasa turística en Alicante?",
+      "a": "No. En octubre de 2026 los alojamientos de la Comunitat Valenciana no cobran tasa turística: el impuesto creado por la ley 7/2022 se derogó en 2023 antes de que empezara a aplicarse, como ya explicamos en la ficha de Benidorm. Si en tu reserva aparece un cargo extra, es una tarifa del alojamiento y no un impuesto oficial. Lo que sí conviene es mirar si el precio incluye el IVA y la limpieza en departamentos turísticos. Esto puede cambiar si cambia el gobierno regional, así que revisalo antes de reservar."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Alicante»: https://es.wikipedia.org/wiki/Alicante",
+      "Wikipedia (ES) — «Castillo de Santa Bárbara»: https://es.wikipedia.org/wiki/Castillo_de_Santa_B%C3%A1rbara",
+      "Wikipedia (ES) — «Hogueras de Alicante»: https://es.wikipedia.org/wiki/Hogueras_de_Alicante",
+      "Wikipedia (ES) — «Isla de Tabarca»: https://es.wikipedia.org/wiki/Isla_de_Tabarca",
+      "Wikipedia (ES) — «Palmeral de Elche»: https://es.wikipedia.org/wiki/Palmeral_de_Elche",
+      "Wikipedia (ES) — «Mercado Central de Alicante»: https://es.wikipedia.org/wiki/Mercado_Central_de_Alicante",
+      "Wikidata — «Alicante (población INE)»: https://www.wikidata.org/wiki/Q11959"
+    ],
+    "que_ver_atracciones": [
+      "Alicante Turismo — «Castillo de Santa Bárbara»: https://alicanteturismo.com/castillo-de-santa-barbara/",
+      "Alicante Turismo — «Museo de la Ciudad de Alicante MUSA»: https://alicanteturismo.com/museos/museo-de-la-ciudad-de-alicante-musa/",
+      "Alicante Turismo — «Museo Arqueológico Provincial MARQ»: https://alicanteturismo.com/museos/museo-arqueologico-provincial-de-alicante/",
+      "Alicante Turismo — «Museo de Arte Contemporáneo MACA»: https://alicanteturismo.com/museos/museo-de-arte-contemporaneo-de-alicante-maca/",
+      "Alicante Turismo — «Yacimiento arqueológico Lucentum»: https://alicanteturismo.com/museos/yacimiento-arqueologico-lucentum/",
+      "Alicante Turismo — «Museo The Ocean Race»: https://alicanteturismo.com/museos/museo-the-ocean-race/",
+      "Alicante Turismo — «Basílica de Santa María»: https://alicanteturismo.com/monumentos/basilica-de-santa-maria/",
+      "Alicante Turismo — «Concatedral de San Nicolás»: https://alicanteturismo.com/monumentos/concatedral-de-san-nicolas/",
+      "Alicante Turismo — «Barrio de Santa Cruz»: https://alicanteturismo.com/monumentos/barrio-de-santa-cruz/",
+      "Alicante Turismo — «Hogueras de San Juan»: https://alicanteturismo.com/fiestas/hogueras-de-san-juan/",
+      "Alicante Turismo — «Playa del Postiguet»: https://alicanteturismo.com/playas/playa-del-postiguet/",
+      "Alicante Turismo — «Playa de San Juan»: https://alicanteturismo.com/playas/playa-de-san-juan/",
+      "Alicante Turismo — «Isla de Tabarca»: https://alicanteturismo.com/isla-de-tabarca/",
+      "Alicante Turismo — «Alicante en 3 días»: https://alicanteturismo.com/alicante-en-3-dias/",
+      "Alicante Turismo — «Las visitas al Castillo de Santa Bárbara aumentan un 27%»: https://alicanteturismo.com/noticias/las-visitas-al-castillo-de-santa-barbara-aumentan-un-27-y-las-previsiones-son-superar-el-millon-por-primera-vez-este-ano/",
+      "Alicante Turismo — «The Ocean Race se vuelca de lleno en la sexta salida desde Alicante»: https://alicanteturismo.com/noticias/the-ocean-race-se-vuelca-de-lleno-en-la-sexta-salida-desde-alicante-del-proximo-17-de-enero/",
+      "Ayuntamiento de Alicante — «Museu de Fogueres»: https://www.alicante.es/es/equipamientos/museu-fogueres"
+    ],
+    "precios_2026": [
+      "MARQ — «Tarifas»: https://www.marqalicante.com/Paginas/es/PRECIOS-P60-M2.html",
+      "Huerto del Cura — «Horarios, tarifas y servicios»: https://huertodelcura.com/visitas/",
+      "Cruceros Kontiki — «Tabarca: precios»: https://cruceroskontiki.com/",
+      "Civitatis — «Ferry a la isla de Tabarca»: https://www.civitatis.com/es/alicante/ferry-isla-tabarca/",
+      "Turisme Comunitat Valenciana — «Elche, tres patrimonios de la Humanidad»: https://www.comunitatvalenciana.com/es/alacant-alicante/elx-elche/experiencias/elche-tres-patrimonios-de-la-humanidad",
+      "Turisme Comunitat Valenciana — «Experiencia Tierra y Agua Elche»: https://www.comunitatvalenciana.com/es/alacant-alicante/elx-elche/experiencias/experiencia-tierra-y-agua-elche"
+    ],
+    "como_llegar_transporte": [
+      "Alicante Turismo — «Transporte público»: https://alicanteturismo.com/transporte-publico/",
+      "Alicante Turismo — «Cómo llegar a Alicante»: https://alicanteturismo.com/como-llegar-a-alicante/",
+      "Ayuntamiento de Alicante — «Alicante estrena bonos Móbilis y Móbilis Jove con viajes mensuales ilimitados»: https://www.alicante.es/es/node/49760",
+      "DSAlicante — «El bus y el TRAM de Alicante cambian sus precios desde hoy»: https://dsalicante.com/movilidad/nuevos-precios-tam-tram-alicante-octubre-2026/",
+      "El Periòdic — «Las tarifas del TRAM de Castellón y Alicante cambian desde mañana»: https://www.elperiodic.com/tarifas-tram-castellon-alicante-cambian-desde-manana-subidas-descuentos-nuevos-abonos-ilimitados_1095485",
+      "GetTransfer blog — «Alicante Airport to the City: C6 Stops, Fares and Night Arrivals»: https://blog.gettransfer.com/top-5-ways-to-get-from-alicante-airport-to-alicante-city-center",
+      "Wikipedia (ES) — «Estación de Alicante-Terminal»: https://es.wikipedia.org/wiki/Estaci%C3%B3n_de_Alicante-Terminal",
+      "Ouigo — «Billetes desde 9 €»: https://www.ouigo.com/es/",
+      "Omio — «Trenes Elche a Alicante con Cercanías»: https://www.omio.es/trenes/elche/alicante"
+    ],
+    "alojamiento_gastronomia": [
+      "Kayak — «Hoteles en Alicante»: https://www.kayak.es/Hoteles-en-Alicante.20171.hotel.ksp",
+      "Gastroranking — «Los mejores restaurantes en Alicante»: https://gastroranking.es/restaurantes/alicante/alicante/",
+      "Grupo Gastronou — «Restaurante Nou Manolín»: https://grupogastronou.com/nou-manolin/",
+      "Grupo Gastronou — «Carta Nou Manolín»: https://cartas.grupogastronou.com/s/1",
+      "Grupo Gastronou — «Restaurante Piripi»: https://grupogastronou.com/piripi/"
+    ],
+    "visados_seguridad": [
+      "Euronews — «ETIAS: tras el caos del EES se retrasa el nuevo permiso europeo de viaje»: https://es.euronews.com/travel/2026/07/08/etias-tras-el-caos-del-ees-se-retrasa-el-nuevo-permiso-europeo-de-viaje-de-20",
+      "Chekin — «Tasa turística Valencia: situación 2026»: https://chekin.com/blog/tasa-turistica-valencia/"
+    ]
+  }
+}
