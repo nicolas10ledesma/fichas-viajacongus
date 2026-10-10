@@ -1,0 +1,601 @@
+{
+  "slug": "ixtapa-zihuatanejo",
+  "name": "Ixtapa Zihuatanejo",
+  "region": "Guerrero",
+  "lat": 17.6434,
+  "lon": -101.5521,
+  "datosRapidos": [
+    {
+      "label": "Estado",
+      "value": "Ixtapa Zihuatanejo (Guerrero, México) es un destino doble sobre la costa del Pacífico, en la región de la Costa Grande, sobre la carretera federal 200 que va de Acapulco a Lázaro Cárdenas. Son dos lugares distintos separados por pocos kilómetros dentro del mismo municipio, Zihuatanejo de Azueta. Zihuatanejo es el pueblo pesquero de siempre: una bahía cerrada con lanchas, mercado, calles en pendiente y playas como La Ropa y Las Gatas. Ixtapa es lo contrario: un polo turístico planificado por el Estado mexicano desde fines de los años sesenta, con zona hotelera frente al mar abierto, marina, campos de golf y una ciclopista de casi 25 km. El municipio tenía 126.001 habitantes en el Censo 2020 del INEGI; la ciudad de Zihuatanejo, 70.760, y la localidad de Ixtapa, 13.806. Se lo conoce por sus playas de agua calma dentro de la bahía, por la pesca deportiva de pez vela y marlín, por las tiritas de pescado (un plato que nació en esta zona) y por la Isla Ixtapa, a diez minutos en lancha. Ojo: está en Guerrero, un estado con alertas de viaje; mirá la sección de seguridad antes de planificar."
+    },
+    {
+      "label": "Ciudad de servicio",
+      "value": "Zihuatanejo concentra los servicios: Terminal Central de Autobuses, mercado municipal, bancos y el muelle de donde salen las lanchas a Las Gatas y la pesca deportiva. El Aeropuerto Internacional de Ixtapa-Zihuatanejo (ZIH), operado por OMA, queda al sureste de la ciudad y movió 400.478 pasajeros entre enero y agosto de 2026. Ixtapa tiene los grandes hoteles, la marina y la ciclopista. Entre ambos corren urvans (combis) por MX$ 21 y taxis con tarifa fija."
+    },
+    {
+      "label": "Visado",
+      "value": "Argentinos y uruguayos entran sin visa como turistas; chilenos y colombianos también, según los consulados de México. Peruanos y ecuatorianos necesitan visa consular. Brasileños necesitan visa, pero desde el 5 de febrero de 2026 pueden pedir una visa electrónica (US$ 10, 180 días, una entrada) si llegan en avión. Quien tenga visa vigente de EE. UU., Canadá, Reino Unido, Japón o Schengen queda exento. Estancia máxima como turista: 180 días."
+    },
+    {
+      "label": "Mejor época",
+      "value": "La temporada seca va de noviembre a mayo: poca lluvia, mar calmo y la mayor cantidad de gente. De junio a octubre es la época húmeda, con más lluvia y precios más bajos. Según Kayak, noviembre es el mes en que más suben los hoteles y febrero-marzo los más baratos de la temporada seca. La liberación de tortugas va de agosto a marzo."
+    }
+  ],
+  "intro": [
+    "Pocos lugares de México ofrecen dos viajes en uno a quince minutos de distancia. Zihuatanejo es una bahía con pueblo de verdad: pescadores que descargan a las siete de la mañana, señoras que venden chilate (una bebida de cacao y arroz) junto al mercado, lanchas que cruzan a Las Gatas por cien pesos. Ixtapa, en cambio, es una zona hotelera trazada a regla, con ciclopista, marina y playas largas de mar abierto. Podés dormir en uno y pasar el día en el otro con un boleto de urvan de MX$ 21.",
+    "Lo que más vale acá es gratis o casi: Playa La Ropa, con agua calma y bandera azul; el Paseo del Pescador al atardecer; la ciclopista de casi 25 km entre la Marina de Ixtapa y Playa Linda; el estero con cocodrilos que se ven desde un mirador. Lo que se paga también es barato si lo hacés por tu cuenta: la lancha a Isla Ixtapa, el snorkel en el arrecife de Las Gatas o un plato de tiritas de pescado, el ceviche en tiras que nació en esta costa.",
+    "Hay que decirlo claro: Ixtapa Zihuatanejo está en Guerrero, y los gobiernos de EE. UU., Canadá y Reino Unido tienen advertencias para ese estado. Canadá y Reino Unido exceptúan a Ixtapa y Zihuatanejo siempre que llegues en avión. Por eso esta ficha recomienda volar al aeropuerto ZIH y moverte dentro de la zona turística. Con esa precaución, ofrece playas para nadar, pesca deportiva, naturaleza a mano y comida de mar honesta a precios de pueblo."
+  ],
+  "historia_corta": "La costa de Zihuatanejo estuvo habitada mucho antes de los españoles. Cerca, en Soledad de Maciel, el INAH estudia la antigua Xihuacan, con ocupación desde el Preclásico y apogeo entre 650 y 950 d. C. El origen del pueblo se asocia con Cihuatlán, un asentamiento cuitlateco que los mexicas sometieron a tributo en 1497. El nombre se suele traducir del náhuatl como 'lugar de mujeres'. En 1527 Hernán Cortés armó en esta bahía tres naves que zarparon el 31 de octubre al mando de Álvaro de Saavedra Cerón rumbo a Filipinas; sólo La Florida llegó a destino. Durante siglos Zihuatanejo fue apenas un puerto de pescadores. En 1811 pasó a depender de Tecpan, en 1824 del Estado de México y en 1849 del nuevo estado de Guerrero. El 23 de diciembre de 1953 se creó el municipio de José Azueta. El gran cambio llegó con el turismo planificado. En 1968 el Banco de México creó un fondo para desarrollar nuevos destinos de playa y Ixtapa, sobre antiguos cocotales y esteros, fue uno de los elegidos. La obra empezó en 1970, en 1971 se armó el fideicomiso federal y en 1974 abrió el primer hotel y el centro comenzó a operar formalmente. En 1976 se inauguraron el aeropuerto internacional y el campo de golf Palma Real. En 2008 el Congreso de Guerrero rebautizó el municipio como Zihuatanejo de Azueta. Hoy tiene 126.001 habitantes (INEGI 2020) y en 2026 su aeropuerto crece a doble dígito, aunque las alertas de viaje sobre Guerrero siguen pesando en la llegada de extranjeros.",
+  "queVer": [
+    {
+      "nombre": "Isla Ixtapa",
+      "desc": "Isla protegida a diez minutos en lancha de Playa Linda, con cuatro playas chicas, agua calma y buen snorkel en Playa Coral.",
+      "detalle": "La Isla Ixtapa es la excursión clásica del destino y se puede hacer sin agencia. Las lanchas salen del muelle de Playa Linda, en el extremo norte de Ixtapa, y el cruce dura unos diez minutos.\n\nLa isla tiene varias playas pequeñas. Cuachalalate es la más concurrida, con agua quieta y restaurantes de pescado; su nombre viene de un árbol medicinal de la zona. Varadero tiene enramadas de comida. Playa Coral es la mejor para snorkel, con un arrecife rocoso lleno de peces de colores. Sacrificio es chiquita y no tiene comercios. Según la oficina de turismo, en la isla viven más de cien venados; también hay iguanas, mapaches y muchas aves.\n\nSe recorre caminando de punta a punta, así que llevá calzado cómodo. Hay restaurantes y vendedores en la isla, pero varias guías advierten que los precios son más altos que en tierra firme, así que llevá agua y algo de comer.\n\nCómo llegar: urvan Centro–Ixtapa–Playa Linda (MX$ 21) o taxi desde el centro de Zihuatanejo (MX$ 130). Conviene ir temprano y volver antes de que dejen de salir lanchas por la tarde.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Lancha de 10 minutos desde el muelle de Playa Linda, en el norte de Ixtapa"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mar más calmo en temporada seca (noviembre a mayo)"
+        },
+        {
+          "label": "Entrada",
+          "value": "Lancha ida y vuelta desde el muelle de Playa Linda: MX$ 100 por persona según la cooperativa náutica Vida Sana (nota de ixtapayzihuatanejo.com del 26/03/2024; la web oficial de turismo todavía dice ~MX$ 60; consultado octubre 2026). Sin tarifa 2026 publicada: confirmala en el muelle y llevá efectivo"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa La Ropa",
+      "desc": "La playa más linda de la bahía de Zihuatanejo: arena clara, agua tranquila para nadar, bandera azul y restaurantes sobre la arena.",
+      "detalle": "Playa La Ropa está dentro de la bahía de Zihuatanejo, al sur del centro, y es la favorita para nadar porque el oleaje es suave. Tiene certificación Blue Flag (bandera azul), que exige estándares de calidad de agua, servicios y educación ambiental, y la oficina de turismo destaca que Tripadvisor la ubicó entre las mejores playas de México.\n\nEl nombre tiene historia: según la tradición, en la época colonial naufragó frente a esta costa un barco cargado de telas finas, y la marea trajo a la playa muselinas, listones, rebozos y medias venidas de Asia.\n\nSe puede caminar de punta a punta, alquilar tabla de stand up paddle o pasar el día en los restaurantes de la arena. Al atardecer el cielo se tiñe de rosa sobre la bahía.\n\nCómo llegar: urvan Centro–La Ropa por MX$ 14 o taxi desde el centro por MX$ 70 a 80 según el extremo de la playa (tarifas vigentes desde el 23 de abril de 2026). Es la zona de hoteles boutique, así que también es buena base para dormir.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Dentro de la bahía de Zihuatanejo, a pocos minutos en urvan o taxi del centro"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; el atardecer es el mejor momento"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día a día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa Las Gatas",
+      "desc": "Playa protegida por un arrecife de piedra en la bahía de Zihuatanejo, ideal para snorkel de principiantes. Se llega en lancha.",
+      "detalle": "Las Gatas está en el extremo sur de la bahía de Zihuatanejo y su gracia es una barrera de rocas que frena las olas del Pacífico y deja el agua mansa, casi como una pileta. La leyenda local dice que esa barrera la mandó construir el rey tarasco Calzontzin. El nombre viene de un tiburón inofensivo (tiburón gata) que vivía en la zona y que desapareció hace años.\n\nPor el agua calma es un buen lugar para hacer snorkel por primera vez, y la oficina de turismo la recomienda para buceo libre y con tanque de cualquier nivel. Hay enramadas con comida local a lo largo de la playa.\n\nCómo llegar: la forma habitual es en lancha desde el muelle principal de Zihuatanejo, junto a la Playa Principal; el cruce tarda unos diez minutos. Las lanchas salen desde las 8 de la mañana y la última vuelta suele ser a las 18; algunos viajeros cuentan que empiezan a regresar desde las 15, así que preguntá la hora del último bote al comprar.\n\nSi querés ir con guía y equipo incluido, hay tours de snorkel de unas cuatro horas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Lancha de 10 minutos desde el muelle de Zihuatanejo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañanas con el agua más clara"
+        },
+        {
+          "label": "Entrada",
+          "value": "Lancha ida y vuelta desde el muelle de Zihuatanejo: MX$ 100 por persona (tarifa de la cooperativa desde el 25/03/2024 según ixtapayzihuatanejo.com; una reseña de Tripadvisor de febrero 2026 confirma MX$ 100; verificado octubre 2026). La playa es gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Paseo del Pescador, Playa Principal y muelle",
+      "desc": "El corazón de Zihuatanejo: malecón sobre la bahía, mercado de pescadores al amanecer, lanchas y puestos de chilate junto al mercado.",
+      "detalle": "El Paseo del Pescador es el malecón peatonal que bordea la Playa Principal (o Playa Municipal) de Zihuatanejo. En un extremo está el muelle, de donde salen las lanchas a Las Gatas, los paseos por la bahía y la pesca deportiva; en el otro, el Museo Arqueológico de la Costa Grande.\n\nLo mejor es llegar muy temprano. Hacia las siete de la mañana los pescadores venden en la arena lo que acaban de sacar, y la oficina de turismo recomienda ese horario para ver el movimiento. Cerca del mercado, mujeres de la zona venden chilate, la bebida tradicional de cacao y arroz de la Costa Grande.\n\nEn el Mercado Municipal hay decenas de artesanos con productos de palma (canastas, bolsas y sombreros), típicos de la región. Sobre el paseo y las calles de atrás hay restaurantes de mariscos para todos los bolsillos, como La Sirena Gorda, en el número 90, famosa por sus tacos de pescado.\n\nAl atardecer el paseo se llena de familias locales. Es gratis y se recorre a pie desde cualquier hotel del centro.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Zihuatanejo, frente a la Playa Principal"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Temprano (7 h) para el mercado de pescadores; atardecer para pasear"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo Arqueológico de la Costa Grande",
+      "desc": "Museo municipal chico y barato sobre la historia prehispánica y colonial de esta costa de Guerrero, al final del Paseo del Pescador.",
+      "detalle": "El Museo Arqueológico de la Costa Grande está en el extremo sur de la Playa Principal, sobre el Paseo del Pescador. Tiene seis salas dedicadas a la arqueología y la historia de este tramo de la costa de Guerrero, con piezas que muestran contactos con culturas como la olmeca y la tolteca.\n\nNo es un museo grande, pero sirve para entender que Zihuatanejo no nació con el turismo. Es un buen complemento de la visita a la zona arqueológica de Soledad de Maciel, a una hora de distancia.\n\nHorario según la ficha municipal y el reglamento del museo publicado en 2025: martes a domingo de 10 a 18 h; los lunes cierra. El reglamento aclara que los horarios pueden cambiar y que los descuentos para estudiantes y adultos mayores se rigen por la ley de ingresos municipal, con credencial vigente o tarjeta INAPAM.\n\nLa entrada es simbólica, así que conviene combinarlo con el paseo matinal por el mercado y el muelle.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Extremo sur del Paseo del Pescador, centro de Zihuatanejo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; buena opción en días de lluvia"
+        },
+        {
+          "label": "Entrada",
+          "value": "MX$ 10 general; menores de 12 gratis; grupos escolares mitad de precio (fuente: ficha de visitas del Museo, zihuatanejodeazueta.gob.mx, 2023; consultado octubre 2026). Puede haber cambiado: confirmá en taquilla"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Ciclopista de Ixtapa",
+      "desc": "Casi 25 km de ciclovía entre la Marina de Ixtapa y Playa Linda, pasando por la reserva ecológica Aztlán y un mirador.",
+      "detalle": "La ciclopista es uno de los atractivos que la propia oficina de turismo pone primero, y es gratis. Son casi 25 kilómetros que arrancan en la Marina de Ixtapa, en la zona hotelera, atraviesan el Parque Ecológico Aztlán y terminan en Playa Linda. Está prevista su conexión con el Paseo del Pescador para unir Ixtapa y Zihuatanejo.\n\nPara quien pedalea con más experiencia, dentro del Parque Aztlán hay un sendero de montaña de 6 km. En el kilómetro 5 sale un desvío y desde ahí un camino de unos 2 km lleva al Mirador de Playa Linda.\n\nSi no llevás bici, se alquilan en Ixtapa y algunos hoteles las prestan o rentan en recepción; no encontramos una tarifa publicada, así que preguntá antes. Salí temprano para evitar las horas de más calor y llevá agua.\n\nUna buena idea es combinarla con Playa Linda: pedaleás hasta el final, mirás los cocodrilos del estero y cruzás en lancha a Isla Ixtapa.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Desde la Marina de Ixtapa hasta Playa Linda"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Temporada seca, temprano por la mañana"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 4 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Playa Linda y el estero de los cocodrilos",
+      "desc": "Playa larga de mar abierto al norte de Ixtapa, con un estero cercado donde se ven cocodrilos desde un mirador y el muelle a la isla.",
+      "detalle": "Playa Linda está al norte de Ixtapa, pasando Playa Quieta, y tiene alrededor de un kilómetro de largo. Es mar abierto, con oleaje fuerte: hay escuelas de surf para principiantes y se hacen torneos, pero no es la mejor playa para nadar con chicos.\n\nEn la entrada hay un estero natural cercado y protegido donde viven cocodrilos. Se observan desde un mirador, sin pagar y sin acercarse. No los alimentes ni te metas en el agua del estero. Es el famoso 'cocodrilario' que mencionan todos los viajeros, aunque en realidad es un hábitat natural y no un criadero.\n\nAhí mismo está el muelle de donde salen las lanchas a Isla Ixtapa, así que lo habitual es ver los cocodrilos y cruzar. Si venís pedaleando, la ciclopista desde el Parque Ecológico Aztlán termina en el acceso a la playa.\n\nCómo llegar: urvan Centro–Ixtapa–Playa Linda (MX$ 21) o taxi desde el centro de Zihuatanejo por MX$ 130 (tarifa fija vigente desde el 23 de abril de 2026).",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Norte de Ixtapa; taxi desde el centro de Zihuatanejo MX$ 130"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañanas para ver los cocodrilos al sol"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública y mirador del estero)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas, más si cruzás a la isla"
+        }
+      ]
+    },
+    {
+      "nombre": "Barra de Potosí y su laguna",
+      "desc": "Pueblo de pescadores al sur del aeropuerto con una laguna de manglar llena de aves y una playa larga con enramadas de pescado.",
+      "detalle": "La Barra de Potosí es un pueblito de pescadores a unos 20 minutos en auto al sur del aeropuerto de Ixtapa-Zihuatanejo. La gracia es su laguna, separada del mar por una barra de arena y rodeada de manglar rojo, negro y botón, donde viven cientos de aves: garzas blancas, garcetas azules y cigüeñas, entre otras. La oficina de turismo la incluye entre sus visitas recomendadas para avistamiento de aves.\n\nSe puede recorrer la laguna en lancha o en kayak, y hay operadores que suman cabalgata por Playa Larga.\n\nCómo llegar: no hay una línea de urvan directa publicada. El taxi desde el centro de Zihuatanejo no tiene tarifa oficial; el portal local ZihuaRob estima unos MX$ 480, así que acordá el precio antes. Otra opción es un tour con traslado incluido.\n\nEl campamento tortuguero Ayotlcalli también trabaja en esta franja de costa, entre Playa Blanca, Playa Larga y Barra de Potosí.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 20 minutos en auto al sur del aeropuerto ZIH"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Temporada seca; temprano para ver aves"
+        },
+        {
+          "label": "Entrada",
+          "value": "Pueblo y playa gratis. Tour en lancha por la laguna + cabalgata: MX$ 2.500 por persona (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día a día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Troncones",
+      "desc": "Pueblo de playa tranquilo al noroeste de Ixtapa, con olas para surfistas, casas de vacaciones y restaurantes de mariscos sencillos.",
+      "detalle": "Troncones es un pueblo costero poco desarrollado, unos 32 km al noroeste de Zihuatanejo, ya en el municipio de La Unión. La oficina de turismo calcula unos 20 minutos de camino desde Ixtapa Zihuatanejo. Es otro ritmo: palapas, mangos y palmeras, casas de vacaciones, hoteles ecológicos chicos y restaurantes de mariscos sin pretensiones.\n\nLa playa es abierta al mar, con oleaje de moderado a intenso. Los surfistas la valoran por el tamaño de las olas; Troncones Point es una izquierda que necesita marejada del sur. Más al norte está La Saladita, una de las izquierdas largas más conocidas de México, a unos 40 minutos de Zihuatanejo por caminos regulares.\n\nPara nadar, la oficina de turismo recomienda las piletas de los hoteles frente al mar más que el mar mismo. Es ideal para caminar al atardecer.\n\nCómo llegar: no hay urvan directa publicada. El taxi no tiene tarifa oficial; el portal ZihuaRob estima unos MX$ 570 desde Ixtapa y el transporte del aeropuerto cobra MX$ 1.500 por vehículo.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Unos 32 km al noroeste de Zihuatanejo (20 a 25 minutos en auto)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Temporada seca para la playa; marejadas del sur (primavera-verano) para surf"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "Día completo o varias noches"
+        }
+      ]
+    },
+    {
+      "nombre": "Liberación de tortugas marinas",
+      "desc": "Al atardecer, en temporada, los campamentos tortugueros liberan crías de golfina, laúd y tortuga negra en las playas cercanas al aeropuerto.",
+      "detalle": "En las playas de Ixtapa Zihuatanejo anidan tres especies de tortuga marina: laúd, golfina y negra. El Campamento Tortuguero Ayotlcalli, fundado en 2011 en Playa Blanca, a unos cinco minutos del aeropuerto, protege unos 15 km de costa: patrulla las playas, recoge los nidos y los traslada a un corral para que no los saqueen ni los destruyan perros o vehículos.\n\nLa temporada de anidación, con patrullajes, va de julio a octubre, y las liberaciones de crías se hacen de agosto a marzo, al atardecer. Según Mexico News Daily, el campamento recibe visitantes casi todos los días de temporada hacia las 17 h y pide reserva.\n\nEl campamento no publica una tarifa; funciona con donaciones y subsidios. Si querés ir por tu cuenta, contactalo por su web (ayotlcalli.org) o sus redes antes. Si preferís todo resuelto, hay tours de cuatro horas con traslado desde el hotel.\n\nRespetá las reglas: nada de flash, no toques a las crías y dejá que caminen solas hasta el agua.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Playa Blanca, a unos 5 minutos del aeropuerto ZIH"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Agosto a marzo, al atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Campamento Ayotlcalli: sin tarifa publicada, acepta donaciones. Tour con traslado: MX$ 938 por persona (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 4 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Pesca deportiva",
+      "desc": "Salidas en panga o yate desde el muelle de Zihuatanejo para pez vela, marlín, dorado y pez gallo, con precio por embarcación.",
+      "detalle": "Zihuatanejo es un puerto de pesca deportiva y la oficina de turismo pone 'Pescar' entre sus actividades destacadas. Las salidas parten de la bahía, en pangas (lanchas abiertas de unos 25 pies con motor fuera de borda) o en yates más grandes.\n\nLas especies que los operadores listan son pez vela, marlín negro, azul y rayado, dorado (mahi-mahi), pez gallo, barrilete, jurel y sierra. En octubre, por ejemplo, un operador reporta dorado, marlín y pez vela.\n\nEl precio se paga por embarcación, no por persona, así que conviene armar grupo. Un ejemplo publicado en FishingBooker: panga de 25 pies para hasta 4 personas, US$ 300 por 4 horas y US$ 400 por 7 horas, con salidas a las 6:30-7:00 h. Los barcos más grandes cuestan más. Revisá qué incluye (licencia de pesca, carnada, bebidas) y si el precio suma IVA.\n\nLas salidas suelen ser temprano, cuando el mar está más calmo; llevá protector solar, gorra y pastilla para el mareo si sos sensible.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Salidas desde la bahía de Zihuatanejo"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; consultá qué especies hay en tu fecha"
+        },
+        {
+          "label": "Entrada",
+          "value": "Panga hasta 4 personas: US$ 300 por 4 horas, US$ 400 por 7 horas por embarcación (fuente: FishingBooker, operador Vikingos and Roosterfish, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "4 a 7 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Zona arqueológica de Soledad de Maciel (Xihuacan)",
+      "desc": "Sitio prehispánico del INAH con juego de pelota, pirámides y museo de sitio, cerca de Petatlán. La entrada es gratuita.",
+      "detalle": "Xihuacan, en la localidad de Soledad de Maciel (municipio de Petatlán), es la zona arqueológica abierta más cercana a Zihuatanejo. Tuvo ocupación desde el Preclásico, recibió influencia teotihuacana en el Clásico (200 a 650) y vivió su apogeo en el Epiclásico, entre 650 y 950. Se fue abandonando, al parecer porque las inundaciones obligaron a la gente a mudarse a zonas más altas.\n\nHay un gran conjunto ceremonial, pirámides, obras hidráulicas y un juego de pelota. El museo de sitio exhibe figurillas, vasijas de obsidiana, trabajos en concha, hachas de cobre, cerámica y una piedra con el glifo toponímico de Xihuacan hallada junto al juego de pelota. También hay un jardín etnobotánico.\n\nCómo llegar: por la carretera federal 200 hacia Acapulco, en el tramo Petatlán–San Jerónimito se toma el desvío a Soledad de Maciel; el sitio está 3 km adentro. Si no tenés auto, hay tours desde Ixtapa Zihuatanejo.\n\nReglas del INAH: no se puede fumar, comer adentro, entrar con mascotas ni usar flash.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Municipio de Petatlán; 3 km desde el desvío en la carretera 200"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Temporada seca; temprano por el calor"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (fuente: ficha del INAH, lugares.inah.gob.mx, verificado octubre 2026). Martes a domingo de 9 a 17 h. Tour con traslado: MX$ 1.300 por persona (fuente: Civitatis, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día con el traslado"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "Lancha a Isla Ixtapa (muelle de Playa Linda)",
+      "precio": "Lancha ida y vuelta desde el muelle de Playa Linda: MX$ 100 por persona según la cooperativa náutica Vida Sana (nota de ixtapayzihuatanejo.com del 26/03/2024; la web oficial de turismo todavía dice ~MX$ 60; consultado octubre 2026). Sin tarifa 2026 publicada: confirmala en el muelle y llevá efectivo"
+    },
+    {
+      "tipo": "Lancha a Playa Las Gatas (muelle de Zihuatanejo)",
+      "precio": "Lancha ida y vuelta desde el muelle de Zihuatanejo: MX$ 100 por persona (tarifa de la cooperativa desde el 25/03/2024 según ixtapayzihuatanejo.com; una reseña de Tripadvisor de febrero 2026 confirma MX$ 100; verificado octubre 2026). La playa es gratis"
+    },
+    {
+      "tipo": "Museo Arqueológico de la Costa Grande",
+      "precio": "MX$ 10 general; menores de 12 gratis; grupos escolares mitad de precio (fuente: ficha municipal en zihuatanejodeazueta.gob.mx, 2023; consultado octubre 2026). Se paga en la taquilla del museo"
+    },
+    {
+      "tipo": "Zona arqueológica de Soledad de Maciel (Xihuacan, INAH)",
+      "precio": "Gratis (fuente: ficha del INAH, verificado octubre 2026). Visitas fuera de horario: MX$ 730 según el INAH; cámaras profesionales pagan aparte"
+    },
+    {
+      "tipo": "Playas (La Ropa, Principal, La Madera, Playa Linda, Troncones, Barra de Potosí)",
+      "precio": "Gratis (playas públicas). Pagás sólo lo que consumas en los restaurantes de la arena"
+    },
+    {
+      "tipo": "Ciclopista de Ixtapa y mirador del estero de cocodrilos (Playa Linda)",
+      "precio": "Gratis. Alquiler de bici: sin tarifa publicada en la web oficial de turismo (ixtapazihuatanejo.travel, consultada octubre 2026); preguntá en tu hotel"
+    },
+    {
+      "tipo": "Liberación de tortugas",
+      "precio": "Campamento Ayotlcalli: sin tarifa publicada, funciona con donaciones (consultado octubre 2026). Tour con traslado: MX$ 938 por persona (fuente: Civitatis, verificado octubre 2026); se reserva online"
+    },
+    {
+      "tipo": "Pesca deportiva en panga",
+      "precio": "US$ 300 por 4 horas o US$ 400 por 7 horas, por embarcación de hasta 4 personas (fuente: FishingBooker, verificado octubre 2026). Se reserva online o en el muelle"
+    },
+    {
+      "tipo": "Laguna de Barra de Potosí (lancha + cabalgata)",
+      "precio": "MX$ 2.500 por persona con traslado (fuente: Civitatis, verificado octubre 2026). Variante kayak + caballo por Playa Larga: MX$ 2.375"
+    },
+    {
+      "tipo": "Snorkel en Playa Las Gatas (tour con equipo)",
+      "precio": "MX$ 700 por persona, 4 horas (fuente: Civitatis, verificado octubre 2026). Por tu cuenta: lancha MX$ 100 más alquiler de equipo en las enramadas"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Excursión a Isla Ixtapa con traslado",
+      "precio": "MX$ 1.090 por persona (fuente: Civitatis, verificado octubre 2026). Por tu cuenta sale mucho menos: urvan MX$ 21 + lancha MX$ 100",
+      "duracion": "5 h 30 min",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Snorkel en Playa Las Gatas",
+      "precio": "MX$ 700 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "4 horas",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Kayak y snorkel en la bahía de Zihuatanejo",
+      "precio": "MX$ 1.500 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "5 h 40 min",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Crucero al atardecer por la costa",
+      "precio": "MX$ 1.690 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "2 h 30 min",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Liberación de tortugas al norte de Zihuatanejo",
+      "precio": "MX$ 938 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "4 horas",
+      "operador": "Operadores locales vía Civitatis; o directo con el Campamento Tortuguero Ayotlcalli (ayotlcalli.org)"
+    },
+    {
+      "actividad": "Pesca deportiva en panga (pez vela, dorado, pez gallo)",
+      "precio": "US$ 300 (4 h) o US$ 400 (7 h) por embarcación de hasta 4 personas (fuente: FishingBooker, verificado octubre 2026)",
+      "duracion": "4 a 7 horas",
+      "operador": "Vikingos and Roosterfish y otros capitanes del muelle de Zihuatanejo"
+    },
+    {
+      "actividad": "Avistamiento de ballenas",
+      "precio": "MX$ 2.125 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "3 h 30 min",
+      "operador": "Operadores locales vía Civitatis"
+    },
+    {
+      "actividad": "Bautismo de buceo",
+      "precio": "MX$ 3.250 por persona (fuente: Civitatis, verificado octubre 2026)",
+      "duracion": "4 horas",
+      "operador": "Centros de buceo locales vía Civitatis"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Urvan (combi) Zihuatanejo Centro – Ixtapa – Playa Linda",
+      "precio": "MX$ 21 por tramo (fuente: tabla de urvans en zihuatanejo.net (ZihuaRob, portal local), verificado octubre 2026)",
+      "duracion": "Variable según tráfico",
+      "notas": "La forma más barata de unir los dos lugares y llegar al muelle de la isla. Otras líneas: Centro–Ixtapa–San José Ixtapa MX$ 21; La Noria–Centro–Marina Ixtapa MX$ 18. Pagá con monedas o billetes chicos."
+    },
+    {
+      "medio": "Urvan Zihuatanejo Centro – Playa La Ropa",
+      "precio": "MX$ 14 (fuente: tabla de urvans en zihuatanejo.net, portal local, verificado octubre 2026)",
+      "duracion": "Pocos minutos",
+      "notas": "Sirve para ir a La Ropa sin pagar taxi. También hay urvan Centro–Aeropuerto por MX$ 21 y Centro–Petatlán por MX$ 52."
+    },
+    {
+      "medio": "Taxi local con tarifa fija",
+      "precio": "Mínima dentro de Zihuatanejo MX$ 55 y dentro de Ixtapa MX$ 70; Centro–La Ropa MX$ 70-80; Centro–Playa Linda MX$ 130; Centro–Aeropuerto MX$ 250; Ixtapa–Aeropuerto MX$ 390 (fuente: tabla de tarifas en zihuatanejo.net (ZihuaRob, portal local), vigente desde el 23 de abril de 2026, verificado octubre 2026)",
+      "duracion": "10 a 30 minutos según destino",
+      "notas": "Recargo de 40% de medianoche a 5 h y de 40% si pedís aire acondicionado; MX$ 5 extra si lo pedís por teléfono. Preguntá el precio antes de subir. Los taxis de base de hotel suelen cobrar más. Los taxis locales no pueden levantar pasaje dentro del aeropuerto."
+    },
+    {
+      "medio": "Lancha a Playa Las Gatas",
+      "precio": "Lancha ida y vuelta desde el muelle de Zihuatanejo: MX$ 100 por persona (tarifa de la cooperativa desde el 25/03/2024 según ixtapayzihuatanejo.com; una reseña de Tripadvisor de febrero 2026 confirma MX$ 100; verificado octubre 2026). La playa es gratis",
+      "duracion": "10 minutos",
+      "notas": "Sale del muelle principal de Zihuatanejo desde las 8 h. Preguntá la hora del último regreso al comprar el boleto."
+    },
+    {
+      "medio": "Bicicleta por la ciclopista de Ixtapa",
+      "precio": "Ciclopista gratis; alquiler sin tarifa publicada en la web oficial de turismo (ixtapazihuatanejo.travel, consultada octubre 2026)",
+      "duracion": "Casi 25 km de punta a punta",
+      "notas": "Une la Marina de Ixtapa con Playa Linda pasando por el Parque Aztlán. Algunos hoteles alquilan bicis en recepción."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Avión Ciudad de México → Aeropuerto Internacional de Ixtapa-Zihuatanejo (ZIH)",
+      "empresas": "Volaris, Aeroméxico y Viva Aerobus desde Ciudad de México; Alaska Airlines y otras aerolíneas con vuelos desde EE. UU.",
+      "precio": "Volaris desde MX$ 499 solo ida en noviembre 2026; en octubre 2026 el rango va de MX$ 499 a MX$ 3.872 (fuente: volaris.com, verificado octubre 2026)",
+      "duracion": "1 h 15 min de vuelo directo"
+    },
+    {
+      "ruta": "Aeropuerto ZIH → Zihuatanejo / Ixtapa",
+      "empresas": "ETASA (Transporte Terrestre, el único autorizado a levantar pasaje en el aeropuerto); urvan pública Centro–Aeropuerto",
+      "precio": "Colectivo compartido: MX$ 190 al centro de Zihuatanejo, MX$ 220 a La Ropa o Ixtapa Zona I, MX$ 280 a Playa Linda/Zona II. Taxi privado: MX$ 590 / 735 / 850; Troncones MX$ 1.500 (fuente: tabla ETASA publicada en zihuatanejo.net, consultado octubre 2026). Urvan pública Centro–Aeropuerto MX$ 21 (misma fuente)",
+      "duracion": "15 a 30 minutos"
+    },
+    {
+      "ruta": "Autobús Ciudad de México (Terminal Sur Taxqueña o Terminal Norte) → Zihuatanejo",
+      "empresas": "Costa Line, Estrella de Oro",
+      "precio": "Costa Line desde MX$ 1.240 desde Central Sur o Central Norte, con descuento por compra anticipada en la web (fuente: costaline.com.mx, verificado octubre 2026). Estrella de Oro: boleto más barato reciente ~MX$ 1.248 según el agregador Obilet (verificado octubre 2026)",
+      "duracion": "Unos 10 horas (promedio 10 h 14 min según Obilet)"
+    },
+    {
+      "ruta": "Autobús Acapulco (Terminal Papagayo) → Zihuatanejo por la carretera 200",
+      "empresas": "Costa Line, Estrella de Oro",
+      "precio": "Costa Line desde MX$ 365 (fuente: costaline.com.mx, verificado octubre 2026). Desde Chilpancingo desde MX$ 630",
+      "duracion": "Duración no publicada por la empresa; consultala al cotizar. Ojo: es un viaje por tierra dentro de Guerrero, que Canadá y Reino Unido desaconsejan"
+    },
+    {
+      "ruta": "Autobús Lázaro Cárdenas (Michoacán) → Zihuatanejo",
+      "empresas": "Costa Line",
+      "precio": "Desde MX$ 210 (fuente: costaline.com.mx, verificado octubre 2026)",
+      "duracion": "Alrededor de 1 h 45 min según Rome2Rio (agregador); llega a la Terminal Central de Autobuses de Zihuatanejo"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Económico en el centro de Zihuatanejo",
+      "nivel": 2,
+      "opciones": "Hoteles sencillos a pocas cuadras del Paseo del Pescador: Hotel Las Salinas desde MX$ 684 la noche (fuente: Kayak México, verificado octubre 2026); OYO Hotel La Playa desde 20 € y Hotel Isis desde 24 € (fuente: Momondo, verificado octubre 2026). No encontramos hostales con tarifa publicada. En temporada alta (noviembre, Semana Santa) reservá con tiempo"
+    },
+    {
+      "categoria": "Intermedio en el centro y la bahía",
+      "nivel": 3,
+      "opciones": "Hotel Zihuatanejo Centro (3 estrellas, con pileta) desde US$ 61 la noche en octubre 2026 y promedio de US$ 70 (fuente: Momondo, verificado octubre 2026); Villas Mercedes desde MX$ 1.127 y Hotel Villas El Morro desde MX$ 1.192 (fuente: Kayak México, verificado octubre 2026). Según Kayak, la mejor oferta de 3 estrellas de los últimos días fue MX$ 675; noviembre es el mes más caro"
+    },
+    {
+      "categoria": "Hoteles de playa en Ixtapa y La Ropa",
+      "nivel": 4,
+      "opciones": "Las Brisas Ixtapa desde MX$ 2.183 la noche; Villa del Pescador desde MX$ 2.054; La Villa Luz Adults Only (4 estrellas) desde MX$ 3.923 (fuente: Kayak México, verificado octubre 2026). Según Kayak, la mejor oferta de 4 estrellas fue MX$ 1.560. Los todo incluido de Ixtapa (Barceló, Krystal) publican promociones en sus webs"
+    },
+    {
+      "categoria": "Lujo y boutique sobre la bahía",
+      "nivel": 5,
+      "opciones": "La Casa Que Canta (5 estrellas, con pileta) desde US$ 374 la noche en octubre 2026, promedio US$ 612 (fuente: Momondo, verificado octubre 2026); Thompson Zihuatanejo (5 estrellas) desde 156 € la noche (fuente: Momondo, verificado octubre 2026). En temporada alta los precios suben bastante: reservá con meses de anticipación"
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Fondas y antojitos guerrerenses (lo más barato)",
+      "nivel": 2,
+      "opciones": "Para comer barato, el centro de Zihuatanejo: La Terracita (cocina mexicana) ~MX$ 300 y Tamales y Atoles Any ~MX$ 350 por persona (fuente: zonaturistica.com, guía/agregador, promedio por persona con comida y refresco, verificado octubre 2026). Fonda Doña Licha, cerca del mercado, figura en la categoría más barata de Fodor's; según reseñas en Wanderlog no acepta tarjeta. Probá el chilate y los bolillos rellenos de la Plaza Kyoto, que recomienda la oficina de turismo (2026)"
+    },
+    {
+      "tipo": "Tiritas de pescado y mariscos en el Paseo del Pescador",
+      "nivel": 3,
+      "opciones": "Las tiritas (pescado crudo en tiras con limón, cebolla morada y chile) nacieron en esta costa. La Sirena Gorda (Paseo del Pescador 90, tacos de pescado y aguachile) ~MX$ 550 por persona; Garrobos, cocina de mar, ~MX$ 700 (fuente: zonaturistica.com, guía/agregador, promedio por persona con comida y refresco, verificado octubre 2026). La Sirena Gorda cierra los miércoles"
+    },
+    {
+      "tipo": "Cocina guerrerense y mezcal",
+      "nivel": 3,
+      "opciones": "Angustina, en el centro de Zihuatanejo, cocina guerrerense y mezcalería ~MX$ 500 por persona (fuente: zonaturistica.com, guía/agregador, promedio por persona con comida y refresco, verificado octubre 2026). Buscá pozole verde, relleno de cuche, machaca de pescado y mezcal cupreata con denominación de origen Guerrero, platos que destaca la oficina de turismo (ixtapazihuatanejo.travel, 2026)"
+    },
+    {
+      "tipo": "Cenas con vista a la bahía",
+      "nivel": 4,
+      "opciones": "Kau Kan (mexicana-mediterránea) ~MX$ 1.400, Mar y Cielo ~MX$ 1.250 y Bistro del Mar (internacional) ~MX$ 1.100 por persona (fuente: zonaturistica.com, guía/agregador, promedio por persona con comida y refresco, verificado octubre 2026). Pescado a la talla (abierto, untado con salsa de chile rojo y asado a la leña) en los restaurantes de playa de La Ropa y Las Gatas, según la guía MileHacker; se pide por kilo y un viajero cuenta en Wanderlog que un kilo apenas alcanza para una persona"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Es seguro viajar a Ixtapa Zihuatanejo?",
+      "a": "Depende de cómo llegues. Guerrero está en el nivel 4 ('no viajar') de EE. UU., que prohíbe a sus empleados públicos ir a todo el estado, Ixtapa y Zihuatanejo incluidos (esa regla rige para funcionarios, no para turistas). Canadá desaconseja los viajes no esenciales a Guerrero excepto Ixtapa/Zihuatanejo si llegás en avión, y Reino Unido dice lo mismo (ambos actualizados el 9 de octubre de 2026). En diciembre de 2025 hubo ataques armados en Zihuatanejo y el estado reforzó el patrullaje en zonas turísticas. En la práctica: volá al ZIH, no hagas la ruta por tierra desde Acapulco o Michoacán, no manejes de noche fuera de la zona urbana y usá taxis de sitio o pedidos por teléfono."
+    },
+    {
+      "q": "¿Necesito visa si soy latinoamericano?",
+      "a": "Argentinos y uruguayos entran sin visa como turistas. Chilenos y colombianos tampoco la necesitan, según el consulado de México en Miami. Peruanos necesitan visa desde mayo de 2024 y la exigencia seguía en agosto de 2026, pese al restablecimiento de relaciones. Ecuatorianos, desde septiembre de 2021. Brasileños necesitan visa, pero desde el 5 de febrero de 2026 pueden tramitar la electrónica (US$ 10, 180 días, una entrada, sólo por vía aérea) en visaelectronica.sre.gob.mx. Venezolanos, también visa. Si tenés visa vigente de EE. UU., Canadá, Reino Unido, Japón o Schengen, quedás exento. Para otras nacionalidades, confirmá en el consulado de México."
+    },
+    {
+      "q": "¿Cuántos días conviene quedarse?",
+      "a": "Con tres días completos ves lo principal: uno para Zihuatanejo (mercado temprano, Paseo del Pescador, museo y tarde en La Ropa), uno para Ixtapa (ciclopista, cocodrilos de Playa Linda e Isla Ixtapa) y uno para Las Gatas con snorkel o una salida de pesca. Con cinco días sumás Barra de Potosí, Troncones o la zona arqueológica de Soledad de Maciel, y en temporada una liberación de tortugas. Como base, Zihuatanejo es más barato y caminable; Ixtapa tiene hoteles grandes y todo incluido."
+    },
+    {
+      "q": "¿Pago con tarjeta o llevo efectivo?",
+      "a": "Llevá pesos mexicanos en efectivo. Las lanchas a Isla Ixtapa y a Las Gatas, las urvans, los taxis, las fondas y las enramadas de playa cobran en efectivo, y varias guías recomiendan pagar así las lanchas. Fondas como Doña Licha no aceptan tarjeta. Los hoteles, los restaurantes más caros y los tours reservados online sí aceptan tarjeta. Sacá plata en cajeros dentro de bancos o centros comerciales y de día. Si te ofrecen cobrar en dólares, el cambio suele ser peor que pagar en pesos."
+    },
+    {
+      "q": "¿Hace falta auto?",
+      "a": "No. Entre Zihuatanejo, Ixtapa, La Ropa y Playa Linda te movés con urvans (MX$ 14 a 21) y taxis de tarifa fija (mínima MX$ 55 en Zihuatanejo). A Isla Ixtapa y Las Gatas se va en lancha. El auto sólo ayuda para Troncones, Barra de Potosí o Soledad de Maciel, que no tienen urvan directa publicada; pero ahí también podés ir en taxi pactando el precio o en tour. Si alquilás, manejá de día: Canadá y Reino Unido desaconsejan los viajes por tierra dentro de Guerrero fuera de esta zona."
+    },
+    {
+      "q": "¿Vale la pena ir en temporada baja?",
+      "a": "Sí, si toleras calor húmedo y lluvia. De junio a octubre llueve más, pero los hoteles bajan: Momondo marca agosto como el mes más barato en Zihuatanejo, con precios alrededor de 44% por debajo de lo habitual. Además, de agosto en adelante empiezan las liberaciones de tortugas. La contra: coincide con la temporada de huracanes del Pacífico, así que seguí el pronóstico y contratá un seguro que cubra cambios. La temporada seca, de noviembre a mayo, es la más segura para el clima pero la más cara, sobre todo en noviembre, Navidad y Semana Santa."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (ES) — «Zihuatanejo»: https://es.wikipedia.org/wiki/Zihuatanejo",
+      "Wikipedia (ES) — «Ixtapa Zihuatanejo»: https://es.wikipedia.org/wiki/Ixtapa_Zihuatanejo",
+      "DataMéxico, Secretaría de Economía — «Zihuatanejo de Azueta»: https://www.economia.gob.mx/datamexico/es/profile/geo/zihuatanejo-de-azueta",
+      "INAH — «Museo de Sitio de la Zona Arqueológica de Soledad de Maciel-Xihuacan»: https://lugares.inah.gob.mx/en/node/4514",
+      "INAH — «Museo de Sitio de la Zona Arqueológica de Soledad de Maciel-Xihuacan» — ficha 2 — «Soledad de Maciel»: https://lugares.inah.gob.mx/en/node/5042"
+    ],
+    "que_ver_atracciones": [
+      "Ixtapa Zihuatanejo (oficina de turismo) — «Explora La Isla»: https://www.ixtapazihuatanejo.travel/actividad/la-isla",
+      "Ixtapa Zihuatanejo (oficina de turismo) — «Playa Linda»: https://www.ixtapazihuatanejo.travel/playas/playa-linda",
+      "Ixtapa Zihuatanejo (oficina de turismo) — «Playa La Ropa»: https://www.ixtapazihuatanejo.travel/playas/la-ropa",
+      "Ixtapa Zihuatanejo (oficina de turismo) — «Playa Las Gatas»: https://www.ixtapazihuatanejo.travel/playas/las-gatas",
+      "Ixtapa Zihuatanejo (oficina de turismo) — «Troncones»: https://www.ixtapazihuatanejo.travel/playas/troncones",
+      "Ixtapa Zihuatanejo (oficina de turismo) — «Ciclopista»: https://www.ixtapazihuatanejo.travel/actividad/ciclopista",
+      "Ixtapa Zihuatanejo (oficina de turismo) — «Liberar Tortugas»: https://www.ixtapazihuatanejo.travel/actividad/liberar-tortugas",
+      "Ixtapa Zihuatanejo (oficina de turismo) — «Caminata por Zihuatanejo»: https://www.ixtapazihuatanejo.travel/actividad/caminata-por-zihuatanejo",
+      "Ayuntamiento de Zihuatanejo de Azueta — «Visitas guiadas y eventos culturales en el Museo Arqueológico de la Costa Grande»: https://zihuatanejodeazueta.gob.mx/sites/default/files/2023-10/VISITAS%20GUIADAS%20Y%20EVENTOS%20CULTURALES%20EN%20EL%20MUSEO%20ARQUEOL%C3%93GICO%20DE%20LA%20COSTA%20GRANDE.pdf",
+      "Ayuntamiento de Zihuatanejo de Azueta — «Reglamento para el uso y conservación del Museo Arqueológico»: https://zihuatanejodeazueta.gob.mx/sites/default/files/2025-08/REGLAMENTO_PARA_EL_USO_Y_CONSERVACIO%CC%81N_DEL_MUSEO_ARQUEOLO%CC%81GICO_DE.pdf",
+      "Food and Pleasure — «Barra de Potosí en Guerrero»: https://foodandpleasure.com/barra-de-potosi-en-guerrero/",
+      "Sea Turtle Status — «Campamento Tortuguero Ayotlcalli A.C.»: https://www.seaturtlestatus.org/swot-grantees/campamento-tortuguero-ayotlcalli-ac",
+      "Wikipedia — «Troncones»: https://wikipedia.com/wiki/Troncones",
+      "The Surf Atlas — «Playa la Saladita»: https://thesurfatlas.com/surfing-mexico/playa-la-saladita/"
+    ],
+    "como_llegar_transporte": [
+      "Costa Line — «Boletos de autobús a Zihuatanejo»: https://costaline.com.mx/boletos-autobus/zihuatanejo.html",
+      "Obilet (agregador) — «Autobús de Ciudad de México a Zihuatanejo»: https://www.obilet.com/mx/bus-ticket/mexico_city-zihuatanejo",
+      "Volaris — «Vuelos de Ciudad de México a Ixtapa-Zihuatanejo»: https://www.volaris.com/es-mx/vuelos-desde-mexico-df-a-ixtapa-zihuatanejo",
+      "ZihuaRob (portal local) — «Local transportation»: https://zihuatanejo.net/localtransport.html",
+      "ZihuaRob (portal local) — «Airport taxi»: https://zihuatanejo.net/airporttaxi.html",
+      "OMA — «Reporte de tráfico agosto 2026»: https://noticias.oma.aero/assets/oma-reporte-trafico-ago26-vf-pdf-51d07-5f19f.html?dl=1"
+    ],
+    "precios_2026": [
+      "Civitatis — «Tours y actividades en Ixtapa Zihuatanejo»: https://www.civitatis.com/es/ixtapa-zihuatanejo/",
+      "FishingBooker — «Vikingos and Roosterfish»: https://fishingbooker.com/charters/view/51367",
+      "Ixtapa y Zihuatanejo (noticias locales) — «Incremento de tarifas en lanchas a Playa Las Gatas e Isla de Ixtapa»: https://ixtapayzihuatanejo.com/incremento-de-tarifas-en-lanchas-a-playa-las-gatas-e-isla-de-ixtapa/",
+      "Tripadvisor — «Playa Las Gatas»: https://www.tripadvisor.com/Attraction_Review-g150795-d154096-Reviews-Playa_Las_Gatas-Zihuatanejo_Zihuatanejo_de_Azueta_Pacific_Coast.html"
+    ],
+    "seguridad": [
+      "U.S. Department of State — «Mexico Travel Advisory»: https://travel.state.gov/en/international-travel/travel-advisories/mexico.html",
+      "Government of Canada — «Travel advice and advisories for Mexico»: https://travel.gc.ca/destinations/mexico",
+      "GOV.UK — «Mexico: warnings and insurance»: https://www.gov.uk/foreign-travel-advice/mexico/warnings-and-insurance",
+      "Infobae México — «Ataques armados en Zihuatanejo, Guerrero»: https://www.infobae.com/mexico/2025/12/14/ataques-armados-en-zihuatanejo-guerrero-hay-tres-fallecidos-y-un-herido/"
+    ],
+    "visas_ingreso": [
+      "Consulado de México en São Paulo (SRE) — «Vistos para México»: https://consulmex.sre.gob.mx/saopaulo/index.php/component/content/article/52?itemd=52",
+      "Consulado de México en Miami (SRE) — «Visas: información general»: https://consulmex.sre.gob.mx/miami/index.php/avisos/5-consulares/visas",
+      "Infobae — «Visa para México: la lista completa de países que la necesitan en 2026»: https://www.infobae.com/mexico/2026/05/06/visa-para-mexico-la-lista-completa-de-paises-que-la-necesitan-y-los-que-tienen-acceso-libre-en-2026/",
+      "Peru Retail — «Peruanos podrán viajar a México sin visa? Esto cambia tras el restablecimiento de relaciones»: https://www.peru-retail.com/peruanos-podran-viajar-a-mexico-sin-visa-esto-cambia-tras-el-restablecimiento-de-relaciones-diplomaticas/",
+      "Chubb Ecuador — «Visa mexicana para ecuatorianos»: https://www.chubb.com/ec-es/personas-y-familias/ideas/visa-mexicana-para-ecuatorianos.html"
+    ],
+    "alojamiento_gastronomia": [
+      "Kayak México — «Hoteles en Zihuatanejo»: https://www.kayak.com.mx/Hoteles-en-Zihuatanejo_Romantico.Hro.3294.hotel.ksp",
+      "Momondo — «Hoteles en Zihuatanejo»: https://www.momondo.es/hoteles/zihuatanejo",
+      "Momondo — «La Casa Que Canta»: https://www.es.momondo.com/hoteles/zihuatanejo/La-Casa-Que-Canta.mhd6468.ksp",
+      "Momondo — «Hotel Zihuatanejo Centro»: https://www.es.momondo.com/hoteles/zihuatanejo/Zihuatanejo-Centro.mhd187485.ksp",
+      "ZonaTuristica — «Restaurantes en Ixtapa Zihuatanejo»: https://www.zonaturistica.com/restaurantes/guerrero/ixtapa-zihuatanejo",
+      "ZonaTuristica — «La Sirena Gorda»: https://www.zonaturistica.com/restaurantes/guerrero/ixtapa-zihuatanejo/la-sirena-gorda",
+      "Ixtapa Zihuatanejo (oficina de turismo) — «¡Viva la Montaña y el mar!»: https://www.ixtapazihuatanejo.travel/actividad/montana-y-mar",
+      "MileHacker — «Best restaurants in Zihuatanejo»: https://www.milehacker.com/travel/mexico/guerrero/zihuatanejo/best-restaurants-in-zihuatanejo-food-dining-local-/",
+      "Wanderlog — «Fonda Doña Licha»: https://wanderlog.com/place/details/1276587/fonda-doa-licha",
+      "Wanderlog — «Restaurante Langostinos»: https://wanderlog.com/place/details/3659749/restaurante-langostinos",
+      "Fodor's — «10 Best Restaurants in Zihuatanejo»: https://cdn.fodors.com/world/mexico-and-central-america/mexico/ixtapa-and-zihuatanejo/neighborhoods/zihuatanejo/restaurants",
+      "The Eye Huatulco — «Tiritas, the Mexican Fish Strips»: https://theeyehuatulco.com/2018/07/22/tiritas-the-mexican-fish-strips/"
+    ]
+  }
+}

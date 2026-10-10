@@ -21,3 +21,4 @@ FOTO costa-rica/la-fortuna | https://upload.wikimedia.org/wikipedia/commons/8/86
 FOTO italia/genova | https://upload.wikimedia.org/wikipedia/commons/0/02/Vista_Genova_Boccadasse.jpg | Vista Genova Boccadasse.jpg | CC BY-SA 4.0 | Giogio1988
 FOTO espana/gijon | https://upload.wikimedia.org/wikipedia/commons/e/e6/Playa_de_San_Lorenzo._Gij%C3%B3n_-_2018.jpg | Playa de San Lorenzo. Gijón - 2018.jpg | CC BY 2.0 | David Álvarez López
 FOTO espana/zaragoza | https://upload.wikimedia.org/wikipedia/commons/5/51/Zaragoza_Rio_Ebro_and_Catedral-Bas%C3%ADlica_del_Pilar_upstream_from_Puente_de_Piedra.jpg | Zaragoza Rio Ebro and Catedral-Basílica del Pilar upstream from Puente de Piedra.jpg | CC BY-SA 4.0 | Ymblanter
+FOTO mexico/ixtapa-zihuatanejo | https://upload.wikimedia.org/wikipedia/commons/1/1e/Zihuatanejo_from_Bahia_Zihuatanejo.jpg | Zihuatanejo from Bahia Zihuatanejo.jpg | CC BY-SA 4.0 | Nick Navarro
