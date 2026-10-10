@@ -1,0 +1,603 @@
+{
+  "slug": "oranjestad",
+  "name": "Oranjestad",
+  "region": "Aruba",
+  "lat": 12.5186,
+  "lon": -70.0358,
+  "datosRapidos": [
+    {
+      "label": "Isla",
+      "value": "Oranjestad es la capital de Aruba, una isla del Caribe sur ubicada frente a la península de Paraguaná, en Venezuela. Aruba es uno de los cuatro países que forman el Reino de los Países Bajos desde 1986, pero no es parte de la Unión Europea ni del espacio Schengen: tiene sus propias reglas de ingreso, su moneda (el florín arubeño) y su tarjeta de embarque obligatoria. Según el censo de 2020, los dos distritos de Oranjestad (West y Oost) suman 28.658 habitantes, y toda la isla 108.166. La ciudad nació a fines del siglo XVIII alrededor de la bahía de Paardenbaai (Bahía de los Caballos) y del Fuerte Zoutman, de 1798, la construcción más antigua de la isla. Hoy se la conoce por sus fachadas de estilo holandés pintadas en colores pastel, la calle comercial Main Street con su tranvía gratuito, el puerto de cruceros y su cercanía con Eagle Beach y Palm Beach, las playas de arena blanca que concentran los hoteles. Es la base natural para recorrer toda la isla: el Parque Nacional Arikok, la Natural Pool, el faro California y Baby Beach quedan a menos de una hora de auto. Se hablan papiamento, neerlandés, español e inglés."
+    },
+    {
+      "label": "Moneda",
+      "value": "La moneda oficial es el florín arubeño (AWG o Afl.), atado al dólar estadounidense desde 1986 a 1,79 florines por dólar según el Banco Central de Aruba. El dólar se acepta en casi todos lados y muchos precios turísticos se publican directamente en USD. Ojo con el cambio que usa cada uno: Arubus cobra USD 2,60 o AWG 4,50 el boleto, y la tabla oficial de taxis usa 1,80. Las tarjetas Visa y Mastercard se aceptan en hoteles, restaurantes y comercios; para colectivos, kioscos y puestos de comida conviene tener billetes chicos."
+    },
+    {
+      "label": "Visado e ingreso",
+      "value": "Aruba no es Schengen, así que no te sirven las reglas de Europa. Todo visitante tiene que completar la ED Card (tarjeta de embarque y desembarque) en edcardaruba.aw antes de volar y pagar ahí la Tarifa de Sostenibilidad de USD 20 si llega en avión. Argentinos, chilenos, uruguayos, colombianos, mexicanos y brasileños no figuran en la lista oficial de países que necesitan visa. Venezolanos, bolivianos, cubanos y dominicanos sí la necesitan. Los peruanos tienen que confirmarlo con el consulado (ver preguntas frecuentes). Además se exige la vacuna de fiebre amarilla a quien llega desde varios países sudamericanos."
+    },
+    {
+      "label": "Mejor época",
+      "value": "Aruba es seca casi todo el año: llueve unos 500 mm anuales y la corta temporada de lluvias va de septiembre a enero, con chaparrones breves. Los vientos alisios del noreste soplan de forma constante y bajan la sensación de calor. La temporada alta de turismo coincide con el invierno del hemisferio norte (diciembre a abril), cuando suben hoteles y autos. Según Kayak, las tarifas más bajas suelen aparecer en agosto y octubre."
+    }
+  ],
+  "intro": [
+    "Oranjestad es una capital chica que se camina en una mañana: fachadas holandesas color rosa, celeste y amarillo, un fuerte de 1798, un tranvía que no cobra y un puerto donde atracan cruceros enormes. Pero casi nadie viene sólo por la ciudad. Viene porque desde acá se llega en colectivo a Eagle Beach y Palm Beach, dos de las playas más fotografiadas del Caribe, y en auto o 4x4 al lado salvaje de la isla, el que da al Atlántico.",
+    "Lo interesante de Aruba es el contraste. Del lado sur y oeste, mar turquesa, sin olas y arena blanca. Del lado norte, un paisaje seco de cactus, rocas de diorita, cuevas con pinturas indígenas y una costa golpeada por el viento. En un mismo día podés hacer snorkel sobre un barco alemán hundido en 1940, subir al faro California al atardecer y cenar keshi yena, el queso relleno que heredaron de la época colonial.",
+    "No es un destino barato: los precios se piensan en dólares y los resorts frente al mar cobran como tales. Pero se puede armar un viaje con cabeza: las playas son públicas y gratis, el colectivo cuesta USD 2,60, el Museo Arqueológico y las formaciones rocosas no cobran entrada, y hay apartamentos sencillos en Noord. Antes de viajar, completá la ED Card, revisá si necesitás visa o vacuna de fiebre amarilla y llevá protector solar: el sol pega fuerte."
+  ],
+  "historia_corta": "Antes de los europeos, Aruba estaba habitada por los caquetíos, un pueblo de lengua arahuaca que llegó desde el oeste de Venezuela entre los años 850 y 1000. Alonso de Ojeda pasó por la zona en 1499 y los españoles terminaron declarando estas islas 'islas inútiles' por la falta de oro; Aruba quedó como una gran estancia de ganado suelto. En 1636 los holandeses ocuparon la isla, que siguió siendo durante mucho tiempo tierra de ganado con muy pocos colonos. La ciudad nació mucho después. Hacia 1795 o 1796, al aflojarse las restricciones al comercio, comerciantes y artesanos se instalaron junto a la bahía de Paardenbaai, que tenía mejor acceso para los barcos. En 1798 se levantó el Fuerte Zoutman, construido por africanos esclavizados con materiales aportados por indígenas, y el comandante de la isla se mudó al poblado, llamado entonces Playa. En 1824, durante la visita del gobernador Cantz'laar, el pueblo fue rebautizado Oranjestad en honor a Guillermo I de los Países Bajos. Ese mismo año se descubrió oro en la isla. En 1868 se inauguró la Torre Willem III, que funcionó como faro y reloj del pueblo. El gran cambio llegó en el siglo XX con las refinerías de petróleo de la Lago Oil and Transport Company y la Arend Petroleum Company: la población creció y en Oranjestad aparecieron casas señoriales de comerciantes. En 1986 Aruba se separó de las Antillas Neerlandesas y pasó a ser un país autónomo dentro del Reino de los Países Bajos, con su propio florín. Desde entonces el turismo es la base de la economía, y en 2012 la capital estrenó su tranvía por Main Street.",
+  "queVer": [
+    {
+      "nombre": "Centro de Oranjestad y Main Street (Caya G. F. Betico Croes) con el tranvía gratuito",
+      "desc": "Calles con fachadas holandesas en colores pastel, plazas y comercios, recorridas por un tranvía histórico que no cobra boleto.",
+      "detalle": "El centro de Oranjestad es el lugar para entender que Aruba es parte del Reino de los Países Bajos: edificios con frontones curvos al estilo holandés, pintados de rosa, blanco y celeste, alineados frente al puerto y a lo largo de Main Street, cuyo nombre oficial es Caya G. F. Betico Croes, en honor al político que impulsó la autonomía de 1986. Plaza Daniel Leo y el Royal Plaza, frente al muelle, son las postales más conocidas.\n\nEl tranvía (streetcar) une la terminal de cruceros con el final de Main Street: pasa por Schelpstraat, sube por la calle comercial y vuelve por Havenstraat. Es una línea de vía única de 1,9 km, inaugurada el 22 de diciembre de 2012 y operada por Arubus. Sus coches, uno de ellos de dos pisos y descubierto, funcionan con baterías de litio y celdas de hidrógeno, sin cables aéreos.\n\nSegún VisitAruba, funciona de 10 a 17 h y no corre los domingos; los horarios cambian según la temporada, así que confirmá en el puesto de información frente a la terminal de cruceros. Conviene recorrer el centro temprano, antes del calor fuerte y de la llegada masiva de pasajeros de crucero.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de Oranjestad, frente a la terminal de cruceros"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano, de lunes a sábado"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis: el tranvía no cobra (fuente: visitaruba.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "2 a 3 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Fuerte Zoutman y Torre Willem III (Museo Histórico de Aruba)",
+      "desc": "La construcción más antigua de Aruba, de 1798, con la torre faro de 1868; adentro funciona el Museo Histórico.",
+      "detalle": "El Fuerte Zoutman se levantó en 1798 para defender la bahía de piratas y enemigos de la corona holandesa. Lo construyeron africanos esclavizados con materiales aportados por indígenas que cumplían trabajo forzado para la Compañía de las Indias Occidentales. Es la construcción más antigua de la isla, y la Unesco lo reconoce como 'Lugar de Memoria de la Ruta del Esclavo en el Caribe latino'. Lleva el nombre del contraalmirante Johan Arnold Zoutman.\n\nEn 1868 se le sumó la Torre Willem III, que tenía el faro y la campana del pueblo. Se encendió el 19 de febrero de ese año, cumpleaños del rey Guillermo III. Tras una restauración entre 1974 y 1980, el conjunto reabrió en 1983 como Museo Histórico de Aruba, con salas sobre la historia de la isla, y desde 2011 ambos son monumentos protegidos.\n\nSegún VisitAruba abre de lunes a viernes de 9 a 18 h y los sábados de 10 a 14 h; los domingos está cerrado. Otras guías publican horarios distintos, así que conviene confirmar antes. Los martes por la noche se hacía en el patio el Bon Bini Festival, con música y comida local, pero no está confirmado que siga en 2026.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Zoutmanstraat, centro de Oranjestad, a pasos de Main Street"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; de lunes a sábado"
+        },
+        {
+          "label": "Entrada",
+          "value": "USD 5 (fuente: visitaruba.com, verificado octubre 2026). Se paga en la entrada"
+        },
+        {
+          "label": "Duración",
+          "value": "1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Eagle Beach",
+      "desc": "Playa pública ancha, de arena blanca y mar calmo, con los árboles fofoti torcidos por el viento y hoteles bajos detrás.",
+      "detalle": "Eagle Beach es la playa que aparece en casi todas las fotos de Aruba: una franja muy ancha de arena blanca y fina, con agua turquesa y sin olas fuertes. Queda en las afueras de Oranjestad, en la zona de hoteles de baja altura (low-rise), lo que la hace más tranquila y con más espacio que Palm Beach. Arubus la describe como una playa y barrio de Oranjestad.\n\nEs pública y gratuita, como todas las playas de Aruba. Los hoteles alquilan reposeras y sombrillas, pero podés llevar tu propia sombra. Sus postales clásicas son los árboles fofoti, con troncos inclinados por el viento constante del noreste.\n\nCómo llegar: la línea 10 de Arubus une el centro de Oranjestad con la zona hotelera y para en Eagle Beach. El taxi desde Oranjestad cuesta USD 16 según la tabla oficial 2026. No hay mucha sombra natural: llevá agua, sombrero y protector solar.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Zona de hoteles low-rise, al noroeste del centro; línea 10 de Arubus"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; mañana o atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o un día entero"
+        }
+      ]
+    },
+    {
+      "nombre": "Palm Beach",
+      "desc": "La playa de los grandes resorts: mar quieto, deportes acuáticos, muelles con bares y mucha vida de día y de noche.",
+      "detalle": "Palm Beach es la playa de la zona hotelera de edificios altos (high-rise), en el distrito de Noord. Tiene arena blanca, agua calma ideal para nadar y una oferta grande de actividades: kayak, paddle, banana boat, paseos en catamarán y barcos piratas que salen desde los muelles. Detrás de la playa corre un paseo con restaurantes, shoppings y casinos.\n\nEs más concurrida que Eagle Beach. Si buscás tranquilidad, caminá hacia los extremos o andá temprano. El acceso es público, aunque las reposeras y palapas suelen ser de los hoteles.\n\nCómo llegar: la línea 10 de Arubus va del centro de Oranjestad a Palm Beach por USD 2,60 el tramo. En taxi, la tarifa oficial 2026 desde Oranjestad es de USD 22 y desde el aeropuerto, USD 41. Muchos de los paseos de snorkel al naufragio Antilla salen de los muelles de esta playa, así que podés combinar las dos cosas en el mismo día.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Zona hotelera high-rise, en Noord; línea 10 de Arubus"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; temprano si querés espacio"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o un día entero"
+        }
+      ]
+    },
+    {
+      "nombre": "Parque Nacional Arikok (Parke Nacional Arikok)",
+      "desc": "El parque que protege cerca de un 20 % de la isla: cerros, cuevas con pinturas indígenas, dunas y costa atlántica salvaje.",
+      "detalle": "El Parque Nacional Arikok, creado oficialmente en 2000, ocupa el noreste de Aruba y protege alrededor del 20 % del territorio de la isla. Ahí se ve la Aruba seca: cactus columnares, cerros de diorita y lava, plantaciones abandonadas, restos de minas de oro y una costa norte de olas fuertes. Es el hogar de la cascabel de Aruba, una víbora endémica en peligro.\n\nLos puntos clásicos son las cuevas Fontein y Quadirikiri, la primera con pinturas rupestres indígenas, la playa de Boca Prins y sus dunas, y la Natural Pool (ver aparte). Muchos caminos son de tierra o piedra: con auto común se llega sólo a algunos sectores, y para la parte más dura hace falta 4x4. Las cuatriciclos (ATV), los UTV y las motos están prohibidos en las áreas protegidas.\n\nSe entra por el centro de visitantes de San Fuego, abierto todos los días de 8 a 15:30 según el parque, o por el puesto de Vader Piet. No hay iluminación: tenés que salir antes del anochecer. Llevá agua de sobra, calzado cerrado y gorra.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Noreste de la isla; entrada principal en San Fuego (Santa Cruz)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano, todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "USD 22 adultos; menores de 17 gratis; descuento para residentes de Aruba, Bonaire y Curazao (fuente: arubanationalpark.org, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día a un día"
+        }
+      ]
+    },
+    {
+      "nombre": "Natural Pool (Conchi)",
+      "desc": "Una pileta natural de agua de mar encerrada por rocas volcánicas en la costa norte, dentro de Arikok; sólo se llega en 4x4.",
+      "detalle": "La Natural Pool, que los arubeños llaman Conchi, es una piscina natural formada por un anillo de rocas volcánicas sobre la costa norte, dentro del Parque Nacional Arikok. Las olas del Atlántico rompen contra las rocas y el agua se renueva adentro, donde se puede nadar y hacer snorkel con peces chicos.\n\nEl acceso es lo que la hace especial: no hay transporte público y el camino es de piedra suelta, apto sólo para vehículos 4x4 o, para los más preparados, a pie. Por eso la mayoría va en safari en jeep con operadores como Pelican Adventures, ABC Tours o Cross Aruba Tours, que suelen incluir las cuevas y a veces Baby Beach. La entrada al parque se paga aparte si el tour no la incluye.\n\nLos guardaparques pueden cerrar la pileta cuando el mar está bravo, por seguridad. Llevá zapatillas de agua: las rocas cortan y resbalan. Desde el estacionamiento hay que bajar una escalera y un tramo de rocas.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Costa norte, dentro del Parque Nacional Arikok"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Con mar calmo; mañana temprano"
+        },
+        {
+          "label": "Entrada",
+          "value": "Incluida en el pase del parque: USD 22 adultos, menores de 17 gratis (fuente: arubanationalpark.org, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día con el traslado"
+        }
+      ]
+    },
+    {
+      "nombre": "Renaissance Island y la playa de los flamencos",
+      "desc": "La isla privada del resort Renaissance, famosa por los flamencos que caminan por la arena; el acceso es para huéspedes o con pase.",
+      "detalle": "Renaissance Island es un islote privado frente a Oranjestad que pertenece al Renaissance Wind Creek Aruba Resort. Se llega en una lancha que sale desde la marina del resort, en pleno centro. Tiene una playa de agua calma, cabañas, spa, restaurante y bar, y es famosa por la llamada Flamingo Beach, donde los flamencos caminan entre los visitantes.\n\nLo que hay que saber: según VisitAruba, la isla es exclusiva para los huéspedes del resort, y sólo se venden pases de día a no huéspedes cuando la ocupación del hotel no es alta. No encontramos una tarifa oficial publicada para 2026. Guías de viaje reportan pases de unos USD 125 a 130 por adulto, con cupos muy limitados que se agotan rápido. La forma segura de entrar es alojarte en el Renaissance.\n\nSi lo que te interesa son los flamencos, De Palm Island, otra isla privada al sureste, también tiene flamencos y vende entradas con comida y bebida incluidas desde USD 119. Respetá a los animales: no los persigas ni les des de comer si no lo permite el personal.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Frente al centro de Oranjestad; lancha desde la marina del Renaissance"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Todo el año; reservá apenas se abran los cupos"
+        },
+        {
+          "label": "Entrada",
+          "value": "Huéspedes del Renaissance gratis; pase de día para no huéspedes sujeto a disponibilidad, ~USD 125–130 (fuente: guías de viaje, sin tarifa oficial publicada para 2026, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día o día completo"
+        }
+      ]
+    },
+    {
+      "nombre": "Museo Arqueológico Nacional de Aruba (Museo Arqueologico Nacional Aruba)",
+      "desc": "Museo moderno en el centro que cuenta 5.000 años de presencia indígena en la isla con piezas, cerámicas y herramientas.",
+      "detalle": "El Museo Arqueológico Nacional de Aruba ocupa un conjunto de edificios restaurados en Schelpstraat 42, dos calles detrás del Royal Plaza. Es el mejor lugar para entender quiénes vivían en Aruba antes de los europeos: los pobladores arcaicos y, desde alrededor del año 1000, los caquetíos llegados desde Venezuela, que hablaban una lengua arahuaca.\n\nLa colección reúne piezas de cerámica, herramientas y objetos de la vida cotidiana, y explica cómo se vivía en una isla tan seca, cómo se comerciaba con el continente y qué pasó con la población indígena tras la llegada de los españoles. Ayuda mucho visitarlo antes de ir a las cuevas de Arikok o a Ayo, donde hay pinturas rupestres.\n\nSegún VisitAruba y el propio museo, abre de lunes a viernes de 9 a 17 h; también abre algunos feriados nacionales (25 de enero y 18 de marzo, de 10 a 14 h). Otras guías publican horarios diferentes, así que conviene llamar al +297 582 8979 antes de ir. Tiene aire acondicionado, algo que se agradece al mediodía.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Schelpstraat 42, centro de Oranjestad"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mediodía (para escapar del calor)"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis según guías de viaje (fuente: islaguru.com y visitaruba.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 1,5 horas"
+        }
+      ]
+    },
+    {
+      "nombre": "Faro California (California Lighthouse)",
+      "desc": "El faro de piedra del extremo noroeste, con vista a dunas, costa rocosa y Arashi Beach; se puede subir hasta arriba.",
+      "detalle": "El faro California, al que los arubeños llaman simplemente Faro, se levanta sobre una meseta caliza en Hudishibana, cerca de Arashi Beach y de las dunas de Sasariwichi, en la punta noroeste de la isla. Es la estructura más alta de Aruba. Se construyó entre 1914 y 1916 y lleva el nombre del vapor británico S.S. California, que naufragó frente a esta costa el 23 de septiembre de 1891.\n\nLos materiales se llevaron en burro desde Oranjestad, porque no había caminos. El último farero dejó su puesto en 1962 y la casa de los guardianes hoy es un restaurante italiano. Se restauró en 2016.\n\nSe puede subir por una escalera caracol angosta hasta el balcón, desde donde se ve toda la costa oeste. Según guías y reseñas de viajeros, se cobra alrededor de USD 5 en efectivo. Al atardecer se llena de gente. Combina bien con un baño en Arashi Beach: la tarifa oficial de taxi entre Arashi y el faro es de USD 5, y Arubus llega a Arashi con la línea 10.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Extremo noroeste de la isla, cerca de Arashi Beach"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Exterior gratis; subir al faro ~USD 5 en efectivo (fuente: outdoorproject.com y reseñas de viajeros, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "45 minutos a 1 hora"
+        }
+      ]
+    },
+    {
+      "nombre": "Capilla de Alto Vista (Alto Vista Chapel)",
+      "desc": "Pequeña capilla amarilla sobre una loma del norte, en el sitio de la primera iglesia de la isla, de 1750.",
+      "detalle": "La Capilla de Alto Vista es una iglesia católica chica, pintada de amarillo fuerte, que se ve desde lejos entre cactus y arena en la costa norte, al noreste de Noord. Está en el mismo lugar donde en 1750 el misionero venezolano Domingo Antonio Silvestre, llegado desde Santa Ana de Coro, levantó la primera iglesia de Aruba, con paredes de piedra y techo de paja.\n\nLa capilla actual es de 1952, diseñada por el ingeniero holandés J. A. Hille respetando la planta y orientación de la original. Adentro se conserva una cruz española considerada una de las piezas de arte europeo más antiguas del Caribe neerlandés. Afuera hay bancos de piedra en semicírculo y, en el camino de acceso, una serie de cruces del vía crucis.\n\nEl Viernes Santo los católicos de la isla peregrinan a pie desde Oranjestad hasta acá. Queda a unos 8 km del faro California. El último tramo es de tierra, pero se llega en auto común con cuidado. Es un lugar de oración: hablá bajo y vestite con respeto.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Al noreste de Noord, a unos 8 km del faro California"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana o atardecer"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "30 a 45 minutos"
+        }
+      ]
+    },
+    {
+      "nombre": "Formaciones rocosas de Casibari y Ayo",
+      "desc": "Pilas de enormes rocas de diorita en el centro de la isla, con senderos, escalones y vistas; en Ayo hay pinturas indígenas.",
+      "detalle": "En el centro de Aruba aparecen, en medio del paisaje plano, montones de rocas gigantes de diorita redondeadas por la erosión. Los dos sitios más visitados son Casibari y Ayo, separados por pocos kilómetros.\n\nEn Casibari hay escalones y pasarelas que te llevan entre las piedras hasta la cima, con vista al Hooiberg, el cerro de forma cónica del centro de la isla, y en días claros a la costa. En Ayo las formaciones son más grandes y hay pinturas rupestres de los pueblos originarios, protegidas con rejas; también tiene mesas de picnic bajo techo y baños al pie de las rocas.\n\nLa entrada es libre y no tienen horario publicado. Las guías recomiendan ir temprano o a la tarde para evitar el sol del mediodía, y calcular entre 30 y 90 minutos en cada uno. En Casibari se estaciona en un terreno de tierra frente a la entrada. Llevá calzado con suela firme: hay tramos estrechos y piedras lisas. No hay colectivo directo; lo práctico es ir en auto o en un tour por la isla.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Centro de la isla, entre Paradera y la costa norte"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana temprano o última hora de la tarde"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis"
+        },
+        {
+          "label": "Duración",
+          "value": "1 a 2 horas para los dos"
+        }
+      ]
+    },
+    {
+      "nombre": "Baby Beach",
+      "desc": "Laguna poco profunda y protegida en el extremo sureste, con agua quieta ideal para chicos y para hacer snorkel por primera vez.",
+      "detalle": "Baby Beach es una laguna artificial poco profunda y muy resguardada, junto a Mangle Cora, en Seroe Colorado, en el extremo sureste de Aruba. Se llama así porque el agua es tan calma que es segura para los chicos más chicos. Por la misma razón es un buen lugar para animarse al snorkel por primera vez: hay peces de colores cerca de la orilla, aunque hay que respetar la zona marcada y no pasar a mar abierto, donde hay corriente.\n\nLa frecuentan tanto locales como turistas, sobre todo los fines de semana. La sombra es escasa: llevá sombrilla o llegá temprano.\n\nCómo llegar en transporte público, según Arubus: línea 10 desde la zona hotelera hasta la terminal de Oranjestad; de ahí L1, L2 o L3 hasta San Nicolás; y en San Nicolás, la línea 900 hasta Baby Beach. Son tres colectivos de USD 2,60 cada uno, o conviene el pase diario de USD 15. En taxi, la tarifa oficial desde el aeropuerto es de USD 60.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Extremo sureste, pasando San Nicolás (Seroe Colorado)"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana, todo el año"
+        },
+        {
+          "label": "Entrada",
+          "value": "Gratis (playa pública)"
+        },
+        {
+          "label": "Duración",
+          "value": "Medio día"
+        }
+      ]
+    },
+    {
+      "nombre": "Naufragio del Antilla",
+      "desc": "Carguero alemán hundido en 1940 frente a Malmok; se ve desde la superficie y es uno de los puntos de snorkel y buceo más conocidos.",
+      "detalle": "El Antilla era un carguero a propulsión eléctrica de la naviera alemana Hamburg America Line, botado en Hamburgo en marzo de 1939, de 4.363 toneladas de registro bruto. Cuando estalló la Segunda Guerra Mundial quedó varado en aguas de Aruba, y el 10 de mayo de 1940, el día en que Alemania invadió los Países Bajos, su tripulación lo hundió para que no cayera en manos holandesas.\n\nHoy descansa de costado frente a la costa noroeste, cerca de Malmok, y está cubierto de corales, esponjas y peces. Una parte del casco queda a poca profundidad, por eso se ve desde la superficie con snorkel; los buzos pueden recorrerlo por dentro y por fuera.\n\nSe llega sólo en barco. Los paseos de snorkel salen de los muelles de Palm Beach: Jolly Pirates, por ejemplo, tiene una salida de tarde que, según la descripción publicada en Expedia, pasa por los arrecifes de Malmok, Boca Catalina y el Antilla. Si no sos buen nadador, pedí chaleco: ahí puede haber corriente.",
+      "datos": [
+        {
+          "label": "Distancia",
+          "value": "Frente a Malmok, costa noroeste; barcos desde Palm Beach"
+        },
+        {
+          "label": "Mejor época",
+          "value": "Mañana, con mejor visibilidad"
+        },
+        {
+          "label": "Entrada",
+          "value": "Sólo con tour en barco: Jolly Pirates desde USD 76 la salida de tarde (fuente: jolly-pirates.com, verificado octubre 2026)"
+        },
+        {
+          "label": "Duración",
+          "value": "3 a 4 horas el paseo"
+        }
+      ]
+    }
+  ],
+  "entradaPrecios": [
+    {
+      "tipo": "ED Card + Tarifa de Sostenibilidad (Sustainability Fee)",
+      "precio": "USD 20 por persona que llega en avión, una vez por año calendario con el mismo pasaporte; exentos menores de 8 años y quienes llegan y se van el mismo día. Sólo tarjeta (Visa, Mastercard, Discover). Se paga al completar la ED Card en edcardaruba.aw (fuente: aruba.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Parque Nacional Arikok (incluye Natural Pool, cuevas y Boca Prins)",
+      "precio": "USD 22 adultos; menores de 17 gratis; descuento para residentes de Aruba, Bonaire y Curazao con documento local. Pase de día en las entradas de San Fuego y Vader Piet (fuente: arubanationalpark.org, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Fuerte Zoutman / Museo Histórico de Aruba",
+      "precio": "USD 5 (fuente: visitaruba.com, verificado octubre 2026). Se paga en la entrada del fuerte"
+    },
+    {
+      "tipo": "Museo Arqueológico Nacional de Aruba",
+      "precio": "Gratis según guías de viaje (fuente: islaguru.com, verificado octubre 2026); confirmá al +297 582 8979"
+    },
+    {
+      "tipo": "Faro California (subida al balcón)",
+      "precio": "~USD 5 en efectivo para subir; el exterior es gratis (fuente: outdoorproject.com y reseñas de viajeros, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Renaissance Island (pase de día para no huéspedes)",
+      "precio": "~USD 125–130 por adulto, sólo cuando la ocupación del resort lo permite (fuente: guías de viaje como atastefortravel.ca; el último precio fechado es de 2023 y no hay tarifa oficial publicada, verificado octubre 2026). Gratis para huéspedes del Renaissance Wind Creek"
+    },
+    {
+      "tipo": "De Palm Island (isla privada con flamencos, comida y bebida incluidas)",
+      "precio": "Desde USD 119 la entrada (fuente: depalmisland.com, verificado octubre 2026). Se compra online"
+    },
+    {
+      "tipo": "Tranvía del centro (streetcar)",
+      "precio": "Gratis (fuente: visitaruba.com, verificado octubre 2026)"
+    },
+    {
+      "tipo": "Playas (Eagle Beach, Palm Beach, Baby Beach, Arashi)",
+      "precio": "Gratis (playas públicas)"
+    },
+    {
+      "tipo": "Casibari, Ayo y Capilla de Alto Vista",
+      "precio": "Gratis (sin entrada)"
+    }
+  ],
+  "actividades": [
+    {
+      "actividad": "Safari en jeep a la Natural Pool y las cuevas indígenas",
+      "precio": "Pelican Adventures USD 95 adulto / USD 85 niño; ABC Tours USD 108 mañana / USD 92 tarde; AGW Tours (con Baby Beach) USD 89 adulto / USD 69 niño (fuente: comparativa de myarubaguide.com, verificado octubre 2026). Revisá si incluye la entrada al parque",
+      "duracion": "4 a 5 horas",
+      "operador": "Pelican Adventures, ABC Tours, AGW Tours"
+    },
+    {
+      "actividad": "Snorkel en barco pirata por la tarde (Malmok, Boca Catalina y naufragio Antilla)",
+      "precio": "Desde USD 76 por persona, con barra libre (fuente: jolly-pirates.com, verificado octubre 2026)",
+      "duracion": "3 horas (14 a 17 h)",
+      "operador": "Jolly Pirates"
+    },
+    {
+      "actividad": "Snorkel de mañana con almuerzo BBQ",
+      "precio": "Desde USD 98 por persona, con BBQ y barra libre (fuente: jolly-pirates.com, verificado octubre 2026)",
+      "duracion": "4 horas (9 a 13 h)",
+      "operador": "Jolly Pirates"
+    },
+    {
+      "actividad": "Paseo en velero al atardecer",
+      "precio": "Desde USD 59 por persona; versión con cena y DJ sólo adultos desde USD 110 (fuente: jolly-pirates.com, verificado octubre 2026)",
+      "duracion": "2 a 3 horas",
+      "operador": "Jolly Pirates"
+    },
+    {
+      "actividad": "Tour en bus por la isla (faro, Alto Vista, formaciones rocosas)",
+      "precio": "USD 55 por persona (fuente: comparativa de myarubaguide.com, verificado octubre 2026)",
+      "duracion": "5 horas",
+      "operador": "Pelican Adventures"
+    },
+    {
+      "actividad": "UTV todo incluido a la Natural Pool con salto desde las rocas",
+      "precio": "Desde USD 310 por vehículo de 2 plazas (fuente: comparativa de myarubaguide.com, verificado octubre 2026)",
+      "duracion": "5 a 6 horas",
+      "operador": "ABC Tours"
+    },
+    {
+      "actividad": "Sea Trek: caminata submarina con casco en De Palm Island",
+      "precio": "Desde USD 55, aparte de la entrada a la isla; mayores de 8 años (fuente: depalmisland.com, verificado octubre 2026)",
+      "duracion": "1 hora",
+      "operador": "De Palm Island"
+    }
+  ],
+  "transporteLocal": [
+    {
+      "medio": "Colectivos Arubus (líneas 1, 2, 3A, 10, 900 y otras)",
+      "precio": "USD 2,60 o AWG 4,50 el viaje; tarjeta retour (ida y vuelta) USD 5 o AWG 8,75; pase diario USD 15 o AWG 26,25 (fuente: arubus.com, verificado octubre 2026)",
+      "duracion": "Variable",
+      "notas": "Empresa estatal. Las líneas salen de las terminales de Oranjestad y San Nicolás. La línea 10 une el centro con Eagle Beach, Palm Beach y Arashi; la 2 pasa por el aeropuerto; la 900 va de San Nicolás a Baby Beach. Se paga en efectivo arriba del colectivo. Los pases se venden en tiendas de hoteles y en la boletería de la terminal de Oranjestad (lunes a viernes de 6 a 14 h)."
+    },
+    {
+      "medio": "Smartcard de Arubus",
+      "precio": "USD 8,75 la tarjeta, con documento (fuente: arubus.com, verificado octubre 2026)",
+      "duracion": "5 días hábiles si se pide online",
+      "notas": "Los turistas también pueden sacarla. Se tramita online o en la oficina de Sabana Blanco 67 (lunes a viernes de 8 a 16 h). Sirve si vas a usar mucho el colectivo; para una semana corta alcanza con efectivo o pases."
+    },
+    {
+      "medio": "Tranvía del centro (streetcar)",
+      "precio": "Gratis (fuente: visitaruba.com, verificado octubre 2026)",
+      "duracion": "Vuelta completa de unos 45 minutos",
+      "notas": "Une la terminal de cruceros con Main Street. Según VisitAruba funciona de 10 a 17 h y no corre los domingos; los horarios cambian con la temporada."
+    },
+    {
+      "medio": "Taxi con tarifa fija oficial",
+      "precio": "Oranjestad → Eagle Beach USD 16; Oranjestad → Palm Beach USD 22; mínimo USD 10; recargo de USD 5 domingos, de 23 a 7 h y feriados (tabla oficial vigente desde el 20 de mayo de 2026; fuente: visitaruba.com y taxi.aw, verificado octubre 2026)",
+      "duracion": "10 a 20 minutos dentro de la zona hotelera",
+      "notas": "No usan taxímetro: la tarifa es fija por trayecto para hasta 4 pasajeros. De 5 a 7 pasajeros se suman USD 3 por persona extra. Preguntá el precio antes de subir y verificá otros trayectos en taxi.aw."
+    },
+    {
+      "medio": "Auto de alquiler",
+      "precio": "~USD 51–65 por día un compacto en el aeropuerto (fuente: vipcars.com y Expedia, agregadores, verificado octubre 2026)",
+      "duracion": "Libre",
+      "notas": "Es la forma más práctica de ver la isla en 2 o 3 días. Para la Natural Pool y los caminos duros de Arikok hace falta 4x4. Los precios suben de diciembre a abril."
+    }
+  ],
+  "llegarCiudad": [
+    {
+      "ruta": "Aeropuerto Internacional Reina Beatrix (AUA) → centro de Oranjestad en taxi",
+      "empresas": "Taxis oficiales en la salida del aeropuerto",
+      "precio": "USD 26 o AWG 46,80 hasta Oranjestad; USD 37 hasta Eagle Beach; USD 41 hasta Palm Beach (tabla oficial 2026; fuente: visitaruba.com, verificado octubre 2026)",
+      "duracion": "10 a 30 minutos según destino"
+    },
+    {
+      "ruta": "Aeropuerto Reina Beatrix (AUA) → terminal de Oranjestad en colectivo",
+      "empresas": "Arubus, línea 2",
+      "precio": "USD 2,60 o AWG 4,50 (fuente: arubus.com, verificado octubre 2026); para Eagle o Palm Beach se combina con la línea 10 y se paga otro boleto",
+      "duracion": "Variable según frecuencia"
+    },
+    {
+      "ruta": "Vuelos desde Sudamérica a Aruba (AUA)",
+      "empresas": "Copa (Panamá), Avianca, Wingo y LATAM (Bogotá; Wingo también Medellín y Barranquilla), LATAM Perú (Lima), Aerolíneas Argentinas (Buenos Aires-Ezeiza; Córdoba y Mendoza en temporada), Arajet (Santo Domingo)",
+      "precio": "Ejemplo: Bogotá–Aruba ida y vuelta con Copa desde USD 488 (fuente: copaair.com, tarifa promocional publicada para septiembre-octubre 2026, verificado octubre 2026)",
+      "duracion": "Unas 2 horas desde Bogotá"
+    },
+    {
+      "ruta": "Crucero al puerto de Oranjestad",
+      "empresas": "Navieras internacionales; terminal de cruceros en el centro",
+      "precio": "El pasaje depende de la naviera; quien llega y se va el mismo día está exento de la Tarifa de Sostenibilidad de USD 20 (fuente: aruba.com, verificado octubre 2026)",
+      "duracion": "Escala de un día"
+    }
+  ],
+  "hoteles": [
+    {
+      "categoria": "Apartamentos y hoteles sencillos en Noord / Eagle Beach",
+      "nivel": 2,
+      "opciones": "Lo más barato está en apartamentos a pocas cuadras de la playa: Palm Beach Retreat desde USD 97 y White Beach Apartments desde USD 107 la noche (fuente: Kayak, fechas de octubre 2026, verificado octubre 2026). En Oranjestad hay casas de huéspedes como ALOE B&B, que Travelocity mostraba desde USD 182 (verificado octubre 2026). Suelen tener cocina, lo que ayuda a ahorrar. De diciembre a abril suben fuerte."
+    },
+    {
+      "categoria": "Hoteles boutique y de precio medio en Noord",
+      "nivel": 3,
+      "opciones": "Aruba Lagunita desde USD 210 y Aruba Boutique & Art Hotel (BW Signature Collection) desde USD 306 la noche (fuente: Kayak, fechas de octubre 2026, verificado octubre 2026). Están cerca de la línea 10 de Arubus para ir a Palm Beach y al centro. En temporada alta (diciembre a abril) conviene reservar con meses de anticipación."
+    },
+    {
+      "categoria": "Hoteles grandes de cadena en Palm Beach",
+      "nivel": 4,
+      "opciones": "TRYP by Wyndham Aruba (sólo adultos) desde USD 354 y Radisson Blu Aruba desde USD 391 la noche (fuente: Kayak, fechas de octubre 2026, verificado octubre 2026). Están en la zona high-rise, con restaurantes, casinos y deportes acuáticos a pasos. Ojo con los cargos de resort que se suman al pagar."
+    },
+    {
+      "categoria": "Resorts de lujo y todo incluido",
+      "nivel": 5,
+      "opciones": "Renaissance Wind Creek Aruba Resort, en el centro de Oranjestad y con acceso gratis a Renaissance Island: desde USD 258 la noche en su habitación más simple y hasta unos USD 1.584 en ejecutivas (fuente: Kayak, verificado octubre 2026). En Palm Beach, los todo incluido Joia Aruba by Iberostar desde USD 795 y Riu Palace Antillas (sólo adultos) desde USD 991 (fuente: Kayak, fechas de octubre 2026, verificado octubre 2026). Según Kayak, agosto y octubre suelen ser los meses más baratos."
+    }
+  ],
+  "restaurantes": [
+    {
+      "tipo": "Pastechi y snacks locales (el desayuno arubeño)",
+      "nivel": 1,
+      "opciones": "El pastechi es una empanada frita rellena de queso, carne, pollo o pescado. The Pastechi House (Caya G. F. Betico Croes 42, Oranjestad) los vende desde USD 2,50, con productos hasta USD 10 (fuente: aruba.com, verificado octubre 2026). En snack trucks y puestos, una comida rápida ronda AWG 10–20, unos USD 6–12 (fuente: blog travelwithhello.com, verificado octubre 2026)."
+    },
+    {
+      "tipo": "Pescado frito de pescadores: Zeerovers (Savaneta)",
+      "nivel": 2,
+      "opciones": "Un clásico de los arubeños: pescado y camarones del día, fritos, con funchi (polenta) y plátano, vendidos por peso y no por plato. Una pareja que pidió dos porciones de pescado, camarones y acompañamientos pagó unos USD 36 (fuente: blog atastefortravel.ca, experiencia de viajero, verificado octubre 2026). Llevá efectivo por si no aceptan tarjeta."
+    },
+    {
+      "tipo": "Cocina criolla: keshi yena y cabrito stoba",
+      "nivel": 3,
+      "opciones": "El keshi yena es queso Gouda o Edam relleno de carne o pollo especiado con aceitunas y pasas, horneado; el cabrito stoba es guiso de chivo con funchi o arroz. Un plato principal ronda AWG 35–60, unos USD 20–35 (fuente: blog travelwithhello.com, verificado octubre 2026). Lugares típicos: Papiamento Restaurant y The Old Cunucu House, en Noord."
+    },
+    {
+      "tipo": "Cena en casa tradicional: The Old Cunucu House y Gasparito",
+      "nivel": 4,
+      "opciones": "The Old Cunucu House funciona en una casa de campo arubeña (cunucu) con veranda; aruba.com publica un rango de USD 35,50 a 109,75 (fuente: aruba.com, verificado octubre 2026). Gasparito, en Noord, es conocido por su pollo Gasparito con receta familiar; una guía indica un principal promedio de USD 25, cierra los domingos (fuente: remichel.com, guía de viaje, verificado octubre 2026)."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito visa para ir a Aruba si soy latinoamericano?",
+      "a": "Depende del pasaporte. La lista oficial publicada en aruba.com no incluye a Argentina, Chile, Uruguay, Colombia, México, Brasil ni Ecuador, así que esos ciudadanos no necesitan visa. Sí la necesitan venezolanos (desde el 15 de enero de 2021, para toda la parte caribeña del Reino), bolivianos, cubanos, dominicanos, haitianos, guyaneses y surinameses. Peruanos: Perú no figura en la lista de aruba.com, pero VisitAruba menciona a los peruanos entre quienes quedan exentos si tienen visa vigente de EE. UU., Canadá, Reino Unido o Irlanda. Consultá al consulado neerlandés antes de viajar. Quien tenga visa Schengen de entradas múltiples vigente queda exento. La estadía máxima como turista es de 30 días, prorrogable, sin pasar de 180 días por año."
+    },
+    {
+      "q": "¿Qué es la ED Card y cuánto cuesta entrar a Aruba?",
+      "a": "La ED Card (Embarkation and Disembarkation Card) es un formulario obligatorio que se completa online en edcardaruba.aw antes del viaje. Si llegás en avión, ahí mismo pagás la Tarifa de Sostenibilidad: USD 20 por persona, sólo con Visa, Mastercard o Discover (fuente: aruba.com, verificado octubre 2026). Se paga una vez por año calendario con el mismo pasaporte; si lo renovás, pagás de nuevo. Están exentos los menores de 8 años y quienes entran y salen el mismo día. Además te pueden pedir el pasaje de salida, la reserva de alojamiento y la prueba de que tenés plata suficiente para la estadía. Ojo: es un trámite distinto del ETIAS europeo."
+    },
+    {
+      "q": "¿Me piden la vacuna de fiebre amarilla?",
+      "a": "Puede que sí. Desde el 1 de marzo de 2018, Aruba exige el certificado internacional de vacunación contra la fiebre amarilla a los pasajeros que llegan desde países de riesgo. Según el aeropuerto, en Sudamérica son Bolivia, Perú, Ecuador, Colombia, Brasil, Venezuela, Paraguay, Panamá, Guayana Francesa, Guyana, Surinam y Trinidad y Tobago. Chile y Uruguay no están alcanzados, y Argentina está exceptuada temporalmente desde el 1 de febrero de 2019. La vacuna tiene que estar aplicada al menos 10 días antes del viaje. Si hacés escala en Panamá o Bogotá, revisá las condiciones en airportaruba.com antes de comprar."
+    },
+    {
+      "q": "¿Pago en florines o en dólares? ¿Sirve la tarjeta?",
+      "a": "Las dos monedas circulan. El florín arubeño está fijado en 1,79 por dólar desde 1986, y el dólar estadounidense se acepta prácticamente en todos lados: hoteles, tours y taxis publican sus precios en USD. El vuelto puede venir en florines, así que gastalos antes de irte. No hace falta cambiar plata a florines si llevás dólares en billetes chicos. Las tarjetas Visa y Mastercard funcionan en hoteles, restaurantes y supermercados. La Tarifa de Sostenibilidad sólo se paga con tarjeta. Llevá efectivo para el colectivo, los puestos de comida y la subida al faro California."
+    },
+    {
+      "q": "¿Conviene alquilar auto o alcanza con el colectivo?",
+      "a": "Si te quedás en Eagle Beach o Palm Beach y querés playa y centro, alcanza con Arubus: la línea 10 recorre la zona hotelera y llega a Oranjestad por USD 2,60, y el pase diario cuesta USD 15. Para Baby Beach hay que combinar tres líneas. Para ver Arikok, Alto Vista, las formaciones rocosas y la costa norte, un auto por uno o dos días da mucha libertad: un compacto ronda USD 51–65 por día en agregadores. A la Natural Pool no se puede ir en auto común: hace falta 4x4 o un tour. Se maneja por la derecha."
+    },
+    {
+      "q": "¿Cuántos días hacen falta y cuándo es temporada baja?",
+      "a": "Con 4 o 5 días ves lo principal: un día para el centro de Oranjestad y Eagle Beach, otro para Arikok y la Natural Pool, uno para el faro, Alto Vista y las formaciones rocosas, otro de barco y snorkel en el Antilla, y uno libre para Baby Beach. Con una semana lo hacés sin apuro. La temporada alta va de diciembre a abril, cuando los hoteles y autos están más caros. La isla es seca casi todo el año, con unos 500 mm de lluvia y una temporada corta de lluvias entre septiembre y enero, de chaparrones breves. Según Kayak, agosto y octubre suelen tener los hoteles más baratos."
+    }
+  ],
+  "fuentes": {
+    "historia_origen": [
+      "Wikipedia (EN) — «Oranjestad, Aruba»: https://en.wikipedia.org/wiki/Oranjestad,_Aruba",
+      "Wikipedia (EN) — «Aruba»: https://en.wikipedia.org/wiki/Aruba",
+      "Wikipedia (EN) — «Fort Zoutman»: https://en.wikipedia.org/wiki/Fort_Zoutman",
+      "Wikipedia (EN) — «SS Antilla (1939)»: https://en.wikipedia.org/wiki/SS_Antilla_(1939)",
+      "Banco Central de Aruba — «The Aruban florin»: https://cbaruba.org/the-aruban-florin",
+      "City Population — «Aruba: Census Regions (datos CBS Aruba 2020)»: https://www.citypopulation.de/en/aruba/cities/"
+    ],
+    "que_ver_atracciones": [
+      "Aruba Conservation Foundation — «Parke Nacional Arikok»: https://arubanationalpark.org/",
+      "VisitAruba — «Fort Zoutman / Historical Museum»: https://www.visitaruba.com/things-to-do/sightseeing/museums/the-historical-museum-of-aruba",
+      "VisitAruba — «National Archaeological Museum of Aruba»: https://www.visitaruba.com/national-archaeological-museum-of-aruba",
+      "VisitAruba — «Renaissance Island»: https://www.visitaruba.com/things-to-do/aruba-beaches/renaissance-island/",
+      "Wikipedia (EN) — «California Lighthouse»: https://en.wikipedia.org/wiki/California_Lighthouse",
+      "Wikipedia (EN) — «Alto Vista Chapel»: https://en.wikipedia.org/wiki/Alto_Vista_Chapel",
+      "Wikipedia (EN) — «Arikok National Park»: https://en.wikipedia.org/wiki/Arikok_National_Park",
+      "My ArubaGuide — «Conchi (Natural Pool)»: https://myarubaguide.com/discover/conchi-natural-pool",
+      "Outdoor Project — «California Lighthouse»: https://outdoorproject.com/node/94223",
+      "Islaguru — «Aruba Museum Guide»: https://islaguru.com/articles/guide-to-arubas-museums"
+    ],
+    "ingreso_requisitos": [
+      "Aruba.com — «Requisitos de visa»: https://www.aruba.com/es/planea-tu-visita/como-llegar-a-aruba/requisitos-de-visa",
+      "Aruba.com — «Sustainability Fee / Tarifa de Sostenibilidad»: https://www.aruba.com/es/sustainability-fee",
+      "Aruba Online ED Card — «Aruba Online ED Card»: https://www.edcardaruba.aw/",
+      "VisitAruba — «Entry Requirements and Visas»: https://www.visitaruba.com/traveling-to-aruba/entry-requirements-and-visas/",
+      "Aeropuerto de Aruba — «Yellow Fever Vaccine»: https://airportaruba.com/yellow-fever-vaccine"
+    ],
+    "como_llegar_transporte": [
+      "Arubus — «Fares & Passes»: https://arubus.com/fares-passes/",
+      "Arubus — «FAQ»: https://arubus.com/faq/",
+      "Arubus — «Routes & Schedules»: https://arubus.com/routes-schedules-new/",
+      "Arubus — «Popular Destinations»: https://arubus.com/popular-destinations/",
+      "VisitAruba — «Aruba Taxi & Limo Guide (Updated May 2026)»: https://www.visitaruba.com/getting-around/taxis-and-limos/",
+      "VisitAruba — «Streetcar / Trolley»: https://www.visitaruba.com/getting-around/streetcar-trolley/",
+      "Wikipedia (EN) — «Trams in Oranjestad»: https://en.wikipedia.org/wiki/Trams_in_Oranjestad",
+      "Wikipedia (EN) — «Queen Beatrix International Airport»: https://en.wikipedia.org/wiki/Queen_Beatrix_International_Airport",
+      "Copa Airlines — «Vuelos desde Bogotá a Aruba»: https://www.copaair.com/es/vuelos-desde-bogota-a-aruba",
+      "VIP Cars — «Car Rental Aruba»: https://www.vipcars.com/car-rental/aruba"
+    ],
+    "precios_2026": [
+      "Jolly Pirates — «Aruba snorkeling tours & sunset sail»: https://jolly-pirates.com/",
+      "De Palm Island — «De Palm Island Aruba»: https://www.depalmisland.com/",
+      "My ArubaGuide — «Pelican Safari: piscina natural y cuevas indígenas»: https://www.myarubaguide.com/es/reservar-tours/pelican-safari-piscina-natural-cuevas-indigenas",
+      "A Taste for Travel (blog) — «Luxury cabana at Renaissance Aruba private island»: https://www.atastefortravel.ca/7082-luxury-cabana-renaissance-aruba-private-island"
+    ],
+    "alojamiento_gastronomia": [
+      "Kayak — «Hotels in Noord»: https://www.kayak.com/Noord-Hotels.46628.hotel.ksp",
+      "Kayak — «Renaissance Wind Creek Aruba Resort»: https://www.kayak.com/Oranjestad-Hotels-Renaissance-Wind-Creek-Aruba-Resort.47106.ksp",
+      "Travelocity — «Oranjestad Guest Houses»: https://www.travelocity.com/Oranjestad-Guest-Houses.d450-aaGuestHouses.Travel-Guide-Accommodation",
+      "Aruba.com — «The Pastechi House»: https://www.aruba.com/es/explora/the-pastechi-house",
+      "Aruba.com — «The Old Cunucu House»: https://www.aruba.com/us/explore/the-old-cunucu-house",
+      "Hello Travel (blog) — «Aruba Food Guide: Must-Try Dishes, Prices, and Tips»: https://www.travelwithhello.com/blog/aruba-food-dining-guide",
+      "A Taste for Travel (blog) — «Zeerovers Aruba: A Seafood Restaurant You Don't Want to Miss»: https://www.atastefortravel.ca/9096-zeerovers-aruba-seafood-restaurant",
+      "Remichel — «Aruba Dining»: https://www.remichel.com/travel/Dining.html"
+    ]
+  }
+}
